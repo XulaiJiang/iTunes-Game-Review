@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id87529934"
+                    },
+                    "name": {
+                        "label": "3599830"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.1.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6592514081"
+                },
+                "title": {
+                    "label": "Much needed UI update"
+                },
+                "content": {
+                    "label": "Came back to the game recently and was very surprised that the UI has been overhauled and is back to landscape mode. The old UI was really bad and I’m very glad that it’s gone now.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id3980843"
+                    },
+                    "name": {
+                        "label": "Miek18829"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.1.1"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6587399716"
+                },
+                "title": {
+                    "label": "Frustrating UI"
+                },
+                "content": {
+                    "label": "The app lets you play the game, and that’s great. \n\nBut the user interface is surprisingly terrible, as if the author set out to make the worst UI on the iOS store. \n\n* on the game select screen, buttons are rendered *on top of* other UI elements making it impossible to read the text underneath or tap buttons that are now obscured from view\n* when ingame, all of the custom buildings are clustered *on top of each other* huddled in a tiny column on the right side of the screen, while giant swaths of unused screen real estate are left wide open on the left side of the screen\n* when a game finishes, it disappears. It doesn’t tell you who won or who lost. You have to dig into inactive games in order to find any stats about the game you just finished playing\n\nDespite the developers’ successful attempt at making the most frustratingly-difficult app on the iOS store, it does allow you to successfully play a game of Waterdeep so at least that’s something.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40819451"
+                    },
+                    "name": {
+                        "label": "Tpudewe"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.1.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6578179846"
+                },
+                "title": {
+                    "label": "Obviously Ported, Terrible UI"
+                },
+                "content": {
+                    "label": "Landscape doesn’t work. UI elements constantly overlap, text is literally off the screen so it is unreadable. When selecting an online game the details overlap the menu buttons. Text is constantly cut off. This should not be available for iPhones, because developers have obviously not tested it on one. In portrait you could see the full map, in landscape you’re constantly scrolling around. \n\nTwo years later we finally get an update and... no portrait mode. What the actual F. This was seriously my favorite mobile game but it is UNPLAYABLE in landscape. It’s a MOBILE game and I play it on the go. If I am sitting down and can play with two hands then I’m certainly not gaming on my phone. Nonsensical. \n\nI haven’t played in a few years and downloaded the game. The lack of portrait mode breaks this for me. This was the perfect game to play on the train or while walking, but landscape makes that impossible. Can we at least have a toggle? I think I’ll delete and check in a year to see if it’s fixed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27600927"
+                    },
+                    "name": {
+                        "label": "Keb2012"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.1.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6546950387"
+                },
+                "title": {
+                    "label": "Still an Awesome game!!!"
+                },
+                "content": {
+                    "label": "I’ve been playing this game for over six years now and it continues to be awesome!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id149467009"
+                    },
+                    "name": {
+                        "label": "zelq"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6454578713"
+                },
+                "title": {
+                    "label": "Can’t play on iPad (5th gen)"
+                },
+                "content": {
+                    "label": "UI overlaps so can’t use some menus or play",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id203642396"
+                    },
+                    "name": {
+                        "label": "Pterofractal"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6421430246"
+                },
+                "title": {
+                    "label": "Still a terrible update"
+                },
+                "content": {
+                    "label": "The game worked really well when it was built in portrait mode. After they switched to deploying the same version they deploy for Mac and pc this game just suffers. It is so much harder to play on a phone. iPad might be okay \n\nI would not recommend anyone to buy this version of the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id124578691"
+                    },
+                    "name": {
+                        "label": "CowTipping_Extremist"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6416817075"
+                },
+                "title": {
+                    "label": "Fantastic Multiplayer Game"
+                },
+                "content": {
+                    "label": "While you can play this game in single player mode, the active online multiplayer community is where this game really shines. Simply terrific fun!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id168698100"
+                    },
+                    "name": {
+                        "label": "Monkey Conspirator"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6415397857"
+                },
+                "title": {
+                    "label": "Ignore the old reviews and try this game!"
+                },
+                "content": {
+                    "label": "This is a great game with some flaws, but if you like the game you’ll overlook them.  First, I hope you won’t let the older reviews scare you off.  I play this game on an iPhone and have no problems reading the cards and spaces.  If the card appears small, touch it and it will enlarge so you can read it.  Touch it again to return it to the board.\n\nI would recommend turning down the animations if you play it a lot, FYI, otherwise the game can be a battery killer though.\n\nThis is a fun, engaging game with just enough strategy to be fun but not so much that you can’t multitask.  You can play a game in 30 minutes which for me is perfect.\n\nIf you enjoy board games, light strategy and/or fantasy settings, I would recommend giving it a try.  Start with the basic game with two other players (if you play with one generated player, you will be relentlessly attacked so play with two).  The Undermountain expansion adds a lot to the game without creating complexity, so I always play with it and I also recommend the extended play.  \n\nThe Skullport expansion is confusing in the app.  I don’t play it.  I don’t find it to be user friendly.  But I never liked it all that much to begin with.\n\nHope this review helps!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39866370"
+                    },
+                    "name": {
+                        "label": "Limey Dee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6374504803"
+                },
+                "title": {
+                    "label": "Pretty Awesome"
+                },
+                "content": {
+                    "label": "I love this game and play it frequently! It’s almost as good as playing live with friends. Great expansions change the gameplay. My only disappointment is some of the achievements don’t activate properly (most of the Finish 8 quests of a type). Would buy again and recommend!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id507858546"
+                    },
+                    "name": {
+                        "label": "tanvi6"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6289437150"
+                },
+                "title": {
+                    "label": "A well built app"
+                },
+                "content": {
+                    "label": "Seeing the lower rating I was expecting the app to have a lot of bugs but having played so many games over the past few weeks, I must compliment the developers! So glad there is an app for the game I love so much. Even with the pandemic situation I can play it online with people.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42511122"
+                    },
+                    "name": {
+                        "label": "Brandon From Louisville"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6217243048"
+                },
+                "title": {
+                    "label": "Ignoring the reviews"
+                },
+                "content": {
+                    "label": "It’s obvious people are frustrated with the game orientation and have been for a long time. Why are the developers ignoring and not correcting? Was a fantastic game until the landscape mode made it so difficult. Sad",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40691973"
+                    },
+                    "name": {
+                        "label": "Nick Hayes"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6178872287"
+                },
+                "title": {
+                    "label": "Fantastic Port of the Board Game"
+                },
+                "content": {
+                    "label": "I’ve been playing the app for years, and actually bought the physical game because of how much I enjoyed it in digital form.  I know people are complaining about the new UI, after the update, and as an old school player it did take some getting used to, but I really like the update now.  Gameplay is smooth and easy.  Multiplayer works well.  The little touches such as the animations of birds flying overhead and ships coming in and out of port, as well as the thematic sounds effects just go to show what talented developers can do in digital to bring an analog game to life.  Playdek rarely disappoints and they live up to their reputation in this adaptation.  I have no complaints and highly recommend this app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id193000396"
+                    },
+                    "name": {
+                        "label": "Nhgfdytredfhh"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6122648554"
+                },
+                "title": {
+                    "label": "Timer terrible"
+                },
+                "content": {
+                    "label": "Timer is terrible, simply dumps player which ruins game for everyone.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id19310795"
+                    },
+                    "name": {
+                        "label": "Composed use"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6065247076"
+                },
+                "title": {
+                    "label": "Random Forfeit"
+                },
+                "content": {
+                    "label": "The game randomly forfeited on my behalf on the final round while confirming a normal play action. No where near the forfeit button! Unacceptable, and not just because I was about to win...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id519308150"
+                    },
+                    "name": {
+                        "label": "rinhaak"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6065246526"
+                },
+                "title": {
+                    "label": "Unwanted Forfeiture!"
+                },
+                "content": {
+                    "label": "Was playing an online game, 8th round, and suddenly the game forfeited me! It was a super close game, no one was taking too long. I was trying to place a building, and suddenly I was forfeited. \n\nThis is LOUSY. No explanation, this has to get fixed!! Very unhappy.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25299300"
+                    },
+                    "name": {
+                        "label": "Gzilla37"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6032391472"
+                },
+                "title": {
+                    "label": "Why Auto-Forfeit? And then I can’t view the game??"
+                },
+                "content": {
+                    "label": "So there I am—playing a game online with two friends, and I’m running out of time on the 30-minute clock that was inadvertently set by the person who set up the game. Then, despite being near the end of the game, and despite having friends enjoying that I’m playing with them, the timer runs out of time in the middle of my turn, and automatically forces me to forfeit the game. \n\nI try to go back in to watch the rest of the game, and I can’t do that either. But rather than just eject my player from the game, the AI takes over my game. I can’t play with my friends anymore; I can’t watch their game finish up; and they still wanted me playing with them. \n\nWhy not include a way for the other players to choose to boot a player who has run out of time (like Board Game Arena), rather than forcing them out? That’s just dumb. Some of us like to take our time when we play. \n\nAnd it looks like they haven’t updated the fame for years, so it’s unlikely that anything useful is going to happen on this front. Dumb app design for a fun game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16245648"
+                    },
+                    "name": {
+                        "label": "ChAaron"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5888019863"
+                },
+                "title": {
+                    "label": "Was great till update. No iPhone 11 support"
+                },
+                "content": {
+                    "label": "I absolutely loved this game before the big redesign. It was epic! I learned to live with the redesign, having to zoom in and out constantly on my iPhone 6+. The update was clearly designed with iPad play in mind and not phone.\n\nNow that I have an iPhone 11 Pro Max it’s locked into an aspect ratio where I get even less of the screen being used. This is ridiculous. I’m not upset I spent the money, I’m upset my favorite game is unplayable.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id254624270"
+                    },
+                    "name": {
+                        "label": "Ffhfdshfdhsdvdsvsvd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5872505056"
+                },
+                "title": {
+                    "label": "Ug I don't do well in this game"
+                },
+                "content": {
+                    "label": "I do prefer the landscape mode but...\n\nMy problem is I don't understand how to play this game.  I have never even won the tutorial.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id19738273"
+                    },
+                    "name": {
+                        "label": "augiesm"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5807782527"
+                },
+                "title": {
+                    "label": "Please update for iPad Pro"
+                },
+                "content": {
+                    "label": "Please update for iPad Pro to fill full screen.  Wasting screen real estate.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id3123968"
+                    },
+                    "name": {
+                        "label": "Binturong24"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5730926483"
+                },
+                "title": {
+                    "label": "Excellent game and expansions, just one thing."
+                },
+                "content": {
+                    "label": "You can tell great care went into creating this with the smooth gameplay flow, retinal graphics and sound. Well done Playdek.\n\nOnly issue is that you can’t add bots to an ONLINE game with a friend. Would be a nice update if you could, as bots add a different dynamic to the game.\n\nOtherwise a flawless interpretation of the worker placement board game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id308420083"
+                    },
+                    "name": {
+                        "label": "Sporks468942"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5726675520"
+                },
+                "title": {
+                    "label": "Illegible on iPhone Xs"
+                },
+                "content": {
+                    "label": "Give this one a pass if you’re not playing this on an iPad. Text and everything else are way too tiny to be playable on a phone.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id153053832"
+                    },
+                    "name": {
+                        "label": "Jeccinna"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5688007014"
+                },
+                "title": {
+                    "label": "Getting us through COVID-19 Quarantine!!!"
+                },
+                "content": {
+                    "label": "My siblings and I love this game! Anytime we get together we always break it out. However, we love in different states so this has been great to keep the fun going. We're also all in Quarantine because of COVID-19 and this is help keeping us sane...\n\nSo far no major issues. It can be a little laggy, but we've all been able to play through just fine. Now if my sister would just freaking go when it's her turn!!!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id29379954"
+                    },
+                    "name": {
+                        "label": "QuirtEvans"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5572429785"
+                },
+                "title": {
+                    "label": "Great game, but so so buggy"
+                },
+                "content": {
+                    "label": "I really want to rate this game highly.  I love the graphics, I love the game mechanic, I love the strategy.  Unfortunately, the app is so buggy it’s unplayable.  It keeps starting the game over.  And over.  And over.  I’m beyond frustrated.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1012272553"
+                    },
+                    "name": {
+                        "label": "James Collapsing"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5540533539"
+                },
+                "title": {
+                    "label": "Single player works fine"
+                },
+                "content": {
+                    "label": "I let the negative reviews dissuade me from trying Lords of Waterdeep for a long time, but Playdek’s Agricola app is so good, I had to give this a try.  There are some bugs with undo in some more complicated situations, by otherwise the app is great. All the fun of the tabletop version but with less cleanup.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id109087176"
+                    },
+                    "name": {
+                        "label": "Kyrajen"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5493442204"
+                },
+                "title": {
+                    "label": "Great game (but update offline play)"
+                },
+                "content": {
+                    "label": "Love the game, and the layout is great on the iPad. If you’re familiar with the actual board game, this was a great port.\n\nI would like to recommend updating offline play, though. I have the base game and all expansions. However, when not connected to the internet (my iPad is wifi only), the expansions are not available. Can you please allow the expansions to be played when not connected to the internet? That’s my only gripe with this. Otherwise, great!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id12663451"
+                    },
+                    "name": {
+                        "label": "Toomanybarts"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5452348819"
+                },
+                "title": {
+                    "label": "Heroes garden doesn’t work as it should"
+                },
+                "content": {
+                    "label": "Official response from WotC is that Heroes Garden (the building that says you can pick a quest and complete it immediately and gain +4 bonus Vp) should follow the ‘golden rule” and override normal rules.\nWhich means if you have a mandatory quest you can still fully use Hero’s Garden and fulfill the quest from this bonus.\n\nThen app does not allow it..\n\nPlease fix.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id157513932"
+                    },
+                    "name": {
+                        "label": "loocorez"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5302830570"
+                },
+                "title": {
+                    "label": "Killed landscape mode"
+                },
+                "content": {
+                    "label": "Don’t bother. They need to bring back landscape mode. New UI is unusable",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id216646691"
+                    },
+                    "name": {
+                        "label": "Acequiamadre"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5293997176"
+                },
+                "title": {
+                    "label": "The game was awesome, then they changed the board"
+                },
+                "content": {
+                    "label": "Please bring back the old board.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id123286995"
+                    },
+                    "name": {
+                        "label": "Babysaygorays"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5293734258"
+                },
+                "title": {
+                    "label": "Great game but on iPhone plus, I need glasses"
+                },
+                "content": {
+                    "label": "After reading the reviews on the UI, I was worried but I took a chance and was relieved.  Once I got thru the tutorials, I was off and running. On iPad the game is awesome in every way. On iPhone plus, some of the card text is very small and I wish they had enabled a better fuller display of the individual cards in game but with glasses, I can manage.  Again, great game.  I like the game so much and I’m a D&D fan, I even bought the actual board game.   I definitely recommend.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id310217129"
+                    },
+                    "name": {
+                        "label": "unhappypagesuser"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5280529854"
+                },
+                "title": {
+                    "label": "iPad works"
+                },
+                "content": {
+                    "label": "I love it on my iPad Pro!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43976563"
+                    },
+                    "name": {
+                        "label": "Rekz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5046129904"
+                },
+                "title": {
+                    "label": "Great game, deep game, interesting game."
+                },
+                "content": {
+                    "label": "I’ve read the reviews that the UI update sucked.  I will never know, b/c I just got this game in a sale & I never played the old UI.  I also learned to play the game by doing tutorials.  Game seems really strategic, lots of possibilities, skill seems to matter a lot, and the opponent can really throw a monkey wrench into your plan.  This game is pretty awesome!  I’d suggest to devs that they allow old players a toggle to switch back to portrait UI and cards visible (I might try it out myself), but the game seems perfectly playable with this UI.\nSidenote:  I had similar experience with Pathfinder — early player, loved it, was hammering on Quest Mode & loving it — and then dev’s removed Quest Mode & the players rebelled, essentially killing the ratings & loyalty of the players.  While I think this is also still a great game using D&D IP, I don’t understand why dev’s would intentionally alienate their loyal players just to push gamers to do more IAPs (which they won’t bc of the hate).  GAMEDEVS: LEARNING OPPORTUNITY!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42199120"
+                    },
+                    "name": {
+                        "label": "Murdozer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5027303428"
+                },
+                "title": {
+                    "label": "Cannot access my add ons without internet"
+                },
+                "content": {
+                    "label": "Like the title states above if you bought the expansion packs and you try to play without internet the game will tell you that you do not own them. Garbage.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id34585415"
+                    },
+                    "name": {
+                        "label": "biscuit302"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4948014982"
+                },
+                "title": {
+                    "label": "Good game and the UI is fine"
+                },
+                "content": {
+                    "label": "This is a worker placement game that has a decent tutoring system, as well as suitable graphics. I’ve read about the UI being messy, and so forth, which initially caused me to hesitate in purchasing the game. However, after I did purchase it, I found the UI to be fine (not great). \n\nNothing in this game will blow you away; however, as with the board game, the mechanics are simple and some complex strategy. Said mechanics can get more complex with purchase of expansions (I did not do this), which can radically change the game.\n\nOnline play is essentially nonexistent.\n\nOverall? If you like the board game or, to a lesser extent, worker placement games, you’ll enjoy this. Be aware that you likely won’t be playing online.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id219524452"
+                    },
+                    "name": {
+                        "label": "Shajoneses"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4913747738"
+                },
+                "title": {
+                    "label": "Great little digital board game"
+                },
+                "content": {
+                    "label": "I just started playing this game, and it plays smooth, I have no problem with the UI and the tutorial is excellent. It plays great on my Ipad and IPhone X Max, also the AI is very challenging. If you enjoy board games this is a great one to pick up to play on your phone when your on the go, much better than wasting time with all the Free games, that end up costing so much in the end.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32115789"
+                    },
+                    "name": {
+                        "label": "Cheayo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4896619930"
+                },
+                "title": {
+                    "label": "Game fun, app buggy"
+                },
+                "content": {
+                    "label": "Examples of bugs:\n\n1. Playing a card, or using a tile that allows you to play on a tile occupied by another players token, doesn’t let you take the Ambassador from the person who was there first, and your move is wasted. Doing the same to Castle Waterdeep does allow you to steal the first player token.\n\n2. Playing the Unexpected Success card (draw two cards and play them instantly) only allows you to play the second. The first card goes in your hand.\n\n3. On the results screen, the wrong lord picture is sometimes displayed.\n\nHaving the quest list/intrigue card hand display cover part of the map is annoying. Also it’s really easy to miss the play a quest phase, due to inconsistencies with the confirm action button.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id458872093"
+                    },
+                    "name": {
+                        "label": "alex/:;))?,;::::"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4880571541"
+                },
+                "title": {
+                    "label": "Update ruined game"
+                },
+                "content": {
+                    "label": "Great game ruined by a horrible update.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35463799"
+                    },
+                    "name": {
+                        "label": "WriterGuy416"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4855887513"
+                },
+                "title": {
+                    "label": "Usability seems fine to me?"
+                },
+                "content": {
+                    "label": "Been playing this for years, love this game, and its probably in my top 3 online asynchronous games (galaxy trucker & morels are the other two).\n\nPlay on an iphone (8 plus) not even a tab, and I don’t find the UI to be an issue at all. Totally playable, and lots of fun.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id19789869"
+                    },
+                    "name": {
+                        "label": "FEB777"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4618112519"
+                },
+                "title": {
+                    "label": "Game changing board game app!"
+                },
+                "content": {
+                    "label": "I like boardgames, but I had avoided worker placement games for a long time, thinking they looked like dry boring euros. But this app is so good, I love it. Now worker placement is one of my favorite kind of boardgames. This game is so well done, I love you the UI,  love the sound effects, love everything about it!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41420365"
+                    },
+                    "name": {
+                        "label": "Cowboy Lemonhead"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4617102938"
+                },
+                "title": {
+                    "label": "It keep crashing out in round 7"
+                },
+                "content": {
+                    "label": "When I play with my friends, it automatically forfeits the game in round 7. I thought it was because of the timer but we just finished playing.... until the forfeit and I had a little under four minutes on the clock! Please fix this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id265290144"
+                    },
+                    "name": {
+                        "label": "Hollitar"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4569959147"
+                },
+                "title": {
+                    "label": "Portrait mode was better"
+                },
+                "content": {
+                    "label": "I have played this game a lot and I believe portrait orientation was nice and convenient. I really can not understand why developers have decided to completely remove it. Is it possible to make it optional?\nP.S. I have iPad Pro.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id406642241"
+                    },
+                    "name": {
+                        "label": "Jme wandering"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4533194891"
+                },
+                "title": {
+                    "label": "Waited a YEAR..."
+                },
+                "content": {
+                    "label": "The update that was implemented a year ago is TERRIBLE! I haven’t deleted the app because I keep hoping PlayDek will reverse the layout changes, but I’ve waited a year now...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id152132321"
+                    },
+                    "name": {
+                        "label": "Kryn p"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4508018311"
+                },
+                "title": {
+                    "label": "Ignore the bad reviews-game is amazing"
+                },
+                "content": {
+                    "label": "Reading the reviews, I was hesitant.  The game works great with no glitches that I can see! \nI learned how to play the game through the tutorials.  They were easy to understand and I was playing the game in no time.  It’s quickly become a favorite.\nI imagine if you’re a fan of the board game, this is a no brainer.  If you’re a board gamer like me, I suspect this is also for you!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id545032039"
+                    },
+                    "name": {
+                        "label": "Skrappy73"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4478799019"
+                },
+                "title": {
+                    "label": "This Game is Awesome!!!"
+                },
+                "content": {
+                    "label": "The update took some getting used to, but it is as good as ever before!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id480528976"
+                    },
+                    "name": {
+                        "label": "Nerv Agent"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4305769639"
+                },
+                "title": {
+                    "label": "Fun Game"
+                },
+                "content": {
+                    "label": "Took me about a hour to figure out, but now I can’t stop playing. AI or pvp is fun. Not big on writing these, but I just had to. Not many games keep my attention. Well Done.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38354029"
+                    },
+                    "name": {
+                        "label": "Ronbo13"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4242968079"
+                },
+                "title": {
+                    "label": "Great worker placement game"
+                },
+                "content": {
+                    "label": "If you like worker placement games, this is one of my favorite. Each turn, you're trying to complete quests by accumulating units of various professions (and also money). Each player has a secret agenda, which changes what types of questions you'll prefer. There's considerable variety in how each game plays out, and the sounds and graphics add nicely to play. This isn't a D&D RPG. But it's very enjoyable. It's nice to have a game where you turn your mind on rather than off, on iOS.\n\nEdit: Minus one star for the update the switched to landscape. This took a 5-star game and worsened playability. In a strange way, it’s a little prettier. But I have a much harder time playing. They had (and no doubt in their codebase still HAVE) and perfectly good portrait-orientation UI. If they wanted to enable landscape, I wish they’d done it by giving is the OPTION which one to use. As I type this, the average rating is now 2.6. When I first reviewed it as a 5-star game, its average was quite a bit higher.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id273215660"
+                    },
+                    "name": {
+                        "label": "Jnm7897"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4194565202"
+                },
+                "title": {
+                    "label": "Please fix the layout"
+                },
+                "content": {
+                    "label": "Did Microsoft take over your app? Since the last update, it is very difficult to select tiny icons, for example to see opponents’ stash and quests. It was much nicer to see the whole board and your quests or intrigue cards at the same time. It’s now nearly impossible to play without flipping back and forth. I loved the original. No idea why you’d break it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24025217"
+                    },
+                    "name": {
+                        "label": "chrislirvin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4139420579"
+                },
+                "title": {
+                    "label": "Works great on an iPad"
+                },
+                "content": {
+                    "label": "I don’t play on my iPhone, and perhaps those are where the 1-star reviews are coming from, but the game runs/looks great on an iPad and I have no issues with the interface.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id184180825"
+                    },
+                    "name": {
+                        "label": "Double baka cheese"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4116913620"
+                },
+                "title": {
+                    "label": "Amazing"
+                },
+                "content": {
+                    "label": "Plays super well and is great for a quick play or waste all day",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id169608482"
+                    },
+                    "name": {
+                        "label": "Niqqqqqgrcbj"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3901217112"
+                },
+                "title": {
+                    "label": "Excellent"
+                },
+                "content": {
+                    "label": "This is an excellent game and port BUT this latest update has really diminished its playability in locking the screen.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id71014463"
+                    },
+                    "name": {
+                        "label": "JJCOLLINS12"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "3814580909"
+                },
+                "title": {
+                    "label": "Game is great, new layout is awful"
+                },
+                "content": {
+                    "label": "I’m a big fan of resource management games, and this one is so much fun to play both mechanically and thematically. However, the updated app eliminated the ability to play this in portrait mode, and the new layout doesn’t translate well to iPhones. It’s a real bummer because I love the game, but the update makes it unfriendly to play.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=648019675&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:19:32-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=648019675/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=648019675/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=648019675/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=648019675/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=648019675/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=648019675/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=648019675/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=648019675/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=648019675/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=648019675/sortBy=mostRecent/json"
+        }
+    }
+}

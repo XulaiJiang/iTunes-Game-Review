@@ -1,0 +1,256 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id104986982"
+                    },
+                    "name": {
+                        "label": "Cutss"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.34"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6035641717"
+                },
+                "title": {
+                    "label": "No problems for me"
+                },
+                "content": {
+                    "label": "I love the app, and I love the boba! However, I have had a couple times where I order on the app, and if it asks me to verify my card, it forgets my tip. At first, I thought it was a display problem, but it appears that I am not being charged for the tip (and the staff aren’t receiving it)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1230640421&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id960524190"
+                    },
+                    "name": {
+                        "label": "Book-lover-forever"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.34"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3802770927"
+                },
+                "title": {
+                    "label": "Lost Items"
+                },
+                "content": {
+                    "label": "The app is great and I have no complaints of any sort, but I have a suggestion you could add to the app. People lose things, it happens at least once to many people. Maybe, if people could report lost things on there then maybe people could find them. Like hats, wallets, credit cards, sunglasses, etc.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1230640421&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id509586809"
+                    },
+                    "name": {
+                        "label": "GAM3R#3"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.34"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3319550561"
+                },
+                "title": {
+                    "label": "Helpful"
+                },
+                "content": {
+                    "label": "LOVE THIS PLACE !!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1230640421&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38175575"
+                    },
+                    "name": {
+                        "label": "ratrlz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.25"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1909131966"
+                },
+                "title": {
+                    "label": "Has great potential"
+                },
+                "content": {
+                    "label": "It does it’s job, but could be capable of more. Takes forever to load initially and would be nice if points automatically accrued based on my login information and not having to enter my number into the menu description.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1230640421&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T17:27:46-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1230640421/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1230640421/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1230640421/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1230640421/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1230640421/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1230640421/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1230640421/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1230640421/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1230640421/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1230640421/sortBy=mostRecent/json"
+        }
+    }
+}

@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id425658823"
+                    },
+                    "name": {
+                        "label": "B3STGURL1278(:"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.7"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1342135517"
+                },
+                "title": {
+                    "label": "Crashes"
+                },
+                "content": {
+                    "label": "Crashes",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id219343814"
+                    },
+                    "name": {
+                        "label": "Markz1337"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.7"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1333302226"
+                },
+                "title": {
+                    "label": "Crashes"
+                },
+                "content": {
+                    "label": "...when opening the app. Still.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43476798"
+                    },
+                    "name": {
+                        "label": "tankaroonie"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.6"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1323884687"
+                },
+                "title": {
+                    "label": "Doesn't work"
+                },
+                "content": {
+                    "label": "This app worked for a good while but now all I get is a black screen when I open it. I tried reinstalling and everything still have nothing.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id283250553"
+                    },
+                    "name": {
+                        "label": "SimonHoang"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1314360708"
+                },
+                "title": {
+                    "label": "It's so beautiful"
+                },
+                "content": {
+                    "label": "Eye candy effects make it hard to play the game, but in the good way.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id86439967"
+                    },
+                    "name": {
+                        "label": "PsysiX"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1299553169"
+                },
+                "title": {
+                    "label": "Too Much Focus On Eye Candy"
+                },
+                "content": {
+                    "label": "As a straight up rhythm game this is mechanically flawed. The screen reaches a level of too much going on making it hard to actually see the tapping they want you to do, and the constant perspective changes make it a nightmare to get the rhythms they ask you to perform learned. There's too much constantly changing motion and animation that you can't make out any decent feedback to your input, especially with the lines for tapping quickly where you can't even tell how much you need to do to complete that line since it isn't simply 'bang on the screen like crazy for the length of it' but rather 'there's a secret number of taps we want you to do within this length and you won't know it till it just disappears'. The first one was good fun, but it focused on delivering you the gameplay first and some nice visuals second. This rendition just tries to shove as much eye candy in your face first and 'oh there's a rhythm game to play in here somewhere' came after.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id481438725"
+                    },
+                    "name": {
+                        "label": "Dylan1637338484"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1295992906"
+                },
+                "title": {
+                    "label": "Stellar"
+                },
+                "content": {
+                    "label": "Make sure to flip the hardware mute switch on your phone to get sound",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id294361730"
+                    },
+                    "name": {
+                        "label": "AtomicThings"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1293455471"
+                },
+                "title": {
+                    "label": "Good game, but.."
+                },
+                "content": {
+                    "label": "The only complaint I have is that when I went to cancel a purchase, it still went through, draining $4.99 from my Apple ID.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id139065044"
+                    },
+                    "name": {
+                        "label": "Blind Kicker"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1280634050"
+                },
+                "title": {
+                    "label": "Nice app"
+                },
+                "content": {
+                    "label": "Please add the option to use our own music.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id468574153"
+                    },
+                    "name": {
+                        "label": "Whydeletereviewifnickistaken"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1277527556"
+                },
+                "title": {
+                    "label": "AWESOME"
+                },
+                "content": {
+                    "label": "Play it ASAP!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id209351864"
+                    },
+                    "name": {
+                        "label": "Azetlor246"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1274597842"
+                },
+                "title": {
+                    "label": "So much fun!"
+                },
+                "content": {
+                    "label": "It's so much fun to play and the music is great!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id252079834"
+                    },
+                    "name": {
+                        "label": "Wind/Water Ninja"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1268925903"
+                },
+                "title": {
+                    "label": "Crashing"
+                },
+                "content": {
+                    "label": "love this game, but 3 of the tracks crash my game when I try to play them please fix this issue",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id330565821"
+                    },
+                    "name": {
+                        "label": "AppCentralHD"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1267316676"
+                },
+                "title": {
+                    "label": "Live this App don't stop updating"
+                },
+                "content": {
+                    "label": "This App is great like osu on the computer but a lot more vibrant but I do wish it had some of the functions that osu does with allowing people to make custom music like [Unravel - Tokyo Ghoul Op] and other great things like more customizable avatars that have cool auras/trails/beats but the game is still great :D",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id403164005"
+                    },
+                    "name": {
+                        "label": "Dj nightmaremoon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1259171630"
+                },
+                "title": {
+                    "label": "BEST GAME EVER!!"
+                },
+                "content": {
+                    "label": "The songs are so amazing can you add more tracks?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41377188"
+                    },
+                    "name": {
+                        "label": "AskaLangly"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1259105679"
+                },
+                "title": {
+                    "label": "Looking for Zero songs? Not here!"
+                },
+                "content": {
+                    "label": "This is my first rhythm game on the 6+, and it's so beautiful. However, my method of coming across this involves GC Zero, and of course, it isn't available any longer. I wish it was possible to purchase older content; in my case, it would be the Puzzle and Dragons collaboration.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id256326288"
+                    },
+                    "name": {
+                        "label": "Seneto Ukiri"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1256997291"
+                },
+                "title": {
+                    "label": "This is game is just....."
+                },
+                "content": {
+                    "label": "I've never played a rhythm based game this good before! I'm recommending this to all of my freinds.\nKeep up the good work!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id468985151"
+                    },
+                    "name": {
+                        "label": "Warning but good game"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1254176721"
+                },
+                "title": {
+                    "label": "Epilepsy Warning good game"
+                },
+                "content": {
+                    "label": "Too many bright lights. Epilepsy Warning. good game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id121268546"
+                    },
+                    "name": {
+                        "label": "ILoveMinecraftYay"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1252987688"
+                },
+                "title": {
+                    "label": "💯"
+                },
+                "content": {
+                    "label": "Before the gigantic update, I already loved the game. Now that the update has arrived, it makes it more challenging and fun at the same time. I like the challenge of getting S++'s and other high ratings. It really makes me feel good when I get one :). Most of the time, peoples' devices aren't compatible with the game. You need ios 5.1.1 and at least an iPhone 5s. But anyways, great music, great challenge, great fun to be had!!!! Now that this smaller, but still quite important update has come out, it has exceeded my expectations by fixing the \"beat\" bug and the lagging is gone too! The \"two-hand tap\" bug is just your brain thinking of the \"chain\" ending sooner than you think. Even if you don't use your real money to get new songs (Which is totally worth your money) they offer many songs and even more if you level up. They even include the hardest song in the game for free and plenty of other great songs! These songs can add up to infinite fun! The music, even though it first might seem bad, is actually very nice sounding! They constantly add many great updates with amazing events very often, so the game is never the same! Overall 10/10 😃\n\nP.S. Taito, if you're reading this, then please add more songs from the arcade version and the \"Extra\" versions of the songs! Thanks! You're probably already working on these things though! Keep up the great work!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id374112145"
+                    },
+                    "name": {
+                        "label": "Zephyr1227"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1249405755"
+                },
+                "title": {
+                    "label": "Event Error Notice"
+                },
+                "content": {
+                    "label": "Okay, I don't really care that you need some ad-libs in order to get an S-rating on some songs. But your event, the one to post highscores to twitter, it isn't working. All I keep getting is a screen with the words \"An error occured\" on it. How do you expect some people to participate in your event when it seems like it only applies to certain players?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id462957315"
+                    },
+                    "name": {
+                        "label": "doom bugs"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1247462427"
+                },
+                "title": {
+                    "label": "Great and addictive game"
+                },
+                "content": {
+                    "label": "This game has so many levels to unlock you really never get bored, try it yourself",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id171865323"
+                    },
+                    "name": {
+                        "label": "MLightningW"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1240275585"
+                },
+                "title": {
+                    "label": "Half and half"
+                },
+                "content": {
+                    "label": "This game is pretty well designed, and fun as a quick casual game, and is quite challenging, however, there are some major flaws. 1. Some of the music in-game is not very pleasant to listen to, 2. Some of the visuals in some levels are extremely distracting, and potentially seizure inducing, so be careful when playing this game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id161361946"
+                    },
+                    "name": {
+                        "label": "795431680432735"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1238582148"
+                },
+                "title": {
+                    "label": "Challenging!!!"
+                },
+                "content": {
+                    "label": "This game is awesome. You just have to get past the tutorials and it is totally worth it. It is very challenging and the visuals are stunning! This game is all about rhythm, and sometimes you will have to rely on rhythm solely. Overall it is a blast and is totally worth the download!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36884964"
+                    },
+                    "name": {
+                        "label": "Mrspicolli"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.1"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1230812598"
+                },
+                "title": {
+                    "label": "....this is just a polished version of groove coaster #1"
+                },
+                "content": {
+                    "label": "There are no new free tracks in this version that I have come across… If you have all the tracks from group coaster one sure they are better they play better they sound better and you can even play by beating on your kitchen counter...\nBut there are no new free tracks to be unlocked through play… This is a sham you guys should be ashamed of yourselves and for God sake you charge $40 for a couple of tracks on this game?.... This deserves to be heard",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id137571753"
+                    },
+                    "name": {
+                        "label": "AngrymadBird"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1229800058"
+                },
+                "title": {
+                    "label": "d(•-^)b"
+                },
+                "content": {
+                    "label": "Amazing graphics and music. If you don't want to pay for songs, they give you a lot of free playable songs that have 6 difficulties in total.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id456266651"
+                    },
+                    "name": {
+                        "label": "Kyle Neuman"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1225662900"
+                },
+                "title": {
+                    "label": "Problem"
+                },
+                "content": {
+                    "label": "Connection Error for reward!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30708669"
+                    },
+                    "name": {
+                        "label": "Subaru19"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1222269850"
+                },
+                "title": {
+                    "label": "Connection errors"
+                },
+                "content": {
+                    "label": "I love this game very much and have been very pleased with the update but I do have a few problems.  \n\n1) there are many times I try to connect to the network and now that there are prizes to claim this has become more of an issue.  Before, it was usually when I was trying to see my world ranking that I would get a connection error.  But now I can't even claim my rewards for missions. There are times this goes in and out but it could be more consistent \n\n2) having to pay more money to buy the arcade versions of the songs seems like a low blow and a grab for more cash.  I am glad that the ac versions come in packs which makes it reasonable, but I've already spent over 75 bucks on this game so I feel a little cheated.  But maybe that's the point.  \n\n3) there was another review that posted the glitch about the multi-taps.  In addition I also sometimes have glitches with the double tap notes.  \n\nAll in all I love this game and am excited about the update.  Once the links are worked out id be happy to come back and leave a better review.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id296677358"
+                    },
+                    "name": {
+                        "label": "Zerujupit"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1221695218"
+                },
+                "title": {
+                    "label": "IPad mini bug"
+                },
+                "content": {
+                    "label": "Ever since the new update, when i try to open the app it would get stuck on the title screen, freeze for a while and restart the app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id298782518"
+                    },
+                    "name": {
+                        "label": "Anodyn3"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1221187821"
+                },
+                "title": {
+                    "label": "Still the best!"
+                },
+                "content": {
+                    "label": "This was one of the 1st games I ever put on my device(ipod 5G) back in 2012. played it relentlessly! admittedly, I hadn't played it in a while. That is until i saw this most recent update...\n\nYeah- it's still bad@$$. An absolute roller-coaster ride in terms of core gameplay. All the tracks are pretty solid with a few that are just straight up GOLD! The animations & avatar elements are the icing on a multi-tiered, flavor-of-choice, dream cake. in short: its a'ight😏\n\nHighly recommended from someone who doesn't play these types of games normally, if that helps?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id349412763"
+                    },
+                    "name": {
+                        "label": "Dangerskew122"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1220824857"
+                },
+                "title": {
+                    "label": "Great game, great update!"
+                },
+                "content": {
+                    "label": "I love this game and the addition of Arcade Mode charts finally makes the game a true challenge. Would love to see the arcade version come to American arcades!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id295567027"
+                    },
+                    "name": {
+                        "label": "Commenter113"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1220717613"
+                },
+                "title": {
+                    "label": "Crash Fix Plz"
+                },
+                "content": {
+                    "label": "Crashed on loading screen. Using Ipod Touch 4G.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id124458881"
+                    },
+                    "name": {
+                        "label": "midnightclubx"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1220526428"
+                },
+                "title": {
+                    "label": "Great reboot, but..."
+                },
+                "content": {
+                    "label": "I can't seem to log in my Taito ID nor can I download the AC tracks, because I either get an error in Japanese, or a black screen. Otherwise, I'm loving the improvements!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id344953497"
+                    },
+                    "name": {
+                        "label": "Acanch"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1220456636"
+                },
+                "title": {
+                    "label": "Dude..."
+                },
+                "content": {
+                    "label": "This game has saved my life I am living for this game. I want to thank whoever made this game.... I want to marry you :)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id234669128"
+                    },
+                    "name": {
+                        "label": "RockBandFantasy777"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1220447437"
+                },
+                "title": {
+                    "label": "I can't play the new update!"
+                },
+                "content": {
+                    "label": "I really want to play, but when I open the app, it just takes me to a loading screen that doesn't progress at all.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id234669128"
+                    },
+                    "name": {
+                        "label": "RockBandFantasy777"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1220447436"
+                },
+                "title": {
+                    "label": "I can't play the new update!"
+                },
+                "content": {
+                    "label": "I really want to play, but when I open the app, it just takes me to a loading screen that doesn't progress at all.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id226683107"
+                    },
+                    "name": {
+                        "label": "Fall Storm"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1220441854"
+                },
+                "title": {
+                    "label": "???????"
+                },
+                "content": {
+                    "label": "what the?!?! doesnt even load now......please fix this quick!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id124840092"
+                    },
+                    "name": {
+                        "label": "LordBleach"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1220438479"
+                },
+                "title": {
+                    "label": "iPhone 4"
+                },
+                "content": {
+                    "label": "haha oopsy i didnt read the compatible devices beforehand and now i cant play haha (kill me why do i still use a iphone 4)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id458478915"
+                    },
+                    "name": {
+                        "label": "Wiggha"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1220425884"
+                },
+                "title": {
+                    "label": "App is not working after new update"
+                },
+                "content": {
+                    "label": "So i updated the app as soon as the update came out and it wont go anywhere after the first loading bar it just stays there loading, please fix it quickly i really want to try the new features. I use an ipod 4, if its any help knowing what im playing on.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id268753633"
+                    },
+                    "name": {
+                        "label": "mafiaman1564"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1220404073"
+                },
+                "title": {
+                    "label": "Crashes!"
+                },
+                "content": {
+                    "label": "New update just crashes on startup on iPhone 5s!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id144689984"
+                    },
+                    "name": {
+                        "label": "Chandler420"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1207326145"
+                },
+                "title": {
+                    "label": "5/5 Godly"
+                },
+                "content": {
+                    "label": "This game is greatness. I wouldn't normally go out of my way to right a review but this game deserves it. i highly suggest playing it under the influence of the herb. simply beautiful.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id362683783"
+                    },
+                    "name": {
+                        "label": "JaylaD04"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1204448983"
+                },
+                "title": {
+                    "label": "BEST GAME IN THE WORLD"
+                },
+                "content": {
+                    "label": "BEST GAME the music is perfect it's very beautiful and SUPER FUN thank you so much this game has changed my lige",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id369613305"
+                    },
+                    "name": {
+                        "label": "Slightlycareless"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.15"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1202257841"
+                },
+                "title": {
+                    "label": "Please fix"
+                },
+                "content": {
+                    "label": "Crashes whenever I finish a song, leveling up.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id454159876"
+                    },
+                    "name": {
+                        "label": "Mamameme8"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.15"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1201797593"
+                },
+                "title": {
+                    "label": "Keeps crashing!!!"
+                },
+                "content": {
+                    "label": "It keeps crashing when it loading",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id236885748"
+                    },
+                    "name": {
+                        "label": "Raven Eak Radio"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1197684622"
+                },
+                "title": {
+                    "label": "Uber! If you have seizures don't get this"
+                },
+                "content": {
+                    "label": "Firstly, I must say that this game is a gem! I'm big into jpop, techno, anime songs and even hardcore music. Taito did a wonderful job with this game. I enjoy playing this in the dark because the flashy light, turns and effects make it so awesome. This is a Japanese game and a lot of the games, anime and live action TV shows have that same type of over the top flashing and effects. With that said, if you are prone to seizures do not play this game as some songs and stages is a light show and the angles in which to test your reflexes may be a bit overwhelming, especially with the songs of 160 bpm and higher or difficulty of 9 or 10. \n\nOverall this was the best purchase I've made and I got so many of the tracks from the store. Again, 75-80% of the music is themed as I mentioned above, including those you can buy. Ignore bad ratings saying the music is bad, the music is great. And as with any purchase, just research before you buy, It's really catchy and great producers.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id451779314"
+                    },
+                    "name": {
+                        "label": "X054618"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1193540543"
+                },
+                "title": {
+                    "label": "Great game but..."
+                },
+                "content": {
+                    "label": "It needs more soundtrack.. Overall its great But pls add more soundtrack",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id151903059"
+                    },
+                    "name": {
+                        "label": "Ranmaru88"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1190320300"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "I wonder why there's so much hate for this game, it's great maybe it was bad when it first came out, however I'm addicted to it, it uses Japanese songs like hatsune miku stuff, if your a fan then get it :)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id443742037"
+                    },
+                    "name": {
+                        "label": "AdamLMore"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.15"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1185431481"
+                },
+                "title": {
+                    "label": "Can't logout."
+                },
+                "content": {
+                    "label": "I let my friend play this game first on my phone. They created an account to play. There is no option to logout so I can't have my own account on my phone.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id127868198"
+                    },
+                    "name": {
+                        "label": "Jerrymiao"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.15"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1182553390"
+                },
+                "title": {
+                    "label": "Great game but bugs"
+                },
+                "content": {
+                    "label": "I bought pazudora pack on my other device and I tried to restore my purchases. I get the songs but I cannot get the avatar “tamadora” that should be gifted with the purchase. Please fix this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id356115822"
+                    },
+                    "name": {
+                        "label": "kirakira!"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1174492239"
+                },
+                "title": {
+                    "label": "ITS GREAT"
+                },
+                "content": {
+                    "label": "I haven't played anything this interesting for a while.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id420705640"
+                    },
+                    "name": {
+                        "label": "David zang"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1169540181"
+                },
+                "title": {
+                    "label": "GREATEST GAME EVER"
+                },
+                "content": {
+                    "label": "This is one of the greatest game I ever played and the outer one is cytus",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id337011862"
+                    },
+                    "name": {
+                        "label": "RGhostHands"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1168868552"
+                },
+                "title": {
+                    "label": "Love it!"
+                },
+                "content": {
+                    "label": "This is one of the best, most fun music game I have ever played! Well worth it to buy Groove Coaster, as well. I've been playing them both for over a year & I still think it's one of the best out there, esp for iOS. Try it; well worth it!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id438110458"
+                    },
+                    "name": {
+                        "label": "Cool_girl_27"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1167002059"
+                },
+                "title": {
+                    "label": "SO AWESOME!!"
+                },
+                "content": {
+                    "label": "A really cool game, but if you have motion sickness I advise not to play.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=549050409&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:36:17-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=549050409/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=549050409/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=549050409/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=7/id=549050409/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=549050409/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=549050409/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=549050409/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=549050409/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=549050409/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=549050409/sortBy=mostRecent/json"
+        }
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id433898740"
+                    },
+                    "name": {
+                        "label": "sterling grandma"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4966011901"
+                },
+                "title": {
+                    "label": "Frustrating"
+                },
+                "content": {
+                    "label": "My Kindergarten children were frustrated because there was no sound!  They figured out all the levels accept for level 5.  They liked the app until level 5",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=932469268&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id478208658"
+                    },
+                    "name": {
+                        "label": "Blissful teacher"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1313945163"
+                },
+                "title": {
+                    "label": "Soso"
+                },
+                "content": {
+                    "label": "The app can be fun for little ones. Best for precocious 3.5 to 4 yr olds. My granddaughter who is 3 gets most but some of the fine motor is too small for her to do and may be challenging for even 4 and 5 year olds. \nAlso a bit buggy. No sound control and the sound kept going off sometimes and other times not.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=932469268&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:54:04-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=932469268/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=932469268/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=932469268/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=932469268/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=932469268/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=932469268/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=932469268/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=932469268/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=932469268/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=932469268/sortBy=mostRecent/json"
+        }
+    }
+}

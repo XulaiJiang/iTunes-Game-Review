@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42131961"
+                    },
+                    "name": {
+                        "label": "DharmaSeed"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6543311002"
+                },
+                "title": {
+                    "label": "Great app. One of my favorites."
+                },
+                "content": {
+                    "label": "I’ve played this a ton and enjoy it.  \n\nJust wish they would update the app to fit modern phones. iPhone 12 just launched and this app is still designed for screens from 5 years ago.  🤔\n\nFull screen please.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id17504055"
+                    },
+                    "name": {
+                        "label": "Tx_Hobbes"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6350000840"
+                },
+                "title": {
+                    "label": "Abandoned?"
+                },
+                "content": {
+                    "label": "Edit: 3 years and counting since an update. :(\n———\n\nI used to play this almost every day; I have all the DLC. One of the best games of its time on the app store. \n\nExcept now, it's been seemingly abandoned; nearly 2.5 years sinxe the last update. \n\nI check back in periodically to see if anything new is up, but am consistently disappointed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id359789566"
+                    },
+                    "name": {
+                        "label": "Caledronius"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4839824334"
+                },
+                "title": {
+                    "label": "Hard but worth it!!!"
+                },
+                "content": {
+                    "label": "This game can be awesome and very much captures the atmosphere of H. P. Lovecraft’s works.\n\nIt can be a little fickle in that sometimes you get dealt a losing selection of events but even that helps you learn how to prioritize which event you’ll attack first.\n\nAs with the tabletop version, choosing the right character for the right event is CRITICAL!\n\nThe expansion adds more challenging encounters some of which are insanely difficult (seriously, Ithaqua difficulty level is actually labelled “Insane!”).\n\nGreat game though occasionally frustrating.  Worth purchasing!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id225607773"
+                    },
+                    "name": {
+                        "label": "JWHuwitz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4193854027"
+                },
+                "title": {
+                    "label": "Unskippable Cinematics and Bad Design"
+                },
+                "content": {
+                    "label": "Long unakippable cinemaatics at the start and end of every match. It's not that the game is too random, it's that the randomness is poorly planned and feels even more punishing and demoralizing than it is. Rally questionable game design.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id975487020"
+                    },
+                    "name": {
+                        "label": "DisneyDamsel98"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3745062333"
+                },
+                "title": {
+                    "label": "Impossible to win"
+                },
+                "content": {
+                    "label": "Waste of money.    Game relies on the roll of the dice.   I played one game where I never achieved a roll to complete the task.    Recommend Catan instead",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32246862"
+                    },
+                    "name": {
+                        "label": "Supermansabotage"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3388710024"
+                },
+                "title": {
+                    "label": "Was great years ago, but now crap."
+                },
+                "content": {
+                    "label": "I bought this game years ago, but the lack of support has brought it to its knees literally. I can’t even get through a game at this point without it freezing up. Do not buy unless they fix.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id301338375"
+                    },
+                    "name": {
+                        "label": "Joet777"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2984574720"
+                },
+                "title": {
+                    "label": "Waste"
+                },
+                "content": {
+                    "label": "Waste of money and time.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id452516761"
+                    },
+                    "name": {
+                        "label": "Mutnau"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2594131854"
+                },
+                "title": {
+                    "label": "Amazing Games"
+                },
+                "content": {
+                    "label": "This game is wonderful. At first glance, one might think luck is the only requirement to win the game, but actually technic is also important. Basically you need to choose the CORRECT characters for the mission and to use resources efficiently. But certain adventures (one or two) in the game can be too luck dependent and this is a little bit annoying. DLC contains newly designed adventures and they definitely worse the price. But nevertheless this is the game that you won’t play twice after you succeed, so it is reasonable to make it difficult. LOL.\n\nP.S. Hint: This game can be soloed with only one investigator and it’s interesting (and perhaps helpful) to do so, especially when against SOME monster.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40568622"
+                    },
+                    "name": {
+                        "label": "odd_duck_21"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "2282849841"
+                },
+                "title": {
+                    "label": "Fun, but practically impossible"
+                },
+                "content": {
+                    "label": "This game would be a lot more fun if it were more possible to win. The main issue is that the game itself doesn’t scale and it’s too luck-heavy.\n\nThe game sometimes (and usually) starts you off against tasks that require far more preparation and items than you start with, making it near impossible to get the ball rolling. Even if you do manage to beat an early task, the game can easily spiral out of control.\n\nAs with most games involving dice, this game is a little too dependent on luck. Even if you’re fully stocked and armed to the teeth, you can still scrub out and fail the task, potentially getting killed off right off the bat. There’s very little strategy involved.\n\nHowever, this app is probably better than buying the actual board game and getting frustrated at how much money you spent on that, so I would recommend the app over the board game if you NEED to play it. All in all, though, save your money and buy something like Ascension instead.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id230534057"
+                    },
+                    "name": {
+                        "label": "ThornOfEnvy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "2263671377"
+                },
+                "title": {
+                    "label": "Sound No longer works."
+                },
+                "content": {
+                    "label": "The sound no longer works for this game. Please fix.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id725268199"
+                    },
+                    "name": {
+                        "label": "JonathanOK"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2203144614"
+                },
+                "title": {
+                    "label": "Won't work"
+                },
+                "content": {
+                    "label": "Literally just bought this game and it keeps telling unable to download.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id319269183"
+                    },
+                    "name": {
+                        "label": "LiLxDRUMMERxBOY a"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2020066862"
+                },
+                "title": {
+                    "label": "Fantastic IOS port"
+                },
+                "content": {
+                    "label": "Like the title says, this is probably the best or one of the best board game ports I’ve ever played. \nIts a little annoying that the expansions are all priced so high, but its hard to complain when the physical game is 10x more expensive.\n\nSuper fun, this could easily be played in a group on a tablet as well, the only thing that you are missing by not playing the physical copy is the dice chucking but again thats okay!\n\nDon’t understand why it is ranked so low as of when I’m writing this review.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43467834"
+                    },
+                    "name": {
+                        "label": "Sanguinous Rex"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2012522489"
+                },
+                "title": {
+                    "label": "IPhone X"
+                },
+                "content": {
+                    "label": "We need iPhone X full screen support!  Great game though it’s a perfect example of how to take a board game and make it a video game.\n\nNow if they only made an iOS version of Arkham Horror card game, Arkham Horror & Eldritch Horror.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id102148900"
+                    },
+                    "name": {
+                        "label": "PeterSzG126"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "2010759176"
+                },
+                "title": {
+                    "label": "Fantastic game, however..."
+                },
+                "content": {
+                    "label": "This game is great! Really well ported to iOS. The problem is there is no skip button for the intro video!!!!!! Having watched it around a hundred times now I’m fed up!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id618553727"
+                    },
+                    "name": {
+                        "label": "Reformed Cultist"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1970222889"
+                },
+                "title": {
+                    "label": "Crazy difficult!"
+                },
+                "content": {
+                    "label": "Go read the blogs before you buy, people. I sure didn’t, and everyone agrees that this game is nearly impossible to win, even on the so-called easy levels. Everything is trying to make you lose the game, and the one time I actually got enough elder signs, the doom track advanced and I STILL LOST. I want my $3.99 back.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id17067485"
+                    },
+                    "name": {
+                        "label": "GamerAlan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1872605544"
+                },
+                "title": {
+                    "label": "Great game - faulty update"
+                },
+                "content": {
+                    "label": "The game is addictive and the expansions (small extra cost) really create some interesting variants.  With the recent update however, the sound no longer works quite right and lost the ability to skip through the opening story and other story elements (which takes awhile - really don’t enjoy sitting through that every time).",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41780740"
+                    },
+                    "name": {
+                        "label": "ArtieAP"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1808478659"
+                },
+                "title": {
+                    "label": "Pretty but broken"
+                },
+                "content": {
+                    "label": "The dice mechanic is broken. Pretty much impossible to achieve anything. Encounter win ratio is 3/10 which is ridiculous.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id146550785"
+                    },
+                    "name": {
+                        "label": "Phoeneix"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1642442431"
+                },
+                "title": {
+                    "label": "Fantastic Game!"
+                },
+                "content": {
+                    "label": "Love this game - challenging, but once you get used to the mechanics, quite fun and definitely winnable. Awesome that the developers just updated it to be 64bit!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28170472"
+                    },
+                    "name": {
+                        "label": "Ubisububi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.5.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1642307806"
+                },
+                "title": {
+                    "label": "Favorite iOS Boardgame"
+                },
+                "content": {
+                    "label": "So many boardgames that make it onto iOS just don't capture my imagination, but this one's different. Maybe it's the fact that it's cooperative rather than competitive. Maybe it's because winning is so rare that you can enjoy a good game even if you lose. Whatever it is, this one's my favorite, and I'm glad they took the time to update it to 64-bit.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11165023"
+                    },
+                    "name": {
+                        "label": "Taxburdett"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1575191292"
+                },
+                "title": {
+                    "label": "Please update this to 64 bit!"
+                },
+                "content": {
+                    "label": "Please update this to 64 bit!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id252956600"
+                    },
+                    "name": {
+                        "label": "Eddie Villegas"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1515034928"
+                },
+                "title": {
+                    "label": "Practically Unwinnable"
+                },
+                "content": {
+                    "label": "Almost impossible to win at any difficulty. The glyph rolls almost never give you a matching marker until your third roll if any, forcing you to be penalized time and time again, destroying your HP and Sanity while the computer racks up Doom counters and monsters on the board. There's almost no rhyme or reason to the A.I.; you will either be crushingly defeated or just narrowly beaten. There is no winning in The Elder Sign. Don't bother with this at all.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id369209702"
+                    },
+                    "name": {
+                        "label": "AaronAceAllison"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1484568714"
+                },
+                "title": {
+                    "label": "Disappointing"
+                },
+                "content": {
+                    "label": "Elder Sign is one of my favorite board games, so of coarse I bought it on the App Store. It's way harder than the board game. The dice rolls are close to impossible to get right. I'm up to a hard challenge but it's so hard I can't get my wife to even play it anymore. Love it cause it has sooo much potential but it's mostly just disappointing",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id109540256"
+                    },
+                    "name": {
+                        "label": "grilo_joe"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1478738974"
+                },
+                "title": {
+                    "label": "Not much fun"
+                },
+                "content": {
+                    "label": "I wanted to like this game. I really did. I'm a big Lovecraft fan. The thing is, this game isn't much fun because winning is just stupid difficult. I'm not afraid of a challenge but with no wins after a couple dozen games, there's not much motivation to keep playing. I'm sorry I paid for it. It's been deleted. For good.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26890265"
+                    },
+                    "name": {
+                        "label": "Unaragazza"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1468987828"
+                },
+                "title": {
+                    "label": "Great board game to video game transition"
+                },
+                "content": {
+                    "label": "I'm so surprised to see how low this game is rated. It's such a fantastic gameplay experience with great art and mood setting. It's smart, challenging, complex  but also immensely satisfying.\nI played the board game version two or three times with friends and enjoyed it, so I recently decided to pick up the video game version. First off, like the board game, the video game is not a gimme to win. It's a combination of luck, skill, and understanding of the various gameplay tactics. (Backstory, Elder sign is a simplified version of Arkham Horror, which is a six hour marathon of a game). \nIt took me a little while to learn the mechanics of the video game version, like how to focus the glyphs on a roll (basically, save the glyph you want). And it took even longer to get really good at learning how to select teams, how to manage resources like your spell and unique item cards, and how to send the right investigator in for a particular challenge. Sometimes luck isn't on your side and you get bad rolls, or you get loaded up on hard adventures. But sometimes it all comes together and it's much more satisfying for not always being easy.\nI've gotten to the point where I can usually beat the basic games. I liked the game so much that I purchased all three expansions and I have yet to beat any of those, but I'm getting close.\nThe expansions also give you new investigators. The Cthulhu expansion gives awesome investigators, the Alaska one has some good ones, but I wasn't excited about the investigators from the Egypt expansion (although Egypt has my favorite actual gameplay from any expansion). \nIn short, get this if you want to sink your teeth into a game and spend some time building your skills in it. If you want a fast game that you can play a few times, win and move on, it's probably not the right pick.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id210681177"
+                    },
+                    "name": {
+                        "label": "FerociousBeastX"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1452401758"
+                },
+                "title": {
+                    "label": "Major bug in the glyph rolls"
+                },
+                "content": {
+                    "label": "I like the idea behind this game, and I can imagine that I'd like the board game. But, as others have said, the glyph rolls just do not seem random.\n\nExample from my last game: my investigator deploys yellow and red glyphs, needs a Peril roll, does not get it in 4 or 5 rolls. Failed adventure. Next adventure, my investigator deploys a red glyph, needs a few Lore rolls, does not get it the entire time. These are easy adventures, impossible to complete because the dice do not ever show what you need.\n\nYes, random dice based games result in this kind of behavior. But for me, this is consistent. Easy was easy, normal so far has been impossible.\n\nI don't chalk this up to deliberate programming as some other reviewers have. I believe this is a bug that needs to be addressed. Particularly since it is obviously not happening to all players, based on the reviews.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id354896796"
+                    },
+                    "name": {
+                        "label": "AngryByte"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1433508576"
+                },
+                "title": {
+                    "label": "Excellent game. Expect to die. A lot."
+                },
+                "content": {
+                    "label": "First of all, in the last week I've played between 2 to 3 dozen rounds of this and have yet to beat the baddie once. Let me tell you why that is, and also why this game is a fantastic little horror gem. I have a deep seated love for the Lovecraft mythos and a general understanding of what a game emulating Lovecraft's themes should include, and this game does it well. \n\nAnyone that says this game is \"too hard\" either 1) doesn't understand the nature of the game or 2) the nature of Lovecraft's works.\n\nLet me address these 2 points. First of all, the nature of the game: the foundation of this game is dice rolls. Your ultimate success is based on chance and is altogether subject to RNG. There are certain guidelines that the game abides by (for example, difficulty levels, investigator selections, tool use timing and risks taken) and there is little that you, as a player, can do to manipulate the random aspects of this game. That doesn't mean you are powerless. As I listed above there are ways you can guide the general direction of the game, and influence ultimate goals, abilities and requirements. \n\nSecond, subject matter. Lovecraft's universe is a scary place and you as a member of the human race most often will end up succumbing to madness and ultimate failure, which you should expect from a cosmic horror game or piece of literature. Even when you \"win\", you're still just a meaningless human that doesn't hold a candle to the madness and chaos that is the eldritch existence and it's implications.\n\nMy first game I had no idea what I was doing and was going on adventures left and right with no thought to what I could do to affect the outcome and often ended in very little success (that is, total failure). I estimate I've about 2 or 3 dozen plays or so. My most recent game played I got to 9 elder signs (of 10 needed... So close!), and pulled an unfortunate combo of 2 doom tokens at the stroke of midnight which put me over the limit and ended the game. So I have gotten close to winning, once.\n\nIt should also be noted that I've only played this game on easy, that is, against Yig, and have yet to beat him. There is plenty of replay value here as long as you expect not to \"win\". You should expect to lose, to fight tooth and nail, to claw your way out of insanity's pit, to assess your last game and try to figure out what you could have done differently, or simply get back on the horse that tossed you for the 50th time.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id377348982"
+                    },
+                    "name": {
+                        "label": "spaceace90278"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1416314660"
+                },
+                "title": {
+                    "label": "Could of been good"
+                },
+                "content": {
+                    "label": "I can't win and I can't play with other people",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26226861"
+                    },
+                    "name": {
+                        "label": "Xcutionist"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1402673496"
+                },
+                "title": {
+                    "label": "Skewed Results"
+                },
+                "content": {
+                    "label": "As I absolutely love the tabletop game itself, this one is terrible.\nThe programming skews the results badly. It either makes you fail every time or you succeed every time. It never feels quite like real dice.  \nI can usually tell right away that I am going to fail or pass a test as soon as the first dice are rolled. \nToo much money for this kind of randomness.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24584406"
+                    },
+                    "name": {
+                        "label": "Logical Eagle"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1391900614"
+                },
+                "title": {
+                    "label": "Fun, great art and atmosphere"
+                },
+                "content": {
+                    "label": "I had a lot of fun playing this game. I liked building my team, and choosing which encounter to go after next. My first win came with one remaining investigator and a nearly full doom track, leading to an exciting conclusion. Looks like there will be more maps, monsters, and investigators in the next update. I look forward to it!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30944809"
+                    },
+                    "name": {
+                        "label": "NWSkyDriver"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1387483233"
+                },
+                "title": {
+                    "label": "Beautiful but cheats"
+                },
+                "content": {
+                    "label": "First the positive: game looks great. Artwork is nicely done and emulates art from the board game very well. The bad side, and it's a big one, is the game flat out skews the dice rolls. I want truly random outcomes...this game doesn't do that. I have the boards game and have never had as many failed rolls as this thing throws at you. Waste of money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33134166"
+                    },
+                    "name": {
+                        "label": "Brook V"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1338980368"
+                },
+                "title": {
+                    "label": "A strategy game that will torment you!"
+                },
+                "content": {
+                    "label": "First off, the game does not cheat. You have to find the right mix of investigators for the adventures and be careful about playing spells, clues and red and yellow dice rolls. If you come out swinging as soon as the game starts, you will be devoured! You can win this game! Though it might be by a very close call!! It is brutal and challenging!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id20611752"
+                    },
+                    "name": {
+                        "label": "n107"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1336178644"
+                },
+                "title": {
+                    "label": "Cheap Tactics"
+                },
+                "content": {
+                    "label": "First the good: it's beautiful game using the artwork that makes FFG's board games so atmospheric.  In addition, the game has run smoothly for me with no technical issues.  \n\nThe Bad:  The game cheats.  There's no other way to say it.  Play the easy boss and almost every roll seems to give you what you need.  Move up to the next difficulty boss and suddenly you can even roll a single Investigation (the most abundant result on all the dice) when needed.  \n\nThat's no to say the game can't be won, it just means that the game is PROGRAMMED to stop you.  The difficulty is artificial and has no connection to the boss itself, it's just written into the programming.  \n\nIn other words, you're playing with a cheater. \n\nWhether it's cheating to make you win or cheating to make you lose, it's a disingenuous experience.   Some people may not mind but I can't stand this type of idea in gaming.  And shame on the makers of this game for violating the spirit of gamesmanship.   \n\nSo basically I've had my money stolen by tricksters when I just wanted a way to play this game digitally on the go.  I suppose I'll have to just break out the physical version when I have time if I want to experience the TRUE game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id124663039"
+                    },
+                    "name": {
+                        "label": "MCoverKT"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1327937249"
+                },
+                "title": {
+                    "label": "Awesome game"
+                },
+                "content": {
+                    "label": "Best translation from board to phone that I could ask for. I have a few nitpicks though. \n\nI would have liked a tutorial instead of videos, but after I poked around the menus, I'm extremely happy. \n\nThis one I'm torn on. Expansions are cool and all, but the three expansions they offer here are actually the complete core game from the table top. Or at least two are. After seeing that, I felt like I paid for an incomplete game. HOWEVER: this game is a lot cheaper than most table top translation games (by half almost) so, I kind of like the idea that I'm buying a smaller version to see if I like it. Which I do. And I will buy the expansions. \n\nSo, that's my cons, my pros are that its every bit the experience you get from the table top playing solo. \n\nI highly recommend the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25562649"
+                    },
+                    "name": {
+                        "label": "hlb"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1310445861"
+                },
+                "title": {
+                    "label": "Hate to love it."
+                },
+                "content": {
+                    "label": "An evil little slot machine that will repeatedly bite you in the butt in sometimes downright unfair ways (I'm looking at you, midnight effect right before midnight). But it's pretty, and given that it has me coming back for more again and again and again, it would hardly make sense for me to rate the game low. I'm obviously entertained, and the pleasure quite outweighs the frequent frustration. If you like your games challenging--REALLY challenging--you can consider this a recommendation.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id434399724"
+                    },
+                    "name": {
+                        "label": "Supermcghie"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1306221231"
+                },
+                "title": {
+                    "label": "Not worth the price."
+                },
+                "content": {
+                    "label": "I would first like to say that this game is definitely beatable.   I have won 80% of the time.   That's out of about 10 games or so.   Saying that, I would say it's not worth the money.   They give only 4 bosses to play, and you have to pay way to much to unlock more.   Also they only have maybe half the characters available and the rest have to be purchased.   I'm already getting bored with the bosses and will not be spending more money to unlock the rest.  They should change it.  Thanks for a fun, yet too expensive game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id31949301"
+                    },
+                    "name": {
+                        "label": "Vandaexpress"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1294392489"
+                },
+                "title": {
+                    "label": "A Fantastic Game"
+                },
+                "content": {
+                    "label": "I don't ordinarily leave many reviews but when I saw how low-rated this app was, I had to sign in. I've spent dozens of hours with this game since I originally bought it. It's very well designed and the game is intended to be challenging—you really have to play and lose a few times before you start to grasp the underlying strategies. \n\nFinally, understand that this is Lovecraft. The entire mythos is based on the concept that mankind is fighting a losing battle against overwhelming dark forces and victory does not come easy or cheap.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id478272973"
+                    },
+                    "name": {
+                        "label": "Snag1313"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1284244351"
+                },
+                "title": {
+                    "label": "Ramos up too fast"
+                },
+                "content": {
+                    "label": "The tasks become way too tough after the first \"easy\" level.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49485804"
+                    },
+                    "name": {
+                        "label": "Kdl88"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1280749999"
+                },
+                "title": {
+                    "label": "Game is not hard once you figure out the styles"
+                },
+                "content": {
+                    "label": "This is a great game and It convinced me to buy the board game and both expansions along with Eldritch Horror.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id188386719"
+                    },
+                    "name": {
+                        "label": "Judaschrist"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1274408086"
+                },
+                "title": {
+                    "label": "Works great, not hard, helped with board game."
+                },
+                "content": {
+                    "label": "As the title says, the app isn't hard or impossible. As with most ffg card/board games, it's complex but that's what I love so much about them. These sort of board games needs to be fully understood prior to judgement, learn the rules to the game, then play it. \n\nWhy I'm so appreciative that ffg released this app is because I was hesitant of purchasing the board game due to how complex the gameplay might be. After playing (and learning the game) for a couple days and went right out and bought the hard copy. The gameplay on the hard copy is just as amazing, if not more. I recommend that as well! \n\nLEARN THE GAME, THEN PASS JUDGMENT.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id204168310"
+                    },
+                    "name": {
+                        "label": "abb007"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1267116355"
+                },
+                "title": {
+                    "label": "Great Game, and actually IS winnable"
+                },
+                "content": {
+                    "label": "I'm a big fan of the Elder Sign board game, so I grabbed this game just for fun. It's certainly more difficult than the board game, with a few of the mechanics being different, but I love it! You have to know the game. Know the characters and what each is capable of. It is not just luck. It is luck mixed with strategy and understanding of odds. Yes, sometimes you'll get awful rolls, but that happens when playing with real dice, too. Be smart about your play, and you can get the upper hand. Seriously, I play a LOT of different tabletop game, including every one of FF's Lovecraftian games, and they all have some element of luck to them. On this app, I win about 60% of the time, but it's a challenge every time! Don't buy it, or any Fantasy Flights game for that matter, if you don't want to work hard for your wins! :)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30889605"
+                    },
+                    "name": {
+                        "label": "The great gadfly"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1241375254"
+                },
+                "title": {
+                    "label": "Hated it"
+                },
+                "content": {
+                    "label": "I heard great things about the board game, so I thought this would be a good primer. From what I understand the board game is difficult as well, but at the table, with friends, you can bond over the stress and take great pleasure in the rare win.\n\nThat DOES NOT translate over to a mobile game where the majority of the games played will be solo. You can employ strategies to not loose as fast, but that's it. You have NO control over the game results because the success or failure is determined by random glyph generation. So this game is nothing more than a glorified slot machine. \n\nYour good performance and smart game play WILL NOT BE REWARDED because you can't stop the progress of the old ones. \n\nI like FFG, and play some of their games, but this game? \n\nUTTER GARBAGE.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id152572120"
+                    },
+                    "name": {
+                        "label": "DayLightNd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1212003533"
+                },
+                "title": {
+                    "label": "Great game play!"
+                },
+                "content": {
+                    "label": "I brought this app before playing the board game. I enjoyed this app very much. It has a lot of options, so each game feel new. It is a hard game, but with every game, the more you play the more you learn the better you get.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id344620728"
+                    },
+                    "name": {
+                        "label": "Foxman58"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1208399930"
+                },
+                "title": {
+                    "label": "Best game on iPhone"
+                },
+                "content": {
+                    "label": "This game is better then the boardgame version. Challenging but fair. I have beat all the ancient ones but ithaqua but I came close. Few more tries; the catch is to get at least 18 supplies before you launch the expedition. Great game. Great graphics.  Great story line. Great sound effects.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id12278283"
+                    },
+                    "name": {
+                        "label": "ktlevesque"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1196701655"
+                },
+                "title": {
+                    "label": "Not too shabby"
+                },
+                "content": {
+                    "label": "Nice port of the board game. For the haters, read a strategy guide. My only complaint is the In-App-Purchases; the extended game play is overpriced for a $4 game, they should be included.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id346214266"
+                    },
+                    "name": {
+                        "label": "Erickaca"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1175765565"
+                },
+                "title": {
+                    "label": "Too hard"
+                },
+                "content": {
+                    "label": "The reviews saying that the game is too hard are right. The rolls on the glyphs are ridiculous! I had all 4 investigators on one adventure and not a single one was able to complete it. Even with focusing and adding red and yellow glyphs. Not only that but it seems like the midnight effect adds too many doom track tokens. I have not one a single game and I've only played with Yig as the Ancient One and he's supposed to be \"easy\" this game needs a major update on glyph rolls or the glyph requirements per adventure and stop making the midnight effect add 2 doom tokens!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37344076"
+                    },
+                    "name": {
+                        "label": "Ohaitsu"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1145603465"
+                },
+                "title": {
+                    "label": "Better then the board game"
+                },
+                "content": {
+                    "label": "A great game with varying levels of challenge. From easy to premeditatedly insane, you pick your own difficulty level (by choosing which god you fight).\n - Tip: If having trouble, choose to play with only two investigators. And make sure they are both good ones.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id161449445"
+                    },
+                    "name": {
+                        "label": "Chuckaliciousw"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1130612508"
+                },
+                "title": {
+                    "label": "Challenge Accepted"
+                },
+                "content": {
+                    "label": "This is a great game. I was happy to finally come across a game that wasn't super easy and required some forethought and planning in order to have a chance at winning. The low reviews aren't due to the game being low quality, they were simply because you aren't going to win every time you play and certainly not your first time. I like games that provide a challenge, if you want a challenge instead of mindless tapping at a timed interval, this could be the game for you.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id384516323"
+                    },
+                    "name": {
+                        "label": "Jomunjie"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1124796161"
+                },
+                "title": {
+                    "label": "You will never win. Never."
+                },
+                "content": {
+                    "label": "I've played and played and played again. I have never gotten even close to winning. It's impossible to win ever when you need ridiculous dice results, never get what you need, and advance the doom tokens by 2 for rah midnight strike on the clock. \n\nThis game literally makes me insane!!! I like a challenge, but a win would be nice once in a while. \n\nMechanics are great, love the simplicity of it, hate the fact that it's unimaginably impossible to win. \n\nI forgot to mention, it's impossible.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id146273876"
+                    },
+                    "name": {
+                        "label": "UnAngelLily"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1124690973"
+                },
+                "title": {
+                    "label": "Great game if you could win"
+                },
+                "content": {
+                    "label": "The probability in this game is so rigged that it's not worth playing unless this is fixed. I've played the actual board game, which is fun, but because the digital game tends towards giving you low chances of getting even one thing you need for any given adventure it makes the game so frustrating. Don't buy unless the app is changed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id120571865"
+                    },
+                    "name": {
+                        "label": "Clayton.ross"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1118276276"
+                },
+                "title": {
+                    "label": "Decent"
+                },
+                "content": {
+                    "label": "Neat concept and great design on the iOS.\nFelt like too much of a luck driven game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=475404533&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:39:36-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=475404533/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=475404533/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=475404533/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=6/id=475404533/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=475404533/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=475404533/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=475404533/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=475404533/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=475404533/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=475404533/sortBy=mostRecent/json"
+        }
+    }
+}

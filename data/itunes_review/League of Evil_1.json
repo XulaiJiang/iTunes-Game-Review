@@ -1,0 +1,209 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id826682264"
+                    },
+                    "name": {
+                        "label": "rydjrtdjryd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3538387332"
+                },
+                "title": {
+                    "label": "So bad it makes me mad"
+                },
+                "content": {
+                    "label": "So bad it makes me 😡",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1071359599&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id313591780"
+                    },
+                    "name": {
+                        "label": "ItachiRaven"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1330428601"
+                },
+                "title": {
+                    "label": "Rip off"
+                },
+                "content": {
+                    "label": "I really hope Riot knows that you're ripping off all of their champs from League of Legends. \n\nGaren, Ashe, Brand, Karma, and others.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1071359599&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id401729395"
+                    },
+                    "name": {
+                        "label": "bardock9051"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1325811356"
+                },
+                "title": {
+                    "label": "An Exact Copy"
+                },
+                "content": {
+                    "label": "This is pretty much an exact copy of Clans of Heroes by papa box. Even while the game is loading it says papa box. Even the description is pretty much a copy, except that it has no proper grammar from fake reviews. The loading screen is a copy just with 3 random characters added in. The graphics are also an exact copy. This game should be removed for being an exact copy. DO NOT GET THIS GAME!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1071359599&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:44:04-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1071359599/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1071359599/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1071359599/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1071359599/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1071359599/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1071359599/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1071359599/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1071359599/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1071359599/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1071359599/sortBy=mostRecent/json"
+        }
+    }
+}

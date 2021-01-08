@@ -1,0 +1,632 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id104196206"
+                    },
+                    "name": {
+                        "label": "vpalmer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "697711725"
+                },
+                "title": {
+                    "label": "Rimelands hammer of thor"
+                },
+                "content": {
+                    "label": "I thought this actually had something to do with thor this game is BOGUS CRAP",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id118593979"
+                    },
+                    "name": {
+                        "label": "Phinszilla"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "688724393"
+                },
+                "title": {
+                    "label": "Dud"
+                },
+                "content": {
+                    "label": "Not good at all.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43518640"
+                    },
+                    "name": {
+                        "label": "thebirdman7"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "554654890"
+                },
+                "title": {
+                    "label": "Looks great but the dice thing destroys game play"
+                },
+                "content": {
+                    "label": "Graphics are decent but I just can't stand the waiting for the dice rolls",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id185643977"
+                    },
+                    "name": {
+                        "label": "_!Kh0a!_"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "513003189"
+                },
+                "title": {
+                    "label": "What the?"
+                },
+                "content": {
+                    "label": "I  was excited to get this game and when I tried it out, I had to play as a girl and yet I'm a boy. Plus you have to stick as a girl for the rest of the game and you have to upgrade to continue on to more levels. So for anyone who wants to install the app, don't if you are a boy.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id176249582"
+                    },
+                    "name": {
+                        "label": "Upset and angry87"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "475971239"
+                },
+                "title": {
+                    "label": "Good but not for price"
+                },
+                "content": {
+                    "label": "5 bucks for such a short game? If they have a 99 cent sale I'll pick it up for sure and give it a 5 star rating. Arlan is a great game as well as siegecraft. I'd like to play pocket rpg but my iPod 3G 32gb won't run it. Y'all make great games and this one looks a blast but I can't see dropping 5bucks on such a small game. Have a sale or increase content.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id85811909"
+                    },
+                    "name": {
+                        "label": "Thorium9000"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "472613472"
+                },
+                "title": {
+                    "label": "not worth $5"
+                },
+                "content": {
+                    "label": "I would pay $2 or maybe $3",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id186391164"
+                    },
+                    "name": {
+                        "label": "Tom Zomby"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "470159875"
+                },
+                "title": {
+                    "label": "Huh?"
+                },
+                "content": {
+                    "label": "I don't get or like the dice thing",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id128079057"
+                    },
+                    "name": {
+                        "label": "RobClark"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "461206043"
+                },
+                "title": {
+                    "label": "Where's the...Sale?"
+                },
+                "content": {
+                    "label": "I've tried this Lite version and liked it. Now I'd like to get the full version, since it *says* it's \"80% off\"...but it *shows* as FULL PRICE! Could somebody fix the price on the full version, or am I just hallucinating?! (P.S. I left this *here*, because I can't leave it *there* without buying it first; Catch 22, anyone?)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id152733281"
+                    },
+                    "name": {
+                        "label": "DonB1"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "458623505"
+                },
+                "title": {
+                    "label": "Dice was a dumb move"
+                },
+                "content": {
+                    "label": "Didn't care for this game.  Aralon by same group is great though.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id176105066"
+                    },
+                    "name": {
+                        "label": "The Real Kel"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "424691217"
+                },
+                "title": {
+                    "label": "Looks okay but demo too short"
+                },
+                "content": {
+                    "label": "The demo is way too short. Supposedly it's three levels, but I completed it in under half an hour.\n\nIt is a bit confusing, with messages saying things like \"press any key to continue\", etc. Also, the controls are kinda weird for an iOS game, with a \"d-pad\" to move. Also a bit of a turn off is that you can't change the camera angle, a bit of a hinderance in some places.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id106882377"
+                    },
+                    "name": {
+                        "label": "Sevren117"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "423962025"
+                },
+                "title": {
+                    "label": "Great game!!"
+                },
+                "content": {
+                    "label": "Thanks for making such a fun game!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42001908"
+                    },
+                    "name": {
+                        "label": "take_me_seriously"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "410775730"
+                },
+                "title": {
+                    "label": "Turn based = Turn off"
+                },
+                "content": {
+                    "label": "Wish I knew that before I wasted my bandwidth.\n\nLooks like a pretty good game, though.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=426542677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "4"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:27:16-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=426542677/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=426542677/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=426542677/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=426542677/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=426542677/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=426542677/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=426542677/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=426542677/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=426542677/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=426542677/sortBy=mostRecent/json"
+        }
+    }
+}

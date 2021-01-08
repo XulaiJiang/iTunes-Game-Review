@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id756138668"
+                    },
+                    "name": {
+                        "label": "MrMaxxPower"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.6.5"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4703950401"
+                },
+                "title": {
+                    "label": "Can’t play"
+                },
+                "content": {
+                    "label": "Orientation does not flip. Literally unplayable.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27842327"
+                    },
+                    "name": {
+                        "label": "The Skootch"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.6.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4692437105"
+                },
+                "title": {
+                    "label": "Great game!"
+                },
+                "content": {
+                    "label": "The game plays well and seldom crashes. \nVery dense storyline at first. \nA couple things that I think would improve the experience:\n1- not dropping you into the prince missions so early in the game, that is, give people some trade routes to run, simple missions that don’t cause reputation loss. \n2- on the same subject, reputation loss when you’re doing a spy mission, or secretly dropping off a passenger should not be a thing. If you didn’t get caught, why are people bashing you!?\n3- further stat distance between ship upgrades. \nWhy bother to buy anything but the best weapons/armor? They’re comparatively cheap. \n4-allowing story characters that come aboard to change into your ship’s uniform. \n5- missions to get “level 11” gear, explicitly. \n6- ships that don’t require mass dampeners to exist. It’s annoying to have them there, although I understand the usefulness at times. \n7- if you carry an edict, and you’re doing legal work for a prince, I don’t think you should be concerned about rep loss, maybe that goes along with “getting caught”. \nI have other ideas to make the game a bit more interesting, but those are the big ones. \nEagerly awaiting the ability to rank my character past level 40!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id210501867"
+                    },
+                    "name": {
+                        "label": "Anu3bis"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.87"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4679276960"
+                },
+                "title": {
+                    "label": "Bug report: crash on plot"
+                },
+                "content": {
+                    "label": "Not to give a spoiler, but there is a cut scene involving a person in a green tube, the screen shakes...and the game crashes.  Help?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26057922"
+                    },
+                    "name": {
+                        "label": "Passepartout"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.87"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4675474863"
+                },
+                "title": {
+                    "label": "Deep, interesting, requires magnifying glass to play on phone"
+                },
+                "content": {
+                    "label": "This is a preliminary review since I’m only a couple of hours into a truly byzantinely deep game. \n\nOut of the box, I like the presentation and the fact you can pick your character’s face and garb from a large selection of diverse and appealing options. \n\nThis is a management-centric game in the spirit of Star Trek or Firefly in terms of fiction and Privateer or Star Command in terms of games. You manage a ship and crew, being able to equip and upgrade ships and develop the skills of your crew (which is large) in considerable detail. \n\nMissions are convoluted, the back story is rich, and you have choices everywhere. E.g. you can not only pick missions and decide what approach to take at every juncture but the impact of your crew and their skills is explicit. \n\nSpace combat is a bit disappointing (so far). It’s turn based and you basically click buttons and watch numbers go by. That said I’ve not gotten far and the mechanics have a lot of depth so it may grow on me.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36083793"
+                    },
+                    "name": {
+                        "label": "plaintiger"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.87"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4673857784"
+                },
+                "title": {
+                    "label": "Too tiny to see 🥴"
+                },
+                "content": {
+                    "label": "This game can’t be played on an iPhone – not even a big iPhone – without a magnifying glass or continual zooming in and out, without inducing horrendous eye strain. Very complex UI with very many microscopic elements that need to be examined closely. This game should be for iPad only, and only the bigger iPads at that. I’ve managed to play a little of it and I have enjoyed it, but my eyes and my patience will not permit me to continue unless I invest in a bigger device or some kind of magnifier that I don’t have to hold in my hand.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id125909584"
+                    },
+                    "name": {
+                        "label": "Eriptron"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.87"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4673637210"
+                },
+                "title": {
+                    "label": "Will always be on my device!"
+                },
+                "content": {
+                    "label": "Update: The one thing I don’t care for are the big, lay over the WIKI text ads. That could be done much better. I exited the WIKI and won’t use it. Minus one star.\n——\nStar Traders: Frontiers And Star Traders 4X Elite, along with Xoom, will always stay on my iPad.\n\nI think that this developer does one of the best, if not ‘the’ best, job with updating, expanding and improving Star Traders: Frontiers!\n\nAnd it just keeps getting better...just wish I was better at the game. lol",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id277017915"
+                    },
+                    "name": {
+                        "label": "kobet_"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.87"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4673582593"
+                },
+                "title": {
+                    "label": "The best iPhone game I have ever played"
+                },
+                "content": {
+                    "label": "1000s of hours of fun",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id138804442"
+                    },
+                    "name": {
+                        "label": "ShadowDawn1"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.87"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4670766188"
+                },
+                "title": {
+                    "label": "LOVE THIS GAME!"
+                },
+                "content": {
+                    "label": "I always have doubts about mobile games because most are crap. This game is NOT one of them. It is detailed, in-depth, and engaging. The learning curve isn’t that bad, but once you learn the menus, it’s all gravy. It’s surprisingly complex for a mobile game; for instance, I had no idea you could equip your captain, officers, and crew with items until a contact offered to sell me military equipment. Fantastic game! Trading is easy and fun: once you land on a planet you can look them up in the Atlas and see what items they sell or buy, and see if their prices are better or worse then others in the system. No regrets here! Thank you Trese Brothers for making a great game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id447434352"
+                    },
+                    "name": {
+                        "label": "Centurion041"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.79"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4668237426"
+                },
+                "title": {
+                    "label": "Pretty good game, would recommend"
+                },
+                "content": {
+                    "label": "This is a pretty decent game that I came across while looking for another one. Good storyline (but could be expanded, particularly late-game, I think), but there’s one thing that I think could improve the game. With ship combat, I think it would be interesting to have multiple ships available in the same battle. Sort of like convoy tactics, where a merchant may be protected by a couple cruisers or a carrier plus a battle cruiser, just opening up more specialized ships and more battle options. But again, great game, just something I think could be implemented.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1055824935"
+                    },
+                    "name": {
+                        "label": "sithlord fan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.79"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4655098900"
+                },
+                "title": {
+                    "label": "How to change difficulty?"
+                },
+                "content": {
+                    "label": "I believe I’m playing on basic difficulty and I surveyed ten planets in less then a year but did not unlock ship for it.is basic difficulty the same as normal and if not how do I change it to normal so I can unlock ship?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id253140522"
+                    },
+                    "name": {
+                        "label": "LordLicorice"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.79"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4654834896"
+                },
+                "title": {
+                    "label": "Solid game"
+                },
+                "content": {
+                    "label": "There is a learning curve to this game, be sure of it. Once you get it you will truly enjoy it- just be ready to die or languish horribly on your first few tries. Keep at it- its worth it!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id995130149"
+                    },
+                    "name": {
+                        "label": "JLFiggy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.79"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4616298854"
+                },
+                "title": {
+                    "label": "Endless galaxies but little to explore."
+                },
+                "content": {
+                    "label": "The game has a fair amount of depth mechanically, both in and out of combat, and whether you’re a smuggler, pirate, or bounty hunter, there are a ton of ways to make money. And it’s getting constantly updated and bug-fixed, so it’s nice to see how the game is updating weekly. The narrative elements that are in the game are interesting. \n\nBut the narrative experience is a bit hollow and the world is devoid of charm. There’s not much to really grind towards - no bases to build, fleets to run, and the allies you make are little more than glorified fetch-quest givers - though that’s all you’ll be doing. The difficulty is also wonky, you’ll quickly be hunted by other factions unless you play extremely neutral (which is all but impossible) and on bigger maps this makes getting around a real pain in the rear. \n\nThe game has a lot of potential, I’m excited to see where it goes. Will update later.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28249438"
+                    },
+                    "name": {
+                        "label": "iamhootis"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.79"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4608851388"
+                },
+                "title": {
+                    "label": "Buggy gameplay and SO not worth the time"
+                },
+                "content": {
+                    "label": "After wasting a few hours playing, you will start to see the little bugs that will kill you and all fun immediately for a game of this type. Losing hp for no reason, magically cheating opponents, rules that apply differently to you, etc. I’m deleting it and moving onto an app that cares enough to make the gameplay the highest priority, not their 50 pages of credits.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id375279086"
+                    },
+                    "name": {
+                        "label": "Eeik5150"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.79"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4608375062"
+                },
+                "title": {
+                    "label": "Amazing game, one issue"
+                },
+                "content": {
+                    "label": "This game is basically Freelancer (Discovery Mod) as a turn based, menus driven game...and it excels at it in every imaginable way.\n\nMy only issue (it’s both minor and yet not) is that I replaced my medical bay with an advanced medical bay in order to free up an officer’s quarter (since it comes with one) and replace that with something else. My ship details show (4/4) officers and hull size 5 officers, but I can’t remove one of the quarters. I keep getting a warning that I need to release the officer...I don’t really want to lose any officers. They are all above level 15. I’d love to be able to kick my doctor/combat medic officer to the medical bay.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101125769"
+                    },
+                    "name": {
+                        "label": "Ricexeater"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.77"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4600066354"
+                },
+                "title": {
+                    "label": "Best indie game ever"
+                },
+                "content": {
+                    "label": "The gameplay is wonderfully complex with a lot of detail and planing. Half of your battle strategy needs to be thought out even before you get into a battle. The writing and word choice are immersive. If you read the text carefully, you can really get into it. When you believe you are being terrible your officers seems to always have your back.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id122460495"
+                    },
+                    "name": {
+                        "label": "Zenshi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.75"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4547379277"
+                },
+                "title": {
+                    "label": "Fantastic"
+                },
+                "content": {
+                    "label": "This game is great!  The devs listen to feedback and have crafted a very fun turn based game.  I enjoy it so much I also got the pc version.  Lots of replay ability.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16729636"
+                    },
+                    "name": {
+                        "label": "Trilinguist"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.71"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4532639617"
+                },
+                "title": {
+                    "label": "Best game on iOS"
+                },
+                "content": {
+                    "label": "I am completely blown away by the depth and fun of this game. I wish I could pay more money for it. \n\nIn a mobile world filled with f2p garbage, I am so, so happy to have this gem.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id617909133"
+                    },
+                    "name": {
+                        "label": "Hybrid20/the mh vet"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.71"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4521588532"
+                },
+                "title": {
+                    "label": "Mind blowing"
+                },
+                "content": {
+                    "label": "“Is this seriously a mobile game?”  was what I first asked when I first booted it up. This game is big and I mean big. At first it’s a lot to take in, you start off with like 30 crew members in your ship and they all play a part in your experience from passing skill checks, helping in blockades, patrols, and spying they also help in combat (space and ground). Then the contact and faction system is just woah(can’t even put into words atm). Every choice felt like it mattered and it also felt like the galaxy changed around me from those choices. This game is truly a diamond in the rough for mobile Gamers and is highly recommend it, if you like rpgs this game is for you. I’ll see you among the stars traders. Another plus is the fact that the developers are constantly communicating and updating the game. Like seriously I feel like everyday I check for updates star traders is the first thing to pop up on what needs an update.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "4"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id301121494"
+                    },
+                    "name": {
+                        "label": "Abukoff"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.69"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4516550536"
+                },
+                "title": {
+                    "label": "Really awesome game except for..."
+                },
+                "content": {
+                    "label": "Folks I love the game. Everything about it. Except that the font is kind of small on an iPhone, for my old eyes I guess. It would be great if that was somehow adjustable. Everything else is awesome.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id34206465"
+                    },
+                    "name": {
+                        "label": "z-myster"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.67"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4504482770"
+                },
+                "title": {
+                    "label": "Impressive!"
+                },
+                "content": {
+                    "label": "I was originally playing Heroes of Steel and stoked with the game advancement and storyline progression, so I thought to give ST a shot. Admittedly, I was a bit overwhelmed at first and confused about what to do. I wanted to give it a fair review so decided to wait til I understood the game better. Now I am hooked!!!\n\nI was impressed with the HoS storyline development, blown away with ST! This is my favorite game on my phone by far. Short bursts or for a long space session, this game has crazy amount of replay possibilities. Wow, just wow! Amazing work Brothers!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id816908414"
+                    },
+                    "name": {
+                        "label": "plind04"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.57"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4430387509"
+                },
+                "title": {
+                    "label": "Great Game"
+                },
+                "content": {
+                    "label": "This game is fantastic, I’ll admit it’s not for everyone but it’s extensive and has tons of replayability. It does seem a little repetitive but overall it’s a great game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1013467072"
+                    },
+                    "name": {
+                        "label": "Random_Person11"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.57"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4407346474"
+                },
+                "title": {
+                    "label": "Absolutely worth the $7"
+                },
+                "content": {
+                    "label": "I’m downright amazed that this app is as good as it is. While it’s a bit hard to get a grasp on initially, I’ve sunk so many hours into this thing and I’m still not bored of it. Even after like 15+ games I’m still finding new stuff I didn’t even know existed previously. The game is surprisingly complex and has a lot of options, there’s a lot of play styles available and a massive amount of replay value. I could go on about this game for a long time but I’ll spare everyone the wall of text- If you like sci fi, more complex RPGs, and don’t mind something of a learning curve at the start, odds are you’d like this app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id395577675"
+                    },
+                    "name": {
+                        "label": "Dreaming of Wolves"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.57"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4393180400"
+                },
+                "title": {
+                    "label": "Too complicated"
+                },
+                "content": {
+                    "label": "There’s a world of depth hidden beneath a film of difficulty. I just can’t dive past. Be prepared, this game is NOT easy to get into. It’s complex and it’s confusing and the tutorial is weak. This is the kind of potential that will leave you frustrated, not because it’s too complex but because you try really, really hard to enjoy it but you just can’t because the missions mapping doesn’t work and you wander aimlessly or there’s some mechanic that you thought you knew but actually worked differently or you run out of resources because you just don’t know anything so you stuck to a planet system because the stupid mission wouldn’t work and then couldn’t come out.\n\nThis is the climax of frustration. I cannot recommend.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id428768092"
+                    },
+                    "name": {
+                        "label": "DF5274"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.49"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4340682464"
+                },
+                "title": {
+                    "label": "Fantastic once you give it a try"
+                },
+                "content": {
+                    "label": "The first time I attempted to play this game, I gave up after a few minutes thinking that it was boring and ugly. I decided to give it another try the next day and I’ve been absolutely addicted to it since. It’s a very unique experience and I can’t wait for more content.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id111257916"
+                    },
+                    "name": {
+                        "label": "Ulakeview"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.47"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4322499538"
+                },
+                "title": {
+                    "label": "Wow. Best game for iPhone I’ve ever played"
+                },
+                "content": {
+                    "label": "I’ve bought a lot of games on the App Store and some greats like bards tale and Stardew. But this is by far the most addicting. It’s a really good steam game that you can play on the iPhone (I have 10s). I’ve had it for a few days and can’t stop playing it.\n\nThe story I’ve only dipped into but it’s clear player choice matters and is core to the game. There is a infinite amount of depth but I chose a custom difficulty this first play through to get acquainted. You could just stay at an easy difficulty and just play the game for the story and as a progression rpg or play something as hard as FTL while managing the complexity of EVE online. \n\nLike I said been a few days but this might become my all time favorite game on iPhone. (Stardew holds the title right now)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id48995660"
+                    },
+                    "name": {
+                        "label": "Randal Battalis"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.43"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4298412592"
+                },
+                "title": {
+                    "label": "ᕦ(ò_óˇ)ᕤ Fantastic (๑˃̵ᴗ˂̵)و"
+                },
+                "content": {
+                    "label": "Incredible game from an incredible developer. Deep and open sandbox that is not a simple phone game. This is a full pc quality game that’s been ported quite well to phones. It gets frequent updates and the developer is very engaging with the community. \n\nReally. And this is a real live human being saying this. Not some robot algorithm designed to increase market whatever. \n\nIt’s good. Full stop.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id9208135"
+                    },
+                    "name": {
+                        "label": "MetroNorseman"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.39"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4263169973"
+                },
+                "title": {
+                    "label": "Tedious, Boring"
+                },
+                "content": {
+                    "label": "I wish I didn’t waste money on this. The economy is broken, it’s a RNG fest. Not fun or satisfying at all.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id186311371"
+                    },
+                    "name": {
+                        "label": "Ceez.err"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.33"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4243734797"
+                },
+                "title": {
+                    "label": "Fantastic Mobile Game"
+                },
+                "content": {
+                    "label": "I've got a few hours in this and just wow 😲! Mad props to the developers. This is such a great gaming experience. I love going around the galaxy and keeping my spaceship and crew running. Do yourself a favor if you're looking for a top quality mobile game get this now!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id418578778"
+                    },
+                    "name": {
+                        "label": "hdjdndjduxuud"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.33"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4227104415"
+                },
+                "title": {
+                    "label": "Newest update 5-27-19"
+                },
+                "content": {
+                    "label": "Zeno ship combat has gotten way too difficult after newest update.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id446546949"
+                    },
+                    "name": {
+                        "label": "0102020201920202"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.25"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4220143396"
+                },
+                "title": {
+                    "label": "Finally ⭐️⭐️⭐️⭐️⭐️"
+                },
+                "content": {
+                    "label": "If the description of the game sounds interesting just go ahead and jump right in.  There is a lot to learn but the game kind of eases you into it. It’s not completely overwhelming from the start.  This is the space/4x game I’ve been looking for. It does everything right. I couldn’t wait to share the App Store link with a couple of friends that are into sci-fi/ 4x games.  This game is well worth the price.  After putting a couple hours into the game I would say that it is 💯% with the price.  Only minor complaint is it needs to have iCloud save so I can go from phone to iPad. Other than that, Easy 5 stars. ⭐️⭐️⭐️⭐️⭐️",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id735145053"
+                    },
+                    "name": {
+                        "label": "Matt Bobzien"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.25"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4146824320"
+                },
+                "title": {
+                    "label": "Simply the best"
+                },
+                "content": {
+                    "label": "I played Star Traders back in the day and this is just a beautiful sequel. It’s rich and in depth game play and story is just what I want in a strategy RPG.  I love these developers and can’t wait to see what other games they have.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30125659"
+                    },
+                    "name": {
+                        "label": "Ali Senegali"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.19"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4130503150"
+                },
+                "title": {
+                    "label": "So much depth and breadth for a mobile game!"
+                },
+                "content": {
+                    "label": "You can easily get lost in this game. Part of the fun struggle to make money for your ship to pay for crew and other ship expenses. \nBut mostly you are struggling to keep your ship intact and crew alive and high in morale so they don’t desert you. \nYou can play different roles in space and they are all fun. I just wish it was possible to commandeer an enemy’s ship as a pirate. \nBut I’m so satisfied with the game overall, that o bought it for my MacBook too.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100877126"
+                    },
+                    "name": {
+                        "label": "FromLeftField"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.19"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4124450647"
+                },
+                "title": {
+                    "label": "Amazing game"
+                },
+                "content": {
+                    "label": "I had tried their old star trader RPG game a long time ago but just did not get into it. \nThis game however is amazing. So much depth and things to do. The learning curve can be steep but learning is part of the fun. Just don’t expect your fist games to be ones where you are king of the hill and experiment. Great game and NO IAP!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id243132395"
+                    },
+                    "name": {
+                        "label": "Myself an I"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4045559071"
+                },
+                "title": {
+                    "label": "Really great game"
+                },
+                "content": {
+                    "label": "This is an extremely in depth space sim game. It can seem intimidating at first, but once you dive into it the game it is amazing. It’s great to see games like this available on the phone.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id588808629"
+                    },
+                    "name": {
+                        "label": "hdsnsm"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.5.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4038384132"
+                },
+                "title": {
+                    "label": "Good"
+                },
+                "content": {
+                    "label": "Check screen boundaries for iPhone XR in upgrade ship menu in star port",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id186083586"
+                    },
+                    "name": {
+                        "label": "Leechhuyyy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.95"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4001974034"
+                },
+                "title": {
+                    "label": "Request Korean Support"
+                },
+                "content": {
+                    "label": "Do you have any plan to support Korean language?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39137403"
+                    },
+                    "name": {
+                        "label": "Lee Gattenby"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.95"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3988584953"
+                },
+                "title": {
+                    "label": "Monotonous"
+                },
+                "content": {
+                    "label": "A lot of games similar to this one.  Played for a day, meh",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id31995116"
+                    },
+                    "name": {
+                        "label": "THawk619"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.95"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3979623468"
+                },
+                "title": {
+                    "label": "What an amazing game!"
+                },
+                "content": {
+                    "label": "I’m sick of the paywalls in most mobile games these days, I’d much rather throw $5-$10 at a worthy dev to outright purchase one. These guys are more than worthy because this game is incredible! A little FTL, a little Master of Orion/Galactic Civ, and even a bit of Darkest Dungeon sneaks in here. It’s all assembled into a great space strategy sim with a nearly infinite amount of freedom! I downloaded this game and proceeded to play it until my battery died, LOL!  It’s a bit of a steeper learning curve, but only for a short time.  Great job!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id463230869"
+                    },
+                    "name": {
+                        "label": "Bron Tron"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.95"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3968776944"
+                },
+                "title": {
+                    "label": "Fantastic"
+                },
+                "content": {
+                    "label": "I’m blown away at how fun this game is. I’ve never been so enthralled by a mobile game, but I just can’t put it down",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36985080"
+                    },
+                    "name": {
+                        "label": "Keithustus"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.95"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3964354394"
+                },
+                "title": {
+                    "label": "Best Spaceship RPG in Years on Any Platform"
+                },
+                "content": {
+                    "label": "This is a real game. You will spend lots of time learning the systems before you can do well. It is an incredibly rich experience and the developers update it very frequency. It’s almost identical to the PC version, with the only differences being UI adjustments. If you’ve been looking for a good spaceship RPG on any platform for years, you’ve finally found what you’re looking for here. Enjoy!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id352895566"
+                    },
+                    "name": {
+                        "label": "Creepy 4978"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.95"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3944165944"
+                },
+                "title": {
+                    "label": "Just Awesome!"
+                },
+                "content": {
+                    "label": "The best game I’ve found on the iPad in forever!  Great storyline and surprising depth and just all around fun!  I’ve paid way more for games I didn’t like even a fraction as much as this one!!  Thank you to the developers!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id175593141"
+                    },
+                    "name": {
+                        "label": "Slifsgard"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.95"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3922540076"
+                },
+                "title": {
+                    "label": "One of my favorites"
+                },
+                "content": {
+                    "label": "I am super happy with this game. I love playing it. I can play for ten minutes or ten hours, and still be entertained.\n\nUnfortunately it doesn’t work properly on my new iPhone Max. The buttons are misaligned and there is almost no way to get out of the program once you have started it because of the locations of the features. I am sure they will fix it but until then, wait until the fix to down load. * It works great on the iPad still!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id177768582"
+                    },
+                    "name": {
+                        "label": "Vasillios"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.95"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3921693494"
+                },
+                "title": {
+                    "label": "Great work Trese brothers!"
+                },
+                "content": {
+                    "label": "I played the original Star Traders long long ago on an Android phone, and the concepts present in this iteration are instantly familiar. I remember back then thinking, wouldn’t it be nice if the graphics were better? Well, this is definitely the best this series has seen, so great job there. This is still the same dense set of RPG systems that the Trese brothers have been developing for years as far as I can tell, but now it’s been refined and expanded upon, and put in a fresh new wrapper. You are free to engage with the narrative as much as you desire, and it is well written, though you can strike out on your own and leave the narrative behind at any time. The only thing I can complain about here is that sometimes the mission descriptions don’t seem to mention the correct location, through they do allow you to navigate to the next mission waypoint directly from the mission dialogue.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37766144"
+                    },
+                    "name": {
+                        "label": "BHunt"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.89"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3896990516"
+                },
+                "title": {
+                    "label": "I Tried. I Really Did."
+                },
+                "content": {
+                    "label": "I wanted so badly to enjoy this game. I’m not a graphics snob. I’m deeply versed in SRPGs, have been gaming over 35 years. I didn’t have an issue with the lack of hand-holding; that’s usually a gift to me, not having to play through a vapid tutorial. No, I was disappointed to find this game tedious and boring. I gave it a good 10 hours of my time, paid attention & tried to invest in the story. Not once did it feel like anything more than a resource-managing tapper, and not even a compelling one of those. I can see the effort put forth here, which I appreciate, and that’s the only reason this didn’t get one star. Next outing maybe bring someone in to punch up the story a little, an objective voice that’ll inform you when you’ve ventured over into tedium.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "6"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "6"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41727492"
+                    },
+                    "name": {
+                        "label": "Jim-Michelle"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.89"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3894094758"
+                },
+                "title": {
+                    "label": "Too complicated"
+                },
+                "content": {
+                    "label": "I find this game impossible to play.  No tutorial. Too many things to click on that don’t seem to do anything.  Mission button says I am zero distance away, but no way to accept mission.  Start with dozens of crew, but no idea what they do.  Crew combat not explained.\n\nPlay civilization or baldurs gate or FTL instead",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "3"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "3"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id484277636"
+                    },
+                    "name": {
+                        "label": "Holtby70"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.89"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3893558078"
+                },
+                "title": {
+                    "label": "Buy now"
+                },
+                "content": {
+                    "label": "Thank me later",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id244515847"
+                    },
+                    "name": {
+                        "label": "BeigeCork"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.89"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3870430571"
+                },
+                "title": {
+                    "label": "Depth and replayability"
+                },
+                "content": {
+                    "label": "I never write reviews ever, but this game is such a standout I wanted to support the developer. Great storyline, myriad directions you can take your captain, crew, gear and ship; fantastic game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id124417905"
+                    },
+                    "name": {
+                        "label": "SirPack"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.89"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "3855195130"
+                },
+                "title": {
+                    "label": "Account sync"
+                },
+                "content": {
+                    "label": "I just got this game, it seems really fun, but I tried playing it on my iPad rather than my phone and the game save file doesn’t transfer. \n\nI don’t think I need to tell you how disappointing that is, to have so much time devoted to a play session only to have to start from scratch.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id381222202"
+                    },
+                    "name": {
+                        "label": "D3ming"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.89"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3846147794"
+                },
+                "title": {
+                    "label": "great game, but no cloud save?"
+                },
+                "content": {
+                    "label": "would like to take my save games between ios devices",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42852499"
+                    },
+                    "name": {
+                        "label": "PartyMarty710"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.4.89"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3843503035"
+                },
+                "title": {
+                    "label": "Best game out"
+                },
+                "content": {
+                    "label": "The best game I own... and I own a ton.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1442583232&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:22:53-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1442583232/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1442583232/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1442583232/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1442583232/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1442583232/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1442583232/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1442583232/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1442583232/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1442583232/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1442583232/sortBy=mostRecent/json"
+        }
+    }
+}

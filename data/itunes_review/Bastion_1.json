@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id386280240"
+                    },
+                    "name": {
+                        "label": "Stoicwolf666"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6643160968"
+                },
+                "title": {
+                    "label": "Bastion"
+                },
+                "content": {
+                    "label": "A timeless experience to play.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id238758923"
+                    },
+                    "name": {
+                        "label": "Bobbyfromnowhere"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6584954040"
+                },
+                "title": {
+                    "label": "Shady"
+                },
+                "content": {
+                    "label": "I want my money back from previous purchase.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id411716676"
+                    },
+                    "name": {
+                        "label": "#ThatPerson"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6563961818"
+                },
+                "title": {
+                    "label": "Pretty good"
+                },
+                "content": {
+                    "label": "The gameplay of this game is pretty good. And I’d say the graphics are just as good. The only thing bad I have to say about this game is that the whole thing isn’t free. To purchase the full game it is $4.99. So, just be mindful about that and remember that you are only playing a demo.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id171885629"
+                    },
+                    "name": {
+                        "label": "Daylightz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6557098232"
+                },
+                "title": {
+                    "label": "Fun clever beautiful"
+                },
+                "content": {
+                    "label": "Totally worth it! I’ve enjoyed playing it a lot. Recommend it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id122242514"
+                    },
+                    "name": {
+                        "label": "BigDen614"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6523106826"
+                },
+                "title": {
+                    "label": "Charging people again who already purchased."
+                },
+                "content": {
+                    "label": "Bought this app for $5. Now they removed it and made this new one which is pretty much identical except they’re recharging people who already bought it. They’re only removing the old app so people are forced to rebuy if they want to play! That should be illegal!! I will never support this dev again!!. I will make it a point to bring this example up to people when ever we are talking about bad game devs.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id154191846"
+                    },
+                    "name": {
+                        "label": "Blade053"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6516501864"
+                },
+                "title": {
+                    "label": "Scam"
+                },
+                "content": {
+                    "label": "I bought the game a couple of years ago now I have to repurchase it again I would like my money back",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1068483398"
+                    },
+                    "name": {
+                        "label": "edi1212**"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6436804120"
+                },
+                "title": {
+                    "label": "Awesome!"
+                },
+                "content": {
+                    "label": "Awesome game plan.\nGreat narration makes the game feel that much funner.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id280851441"
+                    },
+                    "name": {
+                        "label": "Enrique Raphaël Page Pérez"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6434688445"
+                },
+                "title": {
+                    "label": "Disappointed."
+                },
+                "content": {
+                    "label": "They have this post somewhere where they explain why they “had” to resell us the game. \n\nI don’t really like how this was handled at all. It was sketchy to say the least. why isn’t the game free entirely then? Or like, the grace period for your “free window” be of a decent length? Maybe informing your customers about it and not expecting them to find out on their own on the already small time you’ve allocated to “make up for it”. \n\nAnyway. I don’t think I’ll be rebuying Bastion. Luckily for me I still haven’t deleted the original out of the love I had for it.\n\nDon’t know if I’ll ever play it without a bitter taste in my mouth now though. Or any SG game for that matter.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id235757464"
+                    },
+                    "name": {
+                        "label": "an immersive experience"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6424222439"
+                },
+                "title": {
+                    "label": "An amazing crafted game"
+                },
+                "content": {
+                    "label": "I first played in on Pc although it’s clear thought was put into the mobile version as well it is the full game after paying for it and it’s just as good as the first",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1188957979"
+                    },
+                    "name": {
+                        "label": "iBrando11"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6421658505"
+                },
+                "title": {
+                    "label": "Easily worth $5 and has controller support"
+                },
+                "content": {
+                    "label": "Great graphics, mechanics, storyline, and the narrator is actually cool. I like the difficulty too; not too hard, not too easy. Definitely recommend.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id207342739"
+                    },
+                    "name": {
+                        "label": "Pokefan32"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6419652690"
+                },
+                "title": {
+                    "label": "Fun game"
+                },
+                "content": {
+                    "label": "Great graphics. Love the Morgan Freeman like voice. And the story is nice so far. And I like the ability to change my battle strategy as I want. But I didn’t like the “free game” intro to paid aspect. But it was worth the cost so far",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id601635873"
+                    },
+                    "name": {
+                        "label": "Xx DrWhak xX"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6418927013"
+                },
+                "title": {
+                    "label": "Utter ass"
+                },
+                "content": {
+                    "label": "Don’t play because you have to pay",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id141708116"
+                    },
+                    "name": {
+                        "label": "LurkonExpert"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6321960160"
+                },
+                "title": {
+                    "label": "A lot of fun and beautifully narrated"
+                },
+                "content": {
+                    "label": "I played the switch version after a recommendation from RGT 85 on YouTube. I believe the full game price was around the same on the switch. I highly recommend this game it's worth the money. The gameplay and constant narration of your every action we're great! The weapon challenge make the combination of upgrades meaningful and force you to practice and learn how to use every weapon and mechanic.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id337604051"
+                    },
+                    "name": {
+                        "label": "Comrade008"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6304694211"
+                },
+                "title": {
+                    "label": "It’s a scam do not buy it"
+                },
+                "content": {
+                    "label": "Do not buy the game , with time developer will “change the game “ and you purchase is no longer valid . Tried emailing developers like apple said and they will never respond to you back . Both Apple and the developers are going to rip u off",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id291621526"
+                    },
+                    "name": {
+                        "label": "Lkerrott"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6129140064"
+                },
+                "title": {
+                    "label": "Awesome"
+                },
+                "content": {
+                    "label": "Cool game, definitely like it, would like to see another version of it later on.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id378995122"
+                    },
+                    "name": {
+                        "label": "Kije-Dyrby"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6120474336"
+                },
+                "title": {
+                    "label": "Amazing"
+                },
+                "content": {
+                    "label": "This game is mesmerizing! I have never payed for an iPad game before because I felt it wasn’t worth it but this game is worth every penny. The gameplay is smooth and the story is beautiful! Absolutely love it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42536223"
+                    },
+                    "name": {
+                        "label": "vegathavillain"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6114234572"
+                },
+                "title": {
+                    "label": "What the hell?"
+                },
+                "content": {
+                    "label": "If I bought this game for my iPhone a few years ago for whatever price it was, then why am I being charged another $5 for this game?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id965125664"
+                    },
+                    "name": {
+                        "label": "chargertop"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6113344096"
+                },
+                "title": {
+                    "label": "Nice"
+                },
+                "content": {
+                    "label": "Great game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id317312532"
+                    },
+                    "name": {
+                        "label": "@JQ"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6102776448"
+                },
+                "title": {
+                    "label": "BoRinG!"
+                },
+                "content": {
+                    "label": "It is just..boring",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id170656176"
+                    },
+                    "name": {
+                        "label": "Neoguardian"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6078447015"
+                },
+                "title": {
+                    "label": "Highway robbery."
+                },
+                "content": {
+                    "label": "I paid for this years ago and now evidently I have to pay for it all over again.  I want my money back or my purchase restored. Pho Q!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1177626411"
+                    },
+                    "name": {
+                        "label": "Cold Mob"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6052971384"
+                },
+                "title": {
+                    "label": "Wow, just wow"
+                },
+                "content": {
+                    "label": "I really have much of an expectation to be honest. This game is a gem in the rough for sure. The ambiance, music, gameplay, is wow. And the narration is amazing. I don’t know how much is left in the game but I’m not looking forward to ending it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100580842"
+                    },
+                    "name": {
+                        "label": "Montdawgg"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6019927891"
+                },
+                "title": {
+                    "label": "Best single-player story game on ios"
+                },
+                "content": {
+                    "label": "Great controls, great story, fun hack and slash. Would buy again!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1164342844"
+                    },
+                    "name": {
+                        "label": "N8SenthRazor"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5958286969"
+                },
+                "title": {
+                    "label": "Best single player mobile"
+                },
+                "content": {
+                    "label": "If you liked the Xbox version you’ll love this version of the game even more. Not only is the story telling good but the game play is balanced and engaging. The narrator does an excellent job of delivering witty one liners. I loved every second of this game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id632020203"
+                    },
+                    "name": {
+                        "label": "bbuullddoogg"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5947322921"
+                },
+                "title": {
+                    "label": "Simply amazing"
+                },
+                "content": {
+                    "label": "Mind-blowing and super-fun",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1104300780"
+                    },
+                    "name": {
+                        "label": "hayden773399"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5932151701"
+                },
+                "title": {
+                    "label": "Paying 4.99 for the full game is observed"
+                },
+                "content": {
+                    "label": "At first I was really enjoying the game but then after after playing for a little bit that it is making you pay 4.99 I am not paying that money so I am done playing bashtion until that is fixed",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id425502297"
+                    },
+                    "name": {
+                        "label": "Dhosler"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5920651972"
+                },
+                "title": {
+                    "label": "Horrible company"
+                },
+                "content": {
+                    "label": "I previously purchased &4.99 the game from these developers and all was fine. Then one day they decided to go free to play and screw the loyal people who bought it by not grandfathering us in the new version. They stole our money and are forcing us to buy the game again. I still haven’t heard anything and it’s been months. DO NOT BUY THEY ARE THIEVES!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100506363"
+                    },
+                    "name": {
+                        "label": "AstralDarkstar"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5912692912"
+                },
+                "title": {
+                    "label": "Last time I buy a game from you. Ever."
+                },
+                "content": {
+                    "label": "I bought the game a while back and expected continued support, but no. 2 years since last update and this one continues to get them without any respect for those that bought the first release.\n\nIf this is the way you treat those that supported you, I never will again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id521669726"
+                    },
+                    "name": {
+                        "label": "rextg1000-7"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5912142654"
+                },
+                "title": {
+                    "label": "Great Game"
+                },
+                "content": {
+                    "label": "I love this game a lot",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id178884620"
+                    },
+                    "name": {
+                        "label": "BearSays"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5903741427"
+                },
+                "title": {
+                    "label": "Support indie publishers!"
+                },
+                "content": {
+                    "label": "I wish more people would read the blog on Supergiant's website explaining why the original app is being delisted.  It explains everything.  Am I a bit annoyed that I have to pay twice to keep the game, since I’ve switched devices since buying it the first time and I missed the 10th anniversary boat?  Of course I am.  But it’s not the publisher's fault.  It’s an unfortunate reality of the world of business relationships, contractual obligations, and legal standing in technical distribution channels.  It’s not a bait-and-switch like other commenters suggest.\n\nFrankly I can’t be too upset: I’m happy to think more of my money goes to the people who actually made the game this time around. Bastion, all these years later, is still an incredible game.  And, Supergiant's products are more than just games.  They’re works of art.  Supergiant's art deserves support.  It has mine.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id109969670"
+                    },
+                    "name": {
+                        "label": "Mcjsbckheochqljcbs"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5902825597"
+                },
+                "title": {
+                    "label": "Screw the old customers I guess?"
+                },
+                "content": {
+                    "label": "I have the old version before, but guess what? Need to pay for in app purchase for the same game I’ve bought before. Way to go!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "3"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "3"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id486076727"
+                    },
+                    "name": {
+                        "label": "Sheeplusdog"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5895529507"
+                },
+                "title": {
+                    "label": "PLEASE MAKE A SEQUEL!"
+                },
+                "content": {
+                    "label": "This is quite seriously what the quality standard of mobile games should be, solid graphics, no translation errors, great music, amazing controls and most importantly: NO PREDATORY MONEYSUCKING TACTICS LIKE LOOTBOXES. Just a trial version then the option to unlock the full game.\n\nI would have paid twice as much for this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id434797316"
+                    },
+                    "name": {
+                        "label": "Anoni Mous."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5894611747"
+                },
+                "title": {
+                    "label": "Worth the price"
+                },
+                "content": {
+                    "label": "Infinitely replayable and a genius intellectually stimulating game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id120883435"
+                    },
+                    "name": {
+                        "label": "rhredemption"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5886607060"
+                },
+                "title": {
+                    "label": "Why should I buy again???"
+                },
+                "content": {
+                    "label": "I bought this game a couple years ago and the original got removed and now it’s back but free, and since the full version is an IAP, I can’t get the full version unless I buy it again. I can screenshot the game in my purchase history to prove it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id183268917"
+                    },
+                    "name": {
+                        "label": "Ramcor76"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5874203217"
+                },
+                "title": {
+                    "label": "Shady business practices"
+                },
+                "content": {
+                    "label": "I purchased this game back in 2018 under Warner bro’s. Now your telling me that I have to repurchase the game under supergiants. The customer didn’t have anything to do with the politics of your contracts.\n This is wrong! I don’t care if you gave us a limited time window to purchase the same game supergiants for free. I didn’t know about that and now the limited time window is up and I have to repurchase this game? For shame! You lost a customer supergiants!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id355502238"
+                    },
+                    "name": {
+                        "label": "Christopher Doryan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5854550770"
+                },
+                "title": {
+                    "label": "The Problem was fixed..."
+                },
+                "content": {
+                    "label": "Customer support resolved the issue I was having.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id556337830"
+                    },
+                    "name": {
+                        "label": "SPCRSX"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5842508922"
+                },
+                "title": {
+                    "label": "Why do I have to buy it twice!?!?!?!"
+                },
+                "content": {
+                    "label": "Why in the world are these kind of game developer allowed in App store!? They’re a scam! If people bought it before, especially for full price why do we have to but it again for 4.99!?!?!? This is crazy how the game developers of bastion makes you pick either you play the outdated version that youve purchased before or pay $5 for the updated one! I want my refund!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35049319"
+                    },
+                    "name": {
+                        "label": "Ketchyup"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5832147394"
+                },
+                "title": {
+                    "label": "Why"
+                },
+                "content": {
+                    "label": "Don’t get me wrong, I LOVE bastion and I have it on my desktop, but why does it have to have a demo? That almost makes me feel even more bad that I can’t play mobile bastion.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id118944841"
+                    },
+                    "name": {
+                        "label": "trevormoose4409"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5818338116"
+                },
+                "title": {
+                    "label": "Thank you"
+                },
+                "content": {
+                    "label": "This is one of the greatest games I ever played in my life there’s so much I can do in it thank you for this great game- mooster chief",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id910693347"
+                    },
+                    "name": {
+                        "label": "Still Looking For Perfection"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5805206649"
+                },
+                "title": {
+                    "label": "Slow moving character"
+                },
+                "content": {
+                    "label": "Would like for main character to move faster",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33310088"
+                    },
+                    "name": {
+                        "label": "Samgoode"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5804253073"
+                },
+                "title": {
+                    "label": "THE RPG for Non-RPG gamers."
+                },
+                "content": {
+                    "label": "I am NOT a gamer. I play puzzle games & room escapes... point & clicks when I can find ‘em. \nRPG’s, platformers, and really anything that takes any sort of timing, learning “moves”, a trackpad, or boss battles is an Auto-Nope from me. \n\nBastion is different. Yes there are all the elements that usually mean I’ll stink at the game and get frustrated. But Bastion eases you into its world, and the UTTERLY OUTSTANDING music carries you along, and next thing you know, you are engrossed in the story of The Kid. I played with infinite lives at first, got near the end, and restarted the game on regular difficulty. And I’m so glad I did. I don’t want the game to end, but also restarting allowed me to explore more territory that I wasn’t aware was there during my first run. \nI’d recommend this game to everyone. Even the non-RPG gamers like me. It’s perfect. There are enough options that give it a puzzle-like experience, and the story and that astounding soundtrack will hook point and click fans. In my opinion games do not get much better.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "5"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "8"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id14686933"
+                    },
+                    "name": {
+                        "label": "BEJager"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5797236119"
+                },
+                "title": {
+                    "label": "In app purchase"
+                },
+                "content": {
+                    "label": "I like many others have purchased this game years ago but now it won’t let me restore my purchase to access the full game. So now I have to pay for this game twice??",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id135245151"
+                    },
+                    "name": {
+                        "label": "Fireace08"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5795283239"
+                },
+                "title": {
+                    "label": "Already purchased..."
+                },
+                "content": {
+                    "label": "I purchased this game on the App Store a few years ago, but didn’t spend that much time with it. I went to redownlaod the game, but now they’re wanting me to pay for it again, only this time with an in app purchase WTH? \n\nWhy are games doing this crap again. I can’t tell you how many gameloft games I waisted money on unlocking the in game purchase, only to find out I cant use them anymore. This does nothing but cause a big headache for both parties. Seeing how every time you get a new phone every 2+ years and go to redownload the games, you can’t bc it wants you to pay for it again. And bc your purchase only shows up as an in app purchase through itunes, it becomes hard to convince apple that you purchased the game to become unlocked. \n\nThis is just bad business practices for both Apple and the game companies.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id118129870"
+                    },
+                    "name": {
+                        "label": "jessebrunmeier"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5770406271"
+                },
+                "title": {
+                    "label": "Shady Business Ethic, Gotta Buy 2X To Play?"
+                },
+                "content": {
+                    "label": "I’m leaving a one star review because I bought this game at full price on the App Store several years ago. Played it from start to finish and absolutely loved it. \n\nI decided to download the game again and replay it since I have so much free time due to COVID-19. \n\nApparently my purchase a while back just wasn’t enough because the full game is now an in game micro-transaction. I have to buy this game again to replay it? I think not. \n\nThese guys make wonderful games, but that’s a shady business ethic that’s becoming more and more common from sellers and developers on the App Store. If I buy something once, it should be mine forever. \n\nThe guys that did Binding of Isaac let me pay $15 for the game and then pulled it from the App Store. \n\nSupergiant is doing this crap.\n\nSeveral other apps that I paid for way back in the day are now subscription applications and my $20 here and there doesn’t actually BUY anything. \n\nIt’s a frustrating truth about developers and distributors and I’m disappointed to see one of my favorite game houses pulling the same stunts.\n\nWith that said, I’m fed up with it. Either give me my money back for my original purchase or unlock the game that I paid for back then. \n\nGreat game. Horrible business ethic.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "12"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "19"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49364015"
+                    },
+                    "name": {
+                        "label": "CK Intruder"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5718392243"
+                },
+                "title": {
+                    "label": "Awesome"
+                },
+                "content": {
+                    "label": "Too many games are played with the sound off in today’s mobile gaming because frankly no one expects much. This game is a masterpiece that is meant to be played with the sound on. A whole. We take on mobile games and sets a high bar. Worth every penny!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id707426339"
+                    },
+                    "name": {
+                        "label": "110101010010110"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5707982560"
+                },
+                "title": {
+                    "label": "Great, but I’d rather not pay"
+                },
+                "content": {
+                    "label": "I loved this game when I had it on Xbox 360, but now you have to pay to continue. Great game if your willing to pay for it on mobile. Don’t pass it up.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id735234917"
+                    },
+                    "name": {
+                        "label": "DoubleA-Ron63"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5675256731"
+                },
+                "title": {
+                    "label": "Purchasing Issue"
+                },
+                "content": {
+                    "label": "I bought this game before the beginning became free to play. However, after the beginning was made free, I couldn’t play the full version even though I bought it in the first place. Like, WHAT!?  Game, in terms of quality, is pretty good. However, it feels like the company has scammed me.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id237949298"
+                    },
+                    "name": {
+                        "label": "wyndcynd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5585306876"
+                },
+                "title": {
+                    "label": "Love it!"
+                },
+                "content": {
+                    "label": "Love it!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1114767185"
+                    },
+                    "name": {
+                        "label": "I justWROTEONEREVIEW"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5568955685"
+                },
+                "title": {
+                    "label": "Unbelievably dumb"
+                },
+                "content": {
+                    "label": "Wow ya people still want money for old game. You should of should’ve just put ads in and called it a day. Had to make people’s lives hard right🙁",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id976378913"
+                    },
+                    "name": {
+                        "label": "Zero12083278"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5546133929"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "I gotta say I thought I would never like a mobile game this much.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100117374"
+                    },
+                    "name": {
+                        "label": "Cronogear"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.50788"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5526247252"
+                },
+                "title": {
+                    "label": "Bought the old version? Pay for it again."
+                },
+                "content": {
+                    "label": "It’s nice that instead of offering the updated version to people who already bought the game before, you’re forcing us to buy it again, or be stuck with the old, barely functional version with no updates. I guess companies can no delist old versions of their apps whenever they want, and demand that their customers purchase it again. What an absolute scam. I will never purchase a game from this company again. And I suggest others do the same: if they got away with it once, they’ll do it again in the future.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1467063160&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T17:28:54-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1467063160/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1467063160/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1467063160/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1467063160/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1467063160/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1467063160/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1467063160/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1467063160/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1467063160/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1467063160/sortBy=mostRecent/json"
+        }
+    }
+}

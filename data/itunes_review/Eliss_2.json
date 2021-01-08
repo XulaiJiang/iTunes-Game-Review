@@ -1,0 +1,397 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id114438755"
+                    },
+                    "name": {
+                        "label": "Quote151"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "938260042"
+                },
+                "title": {
+                    "label": "Nice"
+                },
+                "content": {
+                    "label": "This game feels miraculously tactile and swift. I need more fingers.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=700971134&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25525965"
+                    },
+                    "name": {
+                        "label": "Saturnine Chaim"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "938121088"
+                },
+                "title": {
+                    "label": "A magical toy from the future"
+                },
+                "content": {
+                    "label": "Who made this, some aliens?\n\nAliens who really \"get\" people.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=700971134&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100873784"
+                    },
+                    "name": {
+                        "label": "Picturepack"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "938117532"
+                },
+                "title": {
+                    "label": "The full spread"
+                },
+                "content": {
+                    "label": "Eliss was a staple. Multi touch, simple lovely graphics worthy of the best Op artists in museums, ear tickling sounds, natural feeling physics. \nEliss infinity is all that plus competition and many exploitable corners. I'm looking forward to this being my daily challenge again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=700971134&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43365131"
+                    },
+                    "name": {
+                        "label": "Pacifisto"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "938047769"
+                },
+                "title": {
+                    "label": "Infinitely Fun"
+                },
+                "content": {
+                    "label": "Infinity mode takes the great original game and makes it infinitely replayable. An even more solid game than the original!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=700971134&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42508921"
+                    },
+                    "name": {
+                        "label": "I Forgot™"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "937790091"
+                },
+                "title": {
+                    "label": "Great Update - Please Add Achievements!"
+                },
+                "content": {
+                    "label": "This is a great update to an ios original. But, as the title states, please add achievements! It would make this so much better. :)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=700971134&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41837982"
+                    },
+                    "name": {
+                        "label": "i lol'd then i serious'd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "937759374"
+                },
+                "title": {
+                    "label": "Perfect"
+                },
+                "content": {
+                    "label": "This is quite possibly the best game you can play on iOS. It is quite challenging but incredibly fun and the game has a very pleasant aesthetic to it. The additions to the original game that was polished and tweaked give a massive replay value to it and allow one to hone his or her skills. I cannot recommend this game enough. There truly is nothing like it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=700971134&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43440949"
+                    },
+                    "name": {
+                        "label": "mcBpants"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "937742673"
+                },
+                "title": {
+                    "label": "5 years in the making. 5 stars."
+                },
+                "content": {
+                    "label": "I remember playing Eliss on my iPhone 3GS five years ago. It was my favorite iOS game ever since, and Eliss Infinity is now my new favorite. Amazing game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=700971134&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:37:20-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=700971134/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=700971134/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=700971134/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=700971134/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=700971134/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=700971134/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=700971134/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=700971134/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=700971134/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=700971134/sortBy=mostRecent/json"
+        }
+    }
+}

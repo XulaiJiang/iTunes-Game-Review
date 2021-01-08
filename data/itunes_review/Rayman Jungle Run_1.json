@@ -1,0 +1,113 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": {
+            "author": {
+                "uri": {
+                    "label": "https://itunes.apple.com/us/reviews/id1113207244"
+                },
+                "name": {
+                    "label": "ldodjkeoejapjrkrorkp"
+                },
+                "label": ""
+            },
+            "im:version": {
+                "label": "1.0"
+            },
+            "im:rating": {
+                "label": "5"
+            },
+            "id": {
+                "label": "5672041403"
+            },
+            "title": {
+                "label": "Best game"
+            },
+            "content": {
+                "label": "This is the best game and app and I love how it works but when you go to the desert",
+                "attributes": {
+                    "type": "text"
+                }
+            },
+            "link": {
+                "attributes": {
+                    "rel": "related",
+                    "href": "https://itunes.apple.com/us/review?id=1201633353&type=Purple%20Software"
+                }
+            },
+            "im:voteSum": {
+                "label": "0"
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "Application"
+                }
+            },
+            "im:voteCount": {
+                "label": "0"
+            }
+        },
+        "updated": {
+            "label": "2020-11-29T18:32:56-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1201633353/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1201633353/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1201633353/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1201633353/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1201633353/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1201633353/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1201633353/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1201633353/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1201633353/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1201633353/sortBy=mostRecent/json"
+        }
+    }
+}

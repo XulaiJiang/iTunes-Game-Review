@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id456039015"
+                    },
+                    "name": {
+                        "label": "LoneOnTheMoon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6470853080"
+                },
+                "title": {
+                    "label": "Great game BUT"
+                },
+                "content": {
+                    "label": "Love the game, honestly one of the best strategy games I’ve played but the one biggest issue I have is that the game isn’t really optimized for the iPhone X and beyond. It’s not full screen and the texts are small. My fat finger can barely move a character because the play screen is so small. It’s 2020 the coding to enable it to optimize the full screen of an iPhone isn’t that hard. Please fix!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40054110"
+                    },
+                    "name": {
+                        "label": "Wtown54"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6371562281"
+                },
+                "title": {
+                    "label": "Ok game"
+                },
+                "content": {
+                    "label": "This game has a good story and fun strategic combat. For$10 I expect more out of a game. It’s not very long and has no replay value. I’m intreresed in the sequels, but not at that price",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id145269163"
+                    },
+                    "name": {
+                        "label": "Gordon1707"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6291661497"
+                },
+                "title": {
+                    "label": "Spellbinding ..."
+                },
+                "content": {
+                    "label": "Probably my favourite game on iOS. On my 3rd playthrough.\n\nJust very sorry that it doesn’t appear banner saga 3 will come to iOS. Tried to buy it on Steam but system so awful it wouldn’t take my money and without a trace of Customer support ( and in any case far more inconvenient that a mobile device )",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43993310"
+                    },
+                    "name": {
+                        "label": "TMAC514"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6220701029"
+                },
+                "title": {
+                    "label": "App Store doesn’t deserve this"
+                },
+                "content": {
+                    "label": "An entire tier above any other game available on mobile. You know it when you play it. There will never be better. Just understand that at times it can be slow and to enjoy it you have to get into the writing and read the text. If you skip the dialogue/don’t have patience, don’t even try it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1186782051"
+                    },
+                    "name": {
+                        "label": "Seldom-Scene"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6161618076"
+                },
+                "title": {
+                    "label": "Too small"
+                },
+                "content": {
+                    "label": "I think this game would merit four stars, except for one important technicality. They did not update the screen size for the iPhone 11. The text and controls were too tight. It was often frustrating trying to get to a specific square, and several times i accidentally chose the storyline option by accident because of my large fingertips. I would love to continue the series, but not if it’s going to stay so small.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24173670"
+                    },
+                    "name": {
+                        "label": "Clyde F."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6082258279"
+                },
+                "title": {
+                    "label": "Words Too Small On XS Max"
+                },
+                "content": {
+                    "label": "Can't read anything.  Don't sell it if it doesn't work.  Refund me!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id645006187"
+                    },
+                    "name": {
+                        "label": "dmharp"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6006994130"
+                },
+                "title": {
+                    "label": "Incomplete series"
+                },
+                "content": {
+                    "label": "Would gladly give this game 5 stars if they had the entire trilogy available on iOS. It’s like someone is selling you the first 2/3rd of a book and having no option to read the ending! The games are pieces of the story and do not have concrete endings until you finish all three. All of your choices carry over game to game and have a huge impact on the final ending you receive. Without having the third game available on iOS you’re forced to play through on a different platform without any of the choices you made carrying over. Absolutely ridiculous of the studio to choose to release only two of the games when they made it such a continuous experience.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id217562019"
+                    },
+                    "name": {
+                        "label": "KevoAllanPoe"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5985189461"
+                },
+                "title": {
+                    "label": "Gaming as art"
+                },
+                "content": {
+                    "label": "Gorgeous artwork, excellent storyline, complex characters, and compelling game design are threads that weave a tapestry of profound experience. The darkness of humanity and civilization combat the better angels of our nature, usually between parties but often within individuals, including you, the player, who is forced to make difficult decisions that impact the game and your relationships within it. This combines with a unique system of resource management and combat mechanics that leave you wanting more. By the end of the game (which I played for at least 12 hours), you forget the somewhat steep price (for a mobile game) because the experience is well worth it. Stoic has gone above and beyond with this saga. I will be purchasing parts 2 (on iOS) and 3 (on PS4).",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id108119390"
+                    },
+                    "name": {
+                        "label": "sbelli69"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5936475918"
+                },
+                "title": {
+                    "label": "Please update!"
+                },
+                "content": {
+                    "label": "I like this game but it REALLY needs an update for iPhone X. There’s so much screen real estate and too small without using it.\n\nPlease update!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id498276549"
+                    },
+                    "name": {
+                        "label": "Abcsefjsknejxinslzksk72729!;&9"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5925284762"
+                },
+                "title": {
+                    "label": "Wow just wow"
+                },
+                "content": {
+                    "label": "This game is freaking amazing, I couldn’t believe it! Normal I DO NOT like turn based combat but this made it reaaaally enjoyable. I have a couple gripes 3 main ones but they do not necessarily impact how awesome this game is they are just things I expected included in a “caravan” game. \n1. Free roam- there is no free roam but the story is very well done and beautiful, surprising I have a PS4, a gaming computer and this game took me off those for hours. However free roam with free reigns would have been a good idea as a side mode. \n2. When you are moving in combat if you ment to move 1 space further or not as far you cannot go back, also the tiles are so small it’s easy to make a mistake, nothing gamebreaking here though.\n3. This one really broke my heart almost as much as the 1st issue, when you have a large caravan you still only fight with your group of heroes, you get no support from the 100-800 fighters in your group. Really, you should get an AI ally in battle for every 50 or 100 soldiers in your caravan that way the more you have the more it actually helps in the game. Just donate they kills to a random team member I guess, or give extra renoun if the AI soldier kills an enemy. There is also too many heroes to upgrade with the small renoun you get as well as keeping supplies enough for a huge army that you do nothing with. Really heartbreaking for me, things like these make it a beat once and uninstall. Still good game but kills replay ability for me.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id948080042"
+                    },
+                    "name": {
+                        "label": "Rook75rdb"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5917404671"
+                },
+                "title": {
+                    "label": "Epic"
+                },
+                "content": {
+                    "label": "Just a beautiful game and story.  Epic",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id454783113"
+                    },
+                    "name": {
+                        "label": "PackieKnowsBest"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5893531905"
+                },
+                "title": {
+                    "label": "Awesome port"
+                },
+                "content": {
+                    "label": "Played this on Xbox and loved the story, was super excited to have it on my phone. Worth every penny no issues with the UI at all. Awesome game!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id265156543"
+                    },
+                    "name": {
+                        "label": "Readerzzzzzz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5875907118"
+                },
+                "title": {
+                    "label": "Gorgeous game, fantastic writing"
+                },
+                "content": {
+                    "label": "There’s really nothing to compare it to, but if I had to try, it’s like Oregon Trail, meets a Text based choice adventure, meets a table top strategy game... the graphics dare unique and beautiful.\n\nMy one question for the developer is this: how can I tell when the game has saved? Or can I do it manually? I’ve had to redo some parts twice because I assumed they had saved with me moving on to the next area",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28466934"
+                    },
+                    "name": {
+                        "label": "Dr.Jlove"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5799963779"
+                },
+                "title": {
+                    "label": "Near Perfect"
+                },
+                "content": {
+                    "label": "The only way the game could be better is if it came to conclusion, but then we wouldn’t have the second or third game so thats a double edge sword. I’m just sad to see that Banner Saga 3 has yet to be released on the App Store. What’s the deal with that?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id458363436"
+                    },
+                    "name": {
+                        "label": "@marshray"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5789463161"
+                },
+                "title": {
+                    "label": "Lovingly crafted"
+                },
+                "content": {
+                    "label": "Yet brutal. Great job, team!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id14748274"
+                    },
+                    "name": {
+                        "label": "JJMaxwell"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5743652138"
+                },
+                "title": {
+                    "label": "Like getting to play in a gorgeous comic book"
+                },
+                "content": {
+                    "label": "RPG and story and beautiful design. Can’t ask for more, except for it to be longer!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id163496552"
+                    },
+                    "name": {
+                        "label": "Lidrien"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5480090747"
+                },
+                "title": {
+                    "label": "Quality Writing+Animation, Small UI for iPhone"
+                },
+                "content": {
+                    "label": "For iPhone\nPros: The animation is unique and visually impressive. \nThe dialogue and writing in general is of good quality. \n\nCons: The game is a strain on the eyes for me due to how small everything is. This con would be a nonissue on an iPad. \nThe save system isn’t very user friendly. It doesn’t say when it autosaves, and there is no option to save yourself. I’ve lost progress many times because I’m never sure when I can stop playing. \n\nThe game is difficult to play on the go. To enjoy it you need dedicated time to sit down and finish encounter after encounter.\nWould recommend but with a strong caveat that it’s not a very “mobile” mobile game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1117860252"
+                    },
+                    "name": {
+                        "label": "THEDEADGEAR"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5446279192"
+                },
+                "title": {
+                    "label": "Amazing game"
+                },
+                "content": {
+                    "label": "i personally really liked this game alot. the main story is well thought out and very compelling i found myself wanting to find out more and more. the art work is beautiful and while sone what simple it really brings out the rustic feeling of the old world. game play is intence on normal and hard, easy is a good way to learn the mechanics and rules of combat. one thing i really like was that every time i played the main story basicly stayed the same but the events on the road were always diffrent and very rewarding when you help someone and later on in game in a desprate situation that person you helped 40 days ago helps you and saves you. there are only 2 things i didnt really like but this is just my opinion. one thing was the game seemed to be over quickly but my first run took me about 10 hours. the 2nd thing was that the ending i wasnt thrilled about only because it left me wanting more n wishing i could exsplore more of the vast land before me. all in all great game good re-play value and well worth the 10$ i would highly recommend buying this game i enjoyed it alot and i hope you do too.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39378287"
+                    },
+                    "name": {
+                        "label": "rosenbridge"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5425313400"
+                },
+                "title": {
+                    "label": "Gorgeous"
+                },
+                "content": {
+                    "label": "This game drips gorgeousness and love. It is a rare gem. Hopefully Stoic releases the entire trilogy on iOS.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id285995688"
+                    },
+                    "name": {
+                        "label": "Erriadorn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5420357504"
+                },
+                "title": {
+                    "label": "Addictive - all-time great rpg"
+                },
+                "content": {
+                    "label": "For anyone who likes baldur’s gate, shining force, divinity original sin or fire emblem games - this is an absolutely amazing game.  Full of choices with real consequences, interesting characters, rpg elements (such as building out characters, skills and items), and fun, strategic combat.  A true masterpiece.  Worth every bit of a couple of Starbucks coffees ($10)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id424356188"
+                    },
+                    "name": {
+                        "label": "Azeran Delafrey"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5392615237"
+                },
+                "title": {
+                    "label": "Easily a 5/5"
+                },
+                "content": {
+                    "label": "I really really liked this game. The storytelling is very tense as you go through the game deciding what’s best for your people. The game keeps you guessing whether you just made the right move or not in a fantastic way. The art is beautiful and if you let yourself be immersed in the world, you will get a story unlike any other!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id620147611"
+                    },
+                    "name": {
+                        "label": "The Scrunch"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5270660594"
+                },
+                "title": {
+                    "label": "Mostly good"
+                },
+                "content": {
+                    "label": "I really enjoyed this game but there are a couple problems. \n1. The fight scenes. If I can only move one guy per turn, I at least should be able to choose which guy. It is totally possible in a real fight, some guys-like archers-would stay in one place. Why can’t I move the same guy twice in a row? I have to waste a turn telling an archer to stay in place. \n2. Got a little boring watching my numbers go down-morale, clansmen, varl, supplies-as my little line of dudes marched on through the viking wilderness. I would have liked the option for the caravan members to hunt along their way. Maybe the game developers wanted to stress the cruel leanness of the times. Something to think about. \n    This game is extremely story driven, lots and lots of choosing dialogue and watching cartoon twiddling of fingers and blinking.\nThat said, the animation is awesome, the dialogue smart, and the soundtrack beautiful. The backstory is compelling and I had quite a few hours being engrossed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id486022567"
+                    },
+                    "name": {
+                        "label": "SartejSingh"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5245725165"
+                },
+                "title": {
+                    "label": "Full Screen for iPhone XS"
+                },
+                "content": {
+                    "label": "I played this game for few hours now but I can’t get that immersive experience please update this for a full screen experience for iPhone XS. Other than that I love it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id740997739"
+                    },
+                    "name": {
+                        "label": "godlessmonk"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5244796482"
+                },
+                "title": {
+                    "label": "Blown away"
+                },
+                "content": {
+                    "label": "This game is hauntingly beautiful.  Amazing.  Buy it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id393127378"
+                    },
+                    "name": {
+                        "label": "doujehhshwsjsjd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5144704789"
+                },
+                "title": {
+                    "label": "I know this is a good game but I can’t get it to start"
+                },
+                "content": {
+                    "label": "The stoic logo appears for a half second then disappear then it just says loading and won’t start",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id508682889"
+                    },
+                    "name": {
+                        "label": "5night0119"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5138154890"
+                },
+                "title": {
+                    "label": "The game"
+                },
+                "content": {
+                    "label": "The game is not made for the iPhone XR and there is no option for it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id48839669"
+                    },
+                    "name": {
+                        "label": "Ratethat"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4953797522"
+                },
+                "title": {
+                    "label": "Simply Epic"
+                },
+                "content": {
+                    "label": "A masterpiece in storytelling and world building, Banner Saga is both lush and frigid. The engrossing story and well developed characters will immediately draw you in. The battles and choices you make throughout the game are intense and carry the weight of real consequence. The only challenge the game faces is with character progression. Renown can be hard to come by with larger parties and without class specializations, characters can sometimes feel too similar. Still, you won’t find a better RPG experience. Well done!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id131125404"
+                    },
+                    "name": {
+                        "label": "ZeroGranite"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4949260411"
+                },
+                "title": {
+                    "label": "You are missing out of your don’t download"
+                },
+                "content": {
+                    "label": "Just download and enjoy. The story. The fighting. The twist. The decisions. It make the game cut deep but it’s short enough to replay over and over.  \n\nOnly draw back on iOS is you have to be sure where you click. That’s it and well!!!!! Worth this game. Please please more.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id591081166"
+                    },
+                    "name": {
+                        "label": "papalm615"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4906459928"
+                },
+                "title": {
+                    "label": "Amazing Story, Addicting Gameplay"
+                },
+                "content": {
+                    "label": "Y’all I cried at the end. Immersive world and narrative that made me look forward to every next fight and calculate my response to every challenge. As the DM for a D&D podcast I can’t more highly recommend this game for inspiration for your D&D writing and gaming.\n\nAndrew \nChasmQuest",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1079378435"
+                    },
+                    "name": {
+                        "label": "Knick the Knameless"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4853971870"
+                },
+                "title": {
+                    "label": "Interesting Idea, needs work"
+                },
+                "content": {
+                    "label": "I love the fantasy swords/armor genre and found the Viking theme, names, map (very good) etc. new and interesting. I’m playing on an iPhone 8. Here are ways the game fell down:\n—Sound. The developers advertise the game’s sound track as being excellent but after I muted on the first day of play I was never able to get the game to make any sounds at all. Bug.  \n—Game mechanics:  I struggled to be able to consistently make correct selections on the first try because icons are so small on my screen. Outside of the closed caption character dialogue, the fonts were so small as to be very difficult/impossible to read. At times, in combat, I could not see characters that were “behind” (diagonally above). Being able to rotate the board would have been helpful. The mechanism for adding or removing characters from the 6-person battle lineup was clunky/inconsistent/frustrating.  \n—Text:  since I could not hear anything I had to use buttons to navigate the text. It sometimes would skip so I got an incomplete understanding of the dialogue. A “back” button would have helped.  \n—Story:  I was totally shocked when the game ended. ( I won’t give it away in case you still want to play).  There were SEVERAL key plot mechanisms left totally unresolved.  Maybe they will get addressed in the sequel but for the cost of the game I feel they should have been resolved in the first purchase.  As is, inadequate value. If a person has to spend another $9.99 to get the tail end of what should have been in the first game... that’s pretty lame.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id971006729"
+                    },
+                    "name": {
+                        "label": "Justinchrist"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4687246902"
+                },
+                "title": {
+                    "label": "Nice looking game, but I’m not sold."
+                },
+                "content": {
+                    "label": "This is basically a ‘choose your own adventure’ book with animated graphics, and tactics battles. There is some resource management to be done, but it doesn’t add much of a feel of control or choice. \n\nThe graphics are really nice, and nicely animated, but the battles are short, the battlefields are small, and as much of the game consists of reading and making dialog choices as battling. The tactical depth of battle almost makes up for the small battlefield, and short battles...almost.  \n\nAll in all, it’s not my cup of tea. I may, or may not finish the story, and I probably wouldn’t mess with the sequel unless it was on sale for a buck.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id131729950"
+                    },
+                    "name": {
+                        "label": "Levicobra"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4686832147"
+                },
+                "title": {
+                    "label": "My favorite game of all time"
+                },
+                "content": {
+                    "label": "This game is an amazing experience",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id447490023"
+                    },
+                    "name": {
+                        "label": "MmmWatermelon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4640693870"
+                },
+                "title": {
+                    "label": "Great game but a very unfortunate bug"
+                },
+                "content": {
+                    "label": "I loved this game on Mac and now playing through it on hard difficulty on iOS. Unfortunately I encountered this gamebreaking bug: after the first fight in the first war, the gray screen appears with a clickable arrow to go on to the following fight. I spent a long time carefully orchestrating a good strategy that took a good anount of time to plan and play out, maybe 25 minutes. The arrow on the gray screen however wasn’t clickable and the game essentially was stuck; I tried anything I could think of like rotating the iPhone screen, tapping home button then coming back to the app, tapping and swiping anywhere...to no avail. When i hard exited the app from the OS and restarted it, as knew would happen, the war progress is gone and I need to start from the last auto save; very frustrating after a long, hard fight that had gone well and I don’t think I’m going to try it again after a while given it seems like it’ll just hang again...\n\nThis game is a wonderful work of art and a great accomplishment in terms of game design, artwork, music, and I find it very unfortunate that a few polish issues got by the quality assurance that really interrupt the flow and immersion. I actually encountered this exact bug on the Mac Desktop version, but in that case alt tabbing out and back took care of it. I have a hard time believing this somehow never came up in testing and somehow wasn’t taken care of. I’m on iPhone 6 by the way. \n\nMy actual rating for this game is more like 4+ stars, but I am currently frustrated at the loss of progress, and it would certainly be 5 stars if bugs like didn’t appear, as well as some small improvements to the display that I wrote about in a rewiew of BS2: when displaying all armor / str flags in combat, surround enemy flags by a red outline to make them stand out from your own heroes more and make it easier to parse information; add a second buttton that when pressed shows numbers next to the enemy units on the battlefield representing their turn order: 1 for next, 2 for one after that etc. These small quality of life improvements to help display information and the player parse said information that is already available,more easily would make the game more of a pleasure to play, for me personally.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id751203190"
+                    },
+                    "name": {
+                        "label": "Gravity4Human"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4609215253"
+                },
+                "title": {
+                    "label": "The best mobile game"
+                },
+                "content": {
+                    "label": "I know, that Banner Saga releases on PC, originally, but I never have time for indie games. So, I decide to try it on mobile and it was great experience, thanks Stoic!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id822818569"
+                    },
+                    "name": {
+                        "label": "FrankJaam"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4521904103"
+                },
+                "title": {
+                    "label": "A good game"
+                },
+                "content": {
+                    "label": "It is a good game, story reach, strategy part a bit shallow but good, worth trying.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id105455420"
+                    },
+                    "name": {
+                        "label": "Xcominguproses"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4493485384"
+                },
+                "title": {
+                    "label": "Resting Bug?"
+                },
+                "content": {
+                    "label": "Enjoyed the first chapter of the game, except that my characters don’t heal. Not when resting in camp, not when resting in town...which makes the game impossible. I’m on normal difficulty. I wish I could get a refund, I’m very frustrated to have paid $10 for an unplayable game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id770688449"
+                    },
+                    "name": {
+                        "label": "Jynks 77"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4462451043"
+                },
+                "title": {
+                    "label": "Amazing, atmospheric & story-driven"
+                },
+                "content": {
+                    "label": "This was one of the most rewarding RPG experiences I have had, ever, let alone on my iPad. The soundtrack is amazing. And the game manages to convey a deep, oppressive sense of darkness that perfectly mirrors the story the developers are telling. I’ve played it through twice and loved it even more the second time. This is a must-play game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id588808629"
+                    },
+                    "name": {
+                        "label": "hdsnsm"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4377747977"
+                },
+                "title": {
+                    "label": "Incredible."
+                },
+                "content": {
+                    "label": "Amazing. Beautiful art, intense, nail-biting RPG strategy and combat, and emotional, provocative story. My only problem is that I cannot get the third installment on iOS right now and that is preventing me from continuing the story as I cannot get it on platforms that I don’t have, like PlayStation, Xbox, or PC.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id235713560"
+                    },
+                    "name": {
+                        "label": "fabiocanales"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4345055779"
+                },
+                "title": {
+                    "label": "Above Average"
+                },
+                "content": {
+                    "label": "Great game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39960584"
+                    },
+                    "name": {
+                        "label": "drandtus"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4331943146"
+                },
+                "title": {
+                    "label": "Super fun, gorgeous, great story!"
+                },
+                "content": {
+                    "label": "Just what I needed to play. Thoughtful and the strategy is engaging. What a gem.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id23415163"
+                    },
+                    "name": {
+                        "label": "jon.link"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4313025036"
+                },
+                "title": {
+                    "label": "Great game, great art, great story, horrible interface"
+                },
+                "content": {
+                    "label": "I absolutely love everything about this game except for the interface. \n\nThe decision based story is interesting and original. The artwork has a nice style. The game itself is quite fun. \n\nThe interface features super tiny font and buttons that make reading and clicking difficult. Planning and zooming is broken and will frequently lock making it impossible to progress with restarting from a recent save.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id86396333"
+                    },
+                    "name": {
+                        "label": "Donalddragon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4288610345"
+                },
+                "title": {
+                    "label": "Excellent"
+                },
+                "content": {
+                    "label": "Great characters. Great story telling.  Moving. Gripping. And the combat system is strong as well.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37630762"
+                    },
+                    "name": {
+                        "label": "IanmLentz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4282097729"
+                },
+                "title": {
+                    "label": "Best Strategy game I’ve played on iOS, but.."
+                },
+                "content": {
+                    "label": "Fun game with an even better story. However, during the battles on my iPhone XS Max the point of view will get locked into a single position after zooming in. This makes it impossible for me to complete that battle because I can’t see half of my fighters / enemies. Really annoying when I’m doing great and the screen gets stuck.  😒\n\nPlease fix and maybe add a feature for full screen?  Will change to 5 ⭐️’s if glitch is corrected.\n\nUPDATE\n\nHave been playing on my iPad mini and it’s a much better experience.  The screen doesn’t get stuck in a fixed location. I was also surprised that my game continued where I left off on my iPhone. 👌",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id23538221"
+                    },
+                    "name": {
+                        "label": "dswan112"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4254987561"
+                },
+                "title": {
+                    "label": "One of the best turn based games"
+                },
+                "content": {
+                    "label": "You can’t beat the story. You cant beat the graphics. You can’t beat the music. All in all a great game. I have played it over 10 times. A++++",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id677315665"
+                    },
+                    "name": {
+                        "label": "tercerojo777"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4198071576"
+                },
+                "title": {
+                    "label": "Video game artistry"
+                },
+                "content": {
+                    "label": "This game has stunning artwork and a beautifully haunting soundtrack. This turn based strategy rpg has deep gameplay that cater to the player’s particular style. My only lament is that it ended so soon. Perhaps it ended quickly because the game is so addicting and the story so engrossing.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id454379310"
+                    },
+                    "name": {
+                        "label": "thinkshesanartist"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4189432465"
+                },
+                "title": {
+                    "label": "Original and engaging game with flaws"
+                },
+                "content": {
+                    "label": "Its a complex game, so there are a lot of elements to cover. As far as mechanics, I am a stranger to turn based combat. Despite a harsh learning curve, I really enjoyed the combat/leveling system in this game. I found Normal to be difficult enough that I was constantly challenged but not excessively frustrated, which is a pretty ideal spot. The party management system I found not quite as great. The plot premise of the system was interesting, but in practice I was often annoyed. In particular, having you choose between making your characters stronger and keeping your party alive was probably not the best way to do it, though many might disagree . As far as the infamous choice elements of the game, I think they overdid it. So many games the choices don’t mean anything at all, so it was refreshingly different but I feel they went too far in that direction. Often times there was one (often arbitrary appearing) “good” choice, rather than good and bad consequences to all choices. And some of the bad choices are so bad (and also somewhat arbitrary) you can almost ruin the game either missing things or changing things so drastically, to the point that I found myself using the internet instead of enjoying the story. Speaking of which, the overall story arc is fairly typical fantasy stuff, which I suppose shouldn’t be a surprise. The evil guys tended to be kind of one dimensional and typical, but the good characters were much more interesting to me (and not so good either). The side plots and numerous characters were perhaps the coolest part of the game. The characters in this game stand out among RPGs that I’ve played and the writers don’t hesitate to get too “adult” and serious. My only complaint there is that there are too many things going on, too many characters to keep track of and the game is way too short to fully flesh them out, with a couple exceptions. I often found myself wondering who the person was and had to google it. Maybe the sequels will alleviate that. Artwork is fantasy/comic style and very impressive (though I played on a phone so I probably did not get the best experience). Same with the music which is all actual instruments and not cheap synths, which definitely adds to the mood and realism. I encountered zero glitches, no long loading screens, etc. I would recommend this game despite its flaws (and I’m about to start the sequel). This is (obviously) all opinion and I’m sure many will disagree, but that’s my two cents.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id416433019"
+                    },
+                    "name": {
+                        "label": "Aaragan3"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4102331495"
+                },
+                "title": {
+                    "label": "RPG novel"
+                },
+                "content": {
+                    "label": "Like a mix of Oregon Trail and an RPG. The story line was great, but lack of back drop info left me wondering what and where and why, but added to the mystery and made me feel more attachment to some of the characters.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id869520475"
+                    },
+                    "name": {
+                        "label": "GrøundZerø"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4008851113"
+                },
+                "title": {
+                    "label": "4 star"
+                },
+                "content": {
+                    "label": "The game looks great but I’m playing on my iPhone XR and the game is small in my phone it doesn’t fill the whole screen of my phone so please fix this problem. I will give you guys 5 after the screen issue is fixed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101425982"
+                    },
+                    "name": {
+                        "label": "Cmm1111111"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3962370509"
+                },
+                "title": {
+                    "label": "UI not scaled for iPhone"
+                },
+                "content": {
+                    "label": "Great game, but it probably should've been an iPad-only thing.  \n\nAll of the text is so small it's barely legible, and the tiny buttons & tiles are almost impossible to tap (every single time I moved a character, it took me 2-3 tries to get the right tile)\n\nIt’s straight-up unplayable on the iPhone X, so I can't imagine how bad it must be on smaller phones. Yeesh.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42812434"
+                    },
+                    "name": {
+                        "label": "The Real Foz3"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3947009219"
+                },
+                "title": {
+                    "label": "Ripped off"
+                },
+                "content": {
+                    "label": "Supposedly compatible w my iPad 2 and my iPhone 6s. On the former each load and turn take eternities, on the latter repeatedly crashes during combat. For as far as I got, the good reviews are a mystery to me. English version of dialogue sounds like spammer grammar, no likeable characters, and combat seems simple. Can't speak to plot or leveling mechanics as I never got far enough. Regret paying even $2 for this, let alone $10.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=911006986&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T17:44:45-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=911006986/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=911006986/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=911006986/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=911006986/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=911006986/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=911006986/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=911006986/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=911006986/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=911006986/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=911006986/sortBy=mostRecent/json"
+        }
+    }
+}

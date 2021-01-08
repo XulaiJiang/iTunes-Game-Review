@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id86970782"
+                    },
+                    "name": {
+                        "label": "Mk2aw"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.9.19"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6142863010"
+                },
+                "title": {
+                    "label": "Very cool game"
+                },
+                "content": {
+                    "label": "I love this game .",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42661041"
+                    },
+                    "name": {
+                        "label": "Focus0101"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.9.19"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6121591587"
+                },
+                "title": {
+                    "label": "Requires you to give personal info to 3rd party."
+                },
+                "content": {
+                    "label": "I bought this game with money many years back and recently reinstalled it. It’s now asking me to give my email address to some random third party company to play it. This is very untrustworthy and I feel people are better off finding something else.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id21938647"
+                    },
+                    "name": {
+                        "label": "Il machinista"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.9.19"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6107930525"
+                },
+                "title": {
+                    "label": "Waste of money"
+                },
+                "content": {
+                    "label": "At first I was thrilled to see again the Sword of Fargoal. I loved the old app and was heartbroken when it was no longer updated to work with later versions of iOS. Too bad this version introduced glitches — screens that freeze, inability to stop the player from walking in a particular direction, and action that can some stall when picking up objects are trying to access one’s sack of belongings. After a call to Apple to preclude the problem was not systemic, I decided to cancel my free month. It’s just not worth it playing a game that does not work properly. Sorry. Rogue, RIP. This app is a dud.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28170472"
+                    },
+                    "name": {
+                        "label": "Ubisububi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.9.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5722159238"
+                },
+                "title": {
+                    "label": "Previously Purchased? Don’t Need To Join"
+                },
+                "content": {
+                    "label": "If you’ve bought this or any other GameClub game, you don’t need to join! Just create an account, then download your purchases straight from App Store. Your registration info will be used to verify previous purchases, then you’re off and playing with no subscription necessary. This is not an exploit or a workaround.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30328011"
+                    },
+                    "name": {
+                        "label": "J-L B"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.9.11"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5475425474"
+                },
+                "title": {
+                    "label": "Meh"
+                },
+                "content": {
+                    "label": "I first played this on my Commodore 64. I miss the text version. \n\nHere, too few opportunities for upgrade to character, and too many restarts from getting killed, even when a level. Retreat and regeneration takes too long. May as well get killed, regenerate fast, and stick to getting experience points by killing vermin and hope the next level provides enough of a buffer to survive something bigger. \n\nGets boring.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id939174961"
+                    },
+                    "name": {
+                        "label": "Johnathaneeeee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.9.11"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5384690209"
+                },
+                "title": {
+                    "label": "Not Free with adds"
+                },
+                "content": {
+                    "label": "They make it sound like it is free with adds, but when you try to keep playing it won’t let you with out a paid game club.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42429636"
+                    },
+                    "name": {
+                        "label": "TheTheory"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.9.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5375020783"
+                },
+                "title": {
+                    "label": "..."
+                },
+                "content": {
+                    "label": "Sword of Fargoal has long been missing from the App Store—an unfortunate casualty of not being updated as iOS advanced. Many games have disappeared like that, but none stung quite as much as Sword of Fargoal. I have spent so much time on this game over the years. BUT WE’RE BACK, BABY! Sword of Fargoal is finally returned to the App Store and I’m poised once again to sink uncomfortable amounts of time into dungeon exploration.\n\nAt first Sword of Fargoal seems simple: Enter dungeon, explore, beat enemies, rinse, wash, repeat until you either win (which is really freakin’ hard) or die. But that initial impression gives way as you start discovering all the little details that make exploration so fun: hidden passageways, hidden doors, trap-laden labyrinths with treasure (or nothing?) at the center. Battles are dice rolls based on stats; once you initiate they unfold automatically—although you do have choices if it’s not going well: Attempt to disengage by running, or teleport away (if you have a teleport spell). That’s how I die—believing I can save that teleport for a better time, then all of a sudden my health is nil.\n\nThe variety of settings and treasure make pushing through the foggy dungeons a true joy. Watching the map reveal while descending the various levels required to get to the bottom. Yes, this is a rogue-like, a genre that has had many entries, but none are as strong, as engaging, as compulsively replayable as Sword of Fargoal. I’ve played this game since its original iOS release and I still feel like I could turn up something new and incredible as I push forward in the randomly generated dungeons. It’s what makes Sword of Fargoal so incredibly compulsive.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28897381"
+                    },
+                    "name": {
+                        "label": "mrsmarymc"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.9.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5315357247"
+                },
+                "title": {
+                    "label": "Fargoal"
+                },
+                "content": {
+                    "label": "I love this game!  Been missing for years. Love killing monsters and going exploring.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id124645462"
+                    },
+                    "name": {
+                        "label": "Drawgood"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.9.8"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5036377285"
+                },
+                "title": {
+                    "label": "Very fun rogue like game"
+                },
+                "content": {
+                    "label": "This review is for the full version which I purchased years ago in the AppStore. I have the full version without the GameClub subscription. There used to be two versions of this game in the App Store, Fargoal and Sword of Fargoal. From their appearance they always looked almost identical. \n\nGameplay: 5/5\nVisuals:: 4/5\nSound: 5/5\nReplayability: 4/5\n\nFargoal is an old gem of a game. Some people know it because apparently a version of it was available on Apple computers. Fargoal offers good depth and plenty of open choice of action to keep the player’s attention on it.\n\nFirst you get to roll the dice and get a distribution of skill you like for your character, choose male or female, and a name. Normal things. Then you play by discovering the dungeon by gradually removing the fog of war and completing your map. Along the way you can collect Gold, Spells, or Potions. You fight diverse selection of enemies. All standard more or less.\n\nThe game becomes really fun when you have to strategize and take known risks. You could find a hole in the wall which leads to a different level which usually is a little more difficult but also more rewarding. Very fun because these levels can have very different enemies, different appearance, and different music.\n\nYou can also fall through the floor to any of the lower floors which also have same unknowns as the hole in the wall. But you have no choice if it appears under you. You just fall. Very fun.\n\nMany spells you can find are great and give you more gameplay choices.\n\nYou cannot keep gathering gold indefinitely. You have limited space in your bag. You have to find a spot where gold you found becomes converted to experience. So you have to think whether to go back and find it or to keep exploring. You can also bury your gold if you don’t find the exchange spot.\n\nBig feature of this game is music and visual design.  Visually the game is simple but it’s done to feel and look almost like old computer games. Music is very unusual and atmospheric. It’s rare that music is not annoying . The sfx are great as well. They don’t sound like recycled sound you can hear repeat in many games.\n\nHighly recommended.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id489544455"
+                    },
+                    "name": {
+                        "label": "Jaggus1970"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1461329984"
+                },
+                "title": {
+                    "label": "No Longer Works"
+                },
+                "content": {
+                    "label": "You could play prior to ios 10, just without being able to change the player name.  Now the game doesn't work at all.  Do not purchase, the one hit wonder's single wonder is finally completely broken.\n\nThis game had its day on the Commodore 64, thirty years ago.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id18177490"
+                    },
+                    "name": {
+                        "label": "Demandred99"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1445844915"
+                },
+                "title": {
+                    "label": "Game abandoned by developer-why!?!"
+                },
+                "content": {
+                    "label": "This is one of the best, if not the best rogue-like game out there. Sadly,it freezes on the iPhone 6 Plus.   There have been no updates in years and no developer responses to emails.  It's probably time to remove it from the App Store.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id238097741"
+                    },
+                    "name": {
+                        "label": "Peartolomy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1439447563"
+                },
+                "title": {
+                    "label": "Please Fix Your Awesome Game"
+                },
+                "content": {
+                    "label": "Have enjoyed this immensely, but now it locks up when continuing a paused game.  I see others with same issue.  Make it happen!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id496634750"
+                    },
+                    "name": {
+                        "label": "Zzzuuuyyyttt"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1348306991"
+                },
+                "title": {
+                    "label": "Buggy"
+                },
+                "content": {
+                    "label": "Game hangs on continue screen at times and only fix is to reinstall which dumps progress. After reinstall, if you choose to try again, you will eventually encounter the same bug.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11212959"
+                    },
+                    "name": {
+                        "label": "A. dux"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1309313951"
+                },
+                "title": {
+                    "label": "No longer works"
+                },
+                "content": {
+                    "label": "App freezes on the main menu. No longer playable. Very sad = (",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id435089242"
+                    },
+                    "name": {
+                        "label": "Derp Dederp"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1281861004"
+                },
+                "title": {
+                    "label": "Frustrated!"
+                },
+                "content": {
+                    "label": "I'm not giving this a 2 because the game is bad... It's actually pretty awesome. What stinks is that 1/2 the time I come back to the game to continue, it freezes on the continue screen. The only option I found is to uninstall and reinstall, the start over again... I hope this gets fixed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id312925113"
+                    },
+                    "name": {
+                        "label": "Daedros"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1230082117"
+                },
+                "title": {
+                    "label": "It's smashing. :u"
+                },
+                "content": {
+                    "label": "Hey, it's been a few years since the last update... It'd be nice to at least get it sized for newer devices. It's an amazing game though, I love it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id125107445"
+                    },
+                    "name": {
+                        "label": "Miq2u"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1222050069"
+                },
+                "title": {
+                    "label": "Classic"
+                },
+                "content": {
+                    "label": "The classic game I grew up on. I don't know about this one, but I would like another version released.\n\nIn this one I would like new levels, maybe a creature or two more, one or two new options. Such as new characters to pick from.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id177867217"
+                    },
+                    "name": {
+                        "label": "Izzy the Bootblack"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1128219383"
+                },
+                "title": {
+                    "label": "My childhood in my pocket!"
+                },
+                "content": {
+                    "label": "I played this game A LOT on the Commodore 64.  It's taken all of the familiar elements, and made the game even better.  Even though I am not anti-tech, I went kicking and screaming into being an iPhone owner.  Thank you for bringing me a game I already loved, and then making it better!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id109258898"
+                    },
+                    "name": {
+                        "label": "Vask3000"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1068819143"
+                },
+                "title": {
+                    "label": "Addicting Fun"
+                },
+                "content": {
+                    "label": "A very fun roguelike dungeon crawler. Nice art style, and simple battle system. I wish some of the items/spells had a description though. Can get confusing at times.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43979396"
+                    },
+                    "name": {
+                        "label": "Dragon779"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1060024308"
+                },
+                "title": {
+                    "label": "Awesome"
+                },
+                "content": {
+                    "label": "Just. Buy. It.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id202883758"
+                    },
+                    "name": {
+                        "label": "CanDmaN305"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "999469365"
+                },
+                "title": {
+                    "label": "It's marv"
+                },
+                "content": {
+                    "label": "I loved the first one one this is better",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id187720370"
+                    },
+                    "name": {
+                        "label": "Sesangchangjo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "998287002"
+                },
+                "title": {
+                    "label": "와따에요!!"
+                },
+                "content": {
+                    "label": "최고",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id204150094"
+                    },
+                    "name": {
+                        "label": "Polkadotted"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "988792651"
+                },
+                "title": {
+                    "label": "Oh the memories"
+                },
+                "content": {
+                    "label": "I loved this game as a kid and I love this version.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37236098"
+                    },
+                    "name": {
+                        "label": "Moops83"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "959554377"
+                },
+                "title": {
+                    "label": "The best!"
+                },
+                "content": {
+                    "label": "Beautiful game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32594450"
+                    },
+                    "name": {
+                        "label": "Oddbody"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "927289565"
+                },
+                "title": {
+                    "label": "Simple fun"
+                },
+                "content": {
+                    "label": "Over the past few years I continually try finding the latest and greatest RPGs for the iPhone and when my search ends up short I am drawn to this little gem over and over.  There's just something charming and beautiful about it.  It's an easy choice if you haven't tried it yet.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id186015080"
+                    },
+                    "name": {
+                        "label": "Ulmpunk"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "918976922"
+                },
+                "title": {
+                    "label": "Awesome"
+                },
+                "content": {
+                    "label": "Replayability and loads of retro fun. Can't wait for new one they are working on to come out",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id180472852"
+                    },
+                    "name": {
+                        "label": "Buggod"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "917648128"
+                },
+                "title": {
+                    "label": "One of my best"
+                },
+                "content": {
+                    "label": "Awesome!!!\nIt's definitly masterpiece",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43905082"
+                    },
+                    "name": {
+                        "label": "emperorfish"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "897508358"
+                },
+                "title": {
+                    "label": "So very excellent!"
+                },
+                "content": {
+                    "label": "Love the engrossing sound effects. Great game, especially for ios. Can't wait for the sequal.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id103665435"
+                    },
+                    "name": {
+                        "label": "Belciano"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "886766428"
+                },
+                "title": {
+                    "label": "Fun fun fun"
+                },
+                "content": {
+                    "label": "Reinstalled this and unlike most games I go back to, this one sucked me right in again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id110581992"
+                    },
+                    "name": {
+                        "label": "Wrxdriver71"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "874184905"
+                },
+                "title": {
+                    "label": "Great!!"
+                },
+                "content": {
+                    "label": "The game is fun and addicting. Can't seem to stop playing. Easy recommendation.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id250300965"
+                    },
+                    "name": {
+                        "label": "TheGodDestroyer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "806234127"
+                },
+                "title": {
+                    "label": "Awesome!"
+                },
+                "content": {
+                    "label": "Fantastic! Definitely worth the money!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id12883147"
+                    },
+                    "name": {
+                        "label": "buddhabare"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "804155821"
+                },
+                "title": {
+                    "label": "Brings back memories of Telengard"
+                },
+                "content": {
+                    "label": "This is one game that you'd appreciate if you remember an old C-64 game named Telengard. It's updated with better graphics, but at its core is the same. A fun game you can just hop into between various things in RL.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35854915"
+                    },
+                    "name": {
+                        "label": "walpurgisnacht"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "799611074"
+                },
+                "title": {
+                    "label": "Outstanding!"
+                },
+                "content": {
+                    "label": "Outstanding game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49647991"
+                    },
+                    "name": {
+                        "label": "Reviewer17658"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "795729206"
+                },
+                "title": {
+                    "label": "Title"
+                },
+                "content": {
+                    "label": "First rate crawler. Came back to it after 6 months and it feels like a new game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id21252338"
+                    },
+                    "name": {
+                        "label": "MegLeta"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "788265515"
+                },
+                "title": {
+                    "label": "Exceptional."
+                },
+                "content": {
+                    "label": "I absolutely love this game. Simple interface and highly addictive, this game will keep you busy for a long, long time.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id119916215"
+                    },
+                    "name": {
+                        "label": "Brazbww"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "784983212"
+                },
+                "title": {
+                    "label": "Addictive"
+                },
+                "content": {
+                    "label": "Fun",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40304303"
+                    },
+                    "name": {
+                        "label": "Tool2k"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "784512737"
+                },
+                "title": {
+                    "label": "Old School"
+                },
+                "content": {
+                    "label": "Solid. Balanced. Old school.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id155041050"
+                    },
+                    "name": {
+                        "label": "RetroSparqi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "775895709"
+                },
+                "title": {
+                    "label": "iPhone 5 Support?"
+                },
+                "content": {
+                    "label": "Please?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id108174731"
+                    },
+                    "name": {
+                        "label": "Jschmeck1"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "740285454"
+                },
+                "title": {
+                    "label": "Replaced 100 Rogues as my fav Roguelike rpg!"
+                },
+                "content": {
+                    "label": "This game really is incredible. It is challenging and requires patience just like other roguelikes. This gem however keeps me coming back for more because it is incredibly rewarding.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id139921723"
+                    },
+                    "name": {
+                        "label": "Rhebstriet"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "728931186"
+                },
+                "title": {
+                    "label": "Good game"
+                },
+                "content": {
+                    "label": "I like the game it is hard but I like it. My stepdad likes it too he had it in has MacBook Pro so I got it too for my iPod.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id226070497"
+                    },
+                    "name": {
+                        "label": "CarterCarterCarter"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "724021044"
+                },
+                "title": {
+                    "label": "I was looking for something like this"
+                },
+                "content": {
+                    "label": "I like the controls. Great for casual play or playing for hours with your phone plugged in. Perfect.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id20162754"
+                    },
+                    "name": {
+                        "label": "Pyrrish"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "717829404"
+                },
+                "title": {
+                    "label": "Simple, fun"
+                },
+                "content": {
+                    "label": "Very simple roguelike, but fun, and more interesting than many of the brain-wasting games on mobile devices.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22599000"
+                    },
+                    "name": {
+                        "label": "Demixix"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "715045910"
+                },
+                "title": {
+                    "label": "Cool"
+                },
+                "content": {
+                    "label": "Sexy",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id81025984"
+                    },
+                    "name": {
+                        "label": "Megamerican"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "709836755"
+                },
+                "title": {
+                    "label": "Hours of fun so far"
+                },
+                "content": {
+                    "label": "Great roguelike, great price, I would prefer the controls be a little more conventional but it's not a significant distraction.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id12534997"
+                    },
+                    "name": {
+                        "label": "XFlatpicker"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "698293016"
+                },
+                "title": {
+                    "label": "Awesome!"
+                },
+                "content": {
+                    "label": "This game is great classic gaming.\n\nThe random encounters keep it fresh, and, although perma-death can be a B, it makes the game worthwhile.\n\nkudos!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id134357351"
+                    },
+                    "name": {
+                        "label": "Madtzyn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "692703440"
+                },
+                "title": {
+                    "label": "Great!"
+                },
+                "content": {
+                    "label": "Nostalgia!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id284212967"
+                    },
+                    "name": {
+                        "label": "DRxNAGA"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "690038497"
+                },
+                "title": {
+                    "label": "Fargoal is dope!"
+                },
+                "content": {
+                    "label": "This title is not only my favorite game on my phone but it is also one of my favorite roguelikes in general.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id13165338"
+                    },
+                    "name": {
+                        "label": "Tmasterfunk"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "689678698"
+                },
+                "title": {
+                    "label": "Ehh"
+                },
+                "content": {
+                    "label": "Lots of potential but I'm not too impressed.. Should really throw in a lot of the same features as inethack, powder, etc. the game is a lot of the same, I think it should be switched up a bit... I walk into enemies to fight them? I do practically nothing but wander aimlessly until I find stairs down and useful items while destroying anything I encounter. It's definitely got potential, lets see you take it somewheres",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id7230418"
+                    },
+                    "name": {
+                        "label": "Big_Jayhawk"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "682393803"
+                },
+                "title": {
+                    "label": "Fargoal is fun!"
+                },
+                "content": {
+                    "label": "I'm more of a turn based gamer, but this is quite a lot of fun.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id126008803"
+                    },
+                    "name": {
+                        "label": "Golfsoup"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "678800669"
+                },
+                "title": {
+                    "label": "Memories!"
+                },
+                "content": {
+                    "label": "Brings back the memories. Makes me want to pull the C-64 out. Of the attic and boot up that glorious blue screen and blinking cursor!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=343242870&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:52:56-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=343242870/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=343242870/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=343242870/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=343242870/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=343242870/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=343242870/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=343242870/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=343242870/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=343242870/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=343242870/sortBy=mostRecent/json"
+        }
+    }
+}

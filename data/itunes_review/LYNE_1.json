@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24401331"
+                    },
+                    "name": {
+                        "label": "Skrooby"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6693158683"
+                },
+                "title": {
+                    "label": "Line photos permissions fishy"
+                },
+                "content": {
+                    "label": "Line doesn't let you log in using QR code unless you give it permissions to access all your photos, but it only needs access to your camera",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id585469226"
+                    },
+                    "name": {
+                        "label": "Chelios Lee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6688746630"
+                },
+                "title": {
+                    "label": "非常失望"
+                },
+                "content": {
+                    "label": "因為換了手機，訊息就被刪光，已經有事先備份但是卻備份不完全，所有重要的訊息都不見了。舊的手機連個網路就整個清空訊息，想補救都來不及。\n不知道這是什麼爛設定",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id134438927"
+                    },
+                    "name": {
+                        "label": "miss KK-11"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6685175766"
+                },
+                "title": {
+                    "label": "Is it ok 9 year old"
+                },
+                "content": {
+                    "label": "???",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id926064933"
+                    },
+                    "name": {
+                        "label": "Mohammabbas2010"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6684811922"
+                },
+                "title": {
+                    "label": "Green stuff..."
+                },
+                "content": {
+                    "label": "Line is a great app but.. one problem... random green chunks are appearing everywhere, for me and my friend!, I was watching a video the one of my friends sent, but there was a green Block taking 3/4 of the screen!, and my friend and me are chatting on video call, but when he opened his camera, there was a green block (again) but this time it was taking all of the screen!!, and he can see it to!\nso I’m hoping u are going to fix that, thx.\n\nP.S. : and it wasn’t my friend Device that wasn’t working well, it was  Line that wasn’t working, even after even after he did a shut down, it still was there...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1002666793"
+                    },
+                    "name": {
+                        "label": "mina-nami-zuki"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6683274021"
+                },
+                "title": {
+                    "label": "Stickers"
+                },
+                "content": {
+                    "label": "This app is great, I use it for mostly chats and calls, and I really love the variety of stickers i can get and have, but my question is when are the Aggressive Retsuko stickers going to be available?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id459534317"
+                    },
+                    "name": {
+                        "label": "Ghada Rabah"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6676737189"
+                },
+                "title": {
+                    "label": "Problem"
+                },
+                "content": {
+                    "label": "I use Line regularly for group calls and used to enjoy the service provided. Unfortunately, the recent update is very bad. Many features I relayed on disappeared. I did use this button which invites all group members at once to a call very often. Now, it’s not there anymore which is a problem for many people when making a group call because they often miss it now without me sending invitations. I know that I can invite people to calls individually, but that is not possible in groups with 400+ people since it would take a lot of time. I wish that this particular feature would be available again soon.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id304107632"
+                    },
+                    "name": {
+                        "label": "425isHungry"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6676430110"
+                },
+                "title": {
+                    "label": "Waste of time"
+                },
+                "content": {
+                    "label": "For no reason, Line logged me out. Now it won’t acknowledge my email address, my screen name isn’t attached to a functional email to reset the password, my Apple login isn’t associated with my screen name. My Facebook isn’t associated with my screen name. Apparently I have zero way to access my screen name. I used to play Disney TsumTsum via that screen name. Since I can’t acces it anymore I lost 2 years of achievements on that game. Either please let me into my screen name or this review stands as you are a company that screws over your customer.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1182931316"
+                    },
+                    "name": {
+                        "label": "simple.nvv"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6673689653"
+                },
+                "title": {
+                    "label": "App bị lỗi"
+                },
+                "content": {
+                    "label": "Tôi không thể đăng nhập bằng số điện thoại của tôi app không hề gửi mã xác nhận để tôi vào được app",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id340436804"
+                    },
+                    "name": {
+                        "label": "MsEmma12"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6673681063"
+                },
+                "title": {
+                    "label": "Better than Whatsapp"
+                },
+                "content": {
+                    "label": "I have been using Line since its first launch. I am loving it! Really! Works better than Whatsapp though. I use iph6S+ , all good with me , Line dari theme. At least when you travel and connect with your friends on Line you dont have to signin with number. So since i travel a lot and Whatsapp doesnt work for me, Line is the best.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id477769832"
+                    },
+                    "name": {
+                        "label": "LonelyCookie •£•"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6672441812"
+                },
+                "title": {
+                    "label": "Cool but"
+                },
+                "content": {
+                    "label": "Wish I knew who shares my posts on my timeline!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1140126997"
+                    },
+                    "name": {
+                        "label": "raaazan¥"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6666644991"
+                },
+                "title": {
+                    "label": "لاين"
+                },
+                "content": {
+                    "label": "لاين تاعي ما بيوصلوً كود تعريفي بليززز حلولي المشكله",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id170869060"
+                    },
+                    "name": {
+                        "label": "Xxjsnfizxx"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6661685736"
+                },
+                "title": {
+                    "label": "Kept on asking me about photo selection"
+                },
+                "content": {
+                    "label": "After upgrading to ios 14 Line became sluggish and kept on asking photo options... sad",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id206326242"
+                    },
+                    "name": {
+                        "label": "dog696"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6659153962"
+                },
+                "title": {
+                    "label": "My stickers"
+                },
+                "content": {
+                    "label": "Hello I love line and have used close to 4 years it’s been a great app but I had a apple update and now my sticker won’t post to chat. They pop up as I use key word but when I tap on it won’t post to chat unless I filter threw my stickers and Manuel post it. It more work now. I’m not to happy with line at the moment.. Please help me!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id311214614"
+                    },
+                    "name": {
+                        "label": "*ericHi47"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.19.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6658439108"
+                },
+                "title": {
+                    "label": "Crashes"
+                },
+                "content": {
+                    "label": "Version 10.19\niOS 14.2 \niPhone 12\nShuts down immediately when trying to open the app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id175427662"
+                    },
+                    "name": {
+                        "label": "believerhehype"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.18.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6656790951"
+                },
+                "title": {
+                    "label": "Good app but..."
+                },
+                "content": {
+                    "label": "My old phone is broken and inoperable, it says i need access to my old phone to access my line account on my new phone. I feel like it should have an email verification instead because its frustrating that i cant get all of my contacts and chat history back and have to create a whole new account.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id191942902"
+                    },
+                    "name": {
+                        "label": "@JENJENoz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.18.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6656689352"
+                },
+                "title": {
+                    "label": "Lost Chat Backup"
+                },
+                "content": {
+                    "label": "Just switched to iPhone 12 Pro Max and made sure to back up chat on 11/13/20 as well as 11/16/2020 on my 11 Pro Max. (My chats are set to back up every 3 days automatically as well.) When I changed to my new phone, I was able to log in and restore every other app on my phone except for LINE. It was my last back up was from 2019. What?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id922390159"
+                    },
+                    "name": {
+                        "label": "yuna yunnn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.18.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6654027731"
+                },
+                "title": {
+                    "label": "Line keyboard"
+                },
+                "content": {
+                    "label": "Hello , line chat and line games is the best , still playing cookie run from 5 years ago or more such a good game , still like it thank you\n\nEhmm.. Can u please make something like line keyboard i want to buy stickers but I don’t use line chat , I like ur stickers guys and really want to support artists but I will not use line chat so it’s waste like that ؛-؛ it’s will be so useful!! soo please can you guys  ؛-؛ \n\nHave a nice day hope you see my review",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id29873101"
+                    },
+                    "name": {
+                        "label": "BlurryFuture"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.18.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6645337373"
+                },
+                "title": {
+                    "label": "Please fix the copy message glitch!"
+                },
+                "content": {
+                    "label": "The message will never copy the first time. Sometimes will just never copy.\n\nApp also hangs on the keyboard or when switching keyboards .... I have an iPhone 11 and this doesn’t happen in any other application.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id176539634"
+                    },
+                    "name": {
+                        "label": "*gerina*"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6621405882"
+                },
+                "title": {
+                    "label": "App will not open"
+                },
+                "content": {
+                    "label": "App is not opening on iOS 14.2. This App hasn’t opened for me since September. Please update app and/or test with all available iOS that are currently available. App opens on iOS 12.4.8",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35205687"
+                    },
+                    "name": {
+                        "label": "Zetabee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6621384675"
+                },
+                "title": {
+                    "label": "Great app but lacks functionality on the iPad"
+                },
+                "content": {
+                    "label": "I love this app, although it does not have as many great functions on the iPad as other platforms, and has a few bugs.\n\nIt doesn't seem like themes are offered on the iPad version, even if you've bought them before for the other mobile versions.\n\nAlso the biggest bug is that if you are using an apple magic keyboard with your iPad, the enter key won't work to send the message. You have to reach to the screen and press the send button via touch screen each time after you type your message on the keyboard.\n\nEnter key to send message functionality is a simple thing but would much improve the app experience!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id879901962"
+                    },
+                    "name": {
+                        "label": "jcg8573"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6621324732"
+                },
+                "title": {
+                    "label": "After iOS update photo sharing is wack"
+                },
+                "content": {
+                    "label": "After iOS 14 I’m having to do a clunky multi step process every time I want to share a photo. First I have to leave the app, then come back in, then I’m prompted to select a set of photos I’d like to have available to share, then I can later select from among them and share. \n\nNormally my behavior in Line is, mid chat, I jump to a screen, screenshot something, come back into line, share that screenshot. Now I have to close and reopen the app to get access to this new screenshot. \n\nI’m guessing this is a temporary issue.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1226012533"
+                    },
+                    "name": {
+                        "label": "universal_don"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6611293863"
+                },
+                "title": {
+                    "label": "Won’t Let Me Make An Account...."
+                },
+                "content": {
+                    "label": "Okay so I’ve been trying to make an account via Facebook since I don’t have a number to use instead but it just won’t let me create one with a Facebook account... It will give me this message to try another Facebook account and I have actually made a whole new one to try and still won’t let me.. so please make this app accessible to anyone with phone number or not",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id362745934"
+                    },
+                    "name": {
+                        "label": "Joe83830"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6610272105"
+                },
+                "title": {
+                    "label": "Been crashing since iOS 14"
+                },
+                "content": {
+                    "label": "Like the title says been crashing a lot lately. Also traditional Chinese keyboard went bust, 3~5 second delays are rampant.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id548549611"
+                    },
+                    "name": {
+                        "label": "Mamamooooooooo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6606722123"
+                },
+                "title": {
+                    "label": "Cannot send messages"
+                },
+                "content": {
+                    "label": "I was able to send messages yesterday but today when I opened the app, I can only receive messages. This is a new iPad with plenty of storage and strong WiFi connection :(.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id157211533"
+                    },
+                    "name": {
+                        "label": "kkbkdm"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6606520025"
+                },
+                "title": {
+                    "label": "Error code 4"
+                },
+                "content": {
+                    "label": "Too many errors. Every month.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id859459446"
+                    },
+                    "name": {
+                        "label": "xHyper]"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6600796123"
+                },
+                "title": {
+                    "label": "No auto-backup"
+                },
+                "content": {
+                    "label": "LINE is an amazing app. Everything is easy to use, high quality. Recently, I had to delete the app and re-download it due to problems with the app repeatedly crashing (also an annoying bug). When i re-downloaded it, I found that because i hadn’t backed up my data, everything was gone. All my messages. All my pictures and videos. All my stickers, i even had to download my stickers again. It’s so stupid that LINE doesn’t auto-backup straight from opening the app. You have to go into the settings, and setup a horrible auto-backup system. Just because of this and how angered I am, I will take off two stars.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id166127572"
+                    },
+                    "name": {
+                        "label": "Dr.kastro"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6600532958"
+                },
+                "title": {
+                    "label": "Very bad app"
+                },
+                "content": {
+                    "label": "Couldn’t know if it’s ringing or no and can’t know if the person online or no",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id146631020"
+                    },
+                    "name": {
+                        "label": "Sorunt"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6600100770"
+                },
+                "title": {
+                    "label": "Lazy developer, stay away from this orphaned app"
+                },
+                "content": {
+                    "label": "Every time there’s an iOS update, the Line app starts malfunctioning. Can’t send photos, can’t access chat groups, you name it. And now with the latest iOS 14.1 the app just stopped working altogether, it’s like there is no maintenance and no support for this app. Offloading, uninstalling doesn’t help, so those who have the issue are at Line’s mercy to update their software and not even God knows when that will be.\n\nI would NEVER recommend this trash to anyone, there’s so many other chat apps that are easily far more superior than Line. No one should be put through suffering for this ordeal.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id103025740"
+                    },
+                    "name": {
+                        "label": "smigcal95"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6600098720"
+                },
+                "title": {
+                    "label": "lol ??? what is this update"
+                },
+                "content": {
+                    "label": "nothing opens anymore after the most recent update. everything is frozen and won't load.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id530190195"
+                    },
+                    "name": {
+                        "label": "bhavnabsingh"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6600086207"
+                },
+                "title": {
+                    "label": "Really?!"
+                },
+                "content": {
+                    "label": "Why does it keep crashing? I rebooted and upgraded my phone and it won’t let me talk to loved ones",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1225024579"
+                    },
+                    "name": {
+                        "label": "yupitydup"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6600085840"
+                },
+                "title": {
+                    "label": "App won’t open or work"
+                },
+                "content": {
+                    "label": "Been a long time user. I switched to an iPhone with a backed up account. Found my account, but now the app doesn’t work at all and is frozen. Horrible and unacceptable.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id768478899"
+                    },
+                    "name": {
+                        "label": "vegetable rooster"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6600067556"
+                },
+                "title": {
+                    "label": "Could not work"
+                },
+                "content": {
+                    "label": "My wife and I experienced a malfunction with this app simultaneously. The app just could not show any information. Even worse, the desktop version also shut down minutes later. Now we just could not get access to all the information our friend sent us.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id215572455"
+                    },
+                    "name": {
+                        "label": "Snoopyqqs"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6600066242"
+                },
+                "title": {
+                    "label": "App won’t open"
+                },
+                "content": {
+                    "label": "The app gets stuck and won’t load... no matter what I do ...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id970517488"
+                    },
+                    "name": {
+                        "label": "smash0013"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6600020509"
+                },
+                "title": {
+                    "label": "Login issues"
+                },
+                "content": {
+                    "label": "I love your app but unfortunately you guys do not offer a lot of help when we have technical issues at the moment, I’m having problems logging in it will automatically kick me out it asked me for my fingerprint and then it kicks me out. Please try to fix this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id772553539"
+                    },
+                    "name": {
+                        "label": "Loojers"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6600001082"
+                },
+                "title": {
+                    "label": "App Broken for iPhone 6s"
+                },
+                "content": {
+                    "label": "I picked up a call and it froze my entire phone. When I finally was able to get a hold of it, I force quit it and it still freezes at the Contacts Page. I tried to uninstall it and still stuck. Please fix, I really like LINE but this is so frustrating.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id188301308"
+                    },
+                    "name": {
+                        "label": "AngelLove444"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6599931263"
+                },
+                "title": {
+                    "label": "App won’t open"
+                },
+                "content": {
+                    "label": "Line app won’t open or allow calls. On any iOS device I won’t open or run Why?\nUsually minor bugs. But now won’t simply even open.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id515474364"
+                    },
+                    "name": {
+                        "label": "Admiral1371"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6599857383"
+                },
+                "title": {
+                    "label": "App crashes"
+                },
+                "content": {
+                    "label": "I’ve used this app for years and never had a problem it’s been great up until this recent update. Now I can’t even use the app anymore, it crashes as soon as it loads into the contact screen. I uninstalled and\nReinstalled the app, shut off my\nPhone and turned it back on after closing it several times and it still won’t operate properly. I use this app to keep contact with my wife since I work overseas we’ve been using this app consecutively for almost 6 years now. This is a first..",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id181047919"
+                    },
+                    "name": {
+                        "label": "JaMiE美眉"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6599831966"
+                },
+                "title": {
+                    "label": "The app is down!"
+                },
+                "content": {
+                    "label": "App is down, can’t use!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id159360605"
+                    },
+                    "name": {
+                        "label": "Eric serdar"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6599825581"
+                },
+                "title": {
+                    "label": "Bug isssue"
+                },
+                "content": {
+                    "label": "Can’t seem to load I’ve waited about 10 minutes then reset the phone and still waiting and nothing.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1224759776"
+                    },
+                    "name": {
+                        "label": "xxblitzxx420"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6599820524"
+                },
+                "title": {
+                    "label": "Broken on iOS"
+                },
+                "content": {
+                    "label": "Cab get to work now on iOS it freezes please fix",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id673886081"
+                    },
+                    "name": {
+                        "label": "adcgscvjhb"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6599805937"
+                },
+                "title": {
+                    "label": "WHAT??!!!"
+                },
+                "content": {
+                    "label": "Ok so, first of all Line is my favourite texting app and I’ve been using it for YEARS. I’ve had no problems with it up until like 5 minutes ago. It was working fine since I was able to chat and video call with my friends about an hour ago. I hung up and left the app and I was going back and I went to the chats place and it’s just showing me a loading circle and nothing happening. When I press anything nothing works and the app just closes itself and takes me to my Home Screen. My friend sent me a message that she is having the same problem with line. I was thinking of deleting it and reinstalling it but that would mean I lose all my texts and data on it. My friend said she restarted her phone but the problem was still there. Please fix this cuz I don’t want to lose anything.\nPLEASE PLEASE HELP ME AND PLEASE FIX THIS 😭😭😭😭😭😭😭. I can’t even back up the messages since it won’t let me do anything on the app. The page is just frozen and just keeps loading. That’s all and I’m so stressed from this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id315839683"
+                    },
+                    "name": {
+                        "label": "Mr M16"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6599786346"
+                },
+                "title": {
+                    "label": "Love the app"
+                },
+                "content": {
+                    "label": "The app is awesome but we need a serious update it’s glitching out and won’t work well on iPhone.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id14344335"
+                    },
+                    "name": {
+                        "label": "MjK3II"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6599727787"
+                },
+                "title": {
+                    "label": "It won’t load my chats."
+                },
+                "content": {
+                    "label": "I was trying to contact a friend in a game but the stupid app will not load. I was not able to contact them because of it despite uninstalling, ending app several times, and restarting my phone. They lost everything. Thanks line.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1179907612"
+                    },
+                    "name": {
+                        "label": "Bee344567"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6599725120"
+                },
+                "title": {
+                    "label": "Glitches and keep kicking me out"
+                },
+                "content": {
+                    "label": "Line was not working right. I can’t log in or even type my password. It just froze in one place. please fix this as soon as possible. Since I’m using line for my work place too. Thanks you!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id4332236"
+                    },
+                    "name": {
+                        "label": "M1k3 Ar3va10"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6599714819"
+                },
+                "title": {
+                    "label": "Not working with iOS 14 upgrade!!!!"
+                },
+                "content": {
+                    "label": "Line app suddenly stopped working with new iOS 14!!!  Updated the Line app, restarted the phone multiple times!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1224989686"
+                    },
+                    "name": {
+                        "label": "Johnz123451"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6599708765"
+                },
+                "title": {
+                    "label": "I’m locked out of chat"
+                },
+                "content": {
+                    "label": "It has been working just fine for quite a few days actually weeks. Now for some reason the app is taking forever to load and if I try to open chat at all.It won’t load and if I keep trying it crashes the app..This seems like a pretty major bug considering this is a messenger app:/",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id291863536"
+                    },
+                    "name": {
+                        "label": "Dakotaboa"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6599707585"
+                },
+                "title": {
+                    "label": "iOS 14.2"
+                },
+                "content": {
+                    "label": "Running the beta for 14.2.  app is completely unusable please get it fixed before final release",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id393892696"
+                    },
+                    "name": {
+                        "label": "DRUNKT4NK"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6599706518"
+                },
+                "title": {
+                    "label": "Loading"
+                },
+                "content": {
+                    "label": "Worked flawlessly now everytime I open the app it just goes black with the loading symbol",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id107046166"
+                    },
+                    "name": {
+                        "label": "Katiedid86"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6599704268"
+                },
+                "title": {
+                    "label": "I DID like this app!"
+                },
+                "content": {
+                    "label": "I’ve used line for 6 years now and it’s been great. However, today while in the middle of chatting it crashed and now won’t load again. I’ve deleted and reinstalled several times and it still does the same thing... takes FOREVER to load and then sits on a frozen screen not allowing me to do anything. This is the only way I have of contacting some friends! Not happy at all!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43341230"
+                    },
+                    "name": {
+                        "label": "HaloGuy123"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "10.17.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6599694325"
+                },
+                "title": {
+                    "label": "Doesn’t work in iOS 14.2 with iPhone 12 Pro!!"
+                },
+                "content": {
+                    "label": "After opening LINE, suddenly nothing is working anymore. It gets stuck loading and makes my iPhone 12 pro feel very hot when I touch the back of my phone. I tried to uninstall and reinstall, but still doesn’t work!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=443904275&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:45:08-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=443904275/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=443904275/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=443904275/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=443904275/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=443904275/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=443904275/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=443904275/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=443904275/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=443904275/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=443904275/sortBy=mostRecent/json"
+        }
+    }
+}

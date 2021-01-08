@@ -1,0 +1,162 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41072746"
+                    },
+                    "name": {
+                        "label": "simX"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.19"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6071889629"
+                },
+                "title": {
+                    "label": "Good, but needs work"
+                },
+                "content": {
+                    "label": "UPDATE:  These problema below still exist in 1.0.19. :(\n\nI really loved this game, and I’m glad that it’s back!\n\nHowever, there are two pretty large problems with the game right now, which are still present in the latest version 1.0.16:\n\n1. On an iPhone SE (1st generation), the controls in Classic mode practically overlap.  It causes you to jump when you want to fire, and vice versa.  Not good.\n\n2. When you get to 10x bonus, everything is impossible to see.  You can barely see where platforms and enemies are.  This makes it hard to keep the 10x bonus going for longer than a few seconds.\n\nPlease fix these problems!  Glad that GameClub is bringing these games back!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1481547371&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43895401"
+                    },
+                    "name": {
+                        "label": "Drelbs2345"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5009083916"
+                },
+                "title": {
+                    "label": "Blast from the past!"
+                },
+                "content": {
+                    "label": "Wow, haven’t played this one since iOS 10. And I am soo glad to have it back!\n\nGood job GameClub, keep up the good work!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1481547371&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:49:36-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1481547371/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1481547371/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1481547371/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1481547371/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1481547371/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1481547371/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1481547371/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1481547371/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1481547371/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1481547371/sortBy=mostRecent/json"
+        }
+    }
+}

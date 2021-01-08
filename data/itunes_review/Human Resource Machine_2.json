@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id3984940"
+                    },
+                    "name": {
+                        "label": "NovaSTL"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1683706227"
+                },
+                "title": {
+                    "label": "Beautiful but crazy hard"
+                },
+                "content": {
+                    "label": "I have been programming for decades, and even I found this little app very difficult. On the other hand, it is fun, and beautiful. A lot of work went into this, but if it is trying to teach programming, it is only going to succeed for the first few levels, and then (IMHO) it will be too frustrating for most. Then again, for a few, it will be a serious challenge! If you're looking for something that requires intense logic and is extremely difficult, this is your game. :-)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id132185264"
+                    },
+                    "name": {
+                        "label": "BigB777"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1632613975"
+                },
+                "title": {
+                    "label": "Good But Could be Great"
+                },
+                "content": {
+                    "label": "This is a really great concept and fun to play. But they need to decide if their goal is to teach people to be smarter or to make them feel stupid. The only help you are given is in the form of either an example of the result or being chided when you get something wrong. This is an inventive and sly way of teaching without being overbearing. However, it gets frustrating in some of the higher levels. Like having to find out that you can add and subtract letters just by chance. Some of the instructions seem to be deliberately misleading. And the lack of additional commands as you progress is needlessly unrealistic. Why not make them available then make the more challenge bit the optimization of not using them?\nOverall, I had fun with the game and think it would be a great teaching tool for kids. But they need to make it more accessible if they don't want people to just hit a level they can't pass and abandon the game. And new puzzle packs would be great.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "13"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "28"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id17563152"
+                    },
+                    "name": {
+                        "label": "WarrenO"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1632421573"
+                },
+                "title": {
+                    "label": "Absolutely Awesome"
+                },
+                "content": {
+                    "label": "The design and production quality of this game are top-notch. The levels start out simple but get very challenging, plus there are optional levels and optimizations that really bend your noodle if you want to take them on. \n\nIt basically teaches you how a computer CPU works at its lowest level, and how to program it at that level (assembly). This is great knowledge that even many professional programmers lack these days. \n\nHighly recommend if you like logical problem solving!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id344797166"
+                    },
+                    "name": {
+                        "label": "SwiTun"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1630368169"
+                },
+                "title": {
+                    "label": "One of the best apps I ever played!"
+                },
+                "content": {
+                    "label": "Simply amazing! I feel like I robbed somebody only paying a dollar for this... it's worth much much more!! Then again, I did do a lot of virtual work here for a fake corporation for free, so we'll call it even. I'm not sure I'll ever be able to get their prime number program operational though!!!\n\nThanks though guys this game was great. I hope you keep developing apps. The fireplace one is also great too- but this one is my favorite!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id457743739"
+                    },
+                    "name": {
+                        "label": "Masoodadude"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1630261529"
+                },
+                "title": {
+                    "label": "Love it!"
+                },
+                "content": {
+                    "label": "I have experience in Matlab and a little of Arduino but find this to still be a great and fun challenge. It teaches the basics of programming in a very intriguing way.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id106528054"
+                    },
+                    "name": {
+                        "label": "PaulDaJedi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1628876514"
+                },
+                "title": {
+                    "label": "Best puzzle game"
+                },
+                "content": {
+                    "label": "Not only is this a great game put you are practicing a lot of the principles behind programming, without getting caught up syntax.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id247123272"
+                    },
+                    "name": {
+                        "label": "Ffgghhjjkkll"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1628442412"
+                },
+                "title": {
+                    "label": "Cant turn off sound."
+                },
+                "content": {
+                    "label": "It's a great game, just wish you could turn sound and music off so you can listen to your own music.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11505610"
+                    },
+                    "name": {
+                        "label": "AlbertTWong"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1627952598"
+                },
+                "title": {
+                    "label": "Reminds me of assembly programming from school"
+                },
+                "content": {
+                    "label": "Love it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id493834797"
+                    },
+                    "name": {
+                        "label": "Jecobee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1627059783"
+                },
+                "title": {
+                    "label": "Love this Game!"
+                },
+                "content": {
+                    "label": "Only item I would like to see improved is the comments. I like the ability to draw in the comments but maybe you could also make an option to type? Im not really able to be as detailed as I'd would like to be. I can barely draw one 4 letter word. Absolutely amazing game though!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id148626155"
+                    },
+                    "name": {
+                        "label": "Happy player0987"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1627023856"
+                },
+                "title": {
+                    "label": "My brain cannot compute"
+                },
+                "content": {
+                    "label": "I wanted so hard to love this app but I just couldn't. My husband who writes code had no problem me on the other had just couldn't wrap my noodle around it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30278214"
+                    },
+                    "name": {
+                        "label": "CWhite51"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1625978519"
+                },
+                "title": {
+                    "label": "Addicting, helps learn programming logic"
+                },
+                "content": {
+                    "label": "Quirky, odd game that helps develop problem solving skills and teaches programming logic. Great for kids and adults!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id141269120"
+                    },
+                    "name": {
+                        "label": "CounterTorque"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1625345555"
+                },
+                "title": {
+                    "label": "Good programming lesson"
+                },
+                "content": {
+                    "label": "As a professional programmer I quite enjoyed this. It was short, only a couple hours to beat (not perfect) all the levels. However for non programmers it will give you a real look at some very common programming problems. Well worth the 99c.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id367295457"
+                    },
+                    "name": {
+                        "label": "JacobiJonesJr"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1613075059"
+                },
+                "title": {
+                    "label": "Good"
+                },
+                "content": {
+                    "label": "Great game and concept but it is too short at the moment",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id173616281"
+                    },
+                    "name": {
+                        "label": "Lifelearner240"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1596124287"
+                },
+                "title": {
+                    "label": "A few bugs"
+                },
+                "content": {
+                    "label": "Did anyone else find a bug in the mod module?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id253843770"
+                    },
+                    "name": {
+                        "label": "Zanderpiano"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1590409335"
+                },
+                "title": {
+                    "label": "Amazing game!!"
+                },
+                "content": {
+                    "label": "BEST game I've ever seen for learning anything. One of the most intuitive and enjoyable ways to learn code :)\n\nEdit: I don't know how to contact you guys but I realized that my \"problem\" in my last review isn't a problem. I don't know if you fixed it, or if the concept is just difficult to understand, but I went back and read the text in the game and it makes sense.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42511004"
+                    },
+                    "name": {
+                        "label": "andesmints"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1580757304"
+                },
+                "title": {
+                    "label": "Lose progress on restore"
+                },
+                "content": {
+                    "label": "I bought this on release, played quite a bit, and then lost all my progress when I needed to restore my phone (not a problem with other games). \n\nI picked it up again earlier this week...and today lost all progress after a restore from backup. Why isn't progress part of backups?\n\nFantastic otherwise. The challenges add a great dimension.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id387222033"
+                    },
+                    "name": {
+                        "label": "Nick Grimm"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1576064090"
+                },
+                "title": {
+                    "label": "Game ignores auto-rotation settings"
+                },
+                "content": {
+                    "label": "Decently fun game and is helping me get back in the programming mindset. However I play in bed and the game constantly rotates itself even though my auto-rotation is turned off. Please fix this and it'll be 5 stars",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id194724705"
+                    },
+                    "name": {
+                        "label": "Greg.ni"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1573323227"
+                },
+                "title": {
+                    "label": "Great Game"
+                },
+                "content": {
+                    "label": "We want to be able to hear the sound affects of the game with but with our own music.. Please add this\n\nI want it to save my progress to iCloud",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id280806006"
+                    },
+                    "name": {
+                        "label": "Qwertybeast"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1567142556"
+                },
+                "title": {
+                    "label": "omg am I programming?"
+                },
+                "content": {
+                    "label": "Great puzzle game, great style, great music.  I was definitely a few puzzles in before I realized it was teaching me programming..  I just reflex-downloaded the game bc of World of Goo and Little Inferno..  All three games are very stylish, and very different kinds of fun.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id258522486"
+                    },
+                    "name": {
+                        "label": "Datalis1930"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1566687191"
+                },
+                "title": {
+                    "label": "This is challenging but the fun kind"
+                },
+                "content": {
+                    "label": "If you don't mind a thinker then give this a shot. But be warned it eats batteries like m&m,s.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id241089954"
+                    },
+                    "name": {
+                        "label": "FilipinoJuan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1565145297"
+                },
+                "title": {
+                    "label": "A real fun game for programmers"
+                },
+                "content": {
+                    "label": "This puzzle game is a must have ! If you are seriously into puzzle games , you love this one and I meant SERIOUS! I'm an not a programmer, though I do have little experience. It's pretty cool . You have have be good at basic mathematics and also figure out how to multiply without multiplication. I love this game , it makes you think and stimulates your brain. Don't say I didn't warn you 😉😉😉",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id48849526"
+                    },
+                    "name": {
+                        "label": "Mr. Otciv"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1554351472"
+                },
+                "title": {
+                    "label": "😴💤💤💤"
+                },
+                "content": {
+                    "label": "Purchased game based on other reviews. Game blows. I want my $5 back.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id179882192"
+                    },
+                    "name": {
+                        "label": "MinnaB"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1548050304"
+                },
+                "title": {
+                    "label": "Fun math puzzles, not really programming, short"
+                },
+                "content": {
+                    "label": "I enjoyed playing this game. The basic premise is that of a puzzle game, namely to work out basic algorithms/math problems using specific input choices.  This game did not get five stars for two main reasons: it claims to be an introduction to programming, but only is if you don't know what the basic idea of programming is - you won't learn any actual code or any real coding skills. Which would be fine if that weren't part of their advertising. The other issue is that it isn't very long - I expect to be able to play a game I paid for for more than a few days. One small complaint that doesn't affect the rating is that it mutes all other sounds while playing. I'd like to listen to music or podcasts while playing and this game doesn't allow that.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id309624811"
+                    },
+                    "name": {
+                        "label": "Erkydorky"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1545916789"
+                },
+                "title": {
+                    "label": "Unbelievably awesome"
+                },
+                "content": {
+                    "label": "Every time you figure out the puzzle, it makes you feel like a genius. I pop my collar after every level I beat :). Polished and unique, which is rare on the App Store. Thanks guys for a truly amazing experience.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id459340705"
+                    },
+                    "name": {
+                        "label": "original liolf"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1532177807"
+                },
+                "title": {
+                    "label": "disgusting"
+                },
+                "content": {
+                    "label": "disgusting write my reveiw",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37777598"
+                    },
+                    "name": {
+                        "label": "ME43665644"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1529993867"
+                },
+                "title": {
+                    "label": "So far so good."
+                },
+                "content": {
+                    "label": "This game has been amazingly fun so far. Only complaint is lack of iCloud sync.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id86438245"
+                    },
+                    "name": {
+                        "label": "Dazamatic"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1529397226"
+                },
+                "title": {
+                    "label": "Hard but like be the challenge!!"
+                },
+                "content": {
+                    "label": "Lost a star only because there is no Game Center sync so can't carry progress across devices:(",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id136222969"
+                    },
+                    "name": {
+                        "label": "Qmwnebrvtcyxuzolakdhfhf"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1528266757"
+                },
+                "title": {
+                    "label": "Fun game with a huge problem"
+                },
+                "content": {
+                    "label": "Love the game. Hate that my progress got deleted. \n\nThis is not a game where you just get back up to where you were easily as long as you've already beaten it once. This should not happen ever.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42135162"
+                    },
+                    "name": {
+                        "label": "stlredbird"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1515953159"
+                },
+                "title": {
+                    "label": "Best logic game on the app store"
+                },
+                "content": {
+                    "label": "I can't say enough good things about this game. Really hoping they release a sequel or more levels via iap.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id140024696"
+                    },
+                    "name": {
+                        "label": "smallwisdom"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1515585577"
+                },
+                "title": {
+                    "label": "Cute and engaging"
+                },
+                "content": {
+                    "label": "The graphics are simple and cute. The problems are all nicely paced to each get harder but never with too big of a jump in difficulty from one level to the next. I started playing it with my 7 year old and, with only a little help reading the instructions, he has been able to figure out what to do and really likes the game as well.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id34718691"
+                    },
+                    "name": {
+                        "label": "Hockinator"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1509659025"
+                },
+                "title": {
+                    "label": "Great mind-twisted"
+                },
+                "content": {
+                    "label": "This game is a great little puzzler with tight mechanics and a great feel. Also, it teaches you how computers do basic math, manipulate strings, and use memory!  This is the first really compelling educational game I've seen in a while.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30373264"
+                    },
+                    "name": {
+                        "label": "Taybinator"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1509107420"
+                },
+                "title": {
+                    "label": "Fun introduction to assembly language but buggy"
+                },
+                "content": {
+                    "label": "There seems to be a bug on level 20 where it always wants the last answer to be zero, even when that is incorrect. This is blocking further progress and is quite frustrating.\n\nA fun introduction to assembly language, but you quickly learn how tedious assembly can be.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id4067473"
+                    },
+                    "name": {
+                        "label": "TheProgrammingDon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1508900687"
+                },
+                "title": {
+                    "label": "Great Logic Game!"
+                },
+                "content": {
+                    "label": "This game lives up to it's campaign promise to Make Programming Great Again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id405289695"
+                    },
+                    "name": {
+                        "label": "Occ4sional G4mer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1508152118"
+                },
+                "title": {
+                    "label": "Very cool puzzle game"
+                },
+                "content": {
+                    "label": "I really love how challenging this game is. The backstory is a very funny spoof of the corporate world and there is great satisfaction in being able to solve the higher levels. It is really well designed with entertaining graphics and sound effects. I highly recommend this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37974406"
+                    },
+                    "name": {
+                        "label": "Macgenie"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1507989950"
+                },
+                "title": {
+                    "label": "Great intro for engaging aspiring coders"
+                },
+                "content": {
+                    "label": "I work with kids (and some adults), introducing app development and coding. I always recommend this to those just getting started. They have all loved it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30051539"
+                    },
+                    "name": {
+                        "label": "Mike Moretti"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1507906052"
+                },
+                "title": {
+                    "label": "Waste of money, zero support"
+                },
+                "content": {
+                    "label": "After reading all these positive reviews I thought this was going to be a great game, I was wrong. There's zero support so good luck. If you have no coding experience this game is a waste of money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id164765889"
+                    },
+                    "name": {
+                        "label": "Toothy ruthie"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1501984779"
+                },
+                "title": {
+                    "label": "I never write reviews"
+                },
+                "content": {
+                    "label": "This app is the exception to my rule. Challenging and fun. \n\nJust to show how challenging it is, I worked on Level 21 for about 5 days and was convinced that there was a bug in the game that needed to be fixed. This seems to be a common misconception among many reviewers, and I also fell for it. But NO!  Level 21 is not flawed, I just wasn't paying attention and thinking it through. \n\nThis app is awesome. I just completed level 21, and now I can't wait to get to move on. \n\nI'm almost 50, by the way, with a graduate degree heavy in maths. \n\nThank you for such a great app. I would give it 10 stars, if possible.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id223204867"
+                    },
+                    "name": {
+                        "label": "jameskn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1500369389"
+                },
+                "title": {
+                    "label": "Cynical"
+                },
+                "content": {
+                    "label": "A cynical overlay for math problems solved in the form of software coding. I hate math and was hoping for a fun way to do some coding for the first time, so no and no. And I don't believe the business world, from whom these cynical developers happily accept money in the form of your paycheck and mine, is a nasty place worthy of mockery. Getting a refund if possible.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43244965"
+                    },
+                    "name": {
+                        "label": "WidebandId"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1499449756"
+                },
+                "title": {
+                    "label": "One of the best-executed games I've played. One very minor quibble."
+                },
+                "content": {
+                    "label": "This is an awesome game, and it just works. The early programs are easy for someone familiar with programming, but harder for newcomers.  Working with the most basic commands per task forces experienced programmers to think.  And the Optimization Challenges are harder for everyone, which makes it engaging.  Branching and the ability to keep copies of your existing code while you dork around with your current program is great.  I'm addicted, and I've been playing for only an hour. \n\nAs another reviewer said, I'd like to be able to listen to my own music.  But that's minor, compared with the fun.  Highly recommended.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id310471297"
+                    },
+                    "name": {
+                        "label": "ChrisYesYesYes"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1492808851"
+                },
+                "title": {
+                    "label": "Smarter for having played!"
+                },
+                "content": {
+                    "label": "This is the most fun game I've played on my ipad.  I'm proud to have beaten every level!  Maybe not most efficiently, so I'm revisiting to see where I can improve. This is one of the few games where beating it gives a real sense of accomplishment.  It isn't a mindless tap the screen game.  Your brain will be challenged and you will emerge smarter afterwards!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id18870232"
+                    },
+                    "name": {
+                        "label": "parrotlt"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1490979422"
+                },
+                "title": {
+                    "label": "Superfun challenge!"
+                },
+                "content": {
+                    "label": "If you like logic games and have fun writing codes, you will love love love this game! Hours of fun and brain exercise.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id211532896"
+                    },
+                    "name": {
+                        "label": "Refleximpending"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1487524425"
+                },
+                "title": {
+                    "label": "Brilliant game"
+                },
+                "content": {
+                    "label": "What a wonderful gem. In 5 years of having an iPhone, this is hands down the most satisfying game I've played. I paid the full $4.99 for it I feel it is worth every penny. Buy this game if you like to be challenged and learn while playing without feeling frustrated. Kudos development team, hopefully other developers follow your lead.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39726880"
+                    },
+                    "name": {
+                        "label": "terwillikerme"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1477512936"
+                },
+                "title": {
+                    "label": "fun but disappointing end"
+                },
+                "content": {
+                    "label": "The puzzles were great, though they got hard very fast. Finally resorted to paper to organize my thoughts. Kids may quickly find it becoming too difficult.\nExpected more in the last video too. All the other videos were excellent though. The only part that really bothered me was using the editing board when the program became long. Scrolling up and down frequently dragged a command out of place. The undo button was at the bottom so you could not always see what was undone. Otherwise a fun and challenging game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id237647910"
+                    },
+                    "name": {
+                        "label": "Delewarewolf"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1472447980"
+                },
+                "title": {
+                    "label": "Amazing but..."
+                },
+                "content": {
+                    "label": "You can't turn the sound off, only the music. And if you want to listen to your own music while wrapping your head around a 30 minute exercise then you better forget about it. You can only listen to it one of three ways:\n\n-sound on, music on\n-sound on, music off\n-device doing completely off \n\nI can't stand being forced to listen to the same sounds and music over and over, especially when I want to listen to my own music and play. I really hope the developers fix that so I can fix my review.\n\nWith that being said, this game is definitely isn't for for the lighter minds. Anyone with any kind of cs background will find some of these sorting algorithms a breeze, but you will definitely come across some satisfying challenges.\n\nAny of those without any kind of cs/se background be warned: this game will be very tough for you to completely beat. \n\nDespite my two star review, I happily recommend you download this game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "3"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "4"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id430867192"
+                    },
+                    "name": {
+                        "label": "Blackdragon12379"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1470530747"
+                },
+                "title": {
+                    "label": "Love the game but a few bugs"
+                },
+                "content": {
+                    "label": "I love the game for it's simplicity, but gets hard through out the game with optional levels. But I've been having issues with level 30 (string storage floor) where the game doesn't allow me to use the address feature correctly. Also it changes how many of some letters are needed to \"complete\" the level. Enough that it's impossible to beat. Hope it gets fixed in an update.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id108020395"
+                    },
+                    "name": {
+                        "label": "ajay.ganapathy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1467461685"
+                },
+                "title": {
+                    "label": "No iCloud game save"
+                },
+                "content": {
+                    "label": "I set this game up on a new iPad ... and I had to start all over again! It didn't save my progress to iCloud!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id5658584"
+                    },
+                    "name": {
+                        "label": "Vanaaron"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1466182066"
+                },
+                "title": {
+                    "label": "Really smart little game"
+                },
+                "content": {
+                    "label": "Feels great to solve the puzzle and the optional challenges are pretty tricky.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id528732004"
+                    },
+                    "name": {
+                        "label": "Libstdibs"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1462907815"
+                },
+                "title": {
+                    "label": "Smart and fun"
+                },
+                "content": {
+                    "label": "What a great game. It combines gameplay with beginner code skills for a puzzling experience that requires real thought. Love that it's not just a time waster.  Can't rate highly enough.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id14939829"
+                    },
+                    "name": {
+                        "label": "bigjim_"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1455413233"
+                },
+                "title": {
+                    "label": "Fun game"
+                },
+                "content": {
+                    "label": "Fun game, took off a star because it'd be nice if it restored my progress when I restored my phone or even better synced progress between iPhone and iPad.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27963982"
+                    },
+                    "name": {
+                        "label": "BigKM"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1451977013"
+                },
+                "title": {
+                    "label": "So well done"
+                },
+                "content": {
+                    "label": "Game is a great introduction to assembly",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1005098334&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:50:43-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1005098334/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1005098334/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1005098334/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=7/id=1005098334/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1005098334/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1005098334/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1005098334/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1005098334/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1005098334/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1005098334/sortBy=mostRecent/json"
+        }
+    }
+}

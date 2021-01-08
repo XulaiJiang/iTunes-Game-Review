@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id229588406"
+                    },
+                    "name": {
+                        "label": "purplesandwich"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6678734342"
+                },
+                "title": {
+                    "label": "great game but PLEASE update for iPhone 12!"
+                },
+                "content": {
+                    "label": "i love this game but its unplayable on a full size screen. please update it!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id119161909"
+                    },
+                    "name": {
+                        "label": "silvershadow2619"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6674779676"
+                },
+                "title": {
+                    "label": "Unplayable due to UI incompatibility"
+                },
+                "content": {
+                    "label": "Unplayable on newer devices",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id311795510"
+                    },
+                    "name": {
+                        "label": "Mikeeyhgfyijgfd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6663341359"
+                },
+                "title": {
+                    "label": "Please scale this game, update it"
+                },
+                "content": {
+                    "label": "This was a huge thing back when I had my iPhone 5C, it was the best game I had ever played but now after finding it again I can’t play it the same anymore, please update ir",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id111047765"
+                    },
+                    "name": {
+                        "label": "Churro Man"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6656956604"
+                },
+                "title": {
+                    "label": "Doesn’t work"
+                },
+                "content": {
+                    "label": "Does not appear to be playable on iPhone 11. You stole my money. No way to buy anything at the store. Interface is all over the place and tiny. Just, doesn’t work.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id510443626"
+                    },
+                    "name": {
+                        "label": "Daniel Kambucha."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6634229730"
+                },
+                "title": {
+                    "label": "Pleeeaase update game"
+                },
+                "content": {
+                    "label": "Game is perfect was flawless, but ever since iOS 13 and 14, it started to act a bit strange. Everything is small, some buttons misplaced. I would love it if this game updated. Thanks!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id889747221"
+                    },
+                    "name": {
+                        "label": "gavin649203985749200384"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6570842650"
+                },
+                "title": {
+                    "label": "Please update"
+                },
+                "content": {
+                    "label": "The App works on older phones but on the iPhone X the screen is really small a lot of things or miss place can you please update this I used to love this game but ever since I got my new phone this game doesn’t work anymore",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id459996408"
+                    },
+                    "name": {
+                        "label": "Jirax2700"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6566076503"
+                },
+                "title": {
+                    "label": "Compatibility"
+                },
+                "content": {
+                    "label": "Its such an amazing game and I loved playing it on my old phone, but recently I upgraded and the game doesn’t work anymore. Please update the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id685244672"
+                    },
+                    "name": {
+                        "label": "Fried Noodles"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6463734537"
+                },
+                "title": {
+                    "label": "iPhone XS max compatibility please"
+                },
+                "content": {
+                    "label": "make the game look better on bigger phones, this game is constantly on the appstore recommendations and it doesnt function properly.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id629654121"
+                    },
+                    "name": {
+                        "label": "57FPS"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6446574875"
+                },
+                "title": {
+                    "label": "Broken UI"
+                },
+                "content": {
+                    "label": "UI is broken on new phones with higher resolution screens. Game is unplayable in that condition and should be avoided.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id200600303"
+                    },
+                    "name": {
+                        "label": "@#%$!!"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6439095089"
+                },
+                "title": {
+                    "label": "Needs and update"
+                },
+                "content": {
+                    "label": "This game is wonderful but it needs to be updated for current and future iPhones. I currently have the 11Pro and the game does not fit the screen properly",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id722910023"
+                    },
+                    "name": {
+                        "label": "AnnoyedPlayer's"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6430005836"
+                },
+                "title": {
+                    "label": "UPDATE IT"
+                },
+                "content": {
+                    "label": "You guys have had plenty of time to recognize that this needs a UI update. Months ago infact. UPDATE. THE. GAME. This game is terrific but for heavens sake fix the UI. It’s basically unplayable",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id107470854"
+                    },
+                    "name": {
+                        "label": "Sophie26773389:"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6402497840"
+                },
+                "title": {
+                    "label": "Does not look right on XS Max"
+                },
+                "content": {
+                    "label": "Text too small to read, some text is hidden, could be a fun game again with a update",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101137559"
+                    },
+                    "name": {
+                        "label": "DominiDeus"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6349239744"
+                },
+                "title": {
+                    "label": "Does not work"
+                },
+                "content": {
+                    "label": "Does not work on iPhone X and up.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id987668525"
+                    },
+                    "name": {
+                        "label": "taddjames"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6345341255"
+                },
+                "title": {
+                    "label": "This game really needs an update"
+                },
+                "content": {
+                    "label": "The game is completely unplayable on my phone. I can’t even buy things when I go to the shop, my money does not even show up. All the menus are like a tiny fraction of the screen. I can’t read anything and half the words are In the wrong spot so it’s really hard to even read. And everything is too tiny to see it’s like it thinks I’m on an iPad Pro when I’m on a lil phone",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id110046396"
+                    },
+                    "name": {
+                        "label": "Technophiliac"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6335017734"
+                },
+                "title": {
+                    "label": "Needs Developer Update"
+                },
+                "content": {
+                    "label": "Almost unplayable on iPhone 11 Pro. Hope to see another compatibility upgrade.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1190033823"
+                    },
+                    "name": {
+                        "label": "Rechimius"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6284506876"
+                },
+                "title": {
+                    "label": "A classic"
+                },
+                "content": {
+                    "label": "playin this gem for years",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id203845953"
+                    },
+                    "name": {
+                        "label": "Alex12234567789"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6236908841"
+                },
+                "title": {
+                    "label": "[Bug] Crashes instantly"
+                },
+                "content": {
+                    "label": "When I load up the game it just crashes, I have beaten the game before, and I’m on a IPad and not a phone, so please help!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id172782405"
+                    },
+                    "name": {
+                        "label": "Dr swagg soo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6226034688"
+                },
+                "title": {
+                    "label": "PLEASE UPDATE"
+                },
+                "content": {
+                    "label": "Love this game would definitely give it 5 stars but the size formatting is all wrong on my phone and apparently others too. I really want to play this and support y’all! Please update it!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id370213472"
+                    },
+                    "name": {
+                        "label": "Al1223"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6217780740"
+                },
+                "title": {
+                    "label": "More needed 2020 and still waiting"
+                },
+                "content": {
+                    "label": "A truly great game. One word: More. \n\n4 years and counting. Still waiting. You gots this. Give it to us!\n\nUpdate: still no more. Need more. Look at \"plague inc.\" you could be millionaires with a cult following for years. We will pay for more!!\n\nUpdate May 2018:  I still look all the time for more. Or a sequel. I am begging you. All of us are begging you. Where can I send the cash?  Seriously.\n\nUpdate Oct 2018: Please?  I am tossing money to worthless games. I want to give it to you.\n\nUpdate Dec 2019, with sugar on top?  Just tell me where to donate.\n\nI’m begging you. Where can I send money?  Still the best. 2020\n\nUpdate July 2020. Virtual fishing. Perfect for a pandemic. Pleeease!  More. I will keep begging.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id184077414"
+                    },
+                    "name": {
+                        "label": "kod041"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6208627273"
+                },
+                "title": {
+                    "label": "UI is messed up"
+                },
+                "content": {
+                    "label": "Game is not updated for newer devices. The UI renders the game completely unplayable because you can’t make upgrades. The prices and buy buttons are hidden behind items in the shop.  It’s an old game and the developer has clearly moved on and isn’t interested in updating it, which I get, but it’s a pretty big bummer. This was one of the best games on mobile.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43894327"
+                    },
+                    "name": {
+                        "label": "Tasha2000"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6181861805"
+                },
+                "title": {
+                    "label": "Obsolete"
+                },
+                "content": {
+                    "label": "Brilliant game but lack of true support for newer devices like the X and newer make it a chore to play. Not worth getting into now if you have one of those phones.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id504731344"
+                    },
+                    "name": {
+                        "label": "almondmilker"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6150915606"
+                },
+                "title": {
+                    "label": "Good game but unplayable"
+                },
+                "content": {
+                    "label": "Needs to be updated, unplayable on newer devices due UI issues",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id194815918"
+                    },
+                    "name": {
+                        "label": "Deerhunter1776"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6118337802"
+                },
+                "title": {
+                    "label": "Noooooooo!!!!!"
+                },
+                "content": {
+                    "label": "Used to be an amazing, if not the best game on the App Store. Unfortunately, now, the UI is tiny, and I can’t see jack. Please fix this, vlambeer! Many people have said they want it fixed and I’d absolutely love it, too!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id452638081"
+                    },
+                    "name": {
+                        "label": "Newvan2"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6081523600"
+                },
+                "title": {
+                    "label": "Plz update this game!!!"
+                },
+                "content": {
+                    "label": "I Love the idea of a good grinding game and this is the one for me, but sadly I notice that the game is having a lot of problems: 1. When you start the game the menu and everything is too small to see what you are doing, 2. The store function works ok, however I cannot tell of if I bought something or not and that’s one of many other problems with this game. I hope that the developers have the time to fix these issues as soon as possible. I still think that this game deserves to have a good 5/5 star rating if these issues were fixed then maybe many people would have a better experience with this the same as I do.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id526145729"
+                    },
+                    "name": {
+                        "label": "Tycguiduvub"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6061418283"
+                },
+                "title": {
+                    "label": ".."
+                },
+                "content": {
+                    "label": "i’m mad because i used to love this game so much but i just redownloaded it after a while and it isn’t working? everything is so small and you can’t see the prices for anything.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id102015009"
+                    },
+                    "name": {
+                        "label": "Vandemento"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6059034937"
+                },
+                "title": {
+                    "label": "Buyer-beware: broken game!"
+                },
+                "content": {
+                    "label": "Loved this game when it first came out.  Decided to start playing it again with my iPhone 8 Plus. Gameplay is fine, but the UI is drastically undersized and the store is totally broken.  Last update was 2 years back, so I don’t have a lot of hope for a patch.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id257901132"
+                    },
+                    "name": {
+                        "label": "Silentknight31"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6053146136"
+                },
+                "title": {
+                    "label": "App broken on modern devices"
+                },
+                "content": {
+                    "label": "The game’s menus are so tiny they cannot be used and everything is incorrectly sized!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33622977"
+                    },
+                    "name": {
+                        "label": "claxbane"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6033356956"
+                },
+                "title": {
+                    "label": "bugged."
+                },
+                "content": {
+                    "label": "bugged and unplayable :(",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36788935"
+                    },
+                    "name": {
+                        "label": "59psi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6033265926"
+                },
+                "title": {
+                    "label": "Outdated"
+                },
+                "content": {
+                    "label": "Sadly this app no longer works on modern phones and os’s. Which is a shame because it’s quite entertaining.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id576960545"
+                    },
+                    "name": {
+                        "label": "chardaddyo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6029228502"
+                },
+                "title": {
+                    "label": "Does not work with iPhone X"
+                },
+                "content": {
+                    "label": "I had this game in my previous iPhone and it worked great and was one of the best games i had played, but i recently repurchased it to experience some nostalgia but the game is unplayable. you cannot buy and upgrades and the screen is bugged",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id801901567"
+                    },
+                    "name": {
+                        "label": "Help my balls"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6026870253"
+                },
+                "title": {
+                    "label": "Just please update"
+                },
+                "content": {
+                    "label": "This is the all time best mobile game and I just wish it was more playable on the newer iPhones",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id286584365"
+                    },
+                    "name": {
+                        "label": "470000000047"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6023143865"
+                },
+                "title": {
+                    "label": "iPhone X issues"
+                },
+                "content": {
+                    "label": "Great game, I think. Playing on an iPhone is nearly imposible. The UI is out of scale. The game looks tiny and the store looks like a stretched out png. I think I would love this game, if it worked in modern devices.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49602634"
+                    },
+                    "name": {
+                        "label": "MEGA 7!!"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6012013635"
+                },
+                "title": {
+                    "label": "Coveted For Ages"
+                },
+                "content": {
+                    "label": "As someone that has wanted to play this game for so long... I’m really disheartened to see it does not really work on my 11 Pro Max. Please Update!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id122990111"
+                    },
+                    "name": {
+                        "label": "Kittythulu"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6006865208"
+                },
+                "title": {
+                    "label": "Update needed!!"
+                },
+                "content": {
+                    "label": "I ADORE this game. The art is beautiful and the story is minimalist and sweet. The gameplay is addictive and engaging without being too difficult. This is one of the few games that, on my first play through, I worked hard to unlock all of the hard-to-catch species.\nAll that being said, this app NEEDS a compatibility update. I can’t play it on my current device. I know things have been a little quiet, but if the developer sees this, I hope they’re able to revisit the game to make it compatible on newer devices! Thanks for letting me fish ridiculously!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42124422"
+                    },
+                    "name": {
+                        "label": "blackstar0757"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5990631194"
+                },
+                "title": {
+                    "label": "The best game on iOS with one small issue"
+                },
+                "content": {
+                    "label": "Right now the game plays SUPER ZOOMED OUT on my iPhone X. It hasn’t had any compatibility updates in 2 years, so maybe they’ve given up on it, but I love it so much and just wish I could play it again. It’s the first game where motion controls actually work and feel right!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1171282798"
+                    },
+                    "name": {
+                        "label": "nutnizzle"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5982215519"
+                },
+                "title": {
+                    "label": "Good game but could use an update"
+                },
+                "content": {
+                    "label": "I played this game on my Iphone 5 and se and loved it. I recently got it for my 11 max and it was very small, some things were hard to read, and the shop was kinda low res. Its still a great game and worth the money but it really could use an update.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id875707522"
+                    },
+                    "name": {
+                        "label": "Don Won Cherry Bomb"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5973318612"
+                },
+                "title": {
+                    "label": "Unplayable Garbage"
+                },
+                "content": {
+                    "label": "Does not work for 8+",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id455127588"
+                    },
+                    "name": {
+                        "label": "Angry18183730"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5949974056"
+                },
+                "title": {
+                    "label": "Unplayable for iPhone 8+"
+                },
+                "content": {
+                    "label": "Unplayable for iPhone 8. Everything is zoomed out and text is behind things where you can’t even read it. Needs an update to fix ui. Also only tilt controls with no option to change.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id421337161"
+                    },
+                    "name": {
+                        "label": "Cmmyself"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5931451069"
+                },
+                "title": {
+                    "label": "Not compatible with newer phones"
+                },
+                "content": {
+                    "label": "Doesn’t work on iPhone XS Max or iPhone 11 Max. Hasn’t been updated in 2 years. Be careful when purchasing if using a newer phone.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id463095706"
+                    },
+                    "name": {
+                        "label": "Bernzlo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5832823804"
+                },
+                "title": {
+                    "label": "Outdated"
+                },
+                "content": {
+                    "label": "Waste of $3.00. Doesn’t fit my screen at all and it doesn’t let me upgrade anything. Bummer used to be a great game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id759992578"
+                    },
+                    "name": {
+                        "label": "NotFishing"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5802564716"
+                },
+                "title": {
+                    "label": "Not compatible with new phones/os"
+                },
+                "content": {
+                    "label": "The UI within the game is offset making it impossible to play the game beyond the initial level. Please update game so that it’s playable on newer devices.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id484449714"
+                    },
+                    "name": {
+                        "label": "shikshake"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5778944754"
+                },
+                "title": {
+                    "label": "fantastic game, broken on new iphones"
+                },
+                "content": {
+                    "label": "i have an iphone 8+ and the UI is horribly sized. i can’t press any of the buttons. i remember playing this a few years ago and it was a really fun game. i just wish i could read the text and experience it again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id367829701"
+                    },
+                    "name": {
+                        "label": "⚡️Ghostmaster24⚡️"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5768508688"
+                },
+                "title": {
+                    "label": "When's the new update"
+                },
+                "content": {
+                    "label": "love this game, but needs a whole new remodel for new end devices ex. iphone 6 and up",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id220109387"
+                    },
+                    "name": {
+                        "label": "kb2010jbrb"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5748394038"
+                },
+                "title": {
+                    "label": "Not good for iPhones"
+                },
+                "content": {
+                    "label": "I cannot truly play this game. The display doesn’t fit on the iPhone 11 and I can’t upgrade any of the components. Complete waste of money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id204090070"
+                    },
+                    "name": {
+                        "label": "Zp.io checking in.."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5721902577"
+                },
+                "title": {
+                    "label": "Not compatible with new phones"
+                },
+                "content": {
+                    "label": "Wish I had known before buying this game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43167078"
+                    },
+                    "name": {
+                        "label": "Spectregeist"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5678853128"
+                },
+                "title": {
+                    "label": "Not Supported New iOS"
+                },
+                "content": {
+                    "label": "Games not supported. Cannot upgrade. Looked like an awesome game... \n\nNeed to be refunded",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id415808166"
+                    },
+                    "name": {
+                        "label": "Rad yellow duck"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5610051830"
+                },
+                "title": {
+                    "label": "Amazing, amazing, amazing game"
+                },
+                "content": {
+                    "label": "Played through this game about 8 times in my life haven’t seen 1 ad or in game purchase it’s short and with no new update it’s hard to play BUT still playable I will never stop loving this amazing game.\n\nAND YOU CAN STILL BUY THINGS JUST SEARCH AROUND FOR THE PURCHASE BUTTON IN THE ALL WHITE AREA THE GAME IS STILL 100% PLAYABLE",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42337513"
+                    },
+                    "name": {
+                        "label": "Johnfdddd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5594770473"
+                },
+                "title": {
+                    "label": "Great old game"
+                },
+                "content": {
+                    "label": "Not compatible . Too much buttons missing. Please refund",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100580602"
+                    },
+                    "name": {
+                        "label": "ayooitsli"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5585092110"
+                },
+                "title": {
+                    "label": "Bought the game"
+                },
+                "content": {
+                    "label": "But the ui is out of date and it’s actually unplayable because the purchase button is hidden. And I can’t upgrade anything ☹️",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id842467480"
+                    },
+                    "name": {
+                        "label": "Horse poop reviews"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.50"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5580496185"
+                },
+                "title": {
+                    "label": "Game is glitched"
+                },
+                "content": {
+                    "label": "I used to love playing this when I was bored but now ever since an update happened making the screen more zoomed out it hasn’t functioned right. The shop is very blurry and the option to buy items are glitched behind the items. I’ve tried deleting and re installing several times but it doesn’t help, i know Im not the only one with this problem because I’ve seen it in other reviews. So overall I love this game but you guys need to fix this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=601831815&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T17:45:57-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=601831815/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=601831815/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=601831815/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=601831815/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=601831815/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=601831815/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=601831815/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=601831815/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=601831815/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=601831815/sortBy=mostRecent/json"
+        }
+    }
+}

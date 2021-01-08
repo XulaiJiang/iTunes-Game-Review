@@ -1,0 +1,1572 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11121313"
+                    },
+                    "name": {
+                        "label": "bluefishbaker"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1039633536"
+                },
+                "title": {
+                    "label": "Great platformer"
+                },
+                "content": {
+                    "label": "Great game, a good variety of levels and challenges to keep it interesting. Well designed and looks great, I thoroughly enjoyed this one..",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id132455081"
+                    },
+                    "name": {
+                        "label": "kaymukh"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1039526332"
+                },
+                "title": {
+                    "label": "Love the game but stuck in a loop"
+                },
+                "content": {
+                    "label": "Really nice game. Live it but now I am stuck in a loop of death. As soon as I start I am dead without even a move or anything. Help!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id238521927"
+                    },
+                    "name": {
+                        "label": "The Pist Gamer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1039104463"
+                },
+                "title": {
+                    "label": "Wow. Love this game! This real great perps"
+                },
+                "content": {
+                    "label": "This game is a very nice spin on an old classic. I love the concept, style, and just the game it's self! There's one thing, this game said it was 40% off in July, even though the price is EXACTLY the same. This was an attraction to get you to buy the game. I'm very disappointed in this, but enjoy the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40507938"
+                    },
+                    "name": {
+                        "label": "Dawidge"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1039095405"
+                },
+                "title": {
+                    "label": "Love game, found bug"
+                },
+                "content": {
+                    "label": "I love this game, but in found a bug! Right after mine cart room, if you drop down to the secret passage, go into the next room, die by falling on a bat. After that you restart in a endless loop of falling to your death in the previous room. I'm at 70% complete, I don't want to restart!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id173635143"
+                    },
+                    "name": {
+                        "label": "ThisIsAnOUTrage!"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1038920378"
+                },
+                "title": {
+                    "label": "Super, 1 Problem :-)"
+                },
+                "content": {
+                    "label": "First, this is a great game. So great that I had played over 4 hours and had gone thru 80% of the game.  Then I died jumping from one screen to the next. So each time I try again it takes me to the same jump to my death! Lol. So unless the devs put in a restart the level without losing your progress, I am sunk.  Good game thou!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id248268525"
+                    },
+                    "name": {
+                        "label": "MassiveSpace"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1037867876"
+                },
+                "title": {
+                    "label": "Along came a gem"
+                },
+                "content": {
+                    "label": "And it was this game. I've tried tons of games that look promising as good exploring type games but usually get bored pretty quick. This game was fun for every minute that I played until the end. Definitely worth the price, cheaper than a movie yet way more entertainment value. Thanks guys!\n\nOh, and it says a lot about the quality invested in its development that it is still on version 1.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id292800754"
+                    },
+                    "name": {
+                        "label": "Extreme beastboy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1037679782"
+                },
+                "title": {
+                    "label": "Best game donut games ever made"
+                },
+                "content": {
+                    "label": "It's challenging and fun at the same time trying to figure out where all the relics and where they go. Great graphics, gameplay,\nAnd great everything. Omg seriously worth the money great job donut games your at your best keep up making good games 👍✌️",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id304063388"
+                    },
+                    "name": {
+                        "label": "Mana maniac"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1037644913"
+                },
+                "title": {
+                    "label": "Must buy"
+                },
+                "content": {
+                    "label": "Donkey kong+ metroid+ castlevania= awesome.\nBuy this game it is a must have.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101653973"
+                    },
+                    "name": {
+                        "label": "Blahbleebloopeey"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1037600568"
+                },
+                "title": {
+                    "label": "So very fun"
+                },
+                "content": {
+                    "label": "This is the best iPhone game of the year. I still need  8 hours of play and I completed the game in 3, so I hope they add new, and different adventures.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id270422299"
+                    },
+                    "name": {
+                        "label": "Enjoyable........."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1037278315"
+                },
+                "title": {
+                    "label": "Great Game"
+                },
+                "content": {
+                    "label": "An all around amazing game. No issues, good price, tons of content, and challenging (yet not frustrating) gameplay. The only thing I would like to see is a mode where you get to explore a randomly generated dungeon, collect as much money as you can, and try to escape.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id170517953"
+                    },
+                    "name": {
+                        "label": "Seth Mimik"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1037277642"
+                },
+                "title": {
+                    "label": "Wonderful!"
+                },
+                "content": {
+                    "label": "This is, by far, the best game Donut Games has presented.  It's also on of the best games I've played on iOS.\n\nThese guys just became on of my favorite mobile game developers.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40266907"
+                    },
+                    "name": {
+                        "label": "Frank the Snake"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1037124443"
+                },
+                "title": {
+                    "label": "Quest experience"
+                },
+                "content": {
+                    "label": "Incredible game. Donut games really make you forget your playing on a smart phone. The game reminded me of NES Castlevania",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id281837801"
+                    },
+                    "name": {
+                        "label": "Vicky987😂"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1037049879"
+                },
+                "title": {
+                    "label": "I need help"
+                },
+                "content": {
+                    "label": "It's not working I downloaded it but I don't see the app and it says open but I can not play it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id86068189"
+                    },
+                    "name": {
+                        "label": "Cablpkpwgxh"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1036518405"
+                },
+                "title": {
+                    "label": "\"Indie Indy\" Never Misses a Beat"
+                },
+                "content": {
+                    "label": "With frustrating enemies and a whip as your sole defense, you blaze through each room in an attempt to surpass your previous high score. The wonderful bit-style graphics and whimsical music set the tone for a great Temple adventure, allowing for hours of gameplay.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100263588"
+                    },
+                    "name": {
+                        "label": "Kristofer_D"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1036493418"
+                },
+                "title": {
+                    "label": "Highly recommended"
+                },
+                "content": {
+                    "label": "Beautiful game. Great for prolonged play or brief visits when you have a couple minutes. Intuitive controls, interesting puzzles, great sound design.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id31925901"
+                    },
+                    "name": {
+                        "label": "Waldo2526"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1036440311"
+                },
+                "title": {
+                    "label": "Fun and engaging, this game delivers."
+                },
+                "content": {
+                    "label": "Plays like any 8 bit classic but with way less freezing. Great puzzles, fun game okay, challenging without being impossible.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id184492881"
+                    },
+                    "name": {
+                        "label": "ReXxX83"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1036401978"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "Great game i just finished it and collected all the relics.Highly recomendable wish there is more missions..",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id229813618"
+                    },
+                    "name": {
+                        "label": "Stroke3rd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1036247492"
+                },
+                "title": {
+                    "label": "Fun, and challenging"
+                },
+                "content": {
+                    "label": "A must for platform aficionados. Puzzles, fierce enemies, and exploration make this a must play. Wish I didn't lose everything when I died though.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id106158226"
+                    },
+                    "name": {
+                        "label": "ScottyCapps"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1036132591"
+                },
+                "title": {
+                    "label": "Great Fun"
+                },
+                "content": {
+                    "label": "One of my favorite games in the App Store, It was nice playing a game that's not constantly begging for $. F IAP's \nThanks donut",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101586666"
+                    },
+                    "name": {
+                        "label": "Will Stevenson"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1035732526"
+                },
+                "title": {
+                    "label": "👍Couldn't put it down"
+                },
+                "content": {
+                    "label": "Played all the way through in two sittings.\nPlayed other Donut Games titles and this really hit the mark on the Metroidvania genre.\n\nSeveral Metroid Moments rolling and Castlevania whippings and a taste of SOTN at the when I didn't get 100% yet.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43480759"
+                    },
+                    "name": {
+                        "label": "Danny-Doggy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1035523349"
+                },
+                "title": {
+                    "label": "Big Adventure Fun"
+                },
+                "content": {
+                    "label": "This game has a really large game world to explore. It is a lot of fun hunting down all of the treasures and figuring out all the puzzles. This is a good long game and there are no IAP or grinding to earn upgrades. It took me 3.5 hours to beet the game. I still have secrets to uncover.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id9662793"
+                    },
+                    "name": {
+                        "label": "SRhyse"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1035479043"
+                },
+                "title": {
+                    "label": "This one's a gem"
+                },
+                "content": {
+                    "label": "I got this on a whim and fell in love. Absolute steal at the launch price. Seems reasonably lengthy so far, but I'd pay for additional content or a sequel as well! Polished to perfection. Perfectly suited for mobile.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id127173204"
+                    },
+                    "name": {
+                        "label": "Maximilian L"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1035448169"
+                },
+                "title": {
+                    "label": "Favorite game by Donut Games!"
+                },
+                "content": {
+                    "label": "This is an amazing game, I hope the app is updated with more adventures in different locations, or a different pyramid in the close future. Can't wait to see what comes!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id162817328"
+                    },
+                    "name": {
+                        "label": "Margea"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1035447775"
+                },
+                "title": {
+                    "label": "FUN!!!"
+                },
+                "content": {
+                    "label": "It's SOOOO fun but how do you switch weapons I don't know how if it is in the game, if it is how do you change weapons!?!?!?!?!?!?!?!?!?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id144971536"
+                    },
+                    "name": {
+                        "label": "SMKelly83"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1035429465"
+                },
+                "title": {
+                    "label": "Awesome!"
+                },
+                "content": {
+                    "label": "Great metroidvania-style platformer.  Love it.  I wish there was a way to switch between gun and whip.  That's probably the only thing I'd change.  Controls aren't as responsive as LOE, but they are pretty good.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id157933204"
+                    },
+                    "name": {
+                        "label": "MovieGeek151"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1035376888"
+                },
+                "title": {
+                    "label": "One of Donut's Finest"
+                },
+                "content": {
+                    "label": "This game is a great platformer. Loads of fun with lots to explore. The scoring system is a little weird, but it doesn't detract from the game. Highly recommend, even for $3",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id173935211"
+                    },
+                    "name": {
+                        "label": "MarinasideSteve"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1035091136"
+                },
+                "title": {
+                    "label": "Superb"
+                },
+                "content": {
+                    "label": "I am getting close to finishing this (after many hours of game play) and I have enjoyed it immensely!  The exploration is great with just the right amounts of action and puzzles.  There is plenty of variety to go with the challenge too.  I have enjoyed some great Donut games before, but this is by far my favorite.\n\nBring on a sequel!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id158005078"
+                    },
+                    "name": {
+                        "label": "Likeflint"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1034979631"
+                },
+                "title": {
+                    "label": "EPIC and so worth it! A real gem..."
+                },
+                "content": {
+                    "label": "Well, I am incredibly sad that I am finished with this amazing game. I am a huge fan of the metroidvania genre, (Symphony of the Night, Metroid Prime, Cave Story, Dust, an Elysian Tale) and am always disappointed by how few games are made in this vein. So I was very surprised and excited to see a new one on the app store, though I was skeptical to see that it was made by Donut games. Don't get me wrong, I LOVE donut games, but as solid as they are, they are usually addictive, pick-up-and-play quick-fix type games. Metroidvania, by its very nature requires incredible, complex map planning, is immersive, exploratory, and is not even close to the types of games we usually see from Donut.\n\nBut WOW! What an incredible showing! I couldn't put it down all day and broke four and a half hours playing it without breaking a sweat! There is incredible fun and replay-ability here, and even though I am \"done\" I am still missing half of the secret chambers, and a few symbols. Also, having players' high scores measured by how long they collect gems/coins without dying was a stroke of genius, as it provides players with an incentive to play well and to set personal goals: a hallmark of good metroidvania.\n\nOverall, this was a freaking amazing game, and I'd happily have paid double what I got it for (3$). Here's hoping that Donut comes out with either a sequel or a new adventure! I'm already hungry for more. (Sorry Devs, I'm sure you worked your butts off on this one.) Thanks again Donut, and I hope this game can renew interest in the Metroidvania genre!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id270738815"
+                    },
+                    "name": {
+                        "label": "N in HOLLYWOOD"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1034870757"
+                },
+                "title": {
+                    "label": "REALLY FUN GAME WITH GREAT CONTROLS"
+                },
+                "content": {
+                    "label": "Everything about this game just clicks.  The art style, inventory screen, effects, and very precise controls that “feel” good.  It is fun!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id242849113"
+                    },
+                    "name": {
+                        "label": "Readerjoe93"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1034690282"
+                },
+                "title": {
+                    "label": "Epic fun little game"
+                },
+                "content": {
+                    "label": "Glad I bought this! It reminds m of games like Commander Keen I used to play. The coins seem useless so far but oh well.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id21059248"
+                    },
+                    "name": {
+                        "label": "Chieftain07"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1034245854"
+                },
+                "title": {
+                    "label": "Don't miss out"
+                },
+                "content": {
+                    "label": "This game is fantastic. The platforming is spot on and the d-pad virtual controls work perfectly. This game reminds me of the old Indiana Jones game as a kid in some regards. Definitely check this out!   👍👍",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id172371059"
+                    },
+                    "name": {
+                        "label": "&E (Andy) C."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1033904645"
+                },
+                "title": {
+                    "label": "Fun, New-Old-School Adventure Game"
+                },
+                "content": {
+                    "label": "Traps n' Gemstones certainly focuses on the Adventure/Exploration aspects of the Metroidvania game type; thankfully they do it well. There is combat, but it comes second to the task of exploring the pyramid.\n\nYou play as an Indiana Jones type character who is called to a pyramid that has been ransacked. The sacred relics have all been removed from their pedestals and <gasp!> put into treasure chests, upsetting \"the balance\" and causing mummies, spiders, etc. to go berserk. You are given a whip early on, and a few other weapons as you progress, but as mentioned above, the focus of Traps n' Gemstones is not combat. A bit of a bummer, since the combat is a big part of the Metroids and Castlevanias we all know and love. Here the combat feels more like a part of the puzzle than a fight for your life; though, interestingly, all monsters can one-shot you, making each encounter a potentially--though usually not--deadly affair.\n\nThis game is not without some issues and design flaws. The virtual buttons, as I've experienced them on an iPad Mini Retina are very small and not ideally placed. Every time I've died, save for once, has been because I've either missed a button, or pressed the wrong one. That's not to say the virtual buttons here are not responsive, because they are, it just would have been good if the devs had included the pretty standard options to resize/relocate the buttons--this is something that could be easily implemented in a future update and, thankfully Donut Games is not Gameloft--that is to say, they actually update their games from time to time. Another iffy design is the lack of any kind of indicator as to where you're supposed to take the relics you find, making for an unnecessary amount of backtracking to find out which area your most resent discovery unlocks.\n\nIn lieu of a compelling story, it would be good for there to be more driving factors to play. There are a handful of achievements, and there IS a story, if a very basic one. But the gems and coins you collect seem to only serve to give you a score that you can beat, but you respawn in the same area you died in, your score starts back at zero, and all the gems/coins in the entire pyramid reset, making the effort in collecting them a waste. That said, I prefer the coins be superfluous than to provide the usual 1/1000 of the purchase price of a piece of gear I clearly am meant to, and will have to pay for, unless I want to play for years to unlock the next piece...\n\nNow, despite my gripes with Traps n' Gemstones, it has been a fun, reasonably challenging experience so far, and I applaud Donut Games for not taking the freemium route and hiding a fun game behind a greedy paywall. I was happy to pay the upfront fee to play a game in a genre I love, and will continue to do so. Indeed, sadly, my interest was partially piqued by the description of this game, which mentioned the lack if In-App Purchases, something that has ruined a lot of potentially excellent mobile experiences.\n\nOverall, I'd rate* this game 8.25/10 and recommend it to genre fans and anyone willing to vote with their wallets for a fair market that rewards gamers for their interest in playing games rather than punishing them. \n\n*Since the App Store rating system is so skewed by all the 5's and 1's that people throw around, and has therefore essentially become a \"5=Yes, 1=No\" system, I am giving Traps n' Gemstones a 5.\n\nThanks,\n\nAndy C.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=887421672&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T17:41:27-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=887421672/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=887421672/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=887421672/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=887421672/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=887421672/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=887421672/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=887421672/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=887421672/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=887421672/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=887421672/sortBy=mostRecent/json"
+        }
+    }
+}

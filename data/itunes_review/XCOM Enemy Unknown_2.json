@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41929072"
+                    },
+                    "name": {
+                        "label": "TwoFishTwoStones"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "773105461"
+                },
+                "title": {
+                    "label": "Great game!"
+                },
+                "content": {
+                    "label": "True to the original. Hours of fun!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id218443162"
+                    },
+                    "name": {
+                        "label": "General Kang"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "771838178"
+                },
+                "title": {
+                    "label": "Excellent Homage to Xcom!"
+                },
+                "content": {
+                    "label": "This is a great port of XCOM to iOS; I'm playing it on an iPhone 4 with very few issues.  Classic turn based, difficult but fair play.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id141988943"
+                    },
+                    "name": {
+                        "label": "acudoc4u"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "770965681"
+                },
+                "title": {
+                    "label": "Really fun and like the old game!"
+                },
+                "content": {
+                    "label": "This game is turn based with lots of strategy and a few surprises.  It really is just like the old pc game if you are a fan.  I wish there were a larger version for my mac.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id29367365"
+                    },
+                    "name": {
+                        "label": "B_J_G"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "769184625"
+                },
+                "title": {
+                    "label": "Great X-Com clone"
+                },
+                "content": {
+                    "label": "As a big fan of the original X-Com, I think this game does a great job of bringing it to iOS. Well worth the price!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id246651577"
+                    },
+                    "name": {
+                        "label": "Ibney00"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "756053326"
+                },
+                "title": {
+                    "label": "Just when I though the Xcom craze was over......"
+                },
+                "content": {
+                    "label": "Just when I thought Xcom was out of the craze with \"Xcom  Enemy Unknown\" AvH comes out and shows me that Xcom still has a reach in this time period. It's not a FPS it's a real hard strategy game with routes to its role model the legendary \"Xcom UFO Defence\" along with the fact that they constantly update it you need this game if you loved any of the xcom games. A must buy best strategy game on the app store, get it now!!!!!!!!!!!!!!!!!!!!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id249409621"
+                    },
+                    "name": {
+                        "label": "Quasimoodo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "753952832"
+                },
+                "title": {
+                    "label": "Re-addicted to XCOM"
+                },
+                "content": {
+                    "label": "Just what I needed. Seriously, this is a must-have for fans of the old XCOM games and just a hands down great game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25014525"
+                    },
+                    "name": {
+                        "label": "NewAlexandria"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "747817886"
+                },
+                "title": {
+                    "label": "This is the game!"
+                },
+                "content": {
+                    "label": "Seriously better than the modern 're-creations' in this series. This is the style and format that made the game have its fame! Now with base development, too!! Buy and support am awesome venture!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39178374"
+                    },
+                    "name": {
+                        "label": "J^2"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.5"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "747317163"
+                },
+                "title": {
+                    "label": "XCOM for iOS"
+                },
+                "content": {
+                    "label": "This is the closest thing yet for iOS to match the oft copied but rarely duplicated legendary gameplay of XCOM: UFO Defense. If you lost hundreds of hours of your youth to that game, you owe it to yourself to get this one.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id131692385"
+                    },
+                    "name": {
+                        "label": "Noda1212"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "739862891"
+                },
+                "title": {
+                    "label": "Awesome game, but"
+                },
+                "content": {
+                    "label": "It needs a back button from the mission menu.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id201453571"
+                    },
+                    "name": {
+                        "label": "Maxpwr25"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "737717585"
+                },
+                "title": {
+                    "label": "Awesome Game"
+                },
+                "content": {
+                    "label": "Excellent. Been wanting a game like this on the ipad for a long time and AvH doesn't disappoint. Immersive gameplay and nostalgic graphics attribute to the sought after experience of turn base glory. You know what this game is... Get it!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id23734713"
+                    },
+                    "name": {
+                        "label": "Lose'n weight"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "727933923"
+                },
+                "title": {
+                    "label": "Faithful Reproduction"
+                },
+                "content": {
+                    "label": "The attention to detail with regard to the original content is impressive. I just started playing and it really brings back the feel of one of my all time favorites. My only complaint is that the graphics are really bad. But, that will not stop me from wasting many hours playing this awesome blast from the past.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39866282"
+                    },
+                    "name": {
+                        "label": "Ybngffgv"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "724838386"
+                },
+                "title": {
+                    "label": "Good"
+                },
+                "content": {
+                    "label": "It is a good game but rad soldiers is a better turn based game still if  u want xcom for mobile this is it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id17886197"
+                    },
+                    "name": {
+                        "label": "2007 Mustang"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "719516464"
+                },
+                "title": {
+                    "label": "Nostalgic AWESOMENESS!! Great game :)"
+                },
+                "content": {
+                    "label": "I remember playing this game for DAYS  on end. No game has ever warranted to be replayed again and again by me than this one. Great effort here guys ... THANKS!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id103435396"
+                    },
+                    "name": {
+                        "label": "RationalPoint"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "718128788"
+                },
+                "title": {
+                    "label": "Faithful remake"
+                },
+                "content": {
+                    "label": "I played a ton of the original XCOM when it first came out, and then  I rediscovered it in college in the late 90s. This remake keeps all of the old excitement, with a few awesome improvements. The training mode is great fun, and it's nice not to have to equip your team manually.\n\nNow if only there were a 2-player versus mode ...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id213881138"
+                    },
+                    "name": {
+                        "label": "Deanxietized"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "717376645"
+                },
+                "title": {
+                    "label": "Great, detailed strategy at a great price"
+                },
+                "content": {
+                    "label": "I haven't played the original X-Com, so I can't compare AvH with it. But this is a great title in its own right, offering deep strategic gameplay in its global management portion and tight, suspenseful tactical combat on the ground. A portable game like this at this price is a terrific bargain.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id31352724"
+                    },
+                    "name": {
+                        "label": "Mrcookie2606"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "717248466"
+                },
+                "title": {
+                    "label": "Retro"
+                },
+                "content": {
+                    "label": "Great game, hours of play for a few bucks. Very true to the original, but runs faster than it did way back when. \n\nI'd like to see branching research lines...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id155704086"
+                    },
+                    "name": {
+                        "label": "mnorris80"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "711237213"
+                },
+                "title": {
+                    "label": "Must-Have for Eerybody"
+                },
+                "content": {
+                    "label": "I'll not get in to the history of where this game came from, but I will say this:  iOS devices are excellent and I mean EXCELLENT platforms for games of this type.  \n\nBuild bases, watch your soldiers level up, research new equipment and technology - this thing has it all.  \n\nFive stars, but I'm still hoping somebody remakes this game with updated graphics.  They're fine as they are, but a lot could be done with this game's core design if it were put into a modern graphics engine.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id134047409"
+                    },
+                    "name": {
+                        "label": "Frogbottom"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "706472449"
+                },
+                "title": {
+                    "label": "The real deal"
+                },
+                "content": {
+                    "label": "Caveat: I have not played the new version (Nov 2012) all the way through yet, but I was enjoying it so much I had to write a review.\n\nThis is an outstanding X-Com-like game.  The update is not an update, it's really a new full-featured game.  The base management, economics, soldier ranks, whole earth map, etc., etc. are all fantastic additions and really add to the look and feel of the game.  The turn-based tactics-oriented ground missions remain tense, creepy, and scary--just like I like it!  Nice job!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id183669670"
+                    },
+                    "name": {
+                        "label": "Vertebral"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "705856373"
+                },
+                "title": {
+                    "label": "Too Hard"
+                },
+                "content": {
+                    "label": "I have finished X-Com UFO Defense on both the PC and Playstation.  This game is a good clone.  However, the difficulty level is way too high.  On the noob setting as soon as you step off the ship your men are dying.  Takes away from the enjoyment of the game.  I honestly can't recommend it until it is as balanced as X-Com.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id21751261"
+                    },
+                    "name": {
+                        "label": "Ibeez"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "705090163"
+                },
+                "title": {
+                    "label": "A must have game"
+                },
+                "content": {
+                    "label": "A great remake of a classic.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id109732361"
+                    },
+                    "name": {
+                        "label": "Leo_1962"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "704450678"
+                },
+                "title": {
+                    "label": "Great"
+                },
+                "content": {
+                    "label": "Great game, however even when playing onslaught on noob difficulty is very hard. The aliens seem to get laser cannons by the 3rd battle, please lower the difficulty.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id115815910"
+                    },
+                    "name": {
+                        "label": "Vapor Stone"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "703742592"
+                },
+                "title": {
+                    "label": "Good with room for improvement."
+                },
+                "content": {
+                    "label": "Great game so far!! I wouldn't mind seeing some ability to customize soldiers a little more. Maybe colors of their suits types of armor noticeable on the screen? And hair styles and such.  Great game still.  And maybe some online multiplayer? Vs or coop would be awesome. Would also like to have a screen shot of the soldier in use when you're in the edit soldier screen. Like the original.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id19381622"
+                    },
+                    "name": {
+                        "label": "Ssejhog"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "702560312"
+                },
+                "title": {
+                    "label": "Loving it"
+                },
+                "content": {
+                    "label": "This is awesome, but is there an ending?  A non stop war against the aliens is fun but will I ever beat them?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id211194489"
+                    },
+                    "name": {
+                        "label": "blie dragon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "701515520"
+                },
+                "title": {
+                    "label": "Apple version of xcom"
+                },
+                "content": {
+                    "label": "Great game. Expect to see the next version.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id124228286"
+                    },
+                    "name": {
+                        "label": "Aaron1987a"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "701121029"
+                },
+                "title": {
+                    "label": "Great"
+                },
+                "content": {
+                    "label": "Love this game ! I want an iPad now just to play it on a larger screen",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32250700"
+                    },
+                    "name": {
+                        "label": "rodeodoctor"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "701012576"
+                },
+                "title": {
+                    "label": "Hidden Movement"
+                },
+                "content": {
+                    "label": "Totally worth every penny. An autosave function would make it five starts.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id233679787"
+                    },
+                    "name": {
+                        "label": "Sniffinsnake"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "700455348"
+                },
+                "title": {
+                    "label": "Amazingly great time killer!!!"
+                },
+                "content": {
+                    "label": "I have loved every form of this game and now to have even a simplified version on my phone is awesome!!! Learn to save after every successful end of a turn when your soldiers don't die and it will take all the frustration out of the game! Nice throwback to xcom:UFO defense! Can't wait for further updates!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id226928075"
+                    },
+                    "name": {
+                        "label": "Buyogihuguihbiuihu"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "695921150"
+                },
+                "title": {
+                    "label": "No. Just, No."
+                },
+                "content": {
+                    "label": "U cant exit a game once it's started. There is no inventory system. No bases, it's just.... No.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22493394"
+                    },
+                    "name": {
+                        "label": "twwfcco"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "691136035"
+                },
+                "title": {
+                    "label": "This is not the XCom fix I've been waiting for..."
+                },
+                "content": {
+                    "label": "I'm a huge fan of the original X-Com: UFO Defense, having wasted countless hours on it back in the nineties.  I was thrilled to see a mobile homage to this classic game.  On the surface, it looks great.  But you soon realize the game mechanics and controls leave a great deal to be desired.  Even on the big iPad screen, it takes too much effort to get your squaddies to go where you want.  I can't even imagine playing this on the iPhone without having my head explode.  I deleted it the same day I bought it.  $3 down the drain.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id107799177"
+                    },
+                    "name": {
+                        "label": "Tistel1979"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "690063462"
+                },
+                "title": {
+                    "label": "Very good xcom experience"
+                },
+                "content": {
+                    "label": "Very close to the original, tech tree is very small, I don't know if that's because of the easiest difficulty setting. \nNo blaster bomb, 4 tile battle mechs, no psi (!), spaceships, civilians, the list goes on. Still 5 stars but please work on that tech tree!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id182715554"
+                    },
+                    "name": {
+                        "label": "TheHappyShadow"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "690062369"
+                },
+                "title": {
+                    "label": "Best game ever"
+                },
+                "content": {
+                    "label": "Its awesome",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42696953"
+                    },
+                    "name": {
+                        "label": "Tcn11"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "687206333"
+                },
+                "title": {
+                    "label": "Wonderful"
+                },
+                "content": {
+                    "label": "I looked for an xcom game and i found it.\nIt is beyond me the legalities of this game and how the developers aren't being sued like everyone else who even hints at copying.\nBut i am far from complaining; i am more impressed.\nLove it, great job.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id228429000"
+                    },
+                    "name": {
+                        "label": "Abanic"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "686638432"
+                },
+                "title": {
+                    "label": "For those who love X-Com"
+                },
+                "content": {
+                    "label": "This game (specifically Onslaught mode) is nearly the same game as X-Com: UFO Defense.\n\nIf you were a fan of that game from 15-20 years ago, then you'll love this game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id136763934"
+                    },
+                    "name": {
+                        "label": "Daniel Cabello"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "683599642"
+                },
+                "title": {
+                    "label": "Pretty good but;"
+                },
+                "content": {
+                    "label": "This game could do with an auto-resolve feature for battles and such. Aside from that the game is great, an excellent remix of xcom classics! :)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28302718"
+                    },
+                    "name": {
+                        "label": "Cody Dixon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "683421735"
+                },
+                "title": {
+                    "label": "A whole lot of fun"
+                },
+                "content": {
+                    "label": "If you loved the original x-com then you will love this. Great turn based game and it has a TON of replay ability.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28233624"
+                    },
+                    "name": {
+                        "label": "Jwblase"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "682938290"
+                },
+                "title": {
+                    "label": "Love it!"
+                },
+                "content": {
+                    "label": "Ahhhhh... X-Com at its greatest.  Nice interface, easy to use controls.\n\nI miss the ability for my soldiers to either run or walk though.  N love lost though.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id125405441"
+                    },
+                    "name": {
+                        "label": "Depth!"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "682573781"
+                },
+                "title": {
+                    "label": "A trip down memory lane"
+                },
+                "content": {
+                    "label": "This is an outstanding port of an iconic strategy game that many of us love and miss. This is so faithful to the style of the original, that I'd believe that Microprose designed this if I were told so. Even though I miss the UFO exploration and building my own saucers, this is so good I can't put it down. Seriously, to find a port of this even on ps1 on EBay costs a fortune! This is a superb alternative. It's a great effort and I'm enjoying this. I miss the greys though!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16090886"
+                    },
+                    "name": {
+                        "label": "Eastkoast"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "682468139"
+                },
+                "title": {
+                    "label": "Like old school strategy? Don't buy this"
+                },
+                "content": {
+                    "label": "This is quite possibly the biggest waste of money I've spent so far on the iPad. User interface is terrible, graphics are bad, really bad. I like pixelated old school stuff, growing up with an Atari 400, but I can't take this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id165460252"
+                    },
+                    "name": {
+                        "label": "Mob4l"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "681698246"
+                },
+                "title": {
+                    "label": "Terrible combat missions"
+                },
+                "content": {
+                    "label": "The mission/combat mechanic is absolutely awful.  A 'hidden movement' image covers the entire screen when the aliens take action that your soldiers cannot see.  If soldiers get shot by unseen aliens, you cant see where the fire is coming from.  End your turn, see hidden movement image, then when you start your turn again half your soldiers are dead and you have no idea how.  This is a huge flaw.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "3"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11265439"
+                    },
+                    "name": {
+                        "label": "saikyo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "680449852"
+                },
+                "title": {
+                    "label": "This game is intense"
+                },
+                "content": {
+                    "label": "This game is intense. It is so not easy, and yet so satisfying to play. It looks like the developers have lots of enhancement ideas for the future so I only expect it to get better. Yes, the graphics are minimal and the music is bland, but this game is sure technical joy. \n\nLove it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id121464415"
+                    },
+                    "name": {
+                        "label": "XianWhite"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "680387439"
+                },
+                "title": {
+                    "label": "Xcom zealots everywhere thank you."
+                },
+                "content": {
+                    "label": "Bringing a fun game to the App Store = good job.  Bringing an xcom style game to the App Store = you guys and gals rock!!!   Thank you. Loving the new stuff.  :)   If anyone remembers Xcom Enemy Unknown, and played it a lot, get this game!  Don't argue, just get it.  \n\nOne request if I may.  Even on n00b difficulty I'm being destroyed.  1st mission 4 dead.  2nd mission four unseen aliens murdered my remaining team the moment they stepped off the craft.  :(  I tried again and the same happened again.  While I know this is a different game than what it's based off of, that my whole team dies in 2 missions (mind you while employing bounding over watch squad tactics) is kinda of harsh.  Originally Rookie difficulty allowed you to run up and piggy back on the aliens without much worry.  The following three difficulty levels ramped it up to the point you needed a save game editor to keep up.  Hehe.   This game is great, I just wonder if you could add the options to nerf the aliens a little on n00b difficulty.  \n\nBtw, the Pedia research information and storyline.... Most excellent!   It's its own game with a new story arc.   Thank you again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27655409"
+                    },
+                    "name": {
+                        "label": "mikeyh01"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "680258548"
+                },
+                "title": {
+                    "label": "Amazing turn based sim"
+                },
+                "content": {
+                    "label": "I love the this game. Very addicting. The developers are amazing at listening to your feedback and are constantly tweaking the game per feedback!!  See the touch arcade forum for examples. \n\nI never played xcom original pc game but this is as much fun as any turn based game I've played on the iPhone. And no iap!!!!!!\n\nBuy it now!!  I could see this game being sold for much higher!  I would pay 5.99. And I'm cheap!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id14739498"
+                    },
+                    "name": {
+                        "label": "ZachtheRed"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "679675827"
+                },
+                "title": {
+                    "label": "Close but not quite there."
+                },
+                "content": {
+                    "label": "Good clone except for a few problems like aliens shooting from across the entire map and killing everyone in under five turns. Aliens reactions are way to good sometimes shooting 3 or 4 times just moving one guy. Lastly how can I make new bases when every cent goes to getting more soldiers and equipping them otherwise they die faster.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id109091066"
+                    },
+                    "name": {
+                        "label": "bulewaras"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "679404053"
+                },
+                "title": {
+                    "label": "Loving It!"
+                },
+                "content": {
+                    "label": "Hey, I'm loving the game.  Still of few quirks to work out but it takes me right back to the old days playing X-com in the college dorm.  I may never work again, haha!  Keep up the good work!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id171479638"
+                    },
+                    "name": {
+                        "label": "LeaveAScar"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "678711437"
+                },
+                "title": {
+                    "label": "Just not worth it"
+                },
+                "content": {
+                    "label": "Can't exit to a main menu, can't quit mission, you basically spend the game either waiting for aliens to run into your line of sight so you can shoot them or you can walk around and get shot by aliens you may or may not see.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id201775782"
+                    },
+                    "name": {
+                        "label": "Alexbuzzbee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "678642877"
+                },
+                "title": {
+                    "label": "Good but needs UFOs"
+                },
+                "content": {
+                    "label": "I love the game but wish there were UFOs and interceptions, also I WANT TO FIGHT SECTOIDS NOT ZOMBIES!!!! *heavy breathing*",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id165516455"
+                    },
+                    "name": {
+                        "label": "Cokie pokie"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "678578297"
+                },
+                "title": {
+                    "label": "Great Xcom clone"
+                },
+                "content": {
+                    "label": "Would love to see more alien types and  some more content: Flying suits, blaster launcher, psionic abilities etc.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11501665"
+                    },
+                    "name": {
+                        "label": "ph99"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "676658890"
+                },
+                "title": {
+                    "label": "Great clone of the classic X-Com"
+                },
+                "content": {
+                    "label": "It's really very good, especially with the addition of the world map. Interface could use some refinement - it's no worse than the original, but could use modern conventions.\n\nI hope they are able to continue to add more features, as this is already worth it for me.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101199494"
+                    },
+                    "name": {
+                        "label": "Greg61490"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "676250671"
+                },
+                "title": {
+                    "label": "How do i?"
+                },
+                "content": {
+                    "label": "Explore alien activity? Idk if im just blind but i cnt figure it out haha. 5 stars just gotta figure out how to play.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22567537"
+                    },
+                    "name": {
+                        "label": "putzinator"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "675994917"
+                },
+                "title": {
+                    "label": "lots of fun"
+                },
+                "content": {
+                    "label": "really enjoy the new update... great game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=471665058&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:18:26-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=471665058/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=471665058/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=471665058/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=4/id=471665058/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=471665058/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=471665058/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=471665058/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=471665058/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=471665058/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=471665058/sortBy=mostRecent/json"
+        }
+    }
+}

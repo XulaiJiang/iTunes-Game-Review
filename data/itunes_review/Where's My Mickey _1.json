@@ -1,0 +1,679 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id166274881"
+                    },
+                    "name": {
+                        "label": "Kinggzarf"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1171518261"
+                },
+                "title": {
+                    "label": "Where's my monkey"
+                },
+                "content": {
+                    "label": "DOES NOT WORK!😔",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id129209388"
+                    },
+                    "name": {
+                        "label": "Apple1979"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1145296649"
+                },
+                "title": {
+                    "label": "Doesn't work"
+                },
+                "content": {
+                    "label": "It was a great game my son loved it but now it won't open",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26744836"
+                    },
+                    "name": {
+                        "label": "IchiroBoston"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "849756073"
+                },
+                "title": {
+                    "label": "Black screen then crash"
+                },
+                "content": {
+                    "label": "App won’t load on my iPad 1.\nBlack screen then crash.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38503984"
+                    },
+                    "name": {
+                        "label": "Dancingduck"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "846401646"
+                },
+                "title": {
+                    "label": "App Crashes"
+                },
+                "content": {
+                    "label": "Wish I could open this app but every time I try to open it the screen goes black and then back to my home screen. I've never even seen the game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id340396882"
+                    },
+                    "name": {
+                        "label": "Abbyyyy!!!!!!!"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "840357845"
+                },
+                "title": {
+                    "label": "Where's my monkey"
+                },
+                "content": {
+                    "label": "I downloaded where's my monkey Adams when I wanted to play the game it was a black screen and then did not go to the game at all it went right back to the home screen!😳",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id181861133"
+                    },
+                    "name": {
+                        "label": "Jakesmom518"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "839883639"
+                },
+                "title": {
+                    "label": "Does not load"
+                },
+                "content": {
+                    "label": "I have downloaded several times, it appears to to be installed.  When you press the icon, the scream goes black then reverts back to home screen.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id255278252"
+                    },
+                    "name": {
+                        "label": "Cmb113"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "838994797"
+                },
+                "title": {
+                    "label": ":-|"
+                },
+                "content": {
+                    "label": "Evrytime i play the game adds keep popping up and wont let me play then makes me die.. Not happy",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101095060"
+                    },
+                    "name": {
+                        "label": "O man 85"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "837178969"
+                },
+                "title": {
+                    "label": "Bug"
+                },
+                "content": {
+                    "label": "It's not working at all",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id339066712"
+                    },
+                    "name": {
+                        "label": "Lily Kevin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "834543921"
+                },
+                "title": {
+                    "label": "Monkey"
+                },
+                "content": {
+                    "label": "It's really bad when you press the icon it just goes back",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id294488759"
+                    },
+                    "name": {
+                        "label": "Lulu we"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "834438242"
+                },
+                "title": {
+                    "label": "Fun game"
+                },
+                "content": {
+                    "label": "It's so fun I love it no crashes no anything",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id125944397"
+                    },
+                    "name": {
+                        "label": "Funmommie"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "832877229"
+                },
+                "title": {
+                    "label": "Won't load :("
+                },
+                "content": {
+                    "label": "I've tried to download this game three times and, while the icon appears on the screen, the game will not load. The screen goes black. :(",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id305415192"
+                    },
+                    "name": {
+                        "label": "popcorn922"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "832560089"
+                },
+                "title": {
+                    "label": "awesome cute"
+                },
+                "content": {
+                    "label": "get it its so cool",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id301838529"
+                    },
+                    "name": {
+                        "label": "Tanna2003"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "831680978"
+                },
+                "title": {
+                    "label": "Funny"
+                },
+                "content": {
+                    "label": "It's cute #monkey",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=665695012&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:45:13-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=665695012/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=665695012/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=665695012/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=665695012/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=665695012/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=665695012/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=665695012/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=665695012/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=665695012/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=665695012/sortBy=mostRecent/json"
+        }
+    }
+}

@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id21968613"
+                    },
+                    "name": {
+                        "label": "HeidiJ0178"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1358552345"
+                },
+                "title": {
+                    "label": "Boring"
+                },
+                "content": {
+                    "label": "Illogical.  Not challenging because there's no consistency. Delete.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39631689"
+                    },
+                    "name": {
+                        "label": "Sal R"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1358315277"
+                },
+                "title": {
+                    "label": "Major battery hog!!"
+                },
+                "content": {
+                    "label": "This app seriously drains your battery. If you have it installed, take a look at the battery usage indicator in the settings menu. I had to delete it and my phone is charging properly now.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33014582"
+                    },
+                    "name": {
+                        "label": "tabby49er"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1357208329"
+                },
+                "title": {
+                    "label": "Tabby49er"
+                },
+                "content": {
+                    "label": "There aren't any instructions on how to play. Why?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49283827"
+                    },
+                    "name": {
+                        "label": "VTCifer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1357060488"
+                },
+                "title": {
+                    "label": "Fun game, for 5 seconds"
+                },
+                "content": {
+                    "label": "Game logic needs a hardcore re-write. Often gives you impossible levels. \"Oh look, I need 128 blue. There is one blue on the board.\"",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33506932"
+                    },
+                    "name": {
+                        "label": "BrianInNO"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1356879320"
+                },
+                "title": {
+                    "label": "Weaksauce puzzler"
+                },
+                "content": {
+                    "label": "This game is beautifully designed but rapidly scales from challenging to play to almost impossible. \n\nAlmost invariably by the time I hit the fifth wave (requests 13 & up) I've run out of one of colors that I need to satisfy the requests. The tutorial does a terrible job of letting you know that you can utilize extra color bars you accumulate to shape the board. The concept is a little too convoluted, and the developers need to either flush this concept or reboot it dramatically.\n\nVisuals aside, the music sounds recycled from the game \"Tiny Wings\". The sound effects are similarly irritating. \n\nI got this for free through the Starbucks app, & I'm glad I didn't pay for it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id297604346"
+                    },
+                    "name": {
+                        "label": "Kaott719"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1356467120"
+                },
+                "title": {
+                    "label": "Fun, but needs some improvements"
+                },
+                "content": {
+                    "label": "The game is addicting enough once you get the hang of it, but there are some things left unexplained. Sometimes you move a row and a request is automatically cleared. Or, what's with the blocks on the bottom? You can store extras to bail you out later? How many extras do you have to clear to get the extra block? It's fun, though! There are still just things that happen in the game and I don't know why or where they came from.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id462433122"
+                    },
+                    "name": {
+                        "label": "thevanness"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1356378806"
+                },
+                "title": {
+                    "label": "Logic missing"
+                },
+                "content": {
+                    "label": "Great game, super original, but lacks some gameplay logic. There are occasions where it is literally impossible to beat a level, I.e. Not enough pieces/spaces to meet the requirement. Nonetheless really fun.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id18674602"
+                    },
+                    "name": {
+                        "label": "Vikk919"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1355952983"
+                },
+                "title": {
+                    "label": "Fun game!"
+                },
+                "content": {
+                    "label": "I love this puzzle game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id109260716"
+                    },
+                    "name": {
+                        "label": "Camley"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1355949753"
+                },
+                "title": {
+                    "label": "Twofold"
+                },
+                "content": {
+                    "label": "Bad bad bad!!! No directions on how to play. Not self explanatory.\nBest thing?? DELETE",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49340850"
+                    },
+                    "name": {
+                        "label": "Reven atl"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1355743354"
+                },
+                "title": {
+                    "label": "Hints"
+                },
+                "content": {
+                    "label": "Great game. Makes you think. But... Once you get the hang of the game it keeps stopping you when you do stuff and gives you hints. This gets annoying. I know Ido t have to clear the whole thing in a sequence. I like to challenge myself. Please update this and give me the ability to turn off hints.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id342820855"
+                    },
+                    "name": {
+                        "label": "jaydaddy12345"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1355698934"
+                },
+                "title": {
+                    "label": "Lots of fun, room for improvement"
+                },
+                "content": {
+                    "label": "It's difficult to get the hang of this game, considering the beginning tutorial is super long and almost makes you more confused, but rest assured with enough patience you'll catch on after a while. It's a fun, challenging puzzle game that really requires you to actually *gasp* use your brain. There's definitely room for growth and improvement-but I'm sure that will come with time. My top request is to have something that recognizes when there are no moves possible. This doesn't happen very often but it drives me crazy when it does! But, overall, really great puzzle game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "7"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "8"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41610452"
+                    },
+                    "name": {
+                        "label": "agonzalezjr"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1355643857"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "This is an amazing game! Good job. It would be great if game center was working too.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id6541414"
+                    },
+                    "name": {
+                        "label": "007 Benny"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1349016561"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "5 stars for making a great game and hiding out hope for expansion!\n\niPhone 6 here. Crashed on load at first street update, but fixed itself.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24808652"
+                    },
+                    "name": {
+                        "label": "Daveedy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1347966432"
+                },
+                "title": {
+                    "label": "Broken"
+                },
+                "content": {
+                    "label": "Could be good, but there's a game-breaking limit. It becomes completely chance the further you get, and getting screwed by the game after getting so far is not fun.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28169523"
+                    },
+                    "name": {
+                        "label": "veroaero"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1341831966"
+                },
+                "title": {
+                    "label": "Battery killer!"
+                },
+                "content": {
+                    "label": "Fun game but there are (in my opinion) two issues: 1) it uses a lot of battery, and 2) unfortunately one cannot listen to other apps while playing this game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32110392"
+                    },
+                    "name": {
+                        "label": "Mr_Blu_Sky"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1341576397"
+                },
+                "title": {
+                    "label": "fun, challenging and addictive but needs tweaks"
+                },
+                "content": {
+                    "label": "I enjoy this game, great for quick gaming sessions. as others have mentioned, it can be frustrating as you get further in a session and run into an impossible task based on the colors available. but my biggest complaint is that the game overrides all other sounds, meaning I can't listen to iTunes while playing. this is a simple but crucial user experience tweak that would add at least 1-2 stars to my review.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id453043233"
+                    },
+                    "name": {
+                        "label": "Beowulf314"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1337767964"
+                },
+                "title": {
+                    "label": "Needs a few tweaks to be a perfect game"
+                },
+                "content": {
+                    "label": "This game is a blast, finally something new and fresh has made it's way to mobile gaming.\nMy only issue is game progression- there is no way to save particular colors and when large requests come up later in the game, you end up with a board of maybe two colors. It becomes impossible.\n\nAfter logging many hours of play, blue seems to spawn more much more frequently than any other color.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id165001579"
+                    },
+                    "name": {
+                        "label": "Turd666"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1334629177"
+                },
+                "title": {
+                    "label": "Buy this game"
+                },
+                "content": {
+                    "label": "Anyone who can't see the simplistic genius of this game may be better suited for bejeweled or two dots. There's no flashy explosions, the game doesn't say AWESOME or COOL DUDE whenever you do some mundane task. This game is a well designed and smart puzzle for those who love puzzles. It makes you think, it makes you mad, there's a learning curve, and it's absolutely addicting. The best way to describe it is a deconstructed rubix cube that you have to twist and turn to appease some cruel god who loves matching colors. It's a game that requires patience and intellect, and is a true test of self control. I purchased this game after falling in love with rymdkapsel and I regret nothing, it's worth every penny.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24946423"
+                    },
+                    "name": {
+                        "label": "jbb62"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1334461552"
+                },
+                "title": {
+                    "label": "Def worth having on my phone"
+                },
+                "content": {
+                    "label": "I use this a lot when I’m hanging around and waiting. This is one of those games, like Threes, that I can do in my sleep but it’s perfect for passing time when you’re waiting. I find the music and sound effects distracting but the colors and game itself are relaxing. One thing I really like is that you can make it your own pace… I’m not always in the mood for a heart-racing oh my God I have to beat the clock thing, so I chill and do little bits. Or I challenge myself and figure out how to make one move that will score big. I might not have notice it if it weren’t on the editor’s choice list and I’m glad I did.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49413668"
+                    },
+                    "name": {
+                        "label": "AustinFlack"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1334039732"
+                },
+                "title": {
+                    "label": "Very cool"
+                },
+                "content": {
+                    "label": "Could use a better tutorial. And NEEDS option to let me listen to my own music/podcasts while playing.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id31002598"
+                    },
+                    "name": {
+                        "label": "lcschirduan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1333527734"
+                },
+                "title": {
+                    "label": "Great Puzzler!"
+                },
+                "content": {
+                    "label": "Super slick design and interface, no lag at all. And puzzles are great! \n\nAlso the Developer is super nice and contacted me personally when I sent an email about a bug!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id106552767"
+                    },
+                    "name": {
+                        "label": "Jacobs603"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1333416012"
+                },
+                "title": {
+                    "label": "Great game but eats battery for breakfast"
+                },
+                "content": {
+                    "label": "Great puzzle game but somehow it ate through 28% of my battery in 15 minutes.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41078043"
+                    },
+                    "name": {
+                        "label": "kkachurak"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1332348143"
+                },
+                "title": {
+                    "label": "Don't spend your money"
+                },
+                "content": {
+                    "label": "This game cannot be played. Seconds in, it frequently requires tiles it refuses to give you.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id4552695"
+                    },
+                    "name": {
+                        "label": "ChiefRocking"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1332291406"
+                },
+                "title": {
+                    "label": "Meh"
+                },
+                "content": {
+                    "label": "I don't see what the hype is with this game.  It's pretty boring and not worth the money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36814416"
+                    },
+                    "name": {
+                        "label": "PfBuff"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1332067843"
+                },
+                "title": {
+                    "label": "Had to read reviews in order to fully learn the game"
+                },
+                "content": {
+                    "label": "Addictive game, easy to use but the tutorial is awful. I had to read reviews on here in order to really learn the game. Seems to get ridiculously hard very quickly, like \"complete 3 blue requests of 64,\" yet either there's 2 blue squares on there or no way to conceivably get to the ideal set of squares before you lose all lives.   Cant figure out why if I complete requests of one color that it also fills another? We need better directions.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id241910863"
+                    },
+                    "name": {
+                        "label": "tstain123"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1330973606"
+                },
+                "title": {
+                    "label": "Waste of time/money"
+                },
+                "content": {
+                    "label": "The game looks pretty, the puzzle aspect seems promising- but this game is half baked. It has potential to be a great game, but it fails to be engaging, challenging and lacks objective. There is a lack of clear level progression and you get bored fast. If it was free, sure- it'd be an awesome game. But with this steep price point, you can easily find other games on the market better worth your time and money. I wish I could have a refund.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42743040"
+                    },
+                    "name": {
+                        "label": "Jluecke"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1330217834"
+                },
+                "title": {
+                    "label": "Not impossible"
+                },
+                "content": {
+                    "label": "This is a great game that takes a little practice, but it's worth it. Contrary to some of the reviews here, the game has never given me impossible requests. Rather, it regularly gives seemingly impossible requests that require clever, creative solutions. \n\nFor example, if it asks you for 64 yellow points, but there are only enough blocks to score 4 yellow points, you need to do the other requests first, allowing more yellow blocks to spawn. Just a little tip for those struggling with this aspect.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id223502905"
+                    },
+                    "name": {
+                        "label": "Glebs hates itunes"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1329073295"
+                },
+                "title": {
+                    "label": "Needs a better mute"
+                },
+                "content": {
+                    "label": "Every Time I start the app my podcast player mutes itself even when I have the app muted. Also the price was a little steep imo. Fun game though",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id143671230"
+                    },
+                    "name": {
+                        "label": "KTallguy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1328842345"
+                },
+                "title": {
+                    "label": "Fun, challenging, requires forethought"
+                },
+                "content": {
+                    "label": "I bought this knowing the developer's previous work, and it's definitely in the same vein. To get the highest scores, every turn counts, and board management is a must. The look and feel of the game is excellent. Think carefully about each move and you'll be handling 50+ requests in no time :)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id354869896"
+                    },
+                    "name": {
+                        "label": "GuyKas113"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1328604307"
+                },
+                "title": {
+                    "label": "A fantastic mobile game"
+                },
+                "content": {
+                    "label": "I haven't been this into a puzzle game on my iPhone since Threes! It's simple enough I can play on my commute, while being engrossing enough to really keep my attention.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id484449714"
+                    },
+                    "name": {
+                        "label": "shikshake"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1328425587"
+                },
+                "title": {
+                    "label": "Atrocious gameplay, NOT WORTH IT"
+                },
+                "content": {
+                    "label": "DO NOT BUY THIS GAME\n\nThe guy who made this is clearly very good at aesthetics(which is what the extra star is for), but very bad at designing gameplay. I keep getting stuck because it asks for more tiles than there are in the board. \n\nHopefully he updates the game and actually makes it playable. Until then, do not buy it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11716441"
+                    },
+                    "name": {
+                        "label": "Falling Lots"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1328309850"
+                },
+                "title": {
+                    "label": "Mediocre"
+                },
+                "content": {
+                    "label": "I'm sad to have spent money on this. \n\nFor one, despite turning off the game sound effects and music, it insisted on turning off the music I was playing in another app. Rude behavior, considering I told it what I didn't want from it.\n\nSecondly, proficiency at this game seems to be more chance than anything. Whenever I saw that the goals were unobtainable because there literally weren't enough pieces of a given color on the screen, I quit that game.\n\nI'm sure there are individuals out there who are ok with more futility in their games, but I'd rather play games that create a greater sense of achievement.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id109573070"
+                    },
+                    "name": {
+                        "label": "Jamsy5"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1328010774"
+                },
+                "title": {
+                    "label": "Not worth it"
+                },
+                "content": {
+                    "label": "After all the positive Internet hype and reviews, I thought this could be a great little puzzle game to have on my phone. Sadly, aside from the slick aesthetics, this game is oddly shallow yet complicated,and simply not very enjoyable. I didn't get better as I played (since everything feels so random) and more importantly, I wasn't having any fun playing. Definitely not worth the $4. Maybe give it a shot when it goes on sale for $.99 at some point down the line. I'd definitely wouldn't recommend it at any price, to be frank.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id9968506"
+                    },
+                    "name": {
+                        "label": "Aimee Kay"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1327911106"
+                },
+                "title": {
+                    "label": "Meh. Pretty, but not that fun."
+                },
+                "content": {
+                    "label": "As others have said, I think the puzzle engine needs tuning. It's fine for the first few moves, but when it tells you that you need a color but there aren't any of that color, you lose. There's no way to plan for that scenario that I can tell. So, 3 stars. Meh.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25830501"
+                    },
+                    "name": {
+                        "label": "xandra"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1327748972"
+                },
+                "title": {
+                    "label": "Fun and kinda Different: & LEARNING TIP"
+                },
+                "content": {
+                    "label": "The first time I use this I was very confused about how it worked. But after playing a while then redoing the tutorial* it started making sense and has become extremely fun. For those who hate difficult Games, my sense is that it will always be challenging but once you get the drift, it's lots of fun\n* If you don't have more than one device, delete it from your device then reinstall in order to redo a tutorial",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id137999725"
+                    },
+                    "name": {
+                        "label": "Farmer5748358421"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1327718588"
+                },
+                "title": {
+                    "label": "Fun, but needs a better tutorial"
+                },
+                "content": {
+                    "label": "I really like games like this where it's infinitely replayable and just one ongoing puzzle. I am getting better over time as I figure out which shapes I'll be able to clear and as I pay more attention to my requests rather than trying to make the biggest combinations possible (which is my instinct). I find the Threes comparisons very misleading though--this game is nothing like Threes. \n\nBUT, the tutorial is so long and it doesn't even explain several important aspects of the game! 1) whichever request has the fewest lives left will always go on the right, and points will go to the right most request first 2) if there are points leftover (e.g. you got 16 red and the right most request needed 4) they will start going to the other requests 3) if points are STILL leftover, then they start filling this squares at the bottom. Wonder what those are about? You can drag them into the puzzle once you fill them! So when you need 128 yellow and there are only 2 yellow squares on the board, you can get them from there! Why is this not in the tutorial?? It's crazy that they force you to come up with that on your own, and it changes the strategy from \"it's ok to overfill your requests\" to \"you should TRY to overfill your requests\"",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43568837"
+                    },
+                    "name": {
+                        "label": "VoodooSan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1327710151"
+                },
+                "title": {
+                    "label": "Too random"
+                },
+                "content": {
+                    "label": "It's an interesting concept and starts off fun that ends fast. The tiles/colors are way too random and makes it very frustrating. There needs to be a refund policy for apps like this. This is a waste of $3.99. Definitely not worth the price. There needs to be different game modes like one with unlimited life or moves for practice or just for fun. Disappointed.\n\nThe price for this pile of junk is pathetic. Just get a real puzzle game and skip this. Deleted this. What a waste. iTunes needs a refund option for apps within a reasonable time frame.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24533131"
+                    },
+                    "name": {
+                        "label": "Headhuntr"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1327703744"
+                },
+                "title": {
+                    "label": "I make it simple"
+                },
+                "content": {
+                    "label": "The new Threes! 'nuff said! 👍",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38414811"
+                    },
+                    "name": {
+                        "label": "hughbd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1327412051"
+                },
+                "title": {
+                    "label": "Pet Peeve Activated"
+                },
+                "content": {
+                    "label": "My iPad case props my iPad horizontally. When you create a game that ONLY orients itself vertically, then you force me to hold my iPad in an uncomfortable way. It drives me CRAZY that game developers can't put in the time to allow their game to orient both ways. 😡",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id29604520"
+                    },
+                    "name": {
+                        "label": "onewil"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1327388001"
+                },
+                "title": {
+                    "label": "Fun, addictive, not clearly explained."
+                },
+                "content": {
+                    "label": "I've been getting worse at this game for two days now. \n\nThat's right, after about 8 hours I'm worse than I was in hour one. Why? Luck? Lack of clarity in goals? Pure craziness on my part? \n\nWho knows but I've deleted the game. No need to play more since I clearly haven't figured out how to improve. \n\nOh well. A few hours of fun and a few hours of frustration are worth $3.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id324302677"
+                    },
+                    "name": {
+                        "label": "Mlarks"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1327356597"
+                },
+                "title": {
+                    "label": "Lots of fun"
+                },
+                "content": {
+                    "label": "It's a really great game once you get the hang of it. A little more complex then it initially seems... With quite a few parts left to the player to discover on their own. You have to find the balance between focusing on the more pressing requests and pursuing big combos for multiple requests, which in turn makes the countdown all the more pressing. For those who want to know if they have reached a new high score mid game, as soon as you've beaten your score the little ribbon will appear next to the score even as your still playing... So you know it's all the more important to keep it up. For me it's been absolutely worth the money if you take the time to figure out all the moving parts.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id34797938"
+                    },
+                    "name": {
+                        "label": "Staaant"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1327338099"
+                },
+                "title": {
+                    "label": "Don't waste your time or money"
+                },
+                "content": {
+                    "label": "Upon opening Twofold Inc. for the first time, you'll be delighted by the look and sounds of the game. The delight will abruptly end there as the actual gameplay falls short and becomes extremely frustrating very quickly. The idea is nice, but after spending a few hours playing this game, it's obvious that the randomly generated board prevents you from having an enjoyable experience. There is no system of checks and balances that makes playing a long run possible. So often I'll have a \"request\" that requires at least say 5 yellow tiles, yet the entire board has only 2 yellow tiles total. This type of oversight happens extremely frequently and makes this game worthless. #notfun",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43663102"
+                    },
+                    "name": {
+                        "label": "nate_n"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1327322624"
+                },
+                "title": {
+                    "label": "clarify please"
+                },
+                "content": {
+                    "label": "Until the next version clarifies the point system and CLEARER explaination of how the game works, it gets a 3 star. otherwise probably a 4.5",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42401529"
+                    },
+                    "name": {
+                        "label": "Spartanical"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1327276720"
+                },
+                "title": {
+                    "label": "Simply Brilliant"
+                },
+                "content": {
+                    "label": "This game, like so many great games, is easy to learn but very hard to master.\nThis game reveals itself little by little, layer by layer.  What you will begin to see is the complexity of strategy and tactics. Pay attention to what happens when you make different moves and learn what works when.\nThe key is tile management: clearing as many requests at once as possible, yet leaving yourself as many tiles as possible to work with in the future. Economy and efficiency.\nOne tip I learned on my own, is that the squares below the grid are acquired when large combinations are made and then can be used later when u need to fill in gaps. They are key to advancing farther into the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16102943"
+                    },
+                    "name": {
+                        "label": "dancelikeithurts"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1327265399"
+                },
+                "title": {
+                    "label": "Editor's Choice?!"
+                },
+                "content": {
+                    "label": "I don't see how this game became a favorite of the editors short of some sort of payola.  It is a matching game with a long yet oddly unhelpful tutorial that leads to a game bereft of interest.  I guess I can't be an editor at iTunes because I would not recommend this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11115316"
+                    },
+                    "name": {
+                        "label": "GoPadres1904"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1327262679"
+                },
+                "title": {
+                    "label": "Meh"
+                },
+                "content": {
+                    "label": "Strategy seems more based on luck than actual movement of the pieces. Not sold on it. Will keep playing but may delete soon.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id107037602"
+                    },
+                    "name": {
+                        "label": "Smart61"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.7"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1327240738"
+                },
+                "title": {
+                    "label": "Please explain *all* of the rules!"
+                },
+                "content": {
+                    "label": "Really fun in many ways. But no matter how much I play, I can't quite figure out all of the rules, the scoring, and everything that a player can do. Accidentally discovered you can move the squares on the bottom onto the board. No explanation anywhere. What else is there?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22709438"
+                    },
+                    "name": {
+                        "label": "updownsidewaysSF"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1327107718"
+                },
+                "title": {
+                    "label": "Beware"
+                },
+                "content": {
+                    "label": "Seems fun, but SO much shaking and flashing - after Every. Single. Move. - that my eyes and head hurt after only a few minutes. PLEASE update with ability to turn off these animations. (Epileptics, please be very careful.) Seems like this game was not tested properly, and I'm disappointed it's an Editor's Pick with this glaring issue.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id17647085"
+                    },
+                    "name": {
+                        "label": "nikkoesq"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1327044875"
+                },
+                "title": {
+                    "label": "Over-rated"
+                },
+                "content": {
+                    "label": "This is a very over-rated and dull game, and pretty simplistic (especially for a game that charged $3.99). Save your money for something else, unless you want something you'll be bored with in a day or two at most.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id176100939"
+                    },
+                    "name": {
+                        "label": "Wellertons"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1326971909"
+                },
+                "title": {
+                    "label": "Couldn't figure out"
+                },
+                "content": {
+                    "label": "Upset I gave 4 bucks to this one. Maybe I'm just dumb. :(",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1042322028&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:39:33-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1042322028/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1042322028/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1042322028/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1042322028/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1042322028/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1042322028/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1042322028/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1042322028/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1042322028/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1042322028/sortBy=mostRecent/json"
+        }
+    }
+}

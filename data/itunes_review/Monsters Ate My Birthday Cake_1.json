@@ -1,0 +1,303 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id223715416"
+                    },
+                    "name": {
+                        "label": "Alecandertgre"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1170678893"
+                },
+                "title": {
+                    "label": "Booooooooooooooooooo"
+                },
+                "content": {
+                    "label": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!Boo.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=898742677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id367295589"
+                    },
+                    "name": {
+                        "label": "Bfhfhfhfjfjfififkk"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1124545586"
+                },
+                "title": {
+                    "label": "I rate this game 1 star"
+                },
+                "content": {
+                    "label": "I do not like this game because it is too easy and inappropriate",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=898742677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id279566785"
+                    },
+                    "name": {
+                        "label": "Ashley219"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1119132210"
+                },
+                "title": {
+                    "label": "Hated it"
+                },
+                "content": {
+                    "label": "My 8 year old son comes to me and says this is terrible...when you hit the monster it shows a huge pile of blood...not impressed",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=898742677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id252046762"
+                    },
+                    "name": {
+                        "label": "City tramp"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1103433374"
+                },
+                "title": {
+                    "label": "Granddaughter"
+                },
+                "content": {
+                    "label": "My 7 year old granddaughter likes this game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=898742677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id373402551"
+                    },
+                    "name": {
+                        "label": "DesireéA"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1052529339"
+                },
+                "title": {
+                    "label": "TOO MANY ADS"
+                },
+                "content": {
+                    "label": "You can't even play the game for 5 seconds before an ad comes up. This wouldn't be too bad... Except they DON'T PAUSE THE GAME for the ads. So... You lose automatically",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=898742677&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:26:13-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=898742677/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=898742677/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=898742677/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=898742677/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=898742677/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=898742677/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=898742677/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=898742677/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=898742677/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=898742677/sortBy=mostRecent/json"
+        }
+    }
+}

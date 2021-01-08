@@ -1,0 +1,632 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id971441826"
+                    },
+                    "name": {
+                        "label": "FoxPatronus"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5936839338"
+                },
+                "title": {
+                    "label": "Japanese fever dream!"
+                },
+                "content": {
+                    "label": "I love every bit about this game! The music makes it seem like I’m in a Tokyo dream! The aliens are so cute and cool too! My favorite is Bruch! What I wouldn’t give for something like this!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id981022996"
+                    },
+                    "name": {
+                        "label": "StonedOR"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4353741236"
+                },
+                "title": {
+                    "label": "Bummed"
+                },
+                "content": {
+                    "label": "I really wanna give this game a try but I am having the same problem with the tutorial and free ticket as other reviewers. It has me locked and unable to do anything except go to the gatcha page but I don’t have a free draw to use.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id701846203"
+                    },
+                    "name": {
+                        "label": "Potatiolo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.1"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4129106192"
+                },
+                "title": {
+                    "label": "Tutorial Softlock"
+                },
+                "content": {
+                    "label": "In the tutorial, if you preform the 4 stars+ gacha, then your single ticket is taken. Going to the home page, it tells you to go to the gacha page. It does not tell you to go to the 3+ stars gacha. The only hint to go there is that the hand points to the button when you are on the 3+ page.\n\nI did the 4+ stars gacha, was directed to go to the gacha page. Still didn’t know that I had to do the 3+ stars gacha. No ticket left, softlocked.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id961502160"
+                    },
+                    "name": {
+                        "label": "Adrian (@Morti.ferum)"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.1"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3736525798"
+                },
+                "title": {
+                    "label": "Takes FOREVER to download."
+                },
+                "content": {
+                    "label": "I got up to 45% before the app decided to close and make me start all over again. :)\nNot impressed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id932312418"
+                    },
+                    "name": {
+                        "label": "$keptik"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3526848523"
+                },
+                "title": {
+                    "label": "Tutorial “bug?”"
+                },
+                "content": {
+                    "label": "Tutorial doesn’t appear to let you leave the store without buying something.  It takes you to Gacha then leaves you there. Hitting other menu buttons doesn’t clear the notification. Other game functions are turned off until you “look around”",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id476886570"
+                    },
+                    "name": {
+                        "label": "Sliver dragon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3109055499"
+                },
+                "title": {
+                    "label": "Like"
+                },
+                "content": {
+                    "label": "I like the game but I have some suggestions one maybe let us get more slots for friends and aliens and also let us be able to talk to one another and maybe trade aliens if we have more then one and another person doesn’t have one but wants one and if we want to get rid of it and not sell it or anything we can get rid of it that way also let us be able to find friends not by the code thing that you want us to since one can’t be found to us in the search button and you can only do that if your friends and in the same place were they can tell you what their code thing is also I think you guys should give maybe two or three more egg chambers that’s all for now",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id294194079"
+                    },
+                    "name": {
+                        "label": "JRodslegend"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.1"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "2722884055"
+                },
+                "title": {
+                    "label": "Hmmm"
+                },
+                "content": {
+                    "label": "I really want to like this game. I do. But after playing since its release, it’s unbelievably apparent that it’s p2w. And that’s just unforgivable. Unless you get lucky on a draw, any kind of progression is insanely slow. Like we’re talking 6-8 months of playing daily to get a 3 Star to a 5 Star, when people who pay money can just get a 5* right off the bat. Progression is painful, and it’s my only issue. And upgrading monsters is all RNG based on top of everything. Spend and month trying to get a monster to its next level? Sorry, now you’re going to have to spend another month and insane amounts of gold breeding it to randomly get a chance to level it up. I want to like this game, I really do. But the progression mechanics are terrible. Not worth playing at all. Gave it an extra star just for design, because I do love that aspect",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id197326237"
+                    },
+                    "name": {
+                        "label": "Sushiwaifu"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.1"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "2698073170"
+                },
+                "title": {
+                    "label": "Improvements recommended"
+                },
+                "content": {
+                    "label": "I highly recommend global catches up to jp via units and events. That’ll make this game more fun! \nI also do recommend doing more advertising. I played the Japanese version last year and I had NO idea an English version came out recently... So maybe some more advertising to build the community (along with events and new stuff, of course)\nOverall, a pretty decent game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32476995"
+                    },
+                    "name": {
+                        "label": "katlara"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2591166628"
+                },
+                "title": {
+                    "label": "Great game!"
+                },
+                "content": {
+                    "label": "You get to fight with aliens and it’s fun! Breed to get more! Great game doesn’t lie! Different plant too! Great game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id530055732"
+                    },
+                    "name": {
+                        "label": "Tsuna019"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2092972743"
+                },
+                "title": {
+                    "label": "Need Events"
+                },
+                "content": {
+                    "label": "The game is pretty solid, however it lacks events, arena, new gacha and chat option. I checked out the Japanese version and got curious through collaboration kizuna ai YouTube video link, the Japanese version was pretty awesome and it shocked me that they had plenty of events that want me wanting.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id540162043"
+                    },
+                    "name": {
+                        "label": "Kitiiiiii"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2092218397"
+                },
+                "title": {
+                    "label": "Great game!"
+                },
+                "content": {
+                    "label": "Cosmic Eggs doesn’t fail when advertising! You really get addicted to this game since you can breed new hybrids and get friends to support you in your battles.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id484807515"
+                    },
+                    "name": {
+                        "label": "Arson senki"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2086303269"
+                },
+                "title": {
+                    "label": "So cute and addicting"
+                },
+                "content": {
+                    "label": "I like the game and I can’t stop playing it!! The characters are cute!! And I love the story plot!! Keep up the good work AMBITION!!👍👍👍👎🏾",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1293635888&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:34:00-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1293635888/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1293635888/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1293635888/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1293635888/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1293635888/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1293635888/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1293635888/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1293635888/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1293635888/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1293635888/sortBy=mostRecent/json"
+        }
+    }
+}

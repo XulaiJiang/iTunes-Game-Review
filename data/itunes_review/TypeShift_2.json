@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id522951487"
+                    },
+                    "name": {
+                        "label": "Millyrockfaith"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2653261155"
+                },
+                "title": {
+                    "label": "Low quality"
+                },
+                "content": {
+                    "label": "I tried this game. Well I actually didn't because I could not play it. Every single time I open the app it starts shutting down to my home screen and sometimes it will restart without permission. So in my opinion do not even waste your time getting this game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39387994"
+                    },
+                    "name": {
+                        "label": "36Patriot"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.9"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2627195842"
+                },
+                "title": {
+                    "label": "Fun!!"
+                },
+                "content": {
+                    "label": "Fun word game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id169492837"
+                    },
+                    "name": {
+                        "label": "Mama Diana Rules!"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2622484638"
+                },
+                "title": {
+                    "label": "Super fun"
+                },
+                "content": {
+                    "label": "Great game to relax with.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40004537"
+                    },
+                    "name": {
+                        "label": "Stan Dellone"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2600800048"
+                },
+                "title": {
+                    "label": "Simple and fun"
+                },
+                "content": {
+                    "label": "If you’ve got time to waste, and a mind you’d rather not, Typeshift is a pretty dope little game. It’s challenging and rewarding in just the right ways, and the interface is super slick and intuitive. You’ll wonder how you ever waited for the bus without it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id189896510"
+                    },
+                    "name": {
+                        "label": "Auraday"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2600308500"
+                },
+                "title": {
+                    "label": "T.Y.P.E S.H.I.F.T"
+                },
+                "content": {
+                    "label": "This game is insanely addictive and it’s a great way to learn new words",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id519319375"
+                    },
+                    "name": {
+                        "label": "anzyg"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2599351534"
+                },
+                "title": {
+                    "label": "Words words words"
+                },
+                "content": {
+                    "label": "Very nicely annoying. Love the inclusion of less frequently used words.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id577032770"
+                    },
+                    "name": {
+                        "label": "Hoarsey"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.9"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2590427173"
+                },
+                "title": {
+                    "label": "Sweet!"
+                },
+                "content": {
+                    "label": "Add a way to make your own custom levels",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id7320537"
+                    },
+                    "name": {
+                        "label": "island_girl_55"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.9"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2575607078"
+                },
+                "title": {
+                    "label": "Good game"
+                },
+                "content": {
+                    "label": "Good game, but I’m unable to exit out of the ads I have to exit out of the game every time. Super annoying",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24453731"
+                    },
+                    "name": {
+                        "label": "Dallyup52"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.9"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "2570134179"
+                },
+                "title": {
+                    "label": "Some problems"
+                },
+                "content": {
+                    "label": "Games works well but purchases do not transfer between Apple devices. This us a big problem!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id144833379"
+                    },
+                    "name": {
+                        "label": "SaratogaRosieRose"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2560846075"
+                },
+                "title": {
+                    "label": "Loads of Fun"
+                },
+                "content": {
+                    "label": "At the end of a long I enjoy challenging my brain. Excellent fun.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16006352"
+                    },
+                    "name": {
+                        "label": "Elegant Elena"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2559194969"
+                },
+                "title": {
+                    "label": "Excellent"
+                },
+                "content": {
+                    "label": "It’s my game every morning. Perfect. If you like word games, you will be happy with this game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id331826365"
+                    },
+                    "name": {
+                        "label": "Can1TheCookie"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.7"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2480550169"
+                },
+                "title": {
+                    "label": "Buggy"
+                },
+                "content": {
+                    "label": "Spent multiple hours on a puzzle that I couldn’t figure out. Looked up the answers online and turned out some letters were removed when they were still needed (in a clue pack). Plus, all of the packs are absurdly expensive. Will be uninstalling now",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id111221445"
+                    },
+                    "name": {
+                        "label": "Otis mom"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.7"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2454241236"
+                },
+                "title": {
+                    "label": "I loved this app but now :("
+                },
+                "content": {
+                    "label": "Ever since the latest iOS upgrade this app doesn’t work. It freezes so you can’t move the letters.  Very frustrating.  Please fix.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id280913468"
+                    },
+                    "name": {
+                        "label": "Naaiima"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.7"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2405346145"
+                },
+                "title": {
+                    "label": "Nice but..."
+                },
+                "content": {
+                    "label": "The game is cool ! But it seems im not able to buy packs ... I even uninstalled the game and reinstall it but nothing to do, still can’t pay and I lost all the records I had !",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id34930508"
+                    },
+                    "name": {
+                        "label": "Orangetoes"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2381319304"
+                },
+                "title": {
+                    "label": "Typeshift"
+                },
+                "content": {
+                    "label": "A great way to unwind and stretch your mind at the same time!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id683783641"
+                    },
+                    "name": {
+                        "label": "LiRu808"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2361409084"
+                },
+                "title": {
+                    "label": "FUN FUN FUN!!!"
+                },
+                "content": {
+                    "label": "I’m addicted!!! Love this app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id239853923"
+                    },
+                    "name": {
+                        "label": "Dansailski"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2361347864"
+                },
+                "title": {
+                    "label": "Fun, challenging, and invigorating"
+                },
+                "content": {
+                    "label": "But not so hard that it becomes discouraging. Plus you get to expand your vocabulary.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id116695592"
+                    },
+                    "name": {
+                        "label": "skcuspparuoy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2361204325"
+                },
+                "title": {
+                    "label": "Best app ever"
+                },
+                "content": {
+                    "label": "Heard about this on a “Giant Bomb” podcast, so I tried it out. It’s just the right amount of puzzle and word-making. I played Honda for a while, but this is just so much better.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43463795"
+                    },
+                    "name": {
+                        "label": "moss55422"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2357649347"
+                },
+                "title": {
+                    "label": "Love this app!"
+                },
+                "content": {
+                    "label": "🧡",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id148277868"
+                    },
+                    "name": {
+                        "label": "textomb"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.5"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2341218593"
+                },
+                "title": {
+                    "label": "Great game, a few flaws"
+                },
+                "content": {
+                    "label": "We’ve been playing this game obsessively in my house. Great controls, challenging puzzles. A few things need fixing: 1.) it drives me nuts that the game ends before I can find all the words. If “sparkles” is the core word, and on my way to the s there’s a d and I accidentally spell “sparkled” first, and that’s  the last unused letter, too bad. This really needs to be addressed. 2.) We’re running out of packs to buy. Please make more.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id34854011"
+                    },
+                    "name": {
+                        "label": "jacesgrammie"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2254206675"
+                },
+                "title": {
+                    "label": "Yes, I know this is supposed to be a challenge but......"
+                },
+                "content": {
+                    "label": "I really do like this game and turn to it more than any other word games, but really wish it would rotate to landscape orientation and there were more clue puzzles.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id425052426"
+                    },
+                    "name": {
+                        "label": "RayLinStephens"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.5"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2105716682"
+                },
+                "title": {
+                    "label": "What happened to Family Sharing??"
+                },
+                "content": {
+                    "label": "What happened to \"family sharing?\"",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28281730"
+                    },
+                    "name": {
+                        "label": "Review Madness"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.5"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "2032020713"
+                },
+                "title": {
+                    "label": "Clever game but..."
+                },
+                "content": {
+                    "label": "I’d happily pay $10 for this game. Anything to stop the incessant and annoying ads. Pity because it’s a clever and well implemented game. Oh well. Off to the “deleted games pile”. Do I have to pay $1.99 for that too?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id186924476"
+                    },
+                    "name": {
+                        "label": "alistairlogie"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.5"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "2029693236"
+                },
+                "title": {
+                    "label": "Seems to hang a lot"
+                },
+                "content": {
+                    "label": "Good game but I quite often have to quit and restart the app because it hangs either on title screen or after clicking the daily challenge. Currently running iOS 11 but I think it had issues in iOS 10.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id193365869"
+                    },
+                    "name": {
+                        "label": "LinBurns"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.5"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "2029481037"
+                },
+                "title": {
+                    "label": "Annoying ads"
+                },
+                "content": {
+                    "label": "I’ve been enjoying the game, but recently these intrusive, annoying ads that promise a $1000 gift card are diffusing some of the enjoyment.  First of all, I do not seem to be able to see the definitions anymore.  If I try, one of these ads appears, and the only option is \"OK\".  There’s no way back to the definition page.  Furthermore, the ad seems to promise $1000 gift card for answering a few questions or picking the right box (hint: you always get it right on the third try).  If you read a little further, the \"too good to be true\" reveals itself as a commitment to buy...that’s as far as I got before I got disgusted by the deception.  It wouldn’t be so bad if you could close the ad, but I haven’t found a way to do so.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "3"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "4"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33180038"
+                    },
+                    "name": {
+                        "label": "MarcDCMB"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.5"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2024631395"
+                },
+                "title": {
+                    "label": "What’s with the “You have been selected to win...”?"
+                },
+                "content": {
+                    "label": "I was testing this game out with the intention of picking it up for my wife when a dialogue fashioned to look like an SMS message popped up telling me that “you have just been selected to win a $1000 coupon“.\n\nThe dialogue was definitely part of the game. No way am I going to purchase a game that will spam me like that.\n\nDeleted",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39185434"
+                    },
+                    "name": {
+                        "label": "JAJ327"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.5"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1929447986"
+                },
+                "title": {
+                    "label": "Just a Game"
+                },
+                "content": {
+                    "label": "Puts up political ads asking for support-not cool.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id29989525"
+                    },
+                    "name": {
+                        "label": "Don't mind me..."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.5"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1897409949"
+                },
+                "title": {
+                    "label": "Good idea, but... -- update 1.1.5 instacrashes"
+                },
+                "content": {
+                    "label": "Nov 4 update 1.1.5 instacrashes on my iPhone 6+ running firmware 8.1.2. Downgrading from 2 stars to 1 star to reflect not only its flawed word list gameplay but also its unplayability.\n\nThe word list is absurd. It feels like half the words I get are gibberish, gotten by accident, scrolled a column to get to a different letter and I nailed 3 \"words\" along the way, and when I look them up they're taken from other languages or are so obscure there's no way I would have ever known to aim for them.\n\nClue Puzzles are quite good and more often than not avoid this bizarre word dictionary.\n\nSpeaking of looking up the words, what's up with the glacial speed of the lookup feature? It's faster to home button out of the game, load up safari, type dictionary.com, and manually enter the word (with time added to switch back into the app to refresh my memory on how this nonsense word is spelled) than it is to wait for the word lookup feature to load up the internal browser and spit out the word. I could watch a glop of pitch drop in the time it takes to look up a word.\n\nMy search continues for a word game better than 7 Little Words..  Which is really great, don't get me wrong, but you can only eat so much ice cream before you get sick of it, you know?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id173935580"
+                    },
+                    "name": {
+                        "label": "Cokanecola"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.5"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1893338434"
+                },
+                "title": {
+                    "label": "Super fun, but...."
+                },
+                "content": {
+                    "label": "This is almost a 5-star app.  \nPros:  The puzzles are fun and challenging.  It’s a unique word game with many levels from super simple to massively hard.  Once you get the hang of it, it can be addicting.  If you like word games, this one is definitely worth getting.\nCons: I would like the app better if it had more clue puzzles and the letters on the non-clue puzzles dropped off when they were no longer needed like in the clue puzzles.  Also, when I’m stuck on a puzzle, I’ll go to the next puzzle and then come back, but I lose all the progress of the puzzle I’m on.  With these minor fixes, I’d give it 5 stars. However, even with these small bothers, I highly recommend it to word game and crossword aficionados.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "21"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "32"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id18847196"
+                    },
+                    "name": {
+                        "label": "Marlittt"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1892610203"
+                },
+                "title": {
+                    "label": "How do you play this or use it? Where are the instructions?"
+                },
+                "content": {
+                    "label": "How do I get started with Typeshift?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id299006028"
+                    },
+                    "name": {
+                        "label": "Pmreed1295"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1871539795"
+                },
+                "title": {
+                    "label": "Great, but force closes often"
+                },
+                "content": {
+                    "label": "I seriously can't get through a puzzle without the app force closing, then I have to re-launch it. Super fun game, but it gets annoying having it close in the middle of a puzzle...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id71030425"
+                    },
+                    "name": {
+                        "label": "Dina0408"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1864963261"
+                },
+                "title": {
+                    "label": "Good but problematic"
+                },
+                "content": {
+                    "label": "I like this game but it literally drains your battery. It freezes a lot and sometimes i have to open it multiple times before it actually works. Other than that this game is interesting.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41284247"
+                    },
+                    "name": {
+                        "label": "bukuresha"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1860874104"
+                },
+                "title": {
+                    "label": "Enjoyable Game"
+                },
+                "content": {
+                    "label": "It's straight forward, just what it says. Worth the download.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id130849208"
+                    },
+                    "name": {
+                        "label": "Beechica"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1828942726"
+                },
+                "title": {
+                    "label": "Fun fun fun"
+                },
+                "content": {
+                    "label": "This is a brainy-teaser that holds one's interest. It is simple to play, but difficult enough to keep you going.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id34479623"
+                    },
+                    "name": {
+                        "label": "Best Reviewer Ever"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1822614024"
+                },
+                "title": {
+                    "label": "Disappointing update"
+                },
+                "content": {
+                    "label": "I love this game. Tons of fun. This latest updates has a \"fan puzzle by Robert Seater\" called \"pumpkin\". By far, this is the worst pack I've done. Some puzzles don't even use words, just pieces of words crammed together in a random fashion. It's bizarre (not in a good way) that this pack got the green light from the creators.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35766540"
+                    },
+                    "name": {
+                        "label": "Agent 42"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1814070113"
+                },
+                "title": {
+                    "label": "Clue packs don't remember progress"
+                },
+                "content": {
+                    "label": "The September update has made it so if you enter a clue puzzle, solve a few answers, and leave, it won't remember your progress.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id18456976"
+                    },
+                    "name": {
+                        "label": "Maui fan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1807996621"
+                },
+                "title": {
+                    "label": "The absolute best puzzle for wordsmiths"
+                },
+                "content": {
+                    "label": "Typeshift is my go to puzzle. I was playing it on an airplane when I guy across the aisle asked what app it was – – it even looked like fun to him. If you like words and you're kind of a brain, You will love this puzzle.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32946530"
+                    },
+                    "name": {
+                        "label": "TRICKorDEVICE"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1802518588"
+                },
+                "title": {
+                    "label": "Nice word app."
+                },
+                "content": {
+                    "label": "The user interface is very nice and clean. Very challenging and fun game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id118318134"
+                    },
+                    "name": {
+                        "label": "Manwith0utplan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1801189793"
+                },
+                "title": {
+                    "label": "Great way to waste time!"
+                },
+                "content": {
+                    "label": "Type shift is an excellent puzzler to mess with in the quiet moments",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id134955951"
+                    },
+                    "name": {
+                        "label": "Ch3ma"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1801058659"
+                },
+                "title": {
+                    "label": "What a word game"
+                },
+                "content": {
+                    "label": "Between the regular and the clue puzzles I am always entertained. Sure you can watch videos for hints when you are truly stuck but where is the fun in that? Most word games are too hard, too easy, or get tedious, and I have been nothing but happy with this one",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id233224440"
+                    },
+                    "name": {
+                        "label": "NoseyMinotaur"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1796842485"
+                },
+                "title": {
+                    "label": "A++"
+                },
+                "content": {
+                    "label": "Very Intuitive",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43140068"
+                    },
+                    "name": {
+                        "label": "urnymom"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1794430824"
+                },
+                "title": {
+                    "label": "Play Everyday!!"
+                },
+                "content": {
+                    "label": "I LOVE this game. I start my day playing TypeShift - the Daily Puzzle.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id18526433"
+                    },
+                    "name": {
+                        "label": "Lorrainess"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1794337111"
+                },
+                "title": {
+                    "label": "Outstanding little puzzles"
+                },
+                "content": {
+                    "label": "App is easy to use, puzzles are pleasingly tricky.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id182789613"
+                    },
+                    "name": {
+                        "label": "IowaElement"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1793799529"
+                },
+                "title": {
+                    "label": "Fan Puzzle Pack has spelling errors"
+                },
+                "content": {
+                    "label": "The Pumpkin Puzzle Pack is very fun and challenging, but there are at least two answer words that are misspelled, and not as part of the the puzzle's trickiness. Barnacle, not barnicle, and gerrymander, not jerrymander. The puzzles are difficult enough without errors!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36361902"
+                    },
+                    "name": {
+                        "label": "CaplinROUS"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1793563922"
+                },
+                "title": {
+                    "label": "Excellent word game with lots of content"
+                },
+                "content": {
+                    "label": "Sliding letters to form words is much more clever than it sounds, and the provided puzzles vary between pleasingly light games, solvable tricky puzzles requiring thought, and bogglingly hard obscure sets.  My favorite are the clue puzzles, which feel like a cross between crossword puzzles and anagram word puzzles.  There are lots of solid puzzles included plus many more packs you can buy, so it does a good job at serving both casual players who want something cheap and obsessed fans who want lots of content.  There are also daily puzzles that escalate in difficulty over the week.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "5"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "5"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id87109344"
+                    },
+                    "name": {
+                        "label": "belgarath35"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1793464087"
+                },
+                "title": {
+                    "label": "Amazing!"
+                },
+                "content": {
+                    "label": "This game is great!  I look forward to the daily puzzle and trying to lower my average time every day!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33859231"
+                    },
+                    "name": {
+                        "label": "Mr. Blammo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1790407840"
+                },
+                "title": {
+                    "label": "Great game but ads are a problem"
+                },
+                "content": {
+                    "label": "I'd give this game 5 stars, but the ads consistently crash the game. I deal with ads on other favorite games as that's how the developer makes their money. But when I can't finish the puzzle because the ad won't close - even after waiting 30 seconds - that's just annoying. So much for keeping my streak going. \n\nAnd for what it's worth, the LEARN MORE button on the ads work fine. It's the Close button that don't seem to work. Hmmm...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id541859658"
+                    },
+                    "name": {
+                        "label": "Larkin Barkin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1765571345"
+                },
+                "title": {
+                    "label": "Fake words. Lots of them!"
+                },
+                "content": {
+                    "label": "Consistently uses made up words that can't be found even in the app's own dictionary!!!  \"HEADLES\"??  \"CONDING\"???\nPretty annoying, to say the least.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33864104"
+                    },
+                    "name": {
+                        "label": "landon360"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1734888357"
+                },
+                "title": {
+                    "label": "Ads ruin it"
+                },
+                "content": {
+                    "label": "Game is buggy and ads ruin it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22896702"
+                    },
+                    "name": {
+                        "label": "cwiren"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.3"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1734650973"
+                },
+                "title": {
+                    "label": "Addictive but 1 MAJOR flaw"
+                },
+                "content": {
+                    "label": "I love this game and am addicted to it. However, there is one MASSIVE flaw in the coding and I can't play it until this is fixed: The phone does NOT ring when the app is open. I miss calls every time I play this game. It's a really bad flaw to have.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1084762137&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:42:59-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1084762137/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1084762137/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1084762137/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=5/id=1084762137/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1084762137/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1084762137/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1084762137/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1084762137/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1084762137/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1084762137/sortBy=mostRecent/json"
+        }
+    }
+}

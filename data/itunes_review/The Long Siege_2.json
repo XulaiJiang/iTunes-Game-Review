@@ -1,0 +1,820 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id138042458"
+                    },
+                    "name": {
+                        "label": "Gxt138"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1233353186"
+                },
+                "title": {
+                    "label": "Never played it .."
+                },
+                "content": {
+                    "label": "Can even review because of crashes !!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id433735743"
+                    },
+                    "name": {
+                        "label": "thelivingstatue"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1233080923"
+                },
+                "title": {
+                    "label": "Great game with couple of flaws"
+                },
+                "content": {
+                    "label": "This match 3 RPG puzzler is similar to 10000000 and You Must Build A Boat (YMBAB), with some cool innovations, nice artwork and an interesting upgrade system.\n\nThe only thing that Long Siege could learn from YMBAB is to allow continuous matching. Right now the screen dims and pauses between matches, and it is quite frustrating when you are used to faster moving games. Also, the match detection and UI scrolling is not very good, compared to YMBAB  which feels much faster and more responsive.\n\nIf they can fix these two minor issues, this is definitely a 5 star game. 😊",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id117851065"
+                    },
+                    "name": {
+                        "label": "Games77"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1233019719"
+                },
+                "title": {
+                    "label": "why???????"
+                },
+                "content": {
+                    "label": "was so very excited to get this and no matter what I do it won't play!!!!!!!Why is this???????Fix it please!!!!!!!!!!!!!! is this even fair for someone paying Money to play?????",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id264408516"
+                    },
+                    "name": {
+                        "label": "Rooie1954"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1232901943"
+                },
+                "title": {
+                    "label": "Great Potential...Needs Some Tweaks"
+                },
+                "content": {
+                    "label": "I love Match 3 games (this one is a \"slide the row or column,\" rather than a \"swap the blocks\" style game) and this one has a great game lurking under a picky performance.  The art work is wonderful, the idea of tower defense is fine...but the controls are so picky.  I wish the matches \"clicked\" into place a little bit.  Instead, I find myself moving the tiles and having them be, ooooh, just a little too far right, now just a little too far left, oops, a little too far right...it's very frustrating.  If the developers could adjust this a bit, I think the game would be greatly improved.  It would also be nice to be able to move blocks while the blocks are settling into place...I find myself waiting too much to make a move.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id138676887"
+                    },
+                    "name": {
+                        "label": "Ethannnn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1232865280"
+                },
+                "title": {
+                    "label": "crash"
+                },
+                "content": {
+                    "label": "crashes after title screen. fix required.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id272960297"
+                    },
+                    "name": {
+                        "label": "beefhaze"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1232725946"
+                },
+                "title": {
+                    "label": "Crash"
+                },
+                "content": {
+                    "label": "Crash\nCrash\nCrash\n\nAlso, this app crashes.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id207560839"
+                    },
+                    "name": {
+                        "label": "Mormonader"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1232660447"
+                },
+                "title": {
+                    "label": "Game won't start"
+                },
+                "content": {
+                    "label": "I tried downloading it on two different devices and it won't start on either so can you please fix this",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id447359201"
+                    },
+                    "name": {
+                        "label": "Mmace4"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1232619113"
+                },
+                "title": {
+                    "label": "Great Game"
+                },
+                "content": {
+                    "label": "A great 3 match game. I don't usually play these for very long but this one has held my attention. I love the mix of realtime strategy and match 3. The progression is great as well. I actually want to play to progress. With me. Exception, the quests are needed to progress your level and in turn progress you special unlocks. There is a quest to \"recover health crystals using The Healer\" and the first one was difficult while the second is almost impossible. You have to recover 2 or your 3 crystals. But the mobs hit so hard that your hp is gone within seconds of their arrival. So now I'm not actually playing the game, instead I am trying to create a scenario where I can complete this quest. It is very frustrating. The other quests fit in nicely with the game design so I can complete while also attempting to complete the levels. This quests is counterintuitive and I can't attempt to win the level and complete at the same time.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id109866758"
+                    },
+                    "name": {
+                        "label": "Ric Rice"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1232575646"
+                },
+                "title": {
+                    "label": "Refund Please"
+                },
+                "content": {
+                    "label": "Game will not start on a IPad2.  It would have been nice to know before purchasing.  Was able to get to the title screen where states \"Headphones nice to have\" but then blank screen and exit program.  I cleared out all apps, and rebooted, but makes no difference.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22460757"
+                    },
+                    "name": {
+                        "label": "Donahue88888888"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1232568642"
+                },
+                "title": {
+                    "label": "Won't open, don't buy it"
+                },
+                "content": {
+                    "label": "I have an iPad mini and I just bought this game. It looks like a lot of fun, but I wouldn't no because it closes itself every single time I try to open it. I've redownloaded it and restarted my iPad. Don't bother with it, you'll just be wasting you money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24356335"
+                    },
+                    "name": {
+                        "label": "DitaPita"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1232529969"
+                },
+                "title": {
+                    "label": "Problem on iPod touch"
+                },
+                "content": {
+                    "label": "Just like another reviewer, this game is not working on my 5th gen touch.  It loads and gets to the start screen, and about 5 seconds later the screen goes black and then I am kicked back to my iPod start screen.  Please fix or refund.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id108046925"
+                    },
+                    "name": {
+                        "label": "nehketah"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1232324569"
+                },
+                "title": {
+                    "label": "Will not open"
+                },
+                "content": {
+                    "label": "I want my money back refuses to open and play I'm on a iPad mini",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id4180125"
+                    },
+                    "name": {
+                        "label": "iangrantphoto"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1232265351"
+                },
+                "title": {
+                    "label": "Good but big issue"
+                },
+                "content": {
+                    "label": "Fun, but every time you make a match the game pauses for a second.  Kills any momentum you have going.  Good concept for the game though.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id14709946"
+                    },
+                    "name": {
+                        "label": "vidiot.el"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1232257116"
+                },
+                "title": {
+                    "label": "Not worth it"
+                },
+                "content": {
+                    "label": "Has a lot of potential but they chose to use the worse match 3 mechanic for a timed puzzler which ends up making the game more frustrating than fun. Grind lose grind lose grind lose grind win grind lose grind lose. Beautiful game crapy execution",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38201929"
+                    },
+                    "name": {
+                        "label": "The Irish Saint"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1232001479"
+                },
+                "title": {
+                    "label": "Want refund as game won't start"
+                },
+                "content": {
+                    "label": "Game will not start on my iPod 5! Does it not support this device? Please check into this asap. Would like to give this game a try and then give better review and rating but now it's impossible and may need to delete soon.. Fix needed asap",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27601477"
+                    },
+                    "name": {
+                        "label": "Weaksauce-GC"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1231842325"
+                },
+                "title": {
+                    "label": "Fun sliding match-3."
+                },
+                "content": {
+                    "label": "Match three with a point; premium if small price, worth every bit of it.  Persistent upgrades keep me coming back.  Just made me late coming in to work, as I played this for 45 minutes in the parking lot :)\n\nHighly recommended if you like the 10,000,000 or You Must Build A Boat style of sliding matchers.  Very engaging.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=999251944&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:54:07-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=999251944/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=999251944/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=999251944/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=999251944/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=999251944/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=999251944/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=999251944/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=999251944/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=999251944/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=999251944/sortBy=mostRecent/json"
+        }
+    }
+}

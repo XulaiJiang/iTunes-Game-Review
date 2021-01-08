@@ -1,0 +1,209 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id112883629"
+                    },
+                    "name": {
+                        "label": "plants vs. zombies ,,"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6687116114"
+                },
+                "title": {
+                    "label": "Super blurry Text Everywhere"
+                },
+                "content": {
+                    "label": "On the iPhone 12 this game is almost unplayable due to the text being unreadable, otherwise, I've played the game before and its great and I hope to play it again on my new device.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1306926524&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id175266235"
+                    },
+                    "name": {
+                        "label": "Slipperyrainbow"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6656401446"
+                },
+                "title": {
+                    "label": "Awesome, but needed change!"
+                },
+                "content": {
+                    "label": "Great game, but please update for the iPhone 12 pro...the display needs to be made more clear..:.please help!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1306926524&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id558886723"
+                    },
+                    "name": {
+                        "label": "lober479"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3170245999"
+                },
+                "title": {
+                    "label": "Me encanta!!"
+                },
+                "content": {
+                    "label": "Me encanta este juego ! Funciona bien iPhone 8 Plus",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1306926524&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "3"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:45:07-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1306926524/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1306926524/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1306926524/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1306926524/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1306926524/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1306926524/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1306926524/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1306926524/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1306926524/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1306926524/sortBy=mostRecent/json"
+        }
+    }
+}

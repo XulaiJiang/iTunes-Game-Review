@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100905660"
+                    },
+                    "name": {
+                        "label": "jingai"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.04"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1260688084"
+                },
+                "title": {
+                    "label": "iOS 9 app thinning please!"
+                },
+                "content": {
+                    "label": "My iPad mini needs more room. Please!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39490259"
+                    },
+                    "name": {
+                        "label": "Justaguyyoudontknow"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.03"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1259301334"
+                },
+                "title": {
+                    "label": "Get this game"
+                },
+                "content": {
+                    "label": "A great story in a creepy sci fi universe with great rogue like elements, best rpg I've played in awhile.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id87752404"
+                    },
+                    "name": {
+                        "label": "LoneHunter01"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.03"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1258474516"
+                },
+                "title": {
+                    "label": "Simply amazing"
+                },
+                "content": {
+                    "label": "This is the first review I've ever written, so I'll keep it brief. This game is amazing, and it represents everything that mobile gaming CAN be. It is deep, engrossing, fun and you can play for 10 minutes or 10 hours.  Speaking of replayability, you will die a lot and learn and restart (I'm not a great gamer - die lots - and I don't find the penalty bad).  And that's part of the fun.  Early GOTY candidate!  Oh, and if you see a stranger, run!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id4489653"
+                    },
+                    "name": {
+                        "label": "Somalyxx"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.03"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1257065503"
+                },
+                "title": {
+                    "label": "Old school"
+                },
+                "content": {
+                    "label": "Excellent game. Brings me back to when I was a kid, in the 80's, when you would spend a great deal of money on board games that had story telling, strategy, exploration, and yet leaving it to the imagination to do the rest.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id111667910"
+                    },
+                    "name": {
+                        "label": "Liquid doc"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.03"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1255527118"
+                },
+                "title": {
+                    "label": "Game of the year"
+                },
+                "content": {
+                    "label": "This one will take you back to the days of those dog eared D&d modules. Great gameplay that really sparks the imagination. I find myself replaying this to see what I missed the first time around and to max out my characters in anticipation of future adventures.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26496169"
+                    },
+                    "name": {
+                        "label": "jedmmc"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.03"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1253792566"
+                },
+                "title": {
+                    "label": "Rad, retro & reading-heavy"
+                },
+                "content": {
+                    "label": "This is a rich, deep game with lovely hand-drawn art and a fantastically written story. The game involves turn-based combat and while there is some randomness due to the dice there is also plenty of strategy. Knowing when to use an item, a special skill, or when it is time to flee, are all key. \nYou do have to enjoy reading to get the most out of this game. Throughout there is text describing what you're seeing and doing. I don't think you can fully experience the game unless you take the time to read these text pieces. That's not a problem though because they are very well written and fun. Fans of the Sorcery series should really love this. While not a game book like Sorcery both appeal to the bookworm and gamer in me.\nThe music that is here is cool I just wish it was used more often. I also wish the text font was a little bit larger. When there is black text against a red background it can be a little difficult to read. I hope more modules are forthcoming as well. There's one so far and it seems pretty lengthy. I've sunk a couple of hours into it and I get the feeling I've barely scratched the surface.\n\nUpdate: finished the module and loved every minute. The only problem: I really really want to play more modules! Here's hoping there's a content update soonish.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24362756"
+                    },
+                    "name": {
+                        "label": "kisertn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.03"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1253738867"
+                },
+                "title": {
+                    "label": "Not having fun"
+                },
+                "content": {
+                    "label": "I enjoyed the game itself, very much.   But, when your character dies, it appears that's the ballgame.   It does let you choose another character and continue, but not much point when the new character is of the original skill level.   I had a level-13 character die after hours of playing.  I chose a new character (which came in at level 6) and it died within 5 minutes.  There is no Save capability I have found.   I am simply not going to replay those 6-10 hours I've already played.   It was fun up until then, but I've deleted the app and moved on now.  I know some will cheer a 'hardcore' modee like this, but for me this just isn't fun.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32895910"
+                    },
+                    "name": {
+                        "label": "IronGiant"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.03"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1253139510"
+                },
+                "title": {
+                    "label": "A flashback to a simpler time...."
+                },
+                "content": {
+                    "label": "So many times while playing this game I felt a wave of nostalgia. I felt like it was 1985 again, I was hanging out with Billy and Michael in our kitchen late at night playing a new scifi RPG we had just bought that day. The dice roll, the faux game rules designed to look like old 1980's rules, the top down drawn maps, it all just clicked, and mostly in a good way. The maps could have been a bit more distinct and colorful and although the character and enemy artwork was ok, it could have been better. The water color vagueness of the enemies and characters made it hard at times to really understand what I was looking at.  The game is short and contained to just about three locations, mostly small. The game mechanics are interesting but I didn't care too much to explore the other characters and only used a few to finish the short story. If the art were more distinct and the story more epic and expansive, and the characters more different, it could be a five star game. But now, it's just ok. Really loved the nostalgia though.... Sigh...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38062201"
+                    },
+                    "name": {
+                        "label": "Chibij918"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.03"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1252759474"
+                },
+                "title": {
+                    "label": "Major bug"
+                },
+                "content": {
+                    "label": "Increasing my prior rating of one star as the devs were quick to address the crash I was experiencing during character creation that led me to start over after having finished a play through. I'm still giving it a low rating though as I'm stuck in a game crashing loop again. This time I'm stuck in combat with an enemy in the sewers area and it crashes every time it's the mob's turn. I can't make any progress and am again faced with either deleting my characters and starting over or staying stuck in a permanent loop of crashing 2 seconds after I load my game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id119041737"
+                    },
+                    "name": {
+                        "label": "SquidEyeball"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.03"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1252745327"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "This is the closest I've felt to the fun of a true d&d game I've played on iOS. Really unique and fun. Love the art, great style, the pop-ups that explain what you're looking at makes the 2D tile map feel completely engrossing, you're actually using you're imagination in ways most games don't. \n\nOnly complaints: a liiiiiittle too hard, but I like that, don't know if I even want them to change it.  AND I wish I could listen to my own podcasts/music on my phone while playing this, but it's not possible currently.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id108115734"
+                    },
+                    "name": {
+                        "label": "JKS the elder"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.03"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1252277231"
+                },
+                "title": {
+                    "label": "Retro appearance great play"
+                },
+                "content": {
+                    "label": "Have replayed a couple of times, something unheard of for me, keeping fighting new ways to play",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id207975689"
+                    },
+                    "name": {
+                        "label": "Karlinc"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.03"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1252243464"
+                },
+                "title": {
+                    "label": "An enthralling, unique experience"
+                },
+                "content": {
+                    "label": "This is really hard to put down. Yes, battles are little slow to my taste, but after a few deaths I don't mind :) (edit, push the button on the battle tab and the script goes away—faster) this just oozes character. Never did tabletop RPGs but love love love this and hope to see more modules and would be happy to pay for them! Seriously, great attention to detail in the design, with some non-linear choices you can make.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id166384713"
+                    },
+                    "name": {
+                        "label": "awsomesauce321"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1251811824"
+                },
+                "title": {
+                    "label": "Worth the $"
+                },
+                "content": {
+                    "label": "Galactic keep is promising from the first 5 minutes of play - the hand drawn art styles great, the character customization is balanced, the games not to easy, it gives that nostalgic retro-esque feel, you get to customize your stats (and even micro manage them), you get to decide the items you want and don't want... I could go on. The game is great. Play it. Waiting on that 2nd module.😋",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22835948"
+                    },
+                    "name": {
+                        "label": "Jim47285"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1251483854"
+                },
+                "title": {
+                    "label": "A piece of garbage"
+                },
+                "content": {
+                    "label": "Save your money, this game is a poorly designed mess that both 1) constantly crashing and 2) an exercise in frustration in that you keep dying due to bad luck completely out of your control. Save your money and take a pass on this one.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id416351183"
+                    },
+                    "name": {
+                        "label": "Cemtou"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1251402370"
+                },
+                "title": {
+                    "label": "Promising"
+                },
+                "content": {
+                    "label": "Well I expect RPG have customizable characters and I also would like to play it like 12hours long at least ( From the beginning if I calculate my every try and beat the game is 4 hours total ). Other than that nicely painted arts, gives really tabletop RPG feel when you play ( tbh if there was also some player related plot changes would be really good )   It is promising but I hope we will get our new module ( at least first 1 or 2 ) for free or maybe you can make an editor so players can make their adventures and you will be saved from trouble 😁. Bye y'all",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37330534"
+                    },
+                    "name": {
+                        "label": "bfwebster"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1251009825"
+                },
+                "title": {
+                    "label": "Impressive, original, and addictive - needs more content"
+                },
+                "content": {
+                    "label": "Few games have taken me back to my late 70s desktop RPGs as this one has. It's a clever approach that's easy to pick up and just has that feel of encountering the next monster in a dungeon, even though the setting is SF. Here are some observations after 3 victories (out of 4 games). \n\n-- BIOT, I actually won a game (2nd one I started) before I realized you can heal your character some by not using all moves on your die roll. I was constantly switching between characters as old ones died and muttering angrily about the scathing review I was going to write. Then, after winning, I read the online help and thumped my forehead. \n\n-- There are some clever combinations of 'special attacks' and weapons that you'll discover. \n\n-- At first I thought there were too many goodies available, but since you have a limit as to what you can carry, it means you have to constantly prioritize (or use up) what you have. After my first few games, I became much better at simply leaving stuff behind or dropping it off. \n\n-- While some of the weapons are great, many are indistinguishable from one another in actual play. Likewise, many  that show up later in the game are too low level.  And, frankly, the explosive grenades are almost useless; you use your entire turn to 'throw' one, it explodes a few turns later, and the damage it does is minimal. \n\n-- One the other hand, one or two of the weapons are almost overpowered, particularly the sword that allows you to steal from your opponent. A few swings of that sword against an enemy who uses an actual weapon, and he's fighting you with bare hands and with no healing solutions. Of course, to get that sword, you have to fight and defeat the (IMHO) toughest and most irritating enemy, The Stranger (who is constantly stealing _your_ stuff). So I guess it evens out.\n\n-- There's no way to maintain different sets of characters. Once you've completed the (single) module, your only two options are to (a) start over from scratch or (b) play the module again with the characters as they existed when you completed the module. Since the next module will use your characters as they currently exist, you don't want to get rid of one who had developed well -- but that limits your opportunity for experimentation. \n\n-- We need that 2nd module ASAP. :-)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id14918761"
+                    },
+                    "name": {
+                        "label": "Yougiedeggs"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1250423466"
+                },
+                "title": {
+                    "label": "Why do people like this?"
+                },
+                "content": {
+                    "label": "The combat is awful, just a completely random crapshoot. No amount of good writing makes dealing with this terrible gameplay worth it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43717359"
+                    },
+                    "name": {
+                        "label": "Yuquiyu"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1249715136"
+                },
+                "title": {
+                    "label": "Good, but....."
+                },
+                "content": {
+                    "label": "My major complain is that it seems there's no difference between swords and guns. You have to get close to the enemy to attack whether you have a gun or a sword. Isn't the point of having a gun is that you can attack from afar? Also, grenades are supposed to be thrown from afar. Staying healthy is hard, but at least you can trade movement for health. Fix this and the game will definitely be a lot more enjoyable, and more realistic.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id334902854"
+                    },
+                    "name": {
+                        "label": "The one who is the one NO"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1249536799"
+                },
+                "title": {
+                    "label": "Good game, but it broke"
+                },
+                "content": {
+                    "label": "I was opening Pael Kellog and exited the game, and now it will not work. Before it broke the game was great though",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id310234076"
+                    },
+                    "name": {
+                        "label": "Shady squirrel"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1249517981"
+                },
+                "title": {
+                    "label": "Fun game but crashes"
+                },
+                "content": {
+                    "label": "Played through first module with two characters and very much enjoyed the game.  Trying to play through with a third character and the game keeps crashing. Please fix!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id125909584"
+                    },
+                    "name": {
+                        "label": "Eriptron"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1249434861"
+                },
+                "title": {
+                    "label": "Novel idea not done all that well"
+                },
+                "content": {
+                    "label": "Tutorial incomplete making game confusing. Game starts too hard and WAY too easy to die right off. Should be given an option to restart where you were or to start over. I'm not wasting my time dying and starting over just to learn the game. I had much excitement for this game but in the end it is disappointing. Moving on. Maybe back in future months to see what updates, if any, and if they improve on it's weaknesses.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35969171"
+                    },
+                    "name": {
+                        "label": "Sir cucumber"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1249026717"
+                },
+                "title": {
+                    "label": "Disappointed"
+                },
+                "content": {
+                    "label": "I really don't like writing bad reviews of indie developers who clearly care about their creation but:\n\nThe game mutes my podcasts even when sound is off- I emailed devs and tweeted them about it but got no response.\n\nThey won't allow you to skip animations, forcing you to sit through dice rolls and turn changes over and over...I enjoyed my D&D back in the day just as much as the next guy but this is not what I expect from a digital experience. If I want to play a board game (and I do play board games), I will play a board game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id231670393"
+                    },
+                    "name": {
+                        "label": "rzmonk76"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1248988495"
+                },
+                "title": {
+                    "label": "Great Title"
+                },
+                "content": {
+                    "label": "Lots of fun. Nice art style. The story is very interesting. The interface is intuitive but it could benefit from a map zoo out feature.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id383728156"
+                    },
+                    "name": {
+                        "label": "Krowe001"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1248937093"
+                },
+                "title": {
+                    "label": "Krowe tested, Krowe approved"
+                },
+                "content": {
+                    "label": "From aesthetic to game balance this feels like an old school role playing game. It's like Doctor Who and TSR had a kid in the late 70s. Play it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id102036005"
+                    },
+                    "name": {
+                        "label": "CaVincent"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1248827134"
+                },
+                "title": {
+                    "label": "Great scifi rpg role playing"
+                },
+                "content": {
+                    "label": "So much detail has been put into this game. The characters are all great and feel different with how you play them. The story is told throughout the level making it more immersive and fun to explore the map. Plus I hear you get more characters when you beat the mission. Having so much fun!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id19077070"
+                    },
+                    "name": {
+                        "label": "Fireincairo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1248245446"
+                },
+                "title": {
+                    "label": "Unique game with intriguing atmosphere and gameplay."
+                },
+                "content": {
+                    "label": "Love it so far.  As someone who rarely writes app reviews, I had to for this game as I want to support a developer who created such a unique and interesting game, particularly in an era of shovelware.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28156230"
+                    },
+                    "name": {
+                        "label": "Somenewlanguage"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1248165315"
+                },
+                "title": {
+                    "label": "Not really an rpg..."
+                },
+                "content": {
+                    "label": "Move, fight, move, fight. Quickly found the game to be repetitive and not very interesting. The art style is... retro, but, four stats, five characters it just wasn't as good as I was expecting. I played it for a few hours and uninstalled it. No coin return...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27264979"
+                    },
+                    "name": {
+                        "label": "Golgangroth"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1248100018"
+                },
+                "title": {
+                    "label": "Phenomenal and immersive rpg"
+                },
+                "content": {
+                    "label": "Galactic Keep is old school role playing perfectly adapted for modern mobile gaming realities. The game harkens back to tabletop pnp modules replete with a spinning d8 that regulates everything from movement through combat and a grid based map. The game world is incredibly detailed, as even throw away enemies have individual descriptions and attack abilities. At the default difficultly, the game encourages exploration and is incredibly mobile-gamer friendly. You can pick it up and put it down with no loss of progress. I've finished the first mission twice and cannot wait for additional content. This is easily the best iOS game I've played in several years.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id113877076"
+                    },
+                    "name": {
+                        "label": "Rpgmind"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1248008038"
+                },
+                "title": {
+                    "label": "Incredible."
+                },
+                "content": {
+                    "label": "A labour of love in development for years, I knew nothing about this game beforehand, until reading about it on touch arcade after it had released. It truly shows, there's such exquisite detail packed in from wall to wall. In general, just a really really fun sci-fi rpg to play, with a great soundtrack to match. Highly recommended!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27940293"
+                    },
+                    "name": {
+                        "label": "Dkartzinel"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1247836426"
+                },
+                "title": {
+                    "label": "Nope"
+                },
+                "content": {
+                    "label": "Irritatingly hard - not fun for me.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id115518582"
+                    },
+                    "name": {
+                        "label": "Tango Mike"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1247816194"
+                },
+                "title": {
+                    "label": "Would be cool"
+                },
+                "content": {
+                    "label": "Four stars even except playing a game where I don't see a quick or auto save combined with crashing a lot means wasted time and effort. Maybe after a patch. \n\nLoses one star, the game itself because\n\n1. Near as I can tell, you get one save slot. One. Maybe two but I could only get one to work. \n2. One stat point per level combined with random rolls equals bad game design. That's a whole lot of effective level divergence from the get. One pip = one very slow to attain level. I worked the table top industry for years. I've seen this before. \n3. While the game says you have six:seven races:classes, (or v/v idk) effectively you don't. You pick from a base of pre made class race combos. Little misleading there.  \n4. Range means nothing in this game at least as far as I can tell. You have to be on top of the enemy or adjacent. \n\nOn the upside. Very good old school flavor.  Some pretty simple but subtle mechanics and if you're going for template based , the races and classes are pretty original and mechanically distinct and significant. \n\nDon't count them out. It's still early. The lost progress from crashes is the only deal breaker. Uninstalled for that reason. 2 stars and do not recommend only for that reason and the ones listed prior.  Advise point build for characters, or at least stronger bell v linear dice rolls for chargen.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id8546592"
+                    },
+                    "name": {
+                        "label": "Flupo17"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1247692753"
+                },
+                "title": {
+                    "label": "Authentic to the core"
+                },
+                "content": {
+                    "label": "Must get for old school Rpg fans",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id9841172"
+                    },
+                    "name": {
+                        "label": "BubbaMaxximus"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1247612529"
+                },
+                "title": {
+                    "label": "Fun, but..."
+                },
+                "content": {
+                    "label": "I really like the concept and generally find the game fun; however, it seems like it could use some more work on balancing.  Enemies differ wildly on level/difficulty all on the same map.  Some enemies are + 5 and +11 in comparison to the player.  Get too close and they hunt you down and murder you.  Leveling from level 6 to 7 took a lot of kills and trying to stay healthy is difficult.  A rest or camp option would be nice.  As it is the available heals for robot characters doesn't keep pace with the need for healing in and out of combat at the moment.  I wish this game great success and hope they make it a bit more balanced.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id282712194"
+                    },
+                    "name": {
+                        "label": "Piper0000013"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1247492921"
+                },
+                "title": {
+                    "label": "Only needs a zoom function"
+                },
+                "content": {
+                    "label": "I was pleasantly surprised by this game's very immersive storyline and quirky art style. I like the differing characters and only being able to use certain things on certain races/classes, because you're right, a robot can't use an herb as a healing salve. I would love to give this game a five star review, but with the expansive map and multiple enemies, it would be very nice to be able to zoom in and out from your character along with being able to look around the map. That's the only aspect that I feel could be truly improved. Thanks for the stellar game otherwise.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id207930181"
+                    },
+                    "name": {
+                        "label": "Trevor000"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1247140449"
+                },
+                "title": {
+                    "label": "Great game, impressive developer!"
+                },
+                "content": {
+                    "label": "Small disclaimer, if you're looking for an action RPG look away now. That being said if you're like myself and you come from the board game/tabletop RPG universe you won't find a mobile app that will delight you any more than this one. Galactic Keep is like carrying a very cool scifi module for an old school paper-and-pencil rpg and the GM right in your pocket. \n\nThe developer is also providing great support and taking feedback over in the TA forums (where some of the in-game items and characters were born) which is always wonderful to see. I wish I could give them more than just 5 stars.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id4201964"
+                    },
+                    "name": {
+                        "label": "SJMinkoff"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1247137197"
+                },
+                "title": {
+                    "label": "Great original SF RPG! Old School!"
+                },
+                "content": {
+                    "label": "Fantastic original setting, great universe and background.  Fantastic and challenging gameplay.  This is a fantastic game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41255889"
+                    },
+                    "name": {
+                        "label": "1B746AZUW4T"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1247059358"
+                },
+                "title": {
+                    "label": "Awesome game although mine crashed"
+                },
+                "content": {
+                    "label": "Gameplay is fun wish there was a way to speed up the dice to a auto roll of some sort. \n\nClosed the app to sleep woke up and tried playing and clicked continue and it keep crashing",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25040222"
+                    },
+                    "name": {
+                        "label": "DJ Dostoevsky"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1247042885"
+                },
+                "title": {
+                    "label": "Incredible labor of love."
+                },
+                "content": {
+                    "label": "Galactic Keep is an amazing title that's evocative of 80s-era tabletop board gaming.\n\nThe presentation is delivered with a sense of cohesive style only possible with heaping amounts of TLC.\n\nThis is an incredible value for the asking price and a must-own for both genre and RPG fans alike!\n\nSimply amazing.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id350530495"
+                    },
+                    "name": {
+                        "label": "Skrewedbylife"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1247001418"
+                },
+                "title": {
+                    "label": "Says you need the actual Roleplaying game to play"
+                },
+                "content": {
+                    "label": "Starts out for characters 6th level and requires you to have the tabletop rules to play . Should have said that before I bought it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id108442841"
+                    },
+                    "name": {
+                        "label": "Alien Jackal"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1246987605"
+                },
+                "title": {
+                    "label": "Crashes when I try to Continue"
+                },
+                "content": {
+                    "label": "Game crashed when on the character dice rolling screen. Now everytime I try to continue, it crashes. Don't want to start a new game as I was a couple of hours in. Will raise stars when fixed!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id129955238"
+                    },
+                    "name": {
+                        "label": "9quad"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1246901898"
+                },
+                "title": {
+                    "label": "Great unique game"
+                },
+                "content": {
+                    "label": "Game is great. Don't hesitate ti but it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id108970298"
+                    },
+                    "name": {
+                        "label": "Sleepy Inns"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1246838167"
+                },
+                "title": {
+                    "label": "WOW"
+                },
+                "content": {
+                    "label": "Beautiful and charming game. Loving it so far.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id267380955"
+                    },
+                    "name": {
+                        "label": "Soul Eater 340"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1246837575"
+                },
+                "title": {
+                    "label": "One of the best turned based strategy games!"
+                },
+                "content": {
+                    "label": "Really awesome game. Though it can be very unforgiving in the beginning much like FTL. It does have easy to understand gameplay and an interesting story.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41859086"
+                    },
+                    "name": {
+                        "label": "LukeAnderson"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1246704609"
+                },
+                "title": {
+                    "label": "FINALLY"
+                },
+                "content": {
+                    "label": "Love it! And hello GS devs, I won a contest so Many years ago designing a monster I think, or maybe it was a weapon. Is it still in the game? I'm looking! Thanks for finally finishing this gem!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id104250864"
+                    },
+                    "name": {
+                        "label": "Subgenious"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1246687067"
+                },
+                "title": {
+                    "label": "Old sci-fi novel meets RPG boardgame"
+                },
+                "content": {
+                    "label": "A crazy combination of genres for the gameplay itself, but the aesthetic is pure old school sci-fi. Can't put this game down.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id178741911"
+                    },
+                    "name": {
+                        "label": "Ferrachi75"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1246679751"
+                },
+                "title": {
+                    "label": "Very well put together"
+                },
+                "content": {
+                    "label": "This game was clearly made with passion and love.  Bravo.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id125241341"
+                    },
+                    "name": {
+                        "label": "Paullyrocco"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1246647134"
+                },
+                "title": {
+                    "label": "Fantastic!"
+                },
+                "content": {
+                    "label": "This is a true love letter to the tabletop games and pulp sci-fi of the '80's. I'm finding the difficulty pretty steep, but not in a frustrating way. The hand-made look of the game is really stunning.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37809096"
+                    },
+                    "name": {
+                        "label": "Cragganmore"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1246559196"
+                },
+                "title": {
+                    "label": "Graph-Papery Genius"
+                },
+                "content": {
+                    "label": "If you like table-top RPGs, you'll love this game.  There are so many places to explore and so many items to find.  Should be renamed \"Galactic Keeps-me-up-all-night.\"  Highly recommended!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id3434894"
+                    },
+                    "name": {
+                        "label": "RichardRC"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1246553821"
+                },
+                "title": {
+                    "label": "Very fun game"
+                },
+                "content": {
+                    "label": "This is a deep and challenging RPG.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id321429879"
+                    },
+                    "name": {
+                        "label": "Gamepenguin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1246454919"
+                },
+                "title": {
+                    "label": "Old school meets new cool"
+                },
+                "content": {
+                    "label": "I ran through the tutorial and had to keep playing. I was late for work.\n\n This game is a wonderful nod to the RPGs of the 80s that I grew up with. The controls are great and the mechanics fluid and easy to understand. Think Heroquest meets Star Frontiers. \n\n  I really look forward to playing more, and updating my review then. Fantastic effort and a great purchase. Every rpg or retro gamer should own this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=971788369&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:31:47-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=971788369/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=971788369/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=971788369/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=971788369/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=971788369/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=971788369/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=971788369/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=971788369/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=971788369/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=971788369/sortBy=mostRecent/json"
+        }
+    }
+}

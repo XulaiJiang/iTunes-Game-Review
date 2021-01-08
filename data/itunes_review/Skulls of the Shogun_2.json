@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id454979407"
+                    },
+                    "name": {
+                        "label": "Smurgle333"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1308157541"
+                },
+                "title": {
+                    "label": "Crashes"
+                },
+                "content": {
+                    "label": "Needs an update for IOS 9 in order to run. Unfortunately, it has been months since IOS 9 came out and still no update for the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id277756195"
+                    },
+                    "name": {
+                        "label": "ErikG87"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1306150823"
+                },
+                "title": {
+                    "label": "Doesn't work"
+                },
+                "content": {
+                    "label": "Crashes on startup on iOS 9",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id184794455"
+                    },
+                    "name": {
+                        "label": "P1gGames"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1306038780"
+                },
+                "title": {
+                    "label": "The game crashes"
+                },
+                "content": {
+                    "label": "Every time I open the game my game crashes and I'm using iOS 9.2",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28260232"
+                    },
+                    "name": {
+                        "label": "x_scratched_x"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1305742143"
+                },
+                "title": {
+                    "label": "Unplayable on iOS 9"
+                },
+                "content": {
+                    "label": "Wish I'd read more reviews before buying. Game won't even start.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id484255945"
+                    },
+                    "name": {
+                        "label": "Lightferret"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1305618286"
+                },
+                "title": {
+                    "label": "Doesn't work"
+                },
+                "content": {
+                    "label": "I just bought the game and as soon as I opened the game it crashed. I'm hoping a patch will fix it soon but if the last update was in 2013 I don't hold out hope.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id201697427"
+                    },
+                    "name": {
+                        "label": "Pauliachi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1305002272"
+                },
+                "title": {
+                    "label": "Crashing"
+                },
+                "content": {
+                    "label": "It loads up and \"minimizes\" itself because you can still see it active in the \"background\" but once you click on it, it loads up only to automatically \"minimize\" itself again. will ask for a refund.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id330686333"
+                    },
+                    "name": {
+                        "label": "Tquintana22"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1304543370"
+                },
+                "title": {
+                    "label": "Doesn't work with iOS9"
+                },
+                "content": {
+                    "label": "As soon as it opens, it crashes. Don't waste your money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id13874938"
+                    },
+                    "name": {
+                        "label": "montster"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1303409892"
+                },
+                "title": {
+                    "label": "Broken do not buy"
+                },
+                "content": {
+                    "label": "This app does not work on iOS 9.  They have not put out an update since 2013 and from the forums seem to have no sense of urgency to fix the problem.  If you have bought it go to the iTunes Store and get a refund.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id210586406"
+                    },
+                    "name": {
+                        "label": "Graciejj2000"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1300974768"
+                },
+                "title": {
+                    "label": "Doesn't work"
+                },
+                "content": {
+                    "label": "I purchased it and it won't even work.  The game starts the loading screen and then disappears.  You can see it running in the background but can't bring it forth.  Waste of money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40045540"
+                    },
+                    "name": {
+                        "label": "Mox Gonzo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1300316266"
+                },
+                "title": {
+                    "label": "Does not run on iOS 9"
+                },
+                "content": {
+                    "label": "Just purchased but cannot play it; running the app only crashes and immediately sends you back to the home screen. Reading other reviews shows that this game is incompatible with iOS 9. Wait to purchase until an update (which hasn't happened in a while) is done.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16218338"
+                    },
+                    "name": {
+                        "label": "Sounds of a Starlaser"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1299700193"
+                },
+                "title": {
+                    "label": "Crashes on launch on iPhone and iPad."
+                },
+                "content": {
+                    "label": "Do not purchase until they get the crash on launch issue fixed!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id383374440"
+                    },
+                    "name": {
+                        "label": "Plauge creationist"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1299676679"
+                },
+                "title": {
+                    "label": "Was a great game till iOS 9"
+                },
+                "content": {
+                    "label": "Yea simply put until the next update iOS 9 won't run. It's a great game guys but it's not when I can't play.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id175109625"
+                    },
+                    "name": {
+                        "label": "Vivigump"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1293394627"
+                },
+                "title": {
+                    "label": "Don't purchase"
+                },
+                "content": {
+                    "label": "Doesn't load ios9 iPad. Found out this has been a problem for awhile.  No excuse for this still being offered for sale with no warning. I won't purchase from this developer again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id372031595"
+                    },
+                    "name": {
+                        "label": "Jesse lance"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1292048328"
+                },
+                "title": {
+                    "label": "Yeah..."
+                },
+                "content": {
+                    "label": "Would love to try it out...but yeah.. hard to play if it just crashes as soon as the games boots up",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id379397234"
+                    },
+                    "name": {
+                        "label": "Fndisosdjvn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1291161872"
+                },
+                "title": {
+                    "label": "Startup crash.  Doesn't work."
+                },
+                "content": {
+                    "label": "Really.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43826507"
+                    },
+                    "name": {
+                        "label": "Roaris87"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1289312710"
+                },
+                "title": {
+                    "label": "Unplayable on iOS"
+                },
+                "content": {
+                    "label": "This game is unplayable on the current iOS which is too bad because this is a great game when it works. Do not buy this game until it's updated (hopefully soon).",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11921239"
+                    },
+                    "name": {
+                        "label": "Anjensan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1288946264"
+                },
+                "title": {
+                    "label": "Does not work in IOS 9."
+                },
+                "content": {
+                    "label": "Requesting refund. Won't open.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id410990392"
+                    },
+                    "name": {
+                        "label": "OKVCTR"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1288540676"
+                },
+                "title": {
+                    "label": "Doesn't support iOS9"
+                },
+                "content": {
+                    "label": "Just bought the game and it won't start. I hope it gets updated.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id114823087"
+                    },
+                    "name": {
+                        "label": "Ghostbuster Jones"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1287532392"
+                },
+                "title": {
+                    "label": "Fix your game!"
+                },
+                "content": {
+                    "label": "Skulls of the Shogun is one of my favorite RTS' but it simply won't load and it doesn't look like the developer is making any attempts to fix the situation. Please patch it so I can enjoy this awesome game on my iPhone!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22673121"
+                    },
+                    "name": {
+                        "label": "Danrith"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1286607355"
+                },
+                "title": {
+                    "label": "Don't waste money if you are using iOS 9"
+                },
+                "content": {
+                    "label": "This app will not run on iOS 9.  The developer is aware of this and acknowledged on their website that there is an issue over a month ago, but still no update.  The game crashes within seconds of starting the app.  They are happy to take your money, though, and good luck getting a refund ...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id211797698"
+                    },
+                    "name": {
+                        "label": "Butter slice"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1285534750"
+                },
+                "title": {
+                    "label": "Update please"
+                },
+                "content": {
+                    "label": "I used to play this game it was great but it instantly crashes every time I open it and I just want that fixed please and thank you",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id20917131"
+                    },
+                    "name": {
+                        "label": "Keggerlord"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1282440761"
+                },
+                "title": {
+                    "label": "Does not function in newest iOS"
+                },
+                "content": {
+                    "label": "I've purchased this game and it does not open.  Apparently this is a known issue, and has been for several weeks.  However, there is no scheduled fix and if you shell out money to buy it, it will not work and your money will not be refunded.  Consider yourself warned.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id365391525"
+                    },
+                    "name": {
+                        "label": "D_boy_fasho"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1280855694"
+                },
+                "title": {
+                    "label": "Not compatible with iOS 9??!!"
+                },
+                "content": {
+                    "label": "Devs seriously need to update this game for it can be enjoyed for all who've purchased this game including people who are using iOS 9!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24025552"
+                    },
+                    "name": {
+                        "label": "HillFamily"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1280748926"
+                },
+                "title": {
+                    "label": "Frustrated please fix."
+                },
+                "content": {
+                    "label": "The game crashes seconds after opening the application it's very frustrating I used to play this all of the time and make in app purchases please fix so I can get my money's worth!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id124178818"
+                    },
+                    "name": {
+                        "label": "Krukovv"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1280720538"
+                },
+                "title": {
+                    "label": "Iphone 6S IOS9.1"
+                },
+                "content": {
+                    "label": "Im really upset because i have this game on my computer and my ps4 but when i downloaded it on here it crashes on startup screen which is sad cause i really enjoy this game but the last update was for IOS5 so i guess i shouldve read the updates before spending 5 dollars...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39606526"
+                    },
+                    "name": {
+                        "label": "DTClarkin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1280660097"
+                },
+                "title": {
+                    "label": "Needs an Update!"
+                },
+                "content": {
+                    "label": "Just bought this app and can't play it at all. I heard great things and would love to play it... I hate to lose $5 but my hope is that there will be an update. Until then DO NOT BUY THIS APP IF YOU HAVE IOS 9!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id85425134"
+                    },
+                    "name": {
+                        "label": "The Evil DED"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1280500101"
+                },
+                "title": {
+                    "label": "Doesn't work on the latest iOS"
+                },
+                "content": {
+                    "label": "Unfortunately this app no longer works after the latest iOS update. It crashes immediately after loading. \nThe app support link takes you to the developers forum that was last updated more than a year ago, so this app may no longer be active supported.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39702783"
+                    },
+                    "name": {
+                        "label": "HaLoRoCkEr"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1280175002"
+                },
+                "title": {
+                    "label": "DONT BUY WILL NOT OPEN"
+                },
+                "content": {
+                    "label": "There is a major bug the game won't even open",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id217992800"
+                    },
+                    "name": {
+                        "label": "Supa Slacka"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1279581241"
+                },
+                "title": {
+                    "label": "bad"
+                },
+                "content": {
+                    "label": "i have updated my iPad recently and now the game i have loved has stopped working please fix it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id124019263"
+                    },
+                    "name": {
+                        "label": "CommissarRed"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1279536614"
+                },
+                "title": {
+                    "label": "DO NOT BUY THIS GAME - WONT OPEN"
+                },
+                "content": {
+                    "label": "The game crashes on start up ever since the most recent iOS update. According to their message boards they're aware of it, but still no fix. I'll update if/when I get to play it, but we'll see.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id346728603"
+                    },
+                    "name": {
+                        "label": "Kizleq"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1279420382"
+                },
+                "title": {
+                    "label": "Cannot open on updated iPhone 6"
+                },
+                "content": {
+                    "label": "I feel like it could be a great game.... Wish I could play it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42501461"
+                    },
+                    "name": {
+                        "label": "Kevin in Austin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1278057565"
+                },
+                "title": {
+                    "label": "DOESN'T WORK - DON'T BUY"
+                },
+                "content": {
+                    "label": "5 star review changed to 1 because the developer keeps selling this app even though it doesn't work on iOS 9.  There are a lot of cool games from developers who care.  Don't pay a developer for an app that doesn't even work.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id142628765"
+                    },
+                    "name": {
+                        "label": "Fogbuster legacy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1277201840"
+                },
+                "title": {
+                    "label": "Won't open"
+                },
+                "content": {
+                    "label": "It sure looks fun, but won't open.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40053696"
+                    },
+                    "name": {
+                        "label": "iTriedThisApp"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1277176486"
+                },
+                "title": {
+                    "label": "Fail on iOS 9"
+                },
+                "content": {
+                    "label": "Fix it. You got my money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27395223"
+                    },
+                    "name": {
+                        "label": "Lousy-App"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1276436536"
+                },
+                "title": {
+                    "label": "Broken"
+                },
+                "content": {
+                    "label": "Doesn't load on iOS 9.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id475729341"
+                    },
+                    "name": {
+                        "label": "Magiondm"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1275999815"
+                },
+                "title": {
+                    "label": "Won't start"
+                },
+                "content": {
+                    "label": "Doesn't work on my iPhone 6s",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39913414"
+                    },
+                    "name": {
+                        "label": "dadateyont"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1275637803"
+                },
+                "title": {
+                    "label": "Awesome"
+                },
+                "content": {
+                    "label": "One of the best games ever! Waiting for two!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id87378424"
+                    },
+                    "name": {
+                        "label": "ILovemeganfox22"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1275499258"
+                },
+                "title": {
+                    "label": "Startup Crash!!"
+                },
+                "content": {
+                    "label": "There is a startup crash that happens every time I open the game (IPad Air) and you guys need to fix this problem now!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id375963664"
+                    },
+                    "name": {
+                        "label": "Amperfect"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1275337317"
+                },
+                "title": {
+                    "label": "ios9"
+                },
+                "content": {
+                    "label": "It dosnt work on ios 9,please fix it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id263052458"
+                    },
+                    "name": {
+                        "label": "Tbrickz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1274639756"
+                },
+                "title": {
+                    "label": "App won't even open"
+                },
+                "content": {
+                    "label": "Love the game played it on my PlayStation but I payed for the app and it down loads but won't open up I have an iPhone 6",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id230209989"
+                    },
+                    "name": {
+                        "label": "Big splas"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1274042431"
+                },
+                "title": {
+                    "label": "Crashes Instantly"
+                },
+                "content": {
+                    "label": "I've read this may be an iOS9+ compatibility issue, but I just bought the game and it crashes about one second after opening, 100% of the time. DO NOT BUY until there is a fix, which I doubt considering how old the game is, so i probably just lost my money for nothing.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id15335198"
+                    },
+                    "name": {
+                        "label": "A1234567891683690532780"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1273911148"
+                },
+                "title": {
+                    "label": "Not working on iPhone 6s"
+                },
+                "content": {
+                    "label": "Doesn’t work on iPhone 6s with iOS version 9.  Bummer.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id466395816"
+                    },
+                    "name": {
+                        "label": "Abcdefghijklmnopqqqqqqqqq"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1273352439"
+                },
+                "title": {
+                    "label": "Fix iiiiiiiiiit 😡"
+                },
+                "content": {
+                    "label": "It crashes every time I open it!!!!!!!!!!!!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id390253109"
+                    },
+                    "name": {
+                        "label": "XT TRIPLE OG"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1272906466"
+                },
+                "title": {
+                    "label": "IOS 9 isn't loading"
+                },
+                "content": {
+                    "label": "I came back to play one of my favorite strategy games after not touching it at all. When I try to play the game it loads for a second and Crashes. The last update the game got happened 2 years ago and I hope they fix this bug",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38775255"
+                    },
+                    "name": {
+                        "label": "reviewer12"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1271682842"
+                },
+                "title": {
+                    "label": "wont run on fully updated iPad Air"
+                },
+                "content": {
+                    "label": "wont run. busted game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id155585047"
+                    },
+                    "name": {
+                        "label": "Assign c"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1269820332"
+                },
+                "title": {
+                    "label": "Need update"
+                },
+                "content": {
+                    "label": "This is a great game.  But after the new iOS update, I can't open the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id161365757"
+                    },
+                    "name": {
+                        "label": "Leo 11"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1268909276"
+                },
+                "title": {
+                    "label": "broken on iOS9 :/"
+                },
+                "content": {
+                    "label": "Update: broken on iOS9 :/\n\nReally digging this game. Love Kotaku's quip about this being a Wu Tang advance wars. It's definitely got that vibe. Challenging as well. \n\nPlease pretty please add cloud saves so we can play this on our iPads at home and iPhones on the go.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id211357431"
+                    },
+                    "name": {
+                        "label": "Thjeng"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1267176877"
+                },
+                "title": {
+                    "label": "Crashes on startup"
+                },
+                "content": {
+                    "label": "Crashes on startup on my iOS9 iPad Air. Looking forward to playing the game when the problem is fixed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id314523057"
+                    },
+                    "name": {
+                        "label": "Shubs and Zuuls"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1266556365"
+                },
+                "title": {
+                    "label": "Won't open on IOS9"
+                },
+                "content": {
+                    "label": "Fix it you filthy code monkeys",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id471890232"
+                    },
+                    "name": {
+                        "label": "Sjanamee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1264286337"
+                },
+                "title": {
+                    "label": "Crashes"
+                },
+                "content": {
+                    "label": "I'm very disappointed after reading all of these review. Every time I open the app it crashes immediately. I haven't t gotten past the bone-a-Fide edition screen. This really makes me upset I've wasted $5 on a game that doesn't work. Please update",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=710354958&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T17:28:54-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=710354958/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=710354958/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=710354958/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=5/id=710354958/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=710354958/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=710354958/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=710354958/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=710354958/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=710354958/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=710354958/sortBy=mostRecent/json"
+        }
+    }
+}

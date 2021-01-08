@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id587159645"
+                    },
+                    "name": {
+                        "label": "SonicBoom540"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6171270193"
+                },
+                "title": {
+                    "label": "10/10"
+                },
+                "content": {
+                    "label": "Absolutely amazing game. For me, it was a trip down memory lane since I loved this game when i was super young. Well made.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id644444728"
+                    },
+                    "name": {
+                        "label": "_~James~_"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5727554888"
+                },
+                "title": {
+                    "label": "Amazing"
+                },
+                "content": {
+                    "label": "It’s a great game but a minor issue with the gas. It will stop working for a second but besides that it’s fine. It’s a one purchase and that’s it no IAP or anything,plus,it’s easy to make money in. All around it’s just perfect and better than 3 or 1",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id870385692"
+                    },
+                    "name": {
+                        "label": "lilbabyskumbag"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5428434211"
+                },
+                "title": {
+                    "label": "multiplayer"
+                },
+                "content": {
+                    "label": "why would y’all take away multiplayer 🤦‍♂️ I know the game is old but it was fun racing against people rather than cpu.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id226948119"
+                    },
+                    "name": {
+                        "label": "Glalyaalylyaly"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5275920681"
+                },
+                "title": {
+                    "label": "Controls don’t work"
+                },
+                "content": {
+                    "label": "Controls don’t work",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id395613104"
+                    },
+                    "name": {
+                        "label": "DaTaylorz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4381251124"
+                },
+                "title": {
+                    "label": "One of the best around!"
+                },
+                "content": {
+                    "label": "Truly a very addictive racing sim game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id484943244"
+                    },
+                    "name": {
+                        "label": "GiggleAtThewallz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3645567958"
+                },
+                "title": {
+                    "label": "Great game except"
+                },
+                "content": {
+                    "label": "Please add controller support for reckless 1 & 2 (steelseries nimbus) playing Reckless 3 with a controller is so fun and I would love to have that experience on the other games",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id104598457"
+                    },
+                    "name": {
+                        "label": "Eldo426"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3498962886"
+                },
+                "title": {
+                    "label": "Still playable so many years later!"
+                },
+                "content": {
+                    "label": "See above ⬆️",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id148736711"
+                    },
+                    "name": {
+                        "label": "Spindizzy533"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2710542018"
+                },
+                "title": {
+                    "label": "multiplayer is broken - avoid"
+                },
+                "content": {
+                    "label": "no option to play multiplayer - requesting refund",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42723270"
+                    },
+                    "name": {
+                        "label": "greenchile505"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2144033130"
+                },
+                "title": {
+                    "label": "The best."
+                },
+                "content": {
+                    "label": "Best racing on iPhone, period. They did their best with the iPhone X update - a few controls could be scooched a bit, but very happy overall.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id117883087"
+                    },
+                    "name": {
+                        "label": "Beastlybeastness"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2056642284"
+                },
+                "title": {
+                    "label": "Needs an update"
+                },
+                "content": {
+                    "label": "Game cannot be played without an update. The game does not register my touch. When i am choosing a name the game does not register me pressing enter so i am stuck on the that screen and cant get out or play game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36983849"
+                    },
+                    "name": {
+                        "label": "skottles"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2051445456"
+                },
+                "title": {
+                    "label": "iPhone 8"
+                },
+                "content": {
+                    "label": "Great game, but doesn’t scale properly to the iPhone 8 screen for some reason. This wasn’t a problem with the iPhone 7 (same screen size).",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id294464045"
+                    },
+                    "name": {
+                        "label": "Whitedragon241"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1981121649"
+                },
+                "title": {
+                    "label": "Unplayable"
+                },
+                "content": {
+                    "label": "On iphone eight its stretched out and you have to press a letter down to enter the letter so you cant even hit the enter button, i cant start the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id463514704"
+                    },
+                    "name": {
+                        "label": "JMaxGarage"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1956676361"
+                },
+                "title": {
+                    "label": "Unable to play on iPhone 8 Plus"
+                },
+                "content": {
+                    "label": "The game UI doesn’t work on iPhone 8 Plus. You can’t click on the buttons to even start the game as the UI is not aligned properly. I don’t know if there will be an update to fix this. I love this game on Android, too bad it doesn’t work on my iPhone.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id161401722"
+                    },
+                    "name": {
+                        "label": "izzylogan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1903626597"
+                },
+                "title": {
+                    "label": "Screen cuts in half on 8"
+                },
+                "content": {
+                    "label": "Great game when it works. On the iPhone 8 the screen comes up and cuts in half. You can’t get past the character select because the key board is off and won’t allow you to put a name in. I really hope this is fixed because I do like the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id242003358"
+                    },
+                    "name": {
+                        "label": "Wuajf"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1881909079"
+                },
+                "title": {
+                    "label": "Good"
+                },
+                "content": {
+                    "label": "It's a good game but Can I please waste money on this game!! Please! My car is slow and I need a faster car but I don't have enough money in this game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id216396446"
+                    },
+                    "name": {
+                        "label": "Nessanessness"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1720832319"
+                },
+                "title": {
+                    "label": "Reckless 2"
+                },
+                "content": {
+                    "label": "I love this game! So many cars and customizations make you feel in control.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id467377102"
+                    },
+                    "name": {
+                        "label": "Cloud Lake"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1700736738"
+                },
+                "title": {
+                    "label": "Good top-down racer"
+                },
+                "content": {
+                    "label": "I enjoyed it and they also have many different cars and customization options.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id208997134"
+                    },
+                    "name": {
+                        "label": "Snowgumby"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1679797790"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "Love it!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id272268883"
+                    },
+                    "name": {
+                        "label": "Palandorb"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1677928241"
+                },
+                "title": {
+                    "label": "No sound... No point."
+                },
+                "content": {
+                    "label": "No sound in the game on ipad3 running 9.3.5.  Neat gameplay and interesting car customizations possible, but extremely (almost impossibly) hard to beat the top AI racer in each race while being too easy to beat all of the other AI racers; nice idea but poor implementation of the automatically-adjusting difficulty setting.  And... No sound!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id126859247"
+                    },
+                    "name": {
+                        "label": "Vanilla-Sky"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1677886692"
+                },
+                "title": {
+                    "label": "No sound"
+                },
+                "content": {
+                    "label": "Sound does not work.\niPhone 7 plus\niOS 10",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id189369787"
+                    },
+                    "name": {
+                        "label": "tsetycoon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1674433203"
+                },
+                "title": {
+                    "label": "No sound"
+                },
+                "content": {
+                    "label": "No sound",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16591230"
+                    },
+                    "name": {
+                        "label": "SleeStaK911"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1673688996"
+                },
+                "title": {
+                    "label": "Test much?  There's no sound."
+                },
+                "content": {
+                    "label": "Come on. Gimme a break. No sound?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id363327989"
+                    },
+                    "name": {
+                        "label": "DAHOME19"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1673423524"
+                },
+                "title": {
+                    "label": "No sound"
+                },
+                "content": {
+                    "label": "In the game no sound at all..... please fix",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id155281635"
+                    },
+                    "name": {
+                        "label": "Major41Dano"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1670621354"
+                },
+                "title": {
+                    "label": "No sound"
+                },
+                "content": {
+                    "label": "Could be a good game, but I may never know because there is no audio at all. Deleted after 5 minutes because I could not get into the game without any sound.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30344842"
+                    },
+                    "name": {
+                        "label": "UncleJimbob"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1670197711"
+                },
+                "title": {
+                    "label": "Would be great, but no sound"
+                },
+                "content": {
+                    "label": "No sound on iPhone 6s running the latest 10.3.2 iOS. And I will never be a fan of on-screen controls. \n\nOtherwise this is a perfectly executed iso racer. Love the art and feel.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id478030635"
+                    },
+                    "name": {
+                        "label": "User108625281737"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1669066896"
+                },
+                "title": {
+                    "label": "Great game 😊 but...."
+                },
+                "content": {
+                    "label": "Sound doesn't work (iPhone 4  ios 7.1.2)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id189215138"
+                    },
+                    "name": {
+                        "label": "Talalz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.6"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1668891459"
+                },
+                "title": {
+                    "label": "Poor Updates"
+                },
+                "content": {
+                    "label": "Very enjoying game but no major updates since more than 2 years or so",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id8163933"
+                    },
+                    "name": {
+                        "label": "Ozsplace"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1668655955"
+                },
+                "title": {
+                    "label": "No sound on iPad Pro"
+                },
+                "content": {
+                    "label": "Cool enough game but sound does not work",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id549800672"
+                    },
+                    "name": {
+                        "label": "Deez nuts 875"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1540084666"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "Controls are easy to learn. All sorts of things to do. Cups, arcade, normal. More modes. Every thing you would want in a racing game. Get it now!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38633348"
+                    },
+                    "name": {
+                        "label": "Kathy Hart"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1369883622"
+                },
+                "title": {
+                    "label": "Horrible"
+                },
+                "content": {
+                    "label": "I have bought 8 dollars of in app purchases and the game restarted me and they r gone pls help I will give better rating if fixed",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id425189420"
+                    },
+                    "name": {
+                        "label": "Nope$$"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.6"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1342193103"
+                },
+                "title": {
+                    "label": "Nope"
+                },
+                "content": {
+                    "label": "Tried all the controls and they all were lousy.If you have to work hard to adjust to the controls then the controls are lousy.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id132234438"
+                    },
+                    "name": {
+                        "label": "grayweeks"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1328010586"
+                },
+                "title": {
+                    "label": "On-screen buttons can be moved."
+                },
+                "content": {
+                    "label": "To the reviewer who wrote that the on-screen control buttons are now in the way of gameplay: Go to options and move them where you like! There are also other control methods available, including tilt. I have a 6s Plus and this is still a great game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id162887756"
+                    },
+                    "name": {
+                        "label": "Old ft"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1304715948"
+                },
+                "title": {
+                    "label": "Revising my review"
+                },
+                "content": {
+                    "label": "Reckless 1 was ok but too limited.  I'm reluctant to try no 3 because of all the negative reviews.  But Pixelbite got everything right in no 2.  It is, in my opinion, the best racing game EVER.  The graphics are remarkable.  Handling is great.  Flawless and fun.  I don't know why so many had crashing problems - no problems on my mini 2.  It's close to being the perfect game.\nWait a minute!  After iOS 9, I'm having the same problem - game crashes back to the home screen.  What a shame.  Pay no attention to the glowing review above.  I revise my 5 stars to 1.  If I could give 0 I would, cause the game's no good to me if I can't play. Deleting.\nRevising again: reloaded and I'm delighted to say it works now.  All is forgiven.  You're still the best and back to 5 stars.\nAnd I have no 3 now.  It's good too.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id21917015"
+                    },
+                    "name": {
+                        "label": "Chisss"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.6"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1304465916"
+                },
+                "title": {
+                    "label": "Can't play on 6s+"
+                },
+                "content": {
+                    "label": "The accelerator and brakes are set on the half of the screen and not close to the edge. It's impossible to drive like this. The steering controls are in the correct spot.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43655732"
+                    },
+                    "name": {
+                        "label": "iSkateboard v2"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1266189857"
+                },
+                "title": {
+                    "label": "Used to be the best. Now it's unplayable."
+                },
+                "content": {
+                    "label": "I re downloaded this app because I loved it so much back when it was first released. Now it crashes in the middle of the race every time without fail. Unplayable. Do not buy this game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id353693594"
+                    },
+                    "name": {
+                        "label": "FrenchKheldar2002"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1254153051"
+                },
+                "title": {
+                    "label": "Doesn't work on a 5s"
+                },
+                "content": {
+                    "label": "Keeps crashing in middle of races. Too bad, looked and felt good.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id87407898"
+                    },
+                    "name": {
+                        "label": "John Hutton"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1231130022"
+                },
+                "title": {
+                    "label": "App crashes"
+                },
+                "content": {
+                    "label": "App crashes",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38703972"
+                    },
+                    "name": {
+                        "label": "mbauhs"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1224062193"
+                },
+                "title": {
+                    "label": "Where's Reckless Getaway?"
+                },
+                "content": {
+                    "label": "This game is only ok. Soooo much worse than the original Reckless Getaway. Why go this route. Ugh.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id251800566"
+                    },
+                    "name": {
+                        "label": "Mrbaseball82345"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1222708058"
+                },
+                "title": {
+                    "label": "*****"
+                },
+                "content": {
+                    "label": "*****",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id146921962"
+                    },
+                    "name": {
+                        "label": "Crazy 3D"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1217964577"
+                },
+                "title": {
+                    "label": "Glitch 👎👎👎👎👎👎👎👎👎👎👎"
+                },
+                "content": {
+                    "label": "I just got this game and when ever I play it it will freeze and take me to the home screen.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id177081265"
+                    },
+                    "name": {
+                        "label": "Jdubya1970"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1212111738"
+                },
+                "title": {
+                    "label": "Crash! Please fix!"
+                },
+                "content": {
+                    "label": "Can't even finish 1 race before crashing!\nWhen fixed will rate 5🌟🌟🌟🌟🌟 again!\nLong time fan, don't let us down.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35170246"
+                    },
+                    "name": {
+                        "label": "jdi77"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1190487513"
+                },
+                "title": {
+                    "label": "Would be five stars at over 5 fps"
+                },
+                "content": {
+                    "label": "I used to play this game a lot. I LOVED the way it does drifting. After being disappointed with the 3rd game I thought I’d come back and enjoy this one.\n\nNope, frame rate is now really choppy. I guess it doesn’t work well with retina resolution?\n\nReal bummer :(",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35677982"
+                    },
+                    "name": {
+                        "label": "briankangaroo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1144427122"
+                },
+                "title": {
+                    "label": "Great game and would love feature tweaks."
+                },
+                "content": {
+                    "label": "Love this game! I come back to it time and again. The first game is great in its own right. Wish we were able to scale buttons as my finger often \"slips off\" accelerator or hits wrong steering direction. Also does occasionally crash on my 6 plus.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16655408"
+                    },
+                    "name": {
+                        "label": "salazam"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1141085413"
+                },
+                "title": {
+                    "label": "Best if not for crashing glitch"
+                },
+                "content": {
+                    "label": "This game is tops... Or rather would be if it didn't crash on my ipad mini 15-20 seconds into each race. No... That's not frustrating at all. Where is RR1 btw??? Can anyone recommend any other top-down racers? I'm through with Pixelbite. They used to be a contedaarrhhh. Now: hogwarsch.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40025897"
+                    },
+                    "name": {
+                        "label": "thehaynesmp"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1140465631"
+                },
+                "title": {
+                    "label": "Amazing, if it would work."
+                },
+                "content": {
+                    "label": "I originally bought this game back when it came out I don't know how long ago. When I say RR3 PPP up on the storefront I decided this would be fun to install and play again, especially on my new iPhone 6 Plus. The last time I played was on an iPhone 4. So, at first it was perfect. Game ran smooth and it looked incredible. But as of recent, which is less than a day later and probably half way through the career, I can't even get through a race or upgrading a car before it just crashes back to the home screen.\n\nI've thought about just giving up. Uninstalling, or just buying the new RR3. But, my fear is that if this tried and true game doesn't work. Why would I want to buy the new one.\n\nFix the crashes and this game gets 5 stars, because that is what it deserves.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id270967544"
+                    },
+                    "name": {
+                        "label": "Jeeplover199"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1140001263"
+                },
+                "title": {
+                    "label": "Crashes"
+                },
+                "content": {
+                    "label": "The game is super fun and very addicting but the game crashes every single time i open the app.... The game crashes and I had to start over the progress I had made and it has done this multiple times I have the newest version of IOS 8 and it still does this can someone please fix this but the game is the best racing game ever just fix the crashes so I can play the game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22878933"
+                    },
+                    "name": {
+                        "label": "TompointD"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1121439976"
+                },
+                "title": {
+                    "label": "Best Racing Game on iPad that I've Played"
+                },
+                "content": {
+                    "label": "Worth playing for the Drift challenges alone. Games come and go on my iPad, but I always keep coming back to this one. I can not comment on other versions, but you will not be disappointed with this one. I prefer using the onscreen controls than the tilt option.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id303474635"
+                    },
+                    "name": {
+                        "label": "Jim from outer space"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1117177573"
+                },
+                "title": {
+                    "label": "Clearly the best of the franchise"
+                },
+                "content": {
+                    "label": "Download this rr and not the other ones.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id293057393"
+                    },
+                    "name": {
+                        "label": "Sentient robotic organism"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1116405321"
+                },
+                "title": {
+                    "label": "I would love to play it"
+                },
+                "content": {
+                    "label": "When i start a race it crashes EVERY TIME! I'd like to play what i paid for. I use an ipod touch 4G",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id163683907"
+                    },
+                    "name": {
+                        "label": "Scottydubs"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.4"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1113829194"
+                },
+                "title": {
+                    "label": "Done!"
+                },
+                "content": {
+                    "label": "Ok, that was easy! Any mores tracks or races coming in an update?? \nAlso, RR2 was a little more fun how you could build the car with engine options. Maybe you combine RR2 and RR3 to make RR4. \nThis game is great, reminds me of Super Sprint from when I was younger.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=476274173&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T17:44:46-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=476274173/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=476274173/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=476274173/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=476274173/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=476274173/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=476274173/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=476274173/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=476274173/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=476274173/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=476274173/sortBy=mostRecent/json"
+        }
+    }
+}

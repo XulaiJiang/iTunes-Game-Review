@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id524030403"
+                    },
+                    "name": {
+                        "label": "Meow the Woofing Fish."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3820824583"
+                },
+                "title": {
+                    "label": "fun but if my phone sleeps or i switch apps..."
+                },
+                "content": {
+                    "label": "Hello! The game is nearly perfect, it is extremely fun and the game controls extremely well - especially for a mobile game. However, if I sleep my phone or go to the home screen or something like that, the app crashes when I go back. This is the only game's error, for me at least. It seems to have to do with if I have Spotify playing music.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id361972435"
+                    },
+                    "name": {
+                        "label": "David Pixel PI"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3749018824"
+                },
+                "title": {
+                    "label": "Waste of money on iPhone X"
+                },
+                "content": {
+                    "label": "Unplayable on the iPhone X",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id176290086"
+                    },
+                    "name": {
+                        "label": "Zhang Henry"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "3713527513"
+                },
+                "title": {
+                    "label": "Update the app"
+                },
+                "content": {
+                    "label": "Crashes all the time, doesn’t save progress if I go to another app. Come on.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38499643"
+                    },
+                    "name": {
+                        "label": "MSV89"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3712646044"
+                },
+                "title": {
+                    "label": "Love the game, but please update to use the XS Max screen size"
+                },
+                "content": {
+                    "label": "I love playing this game and the one downside is it has not been updated in 3 years. I would like to see it use the whole screen.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id475606270"
+                    },
+                    "name": {
+                        "label": "DOOMDONUT"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "3667807894"
+                },
+                "title": {
+                    "label": "Crashing"
+                },
+                "content": {
+                    "label": "Game needs a new update it crashes a lot now",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id498809484"
+                    },
+                    "name": {
+                        "label": "Finn Heilers"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3665440806"
+                },
+                "title": {
+                    "label": "iPhone X support!"
+                },
+                "content": {
+                    "label": "Would be a 5 if it had iPhone X support.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id291834848"
+                    },
+                    "name": {
+                        "label": "Game4us"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "3564772038"
+                },
+                "title": {
+                    "label": "Good buuuut, a bit to HARD"
+                },
+                "content": {
+                    "label": "Awesome but it's way to HARD! Your lucky if you can make it to the 4th level! PLEASE, PLEASE, have a level of difficulty to select from! And it would hands down be 5 STARS!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id753045227"
+                    },
+                    "name": {
+                        "label": "matecasar"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3500021464"
+                },
+                "title": {
+                    "label": "Good, but one big thing missing!"
+                },
+                "content": {
+                    "label": "Very nice game, but we need to be able to change the screen to vertical mode! I can do that in my computer version and it’s a blast! I really wish to play this game on my iPad with a controller in vertical mode! Please update this!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id776291844"
+                    },
+                    "name": {
+                        "label": "Cap.Insane'O"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3482157322"
+                },
+                "title": {
+                    "label": "TERRIBLE!!!"
+                },
+                "content": {
+                    "label": "2019 already! And still not optimize for iPhone X and above... smh. The game is great but c’mon. I want a refund!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id102062164"
+                    },
+                    "name": {
+                        "label": "walking_13"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "3479125954"
+                },
+                "title": {
+                    "label": "Needs Saving Capability! Please Update"
+                },
+                "content": {
+                    "label": "This game is great very fun and smooth. Great fun upgrades. HOWEVER, there needs to be an option to save the game. It’s super discouraging to start over to the first level if you die. Honestly it makes me think twice of spending the money and to even continue playing. PLEASE UPDATE",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42746794"
+                    },
+                    "name": {
+                        "label": "Hold my coat"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3478259985"
+                },
+                "title": {
+                    "label": "Update or sequel"
+                },
+                "content": {
+                    "label": "Sound doesn’t work anymore.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id514616557"
+                    },
+                    "name": {
+                        "label": "stylesmunson"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3478147053"
+                },
+                "title": {
+                    "label": "5 stars if not for annoying button lock!"
+                },
+                "content": {
+                    "label": "I would absolutely give Downwell 5 stars if it it worked perfectly. I can’t stop playing it, even though I can’t get past 2-2.\n\nI’m having a real annoying issue, and I don’t know if it’s due to the type of phone or what, because I’ve seen others having the same experience as me. There are often times when I can’t jump and move at the same time. One button works while the other does not until I tap them separately. Makes the game a lot harder than it already is. Hope there’s an explanation or it’s fixed at some point! It’s gotten worse lately, which is weird, and it’s rendering the game almost unplayable.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id427357786"
+                    },
+                    "name": {
+                        "label": "NerdyDylan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3389307764"
+                },
+                "title": {
+                    "label": "I Love This Indie Game"
+                },
+                "content": {
+                    "label": "This game is addicting, it’s really easy to pick up and learn the game, it has a nice difficulty, fun and rewarding gameplay, a pretty good soundtrack that works really well with the gameplay, and an appealing art style. I recommend getting this game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id735160933"
+                    },
+                    "name": {
+                        "label": "dijeebozsmhxowmsnx"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3329160200"
+                },
+                "title": {
+                    "label": "Great"
+                },
+                "content": {
+                    "label": "I love this game a lot and play it in my free time, it’s progression system is great, it accommodates to your skill, so the better you get it takes around as long.\n\nQuick price of constructive criticism, I think you need to patch and fix the fork and knife upgrade, when you can use it you get healed a full heart",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id836339145"
+                    },
+                    "name": {
+                        "label": "solivagant m"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3328848067"
+                },
+                "title": {
+                    "label": "Glitch"
+                },
+                "content": {
+                    "label": "Please fix the glitch that makes it so that I can’t leave the app during a game (even to answer a phone call) without the game freezing and losing my process. This is irritating because I usually only lose progress during my really good runs, as they go longer and have more of a chance of being interrupted.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43761468"
+                    },
+                    "name": {
+                        "label": "phantasmical"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3316276412"
+                },
+                "title": {
+                    "label": "Excellent game but"
+                },
+                "content": {
+                    "label": "There is no save feature. I work so hard to get to the next level then I loose them at the end of the day!\n\nThis game. Has potential but it needs saves and save points and more to it and more adventure. But I dread having to start over every time!\n\nI started out giving three stars but I’m so disappointed that I loose my place and have to start over every time\n\nAnd building armor and power. You just end up loosing it. That’s horrible",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id384168857"
+                    },
+                    "name": {
+                        "label": "Martosty"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3227081121"
+                },
+                "title": {
+                    "label": "Iphone X?"
+                },
+                "content": {
+                    "label": "This is one of my favorite arcade game on the app store so far, I played it non stop on my iphone 7 and is a perfect time-killer, i just need thia game to be optimized for iphone X, a bigger screen would be just what I need to prevent those sick bird and floating Eyeballs to crush my streak. So please think about it, optimize it for Iphone X please!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id475080380"
+                    },
+                    "name": {
+                        "label": "Aiodenstrykir"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3129697876"
+                },
+                "title": {
+                    "label": "Great game, but lags on my iPod at times"
+                },
+                "content": {
+                    "label": "This game is so good I had to buy it on not only my Android phone, but my iPod touch and PC. Over all of the devices I have this game on I have spent several days playing it. This game has me hooked on jumping down the well, whether it be because I had to exit the app or because I died the last run. I love the fact that are several routes to take when playing the game. You can choose to either be really reckless and go for every enemy, or you can choose to be strategic and pick your battles. The upgrades also has you pick wisely, as the wrong combination can screw you over in the long run but also puts you at the mercy of the games rng even more.\n\nSadly, while I wish to give a clean 5 like on Android and PC, I have to give it a 4, as it isn't properly optimized for an iPod touch 5th generation. Lag can kick in at any moment, either aiding you by slowing the game for a split second allowing you to reconsider a decision you made the second before hand, or it can aid in the game murdering you as it slows you down while your en route to kill an enemy, seemingly giving the enemy AI a split second to adjust its course to knock off a point of hp upon impact with you when the lag lets up. This is pretty evident in flying enemies (which are the bane of my existence without the lag, anyway.) Giving an optimization option for not only older iPads but also older iPod touches and older iPhones would probably fix this issue. Other than that, the iOS version of this game is pretty solid. Keep up the great work!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id827052941"
+                    },
+                    "name": {
+                        "label": "fakeslimshadey"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3095463035"
+                },
+                "title": {
+                    "label": "Fast and fun!"
+                },
+                "content": {
+                    "label": "Originally found this game because it was mentioned on an episode of game makers toolkit. Only feedback i have is that I wish I could put the buttons on the top of the screen. My thumbs are a bit in the way of what I want to see. Other than that, love it and have played for hours.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id489914664"
+                    },
+                    "name": {
+                        "label": "Will Moto"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2920314226"
+                },
+                "title": {
+                    "label": "Game is amazing!"
+                },
+                "content": {
+                    "label": "The game itself is flawless to me,\nBut please fix the crashing. Whenever you leave Downwell via text, home screen, email, etc the game freezes and makes you restart.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id455515921"
+                    },
+                    "name": {
+                        "label": "shawthegoat"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "2793923763"
+                },
+                "title": {
+                    "label": "Major Change Needed"
+                },
+                "content": {
+                    "label": "The game is great. Nice colors, fun, a little challenging, all you need. Except one thing: it crashes a lot. I don’t know about anyone else’s phone, but I’ll be playing and a text or whatever will pop up. I’ll click on the text take like 6-10 seconds to reply and when I go back, it freezes and makes me restart. It is especially annoying because some texts are important and need to be replied to, but it’ll restart me when I’ve gotten really far into the game. I don’t know if you guys are still updating this game, but if you are, can you fix this?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id115713647"
+                    },
+                    "name": {
+                        "label": "A Wayward Souls Player"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2609769474"
+                },
+                "title": {
+                    "label": "Fix This Devs"
+                },
+                "content": {
+                    "label": "One of the best games, 💯\n\nBut if you leave Downwell to do anything else on your device, (including swiping up for a moment to change your song) there is a very high chance Downwell will crash and you will lose your progress.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id458592813"
+                    },
+                    "name": {
+                        "label": "Big fat motha'"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2609197932"
+                },
+                "title": {
+                    "label": "My favourite game"
+                },
+                "content": {
+                    "label": "I have three games on my iphone. Downwell, 2048, and Minecraft. Downwell is by far my favourite game because it’s color theme is perfect, it’s pacing is amazing, it has endless strategies, and it’s really difficult. I have had it for a few months and I’ve made it to the boss level like twenty times but I can’t beat it! The only thing I really need to complain about is that it crashes every time I leave the app and come back. Please please fix it. Other than that, amazing!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id232483766"
+                    },
+                    "name": {
+                        "label": "Konciet"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2566571050"
+                },
+                "title": {
+                    "label": "Fullscreen support needed!"
+                },
+                "content": {
+                    "label": "iPhone X fullscreen support please 🙏🏽🙏🏽",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id747994879"
+                    },
+                    "name": {
+                        "label": "Isaak_C."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "2542863509"
+                },
+                "title": {
+                    "label": "Amazing game, but needs an update"
+                },
+                "content": {
+                    "label": "I have an iPhone X and would much appreciate it if they would update their game to support the full screen of the X. Other than that, this game is amazingly addictive and tons of fun. Once support is added this game will get the 5 stars it deserves",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id29502281"
+                    },
+                    "name": {
+                        "label": "Kaemdog"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2500840706"
+                },
+                "title": {
+                    "label": "Game is amazing"
+                },
+                "content": {
+                    "label": "This game is one of the most fun iOS games I’ve played. It’s sad to me that it looks like it’s no longer being developed. I would love more styles and gun types. Hope it gets an upgrade.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id323858301"
+                    },
+                    "name": {
+                        "label": "CalebGamer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2450060465"
+                },
+                "title": {
+                    "label": "ADDICTING"
+                },
+                "content": {
+                    "label": "There’s just something addicting about going really fast and falling shooting and dodging things. It’s really fun and I play it everyday. I also don’t know if levels are randomized but every time I play it feels fresh and new, once you start you won’t stop...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id418170567"
+                    },
+                    "name": {
+                        "label": "pillow2856"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2437943494"
+                },
+                "title": {
+                    "label": "Must buy"
+                },
+                "content": {
+                    "label": "This game is freaking awesome. Beat it already 6 times on normal but came close on hard. Shut up and buy it!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id457178161"
+                    },
+                    "name": {
+                        "label": "keakealolol"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2430811627"
+                },
+                "title": {
+                    "label": "So good"
+                },
+                "content": {
+                    "label": "Have the game on steam and love it, so it’s great to have a mobile version.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101651526"
+                    },
+                    "name": {
+                        "label": "Appappluvr"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "2339462479"
+                },
+                "title": {
+                    "label": "A dissenting voice"
+                },
+                "content": {
+                    "label": "First, I’d rate this 3.5 stars if I could. I got some decent playtime out of it (a few hours), but mainly because I kept hoping the unlockables would eventually yield a more entertaining game. It’s still worthy of the stars I gave it because the graphics and sound and new idea (a downward platformer) are quite satisfying.  Clearly, tho, I’m not the intended audience because most players seem to love it. My advice? If you’re an arcade shmup, platformer person, indulge; if not, proceed with caution.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id385270785"
+                    },
+                    "name": {
+                        "label": "Symdawg"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2338591236"
+                },
+                "title": {
+                    "label": "Amazing game, no question."
+                },
+                "content": {
+                    "label": "So it’s been over a year since i purchased this game I think? Worth every penny. I’ve unlocked everything in the game now, and I’m still not bored of it. The game took me AGES to get good at, but it never feels unfair. Get this game. Please.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id629204693"
+                    },
+                    "name": {
+                        "label": "TheJeffGuy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2244145986"
+                },
+                "title": {
+                    "label": "Amazing"
+                },
+                "content": {
+                    "label": "This game is really hard, but it is super fun.  Especially when you get the hang of it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id293644283"
+                    },
+                    "name": {
+                        "label": "thisisnotjustin12"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2215113142"
+                },
+                "title": {
+                    "label": "Worth buying"
+                },
+                "content": {
+                    "label": "This game is a rouge like action platform type where your goal is to get to the bottom of a big well.  You’re equipped with gun boots which act like hover boots that can kill most enemies.  You can stomp on top of enemies highlighted in white to kill them, but not on enemies highlighted completely in red.  On the way down you will find shops to spend the games currency, gems, on hp and ammo capacity (charges) for your gun boots.  You will also find upgrades for your gun boots which change the way your boots fire.  Landing on the ground or stomping on an enemy will reload your boots, but if you land on the ground you end any kill combo you had (which can reward you with gems charges and hp).  After each stage you are allowed to choose from three passive upgrades for your character, like having enemies explode when you stomp on them, or gaining four hp.  Gaining additional hp when you have full health contributes towards increasing your maximum hp.  There are also unlockable game styles which change the way the game is played (such as finding more gun upgrades but less shops) and different palette unlocks  which change the color theme of the game.\n\nThis game very fun and fast paced, however there are a few issues I had with the game.  Stomping on an enemy from an angle doesn’t always work, and most of the time it hurts you and kills the enemy at the same time, which makes you have to be really careful about the angle you try to approach an enemy to stomp on.  There is also a wall jump feature that sometimes works, sometimes doesn’t, and sometimes happens when you aren’t trying to wall jump (to be fair it’s rarely happens but it’s annoying when it does).\n\nThe controls are pretty good for a mobile app.  There are only three buttons: left, right and jump.  The jump button serves a multi-purpose, if you press is while in the air you shoot your boots, on the ground you just jump, and it lets you wall jump.  The only problem I have with the controls is that the buttons, specifically left and right, are somewhat small and close together, so you will occasionally accidentally move to the right when you’re trying to move left, or vice-versa.  Overall the controls are very good though, and rarely takes away from the experience.\n\nTo make a long story short, this game is worth the money and very fun, despite a few issues that overall aren’t too bad.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id428203006"
+                    },
+                    "name": {
+                        "label": "nononinja9"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2113822506"
+                },
+                "title": {
+                    "label": "Amazing Game"
+                },
+                "content": {
+                    "label": "Everything is good",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id492445439"
+                    },
+                    "name": {
+                        "label": "Aidopotato28"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2037013269"
+                },
+                "title": {
+                    "label": "The single best iPhone game"
+                },
+                "content": {
+                    "label": "So when I watched Parker plays on Disney xd, I saw him play Downwell on p.c and I thought it looked awesome. So when I see that it's on the AppStore I am blown away. I get it as soon as I see it and I am so impressed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id474410464"
+                    },
+                    "name": {
+                        "label": "Joey Dilley"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2023892219"
+                },
+                "title": {
+                    "label": "Just a great game. Definitely worth 3$"
+                },
+                "content": {
+                    "label": "Insanely simple, yet after having this game for years I have never gotten tired of playing. I have still not beaten it. Please, do yourself a favor and get this game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id368073492"
+                    },
+                    "name": {
+                        "label": "Lingrush24"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1949507297"
+                },
+                "title": {
+                    "label": "Missing one thing"
+                },
+                "content": {
+                    "label": "Gameplay is fast, satisfying, and downright  addictive. This could have been one of the best games of all time, right up there with Wayward Souls, if it just had some kind of permanent progress. The current “endless” mode lacks any ultimate goal, and it’s frustrating to keep starting from the beginning. It’s a flawless arcade game, but not my style.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id421938804"
+                    },
+                    "name": {
+                        "label": "bluewahlekid"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1943403524"
+                },
+                "title": {
+                    "label": "Amazing pixel game"
+                },
+                "content": {
+                    "label": "This is so far the best Pixel animated game I have ever gotten, I'm a iPad mini user so I'm not sure how it plays for others but for my device there is no lag and the controls are amazing even though there's only three, and the cool part is that there's so many frames you can unlock to make the graphics look even cooler.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42678636"
+                    },
+                    "name": {
+                        "label": "boe_dye"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1928668906"
+                },
+                "title": {
+                    "label": "Fabulous Game!"
+                },
+                "content": {
+                    "label": "Honestly, the game is exceptionally addictive.  Its original, challenging, etc!\n\nExcept I have a request:\n\nLevel Select... Continues... starting back from the beginning every single time gets a bit tiresome!  Even Supermeat Boy had a level select!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id236251009"
+                    },
+                    "name": {
+                        "label": "Chrisiscool4402"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1906588459"
+                },
+                "title": {
+                    "label": "Update the game"
+                },
+                "content": {
+                    "label": "Every time I press the home button and try to play it again, it crashes the game, and whatever progress I’ve gotten is deleted. It however is a great game, dispute that annoying bug",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id250188442"
+                    },
+                    "name": {
+                        "label": "br1uhnz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1898360559"
+                },
+                "title": {
+                    "label": "Does not work well on force touch devices"
+                },
+                "content": {
+                    "label": "The left arrow often doesn’t work on my 7 but works fine on my SE. I believe force touch is responsible.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id214009086"
+                    },
+                    "name": {
+                        "label": "Kiki Rickson"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1897439309"
+                },
+                "title": {
+                    "label": "Crashes after phone calls"
+                },
+                "content": {
+                    "label": "Great game, but it crashes after I get a phone call. Please fix this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id154846083"
+                    },
+                    "name": {
+                        "label": "The Evil Lamp"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1869671165"
+                },
+                "title": {
+                    "label": "Good game no BS"
+                },
+                "content": {
+                    "label": "Seeing so many mobile games filled with micro transactions, it was a breath of fresh air to find a fun game that doesn't constantly pester you to spend money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id19755146"
+                    },
+                    "name": {
+                        "label": "31 year old nerd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1855650779"
+                },
+                "title": {
+                    "label": "Long time gamer first time all the way down"
+                },
+                "content": {
+                    "label": "I downloaded Downwell two years ago when it came out and beat it for the FIRST time yesterday (the final boss is insane). Just to give you an idea of how insanely fun this game is, perfect combo of old school gaming and modern phone games. Amazing way to kill half an hour when you’re stuck somewhere. The controls are difficult but imho that’s a plus, reminds me of double dragon II where it feels like it takes actual thumb skills. Make more games please!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26957398"
+                    },
+                    "name": {
+                        "label": "Radioavon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1836198068"
+                },
+                "title": {
+                    "label": "Needs optimization"
+                },
+                "content": {
+                    "label": "I have Downwell on PS4 and really like it but the game just doesn't work on a phone. The \"buttons\" are super cramped and not really comfortable at all to play. Enemies that are border line unfair (looking at you bats) are downright cheap on a device where you have to look to see which input you are actually triggering. More thought should have been put into this than just a direct port...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id620727917"
+                    },
+                    "name": {
+                        "label": "Cerealsaurus"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1777708420"
+                },
+                "title": {
+                    "label": "Very fun"
+                },
+                "content": {
+                    "label": "Very action packed and very enjoyable.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id443908643"
+                    },
+                    "name": {
+                        "label": "$wwaagg"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1765114183"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "Just make it so you can turn your phone sideways when playing for easier controls",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id112313872"
+                    },
+                    "name": {
+                        "label": "j3ph3ry"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1731545952"
+                },
+                "title": {
+                    "label": "Downwell : is it 1988 again?"
+                },
+                "content": {
+                    "label": "This game is obviously designed and produced by true fans of the classics from the arcade era. Combine all that is great about Donkey Kong, DigDug,Galaga,Joust,Space Invaders , Wizards of Zor, Defender , and definitely some Mario Bros. then wrap it in a slick , 8-bit API that results in a GUI which hardens back to the GB-1 ( there's even an option to change to the classic GameBoy palette as you proceed , as well as other 3 color choices!  ) & you get one high quality yet thoroughly retro game. The thing that takes it further is all of those great aesthetics are combined w/ über slick and desirable game play that it is more difficult to put down as you proceed further. The reward system and shielded reward token milestone ledges give breaks , just like the cut scenes in PacMan or Galaga allowed you a few moments rest to head back out w/ a power-up and renewed vigor to take on the host of ever growing enemies. \nOne of the most well conceived and playable games for iOS ever. I deem it an immediate classic and it is tough to do a better job in designing a great playing, wonderfully refreshing throwback that's still feels like a modern game. \nPlus, though it feels like you should, no quarters are needed. \nScale of 1-10 with a ten being Defender or Donkey Kong ( up with the best games ever) and a 1 being E.T.by Activision for Atari 2600 , this game sits solid at a 9.5. \nMy gen spawned video arcade classics and my quarters helped bring the genre to life , thank you ; this feels like one from the mid 80s that got accidentally forgotten and has been rereleased on the iOS platform. \nHow's that for a review? Yeah, it's that good. Well done, game designers. 👍🏻✌🏻⭐️⭐️⭐️⭐️⭐️",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36984279"
+                    },
+                    "name": {
+                        "label": "bertalmio"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1729218909"
+                },
+                "title": {
+                    "label": "A hecking good game."
+                },
+                "content": {
+                    "label": "Downwell is disturbingly addictive and fun to play. Only reason it's not a 5 star is because I tend to glitch where I'll take damage instead of the enemy if I come down at a slight angle. I'm still above them, but the game doesn't like angles. Also in handstand style, you still stomp on enemy's with your feet and shoot with your feet. It would be cool if everything was inverted in that style.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id134510742"
+                    },
+                    "name": {
+                        "label": "Szei"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1722016823"
+                },
+                "title": {
+                    "label": "Fun but crashes on latest iOS"
+                },
+                "content": {
+                    "label": "Whenever I get a message or a notification and the screen changes focus briefly, when I return to Downwell I have to restart from the beginning. I have an iPhone 5S and the latest iOS",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1032708262&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:19:31-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1032708262/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1032708262/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1032708262/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=1032708262/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1032708262/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1032708262/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1032708262/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1032708262/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1032708262/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1032708262/sortBy=mostRecent/json"
+        }
+    }
+}

@@ -1,0 +1,773 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id158984775"
+                    },
+                    "name": {
+                        "label": "Bodyguard509"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "713719382"
+                },
+                "title": {
+                    "label": "this an amazing game"
+                },
+                "content": {
+                    "label": "please add more new contents",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id171927139"
+                    },
+                    "name": {
+                        "label": "JBretz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "710291583"
+                },
+                "title": {
+                    "label": "Oh my goodness"
+                },
+                "content": {
+                    "label": "It takes a lot for me to get \"addicted\" to a game. I've had my fun with Jetpack Joyride and a few others. Well, let me put it this way. I did not sleep last night because I spent so much time playing Dream of Pixels. And when I do stop playing, I dream of pixels! Seriously, I can see the cloud of pixels in my head. That's probably not healthy, but I'll keep playing anyways.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42764463"
+                    },
+                    "name": {
+                        "label": "Mage of Fire"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "707499023"
+                },
+                "title": {
+                    "label": "What's the Christmas surprise?"
+                },
+                "content": {
+                    "label": "I didn't find it?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11998372"
+                    },
+                    "name": {
+                        "label": "BigDupa"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "697061198"
+                },
+                "title": {
+                    "label": "Perfect"
+                },
+                "content": {
+                    "label": "I wouldn't change a thing. One of the rare games that deserves five stars. This game needs to be downloaded way more than it's been. I just gifted it to someone to get the developers more of the money they deserve.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id87457542"
+                    },
+                    "name": {
+                        "label": "Darth Trigon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "694119142"
+                },
+                "title": {
+                    "label": "Love this game!"
+                },
+                "content": {
+                    "label": "I am a big fan of Tetris and this game is a great evolution of that classic. Easily the best puzzle game on the App Store. Great graphics and addictive gameplay!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id161164432"
+                    },
+                    "name": {
+                        "label": "TheMostUnclean"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "694076746"
+                },
+                "title": {
+                    "label": "Good but draining"
+                },
+                "content": {
+                    "label": "WOULD REALLY RATE 3.5. \n\nFor such a simple game it really taxes the battery. I get the same amount of playtime as I would a FPS or 3D action title and that's kind if ridiculous. No puzzle game should heat up the phone like this either. Not very efficient design. \n\nMaybe it's all the tiny micro animations around the clouds. Seriously limits the amount I play. Otherwise it would be a 5 star rating.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49987157"
+                    },
+                    "name": {
+                        "label": "timujin1008"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "692172328"
+                },
+                "title": {
+                    "label": "Classic"
+                },
+                "content": {
+                    "label": "This is an instant classic and will always have a place on my device. Everything about this game is elegant and is truly a joy to play. Thank you to the devs for such an amazing game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id3511293"
+                    },
+                    "name": {
+                        "label": "philodygmn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "691648495"
+                },
+                "title": {
+                    "label": "flawed but interesting"
+                },
+                "content": {
+                    "label": "Both fungible placement and orientation in a single touch control is a nightmare, exacerbated by a fade-in which while very pretty wastes time revealing the game's designs on my piece.\n\nPlacement needs to prioritize not leaving stranded blocks.  I'm constantly fighting default placement in ways which ought trivially to be avoided, e.g. a 4-block I want on a corner inexplicably placed 1 block in.\n\nA better control scheme is to anchor a piece at the block your touch starts then only compatibly branches from there (active by block so overlapping paths don't hamstring your ability to trace through the grid to the end spot you want).  At least have this as an option.  My advanced placement planning is worth far more to me than the game's help moving it!\n\nThe presentation is so soothing, though, it's hard to walk away feeling irritated—just annoyed.  I especially love how thunder claps stranded pieces back onto the grid and their color swirls into the rest.\n\nThe soundscape is well-done with menu effects folding into the background track and transitioning to/from sessions, however the \"lead\" in-session is repetitive, piercing, and obnoxious (thankfully you can play your own music).\n\nI would appreciate a way to play with no time pressure (not just puzzles), and with advance queue view (like in puzzle mode)—I don't care if that's no longer \"competitive\", it's still entertaining and still stretches the puzzle muscles.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41978484"
+                    },
+                    "name": {
+                        "label": "Alcedes"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "691620758"
+                },
+                "title": {
+                    "label": "Game of the year potential"
+                },
+                "content": {
+                    "label": "Wow, amazing reverse tetris gameplay. Music, sound, graphics, ambiance, it's got it all. Oh, did i mention the gameplay and different modes? best .99 you'll ever spend. This has serious Game of the year potential. 10 Stars!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49321901"
+                    },
+                    "name": {
+                        "label": "iAlja"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "691306660"
+                },
+                "title": {
+                    "label": "Brilliant and addictive"
+                },
+                "content": {
+                    "label": "Very addictive and fun game, love the colorful and relaxing setting. Forget Tetris, this is the game you've been waiting for!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id47710938"
+                    },
+                    "name": {
+                        "label": "demi-jour"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "691271492"
+                },
+                "title": {
+                    "label": "Great game twist with beautiful graphics"
+                },
+                "content": {
+                    "label": "A great app that will go into my folder with Angry Birds and other games that are there for when you're bored and you have a couple of minutes of spare time. Wonderful graphics, quite pleasant music and interesting gameplay. I could call it Tetris with a twist - the blocks are the same but gameplay isn't. What drew me into this game was the visual aspect. The detail and colors are fabulous.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11866099"
+                    },
+                    "name": {
+                        "label": "JMattM"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "691252338"
+                },
+                "title": {
+                    "label": "The quintessential puzzler"
+                },
+                "content": {
+                    "label": "This is one of the best puzzlers released on the store in some time. Be prepared to play over and over again as it's that kind of game. The modes are great and the design, beautiful. This is one dream I don't want to wake up from.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27744234"
+                    },
+                    "name": {
+                        "label": "Thegarbagemancan00001"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "691243642"
+                },
+                "title": {
+                    "label": "Just buy it"
+                },
+                "content": {
+                    "label": "Fresh take (as far as I know) on Tetris, with multiple additional modes of play that are sure to add endless replay value.  Beautiful visuals and etheral music/sound effects.  For a launch price of $1, its a steal.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id254836987"
+                    },
+                    "name": {
+                        "label": "Natephish"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "691213175"
+                },
+                "title": {
+                    "label": "So Very Awesome"
+                },
+                "content": {
+                    "label": "Dream of Pixels is everything I thought it would be: beautiful, relaxing, and tons of fun. I'm often disappointed by games/apps I purchase without much thought, but this one did not let me down! New favorite iOS game for sure.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25964975"
+                    },
+                    "name": {
+                        "label": "ToxicCheese"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.14"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "691200992"
+                },
+                "title": {
+                    "label": "Excellent"
+                },
+                "content": {
+                    "label": "Beautifully fun!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=543509184&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:48:28-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=543509184/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=543509184/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=543509184/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=543509184/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=543509184/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=543509184/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=543509184/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=543509184/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=543509184/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=543509184/sortBy=mostRecent/json"
+        }
+    }
+}

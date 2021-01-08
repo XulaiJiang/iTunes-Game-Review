@@ -1,0 +1,961 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id142444837"
+                    },
+                    "name": {
+                        "label": "Demicrown"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4842"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3732745666"
+                },
+                "title": {
+                    "label": "Fun but way too short for the price"
+                },
+                "content": {
+                    "label": "Good game. Way too short with no replay value once completed. Definitely not worth the price.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id472621993"
+                    },
+                    "name": {
+                        "label": "Geckojsjejdjejwjdhrhehdehw"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4842"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2057543238"
+                },
+                "title": {
+                    "label": "Wow"
+                },
+                "content": {
+                    "label": "Amazing follows the book perfectly and does all of the math for you. Well done",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26943993"
+                    },
+                    "name": {
+                        "label": "Oscars deli"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.800"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1185697643"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "It's a great and fun game love it I got it because I watched the yogscasts do the book and this app is great I got no bugs like other people",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id17651718"
+                    },
+                    "name": {
+                        "label": "QUAD3"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.800"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1183765061"
+                },
+                "title": {
+                    "label": "Don't buy until bugs fixed"
+                },
+                "content": {
+                    "label": "Ok so I've been playing the Fighting Fantasy gamebook apps forever now.  This is the only one that bugs out and doesn't even let me get past the main menu.  Judging by other reviews I'm not alone and this is unacceptable to even sell in this state.  I deleted and reinstalled and it does the same thing after the first time you use the app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id418789071"
+                    },
+                    "name": {
+                        "label": "Twiggymister"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.700"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1134735950"
+                },
+                "title": {
+                    "label": "Fun but buggy"
+                },
+                "content": {
+                    "label": "It's fun but I can only play once delete it then redownload the game to be able to play again other wise I get stuck with the game over screen",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id325177258"
+                    },
+                    "name": {
+                        "label": "Zedd7131"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.700"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1125432419"
+                },
+                "title": {
+                    "label": "Great"
+                },
+                "content": {
+                    "label": "Excellent History. Ian Livingstone is definitely an awesome story-teller.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37358480"
+                    },
+                    "name": {
+                        "label": "thisiscmt"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.40"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1106019052"
+                },
+                "title": {
+                    "label": "Can't get past initial load"
+                },
+                "content": {
+                    "label": "Something is wrong with this release. When you tap the screen to get past the intro it tries to load additional content, like the other Tin Man FF titles, then crashes. The other FF games don't have this problem. Please fix.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11410193"
+                    },
+                    "name": {
+                        "label": "Draco143"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.40"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1095647692"
+                },
+                "title": {
+                    "label": "Still crashing before loading."
+                },
+                "content": {
+                    "label": "Like the others mentioned, it crashes during the early loading scenes. One tome I didn't touch the screen at all and it loaded up. I created a character, fought and won just one battle and then it crashed in the middle of the second fight. Running on an iPad 2.  Odd this would crash because it runs way more graphically intensive games just fine ( angry birds go, baldurs gate, trials Frontier, ect...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id239000917"
+                    },
+                    "name": {
+                        "label": "Proteusduxbury"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.40"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "998297551"
+                },
+                "title": {
+                    "label": "Faithful recreation on iPhone"
+                },
+                "content": {
+                    "label": "I had all these books as a kid in the early 80s. The engine is fantastic and really slick. The new color images are superb and the developer has put a lot if effort into creating a seamless recreation and experience for the gamer. Only request is a way to easily restart. I couldn't find that.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38951940"
+                    },
+                    "name": {
+                        "label": "No more AI"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.40"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "977508808"
+                },
+                "title": {
+                    "label": "Crashes"
+                },
+                "content": {
+                    "label": "Crashes before starting EVERY time!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id289267298"
+                    },
+                    "name": {
+                        "label": "Bmangambit"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "939084402"
+                },
+                "title": {
+                    "label": "Fun, but definitely short for the price"
+                },
+                "content": {
+                    "label": "I loved the Fighting Fantasy books as a kid, and I love that someone is cranking out these apps, but $5.99 does seem a bit steep for this game, considering how short a time it takes to play.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id20181227"
+                    },
+                    "name": {
+                        "label": "Marvin Malkowski Jr."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "884801804"
+                },
+                "title": {
+                    "label": "Amazing"
+                },
+                "content": {
+                    "label": "Highly recommend this adventure into the Fighting Fantasy world.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id177721163"
+                    },
+                    "name": {
+                        "label": "Tansey214"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "861407556"
+                },
+                "title": {
+                    "label": "Awesome!"
+                },
+                "content": {
+                    "label": "I used to love choose your own adventure books when I was a kid and I'm stoked that I've got a D&D themed one on my iPhone now.  I'll definitely be buying more of this developer's CYOA games!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id13146883"
+                    },
+                    "name": {
+                        "label": "koreanhistorian"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "848752176"
+                },
+                "title": {
+                    "label": "Get lost in The Forest of Doom!"
+                },
+                "content": {
+                    "label": "I was a fan of the series as a kid and especially loved The Forest of Doom. My paper copy is halfway around the world, so I'm really happy Tin Man Games has so faithfully reproduced this and other Fighting Fantasy Gamebooks in app form. It's so great to relive such a pleasant part of my childhood and be able to share it with others in this high tech age.\n\nThe app runs smoothly on my iPad 3 and offers all the fun of the paper version. The colors and background music add to the atmosphere, while the automatic fighting system makes it easy to read on the go. I really appreciate the fact that I cannot finish the book by cheating. In fact, this is the first time I got to the end of the book honestly.\n\nI think kids accustomed to video games will appreciate experiencing this book in app form. Parents should appreciate these apps as a tricky way to get their kids to read.\n\nI really enjoyed reading background information on the book and the origins of Fighting Fantasy. I think future editions would do well to include as many such extras as possible.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id316965180"
+                    },
+                    "name": {
+                        "label": "Tash1022"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "841249022"
+                },
+                "title": {
+                    "label": "I love this."
+                },
+                "content": {
+                    "label": "I would have rated this 5 stars had the price been cheaper. I just don't think the adventure was long enough to pay $5.99 for it. It is a cyoa book with the use of generated dice and character stats. It's basically a solo rpg. Amazing and fun.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id140856663"
+                    },
+                    "name": {
+                        "label": "GhaleonEME"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "833085028"
+                },
+                "title": {
+                    "label": "Buggy"
+                },
+                "content": {
+                    "label": "Crashes frequently on my iPad.  Expected more than this for 6 dollars.   Planning on ordering the real book tomorrow.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43083904"
+                    },
+                    "name": {
+                        "label": "MatteWizard"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "827731372"
+                },
+                "title": {
+                    "label": "Awesome except for typos"
+                },
+                "content": {
+                    "label": "I am really enjoying this story. The only things are the typos that are in it.  And I mean a lot.  For starters the plural for Dwarf is Dwarves not Dwarfs. And in some instances the word YOUR is replaced by YOU.  Other than that all is fine.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35534089"
+                    },
+                    "name": {
+                        "label": "joeberkeley1"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "823300715"
+                },
+                "title": {
+                    "label": "Highly addictive"
+                },
+                "content": {
+                    "label": "This was my favorite of the Fighting Fantasy books growing up in the early 80s, and this app does the book right! The adventure sheet is a pleasure to use, the automap is great, and the ability to toggle between retro and modern looks is a nice touch. For fan service, there are extras, achievements, and an unlockable alternate cover artwork. The only thing missing would be the US cover art as an unlockable. If you have any interest in D&D style gamebooks, this is a must buy.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42896491"
+                    },
+                    "name": {
+                        "label": "badbreatth"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "819569838"
+                },
+                "title": {
+                    "label": "Great Implementation of a Choose Your Own Adventure!"
+                },
+                "content": {
+                    "label": "If you like choose your own adventure then this is the ultimate app for you!  In this adventure you get to kill monsters, watch out for traps, and take control of your destiny; you are the hero!  No adventure sheets needed, the app keeps track of your inventory and stats!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=652745903&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:54:04-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=652745903/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=652745903/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=652745903/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=652745903/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=652745903/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=652745903/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=652745903/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=652745903/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=652745903/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=652745903/sortBy=mostRecent/json"
+        }
+    }
+}

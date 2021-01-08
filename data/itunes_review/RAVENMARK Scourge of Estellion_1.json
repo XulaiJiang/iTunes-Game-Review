@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id86563665"
+                    },
+                    "name": {
+                        "label": "EZPZ pls"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3423042103"
+                },
+                "title": {
+                    "label": "Superior RPG iOS title"
+                },
+                "content": {
+                    "label": "Absolutely phenomenal with a compelling story. The writing doesn't feel dumbed down or inane like many other RPG titles out in the App Store right now.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id847749048"
+                    },
+                    "name": {
+                        "label": "Williemota"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3064754729"
+                },
+                "title": {
+                    "label": "Best Strategy game for iOS"
+                },
+                "content": {
+                    "label": "I love Ravenmark, there isn’t a better strategy game for iOS out there.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id320124854"
+                    },
+                    "name": {
+                        "label": "airwaffle"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2613570330"
+                },
+                "title": {
+                    "label": "excellent strategy game, broken sync"
+                },
+                "content": {
+                    "label": "highly reccomended if you like strategy, however progress cannot be synced between devices dur to broken WHS account/facebook connect feature. \nProgress is NOT synced via iCloud.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id115795432"
+                    },
+                    "name": {
+                        "label": "Steelerkev"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "2184488872"
+                },
+                "title": {
+                    "label": "Boring overly complex. Way too expensive"
+                },
+                "content": {
+                    "label": "After reading all the other reviews I thought this would be the perfect game. I love turn-based strategy games. This disappointed me on every level. By the time I got to about the fourth mission I started questioning why are these overly complex controls in place for simple troop placement. This is rock paper scissors at its worst. How they can charge $10 for this and get away with it is a mystery to me.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id170361854"
+                    },
+                    "name": {
+                        "label": "Krossfire999"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2115998474"
+                },
+                "title": {
+                    "label": "Excellent strategy"
+                },
+                "content": {
+                    "label": "Closest thing to Fire Emblem on a phone",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id195460736"
+                    },
+                    "name": {
+                        "label": "Lightning7607"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1476946474"
+                },
+                "title": {
+                    "label": "Best strategy game on iPad"
+                },
+                "content": {
+                    "label": "Great game! Must have for any real fan of strategy games.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id199082929"
+                    },
+                    "name": {
+                        "label": "Abo abdullah123"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1409389998"
+                },
+                "title": {
+                    "label": "Good game"
+                },
+                "content": {
+                    "label": "Nice mechanics",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id86062718"
+                    },
+                    "name": {
+                        "label": "DoomFanatic95"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1406208960"
+                },
+                "title": {
+                    "label": "Classic Fantasy Warfare!"
+                },
+                "content": {
+                    "label": "I'm currently obsessing over Warhammer, so to have something like Ravenmark, ready to go whenever I get the itch, is AWESOME! I love the look and feel of this game! It really does capture that tabletop wargame vibe, while still being visually stunning.\n\nI think the next thing I'd like to see, either as a major update or in a sequel, would be a skirmish mode, with a variety of stipulations to choose from; in keeping with the Warhammer Fantasy Battle idea. I am not an online gamer, so Mercenaries doesn't interest me. But an offline skirmish mode would add endless replay value, if you ask me!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id223441184"
+                    },
+                    "name": {
+                        "label": "Pyrethi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1397132005"
+                },
+                "title": {
+                    "label": "Excellent strategy game"
+                },
+                "content": {
+                    "label": "If you loved Banner Saga, try out this game too!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id326809896"
+                    },
+                    "name": {
+                        "label": "Benchmaker"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1374521269"
+                },
+                "title": {
+                    "label": "LOVED THE STORY!"
+                },
+                "content": {
+                    "label": "I thought this game was going to be boring but when I got into it I couldn't get out of it every mission brought me deeper into the plot and I loved it the turn based strategy involved was great I loved playing this game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id117155398"
+                    },
+                    "name": {
+                        "label": "Abe234"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1367688341"
+                },
+                "title": {
+                    "label": "Earthbound"
+                },
+                "content": {
+                    "label": "While bereft of resource management, \"Ravenmark\" is a sterling addition to the tactics genre. Artistic visuals, a rousing score, and a surprisingly vibrant lore make \"Scourge of Estellion\" an absolute \"must-purchase\" for any tactics fan on iOS. Buy this game NOW!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id146219565"
+                    },
+                    "name": {
+                        "label": "Mr. Jo987"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.17"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1311437885"
+                },
+                "title": {
+                    "label": "Worth every penny"
+                },
+                "content": {
+                    "label": "If you like turn-based strategy, just buy this NOW.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id143377425"
+                    },
+                    "name": {
+                        "label": "Mister Ecks"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1282346159"
+                },
+                "title": {
+                    "label": "Potential falls a little short"
+                },
+                "content": {
+                    "label": "Pros: \n•Excellent artwork and music.\n•Interesting lore and ever-growing \"Ravenmark\" universe.\n•Advance Wars-esque battles.\n\nCons:\n•The turn-based system is in unit numerical order, meaning that instead of you taking your turn and then the AI taking theirs, every unit takes turns depending on what number is assigned to them. It's really the only reason I stopped playing.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33194125"
+                    },
+                    "name": {
+                        "label": "Gamedawg"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1253151209"
+                },
+                "title": {
+                    "label": "Overpriced. Under delivers."
+                },
+                "content": {
+                    "label": "Yes, it's turn based. No, it's not comparable to XCom. It's tedious, the constant swipe screens are really bad. If this was a $4.99 game I wouldn't  complain.  At 10.00, it's a problem.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id151739219"
+                    },
+                    "name": {
+                        "label": "Bbsocrates"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1225326155"
+                },
+                "title": {
+                    "label": "11/10"
+                },
+                "content": {
+                    "label": "I've had this game for nearly five years now, and it still never ceases to disappoint me. It's a great strategical game, in similar vein to Fire Emblem or Xcom.\n\nThe story is beautiful, full and all the characters are fully fleshed out and developed. For an IOS game, this is a shocking surprise.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id12290608"
+                    },
+                    "name": {
+                        "label": "Eninala"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1193297357"
+                },
+                "title": {
+                    "label": "Best game on the App Store"
+                },
+                "content": {
+                    "label": "It's been nearly 4 years and this is still my favorite game on iOS. Deep tactical combat, and engaging story, beautiful music and artwork. Not sure how this game hasn't gotten more press and accolades, but you won't regret buying this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35969171"
+                    },
+                    "name": {
+                        "label": "Sir cucumber"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1147536294"
+                },
+                "title": {
+                    "label": "Absolutely the best"
+                },
+                "content": {
+                    "label": "Oh my god I loved this game so much. Played through the entire campaign, which took me literally months to finish, and loved every minute. Such a unique mechanic for turn based combat, really smart ai, great score and aesthetic, I cannot say enough. Best IOS game I have ever played.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28195409"
+                    },
+                    "name": {
+                        "label": "Nhffhbgbfghvhnnj"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1146717067"
+                },
+                "title": {
+                    "label": "Game of chance"
+                },
+                "content": {
+                    "label": "This graphically appealing, underdeveloped game should be called  \"Tactical Lottery in Fantasyland\" for four reasons:\n1)You have no control over how your units are deployed and this game sets you up for failure at every single stage. The game decides, for instance, that you want vulnerable units way out in front and stronger units way in the back. Have fun just fixing deployment blunders for the first few turns. \n2)This is a game with a dice-roll mechanic, and it will ALWAYS favor the AI. Your troops will hit far less frequently, and when they do, they will do minimal damage. The AI will hit at least 90% of the time and will eat your lunch. \n3)There is no control over unit production. You will be given  lumbering, worthless spearmen (deployed in the open, probably at lower elevation) to take on archers. That should be fun. \n4)Numbers count for nothing. A unit with 2 health is as combat-effective as one with 10 health. Can 2 troops inflict the same level of damage? Does this make sense to anyone?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42458235"
+                    },
+                    "name": {
+                        "label": "Lost in Tactics"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1142223227"
+                },
+                "title": {
+                    "label": "UP THERE WITH XCOM"
+                },
+                "content": {
+                    "label": "Ok, \nLet's get to it. I'll let the other reviewers detail how excellent this game is. What I will say: Get all its campaigns and support the Devs. This is the kind of game studio you want to support and help flourish. Imagine if they had a big budget like EA or Activision. \n\nSomething else: \nIf you are looking for the *BEST* Turn Based Squad Tactic games on iOS: Here is the cream of our crop:\n\n• XCOM Enemy Within\n• Ravennark\n• Final Fantasy Tactics\n• Spectral Souls (aka Spectral Force)\n• Record of Agarest War\n\nThese are our iOS classics in the genre of Turn Based Squad Tactics. All these I own on my iPhone 6+ and all work well. Go support this wonderful genre that has been stale for awhile. Luckily, we have some real good ones.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100663585"
+                    },
+                    "name": {
+                        "label": "Lodweed"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1136147621"
+                },
+                "title": {
+                    "label": "Best Turn Based Strategy"
+                },
+                "content": {
+                    "label": "A great, deep, turn based strategy game. Well worth the money. Try the first campaign free and you'll end up buying it for sure.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id429676692"
+                    },
+                    "name": {
+                        "label": "Game man 234132"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1123561363"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "This game by far is one my favorite games to play and it's a great game for people who love war strategy but even though it gets hard as u progress on that's just what makes it addictive.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49410422"
+                    },
+                    "name": {
+                        "label": "Evalas"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1119820069"
+                },
+                "title": {
+                    "label": "Fun game"
+                },
+                "content": {
+                    "label": "So far...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id129420105"
+                    },
+                    "name": {
+                        "label": "Joshua J S"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1105080809"
+                },
+                "title": {
+                    "label": "A masterpiece"
+                },
+                "content": {
+                    "label": "A triumph in tactical gameplay and storytelling. Ravenmark's rich world, sweeping & intriguing plot, and deep lore create an experience like no other indie strategy title. Gameplay is tight and challenging, requiring real strategy in the later levels. It has been a few years since the title was released, and it remains one of my favorite tactics games of all time (on any platform) -- up there with the tanks of FFTactics, Tactics Ogre, and XCom.  It is a real tragedy that Ravenmark didn't see the commercial success it deserves... I would have loved to see the story continue to develop in proper sequels rather than in the lackluster multiplayer-focused followup that we got instead.  Still, this first Ravenmark title is a masterpiece, one that will have a permanent spot on my iOS devices.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id191535163"
+                    },
+                    "name": {
+                        "label": "Fortran64thewet"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.16"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1095594026"
+                },
+                "title": {
+                    "label": "Fun game!"
+                },
+                "content": {
+                    "label": "Really liked it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id23161430"
+                    },
+                    "name": {
+                        "label": "ItsJohnAgain"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1094033367"
+                },
+                "title": {
+                    "label": "very good TBS game"
+                },
+                "content": {
+                    "label": "i was doubtful with first view of cartoon-ish screenshots, but the great story and tactics of gameplay made be a believer.  only did the prelude, but so far this is a very good game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id380312391"
+                    },
+                    "name": {
+                        "label": "G0D5LAY3R"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1089007219"
+                },
+                "title": {
+                    "label": "The word"
+                },
+                "content": {
+                    "label": "Amazing game; simply amazing",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id239920289"
+                    },
+                    "name": {
+                        "label": "Kris Kenney"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1081805982"
+                },
+                "title": {
+                    "label": "Great Game"
+                },
+                "content": {
+                    "label": "Definite fan of srpg and this game has good gameplay and a good story.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43757223"
+                    },
+                    "name": {
+                        "label": "Las boompa"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1055929909"
+                },
+                "title": {
+                    "label": "A masterpiece"
+                },
+                "content": {
+                    "label": "I just wish it would never end... A fantastic turn based game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id172722352"
+                    },
+                    "name": {
+                        "label": "ThePotatoGuy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1042913163"
+                },
+                "title": {
+                    "label": "This game deserves more."
+                },
+                "content": {
+                    "label": "I'm pretty skeptical when it comes to iOS games and usually don't consider them to be on par with console or PC games. This game proved me wrong. It is so immersive and so intricate that I pretty much forgot I was playing a mobile game. Ravenmark is just as good as any PC or console game and is definitely better than most iOS games. It receives my highest praise and recommendation. If you like strategy games, you'll like Ravenmark",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id19008460"
+                    },
+                    "name": {
+                        "label": "Arillian"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1023462480"
+                },
+                "title": {
+                    "label": "Great so far"
+                },
+                "content": {
+                    "label": "Prelude took a bit, but finally done.  Game seems like it has great promise.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id332903565"
+                    },
+                    "name": {
+                        "label": "DiabloRocks"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1003234167"
+                },
+                "title": {
+                    "label": "A Fantastic Game. One of the best on the App Store."
+                },
+                "content": {
+                    "label": "This is a great game. It has a deep storyline with lots of detail and great gameplay. This games unique tactical system seems unweildy at first but once you get the hang of it becomes a lot of fun. Definitly recomend.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id238318599"
+                    },
+                    "name": {
+                        "label": "ImmunologicalSynapse"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "992499856"
+                },
+                "title": {
+                    "label": "Singapore Surprise"
+                },
+                "content": {
+                    "label": "This is a superb masterpiece of art and strategy from a very dedicated team. One of the best games I've ever played on my iPhone.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id357188626"
+                    },
+                    "name": {
+                        "label": "findwho83"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "991776909"
+                },
+                "title": {
+                    "label": "Well rounded and fun game"
+                },
+                "content": {
+                    "label": "Good controls, interesting story and even pace.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id86111520"
+                    },
+                    "name": {
+                        "label": "DavidAFrazier"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "989607075"
+                },
+                "title": {
+                    "label": "Fantastic game"
+                },
+                "content": {
+                    "label": "I love it! Beat the entire game and will buy the sequel.\n\nCompelling story, great mechanics, nice UI. My favorite iPhone game for sure. You really need to play this. Very reasonably priced campaign as we'll.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id136926140"
+                    },
+                    "name": {
+                        "label": "Big Lewdog"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "977003909"
+                },
+                "title": {
+                    "label": "Must play."
+                },
+                "content": {
+                    "label": "Excellent game. Not a waste of money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id123291623"
+                    },
+                    "name": {
+                        "label": "Aurileano"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "974303288"
+                },
+                "title": {
+                    "label": "An original, well-made strategy game"
+                },
+                "content": {
+                    "label": "This is a great, totally original strategy game with a rich world, characters and gameplay. Think of it as a lost PS2 era game for just a couple of bucks.\n\nUnfortunately, many of the last era's bad features came with the good--notably, very irritating AI for your troops (expect them to stand still when a unit you ordered them to attack dies, or move randomly half-way to where you ordered them to and then stop), and the lack of a save feature means you'll have to start a 20-minute level over again if one of your hero units dies (which means high-risk, high-reward innovative strategies are a disaster.)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id117193888"
+                    },
+                    "name": {
+                        "label": "MoBettaDiggah"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "959539536"
+                },
+                "title": {
+                    "label": "Good game"
+                },
+                "content": {
+                    "label": "A very entertaining way to not do anything productive for a couple hours",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id220113896"
+                    },
+                    "name": {
+                        "label": "5ku11y_D"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "959120408"
+                },
+                "title": {
+                    "label": "Pretty good"
+                },
+                "content": {
+                    "label": "This game seems to have amazing potential.  The  story is wonderfully engaging, and the characters are quite well-fleshed out.  My only qualm comes in battle.  Enemies act out of initiative turn and commands that are issued (wheeling, resting, etc.) do not seem to respond in the manner I would have been led to believe during the prelude.  That being said, this could be me not being too far into the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id77011621"
+                    },
+                    "name": {
+                        "label": "iFlipNinja"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "958370714"
+                },
+                "title": {
+                    "label": "Good 'Please Rate' Message"
+                },
+                "content": {
+                    "label": "The game is fun so far. I rarely write reviews with incentive but the fact that they out some thought into the timing and wording of the 'Please Rate' message brought me here. You know it's a well made game when they've put effort into EVERY detail. Kudos guys!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101570770"
+                    },
+                    "name": {
+                        "label": "Rule of Three TAG"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "956739060"
+                },
+                "title": {
+                    "label": "If you want a game with replay value this is the game."
+                },
+                "content": {
+                    "label": "This is by far one if not the best game I have played for my phone. It plays similar to Advanced Wars from Nintendo.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101570770"
+                    },
+                    "name": {
+                        "label": "Rule of Three TAG"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "956739061"
+                },
+                "title": {
+                    "label": "If you want a game with replay value this is the game."
+                },
+                "content": {
+                    "label": "This is by far one if not the best game I have played for my phone. It plays similar to Advanced Wars from Nintendo.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id117815812"
+                    },
+                    "name": {
+                        "label": "Panthermagi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "956717118"
+                },
+                "title": {
+                    "label": "Great game!"
+                },
+                "content": {
+                    "label": "I needed something like fftactics, and Ravenmark provides! Excellent fun",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id139471516"
+                    },
+                    "name": {
+                        "label": "jes_bot"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "956292010"
+                },
+                "title": {
+                    "label": "Patience"
+                },
+                "content": {
+                    "label": "This game has great mechanics and gameplay run very well on the touch screen. The actual difficulty can be frustrating when first starting. The story seems interesting as well. Overall great game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id211928904"
+                    },
+                    "name": {
+                        "label": "Tonythelover"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "956133925"
+                },
+                "title": {
+                    "label": "Meh"
+                },
+                "content": {
+                    "label": "It's ok",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id351311764"
+                    },
+                    "name": {
+                        "label": "Gorbashthegreen"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "955013963"
+                },
+                "title": {
+                    "label": "Best fantasy strategy on IOS"
+                },
+                "content": {
+                    "label": "The strategy is deep, engaging, fun, and original.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id23874216"
+                    },
+                    "name": {
+                        "label": "geglesmash"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "954609119"
+                },
+                "title": {
+                    "label": "Fun game"
+                },
+                "content": {
+                    "label": "At first the combat was extremely frustrating but once you get the hang of putting formations together, checking who attacks first, and what units are better against which the game gets really fun.  Medals offer nice replay value too",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43997800"
+                    },
+                    "name": {
+                        "label": "Kickleberry"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "954252449"
+                },
+                "title": {
+                    "label": "Really good strategy turn based game"
+                },
+                "content": {
+                    "label": "Yep",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id324582369"
+                    },
+                    "name": {
+                        "label": "Rjcommando"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "954239445"
+                },
+                "title": {
+                    "label": "Great game!"
+                },
+                "content": {
+                    "label": "Amazing game. It's like chess: easy to learn, difficult to master. Move and learn how to conquer your enemies with a nice storyline accompanying it. Definitely worth the money!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id280605997"
+                    },
+                    "name": {
+                        "label": "Richado_Ninja"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "953620184"
+                },
+                "title": {
+                    "label": "Love it!!!"
+                },
+                "content": {
+                    "label": "Best tactical on iOS",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id103523800"
+                    },
+                    "name": {
+                        "label": "Basqueo_fiasco"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "953560198"
+                },
+                "title": {
+                    "label": "Great game!!"
+                },
+                "content": {
+                    "label": "Turn based strategy at its best!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=478016806&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:51:49-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=478016806/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=478016806/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=478016806/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=478016806/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=478016806/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=478016806/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=478016806/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=478016806/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=478016806/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=478016806/sortBy=mostRecent/json"
+        }
+    }
+}

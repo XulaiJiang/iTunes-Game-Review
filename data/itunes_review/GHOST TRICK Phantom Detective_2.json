@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101065873"
+                    },
+                    "name": {
+                        "label": "Blepcake"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5413187170"
+                },
+                "title": {
+                    "label": "Hangs during tutorial"
+                },
+                "content": {
+                    "label": "iPhone SE 13.2.3. Hangs during the time-rewind part.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id214483516"
+                    },
+                    "name": {
+                        "label": "Karnieflk"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5412563969"
+                },
+                "title": {
+                    "label": "Tutorial is stuck on infinite loop"
+                },
+                "content": {
+                    "label": "Can't load past the initial tutorial. Keeps looping the animation for the rewind",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id287974732"
+                    },
+                    "name": {
+                        "label": "Free? No."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5369421554"
+                },
+                "title": {
+                    "label": "My all time favorite game!"
+                },
+                "content": {
+                    "label": "SO GOOD! I have no problems with this game (whoa... have I reviewed this game before?) and if your wondering whether to get it or get the full game let me just say: do it, it’s worth it!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32993231"
+                    },
+                    "name": {
+                        "label": "Draken"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5356016500"
+                },
+                "title": {
+                    "label": "The app crashes/freezes at the same place every time."
+                },
+                "content": {
+                    "label": "I can’t get past the tutorial because the app continues to get stuck in the clock loop after i try to save the woman the first time. Other people are  having this same issue. The game is unplayable and the dialogue is trash and cumbersome.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id103665048"
+                    },
+                    "name": {
+                        "label": "Holisk"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5348091188"
+                },
+                "title": {
+                    "label": "Good game but sometimes get stuck on a scene"
+                },
+                "content": {
+                    "label": "Sometimes certain scene tends to repeat instead of progressing. Luckily I bought this on sale but still.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22416910"
+                    },
+                    "name": {
+                        "label": "OddKoters"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5338484784"
+                },
+                "title": {
+                    "label": "Broken"
+                },
+                "content": {
+                    "label": "I’ve been looking for a new game to play and downloaded the tutorial to see if I wanted to buy the full version. I couldn’t even finish the tutorial! I got to the part of rewinding time and saving the woman’s life and the game froze. It just kept showing me the same graphic of a red clock rewinding, over and over again. I tried to reopen the game and I had to go through a bunch of dialogue to get back to where I was and the game still didn’t work.  Now after reading other reviews, deleting it and not looking back. Too much dialogue and no way to speed it up, and inconsistent save points. Not worth the time.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id119502526"
+                    },
+                    "name": {
+                        "label": "Ll5555"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5273799955"
+                },
+                "title": {
+                    "label": "Time rewind bug."
+                },
+                "content": {
+                    "label": "I was trying out the free version, but it wouldn’t let me “rewind time” just plays the screen over and over, so I can’t past 10 minutes of gameplay.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id146809397"
+                    },
+                    "name": {
+                        "label": "Naomi ^_^"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5212242305"
+                },
+                "title": {
+                    "label": "Great game, just fix some errors."
+                },
+                "content": {
+                    "label": "The game crashes when I try to connect my soul to the crossing thing in the beginning- please fix this, I love this game so much!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id262930372"
+                    },
+                    "name": {
+                        "label": "Cooldude17554"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5173727430"
+                },
+                "title": {
+                    "label": "CHAPTER 7 Crash"
+                },
+                "content": {
+                    "label": "I had the game for a long time and erased all my data to play fresh so I don’t skip a chapter or anything. Got to chapter 7 and during the rewind death part it cuts to a certain part and then it crashes (no video just audio) I don’t want to spoil it. I hope it gets an update. I believe it might have been an iOS update that broke it but I hope it gets fixed. Some visuals like the intro doesn’t even show or the phone line transfer. It does stink but at least I can play it somewhat before it ends.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id406325565"
+                    },
+                    "name": {
+                        "label": "tkmscomix"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5051117371"
+                },
+                "title": {
+                    "label": "Great title, but..."
+                },
+                "content": {
+                    "label": "I played Ghost Trick all the way through a couple of years ago, and I wanted to return to it. However, when I try to go \"back in time\" during the prologue, I get stuck on a loading screen. I'm running an iPhone SE with iOS 13.1.3, so I'm not sure if it's my hardware or software, but I miss this game! If there is still a team updating it, please take a look...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27783256"
+                    },
+                    "name": {
+                        "label": "Raziel8582"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5014785319"
+                },
+                "title": {
+                    "label": "Broken port"
+                },
+                "content": {
+                    "label": "Have been unable to play this on iPhone X. I have to go through the tutorial chapter and as soon as it tried to rewind time, it will load indefinitely. I’d ask for a refund since I payed for all the chapter but I don’t think the developers read these reviews. I’d rather the game get fixed though.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100506363"
+                    },
+                    "name": {
+                        "label": "AstralDarkstar"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4905280503"
+                },
+                "title": {
+                    "label": "Not really iPhone X support"
+                },
+                "content": {
+                    "label": "There are apps that have not updated to iPhone X. Those apps are in a black box on your screen, from top to bottom, left to right. Those apps are not compatible with iPhone X screen display and looks completely horrible on the phone. \n\nOf course I blame Apple for this horrible decision as they don’t have a clue what gaming on a phone is like, and they’re the main reason the screen is doing this. Don’t even get me started on the Home Bar that either always stays lit up or will reappear each time you tap a screen. \n\nApart from that, all this game did was fill in the black box area with a frame and call it “iPhone X compatible”. They couldn’t even take the time to have the game take up the bottom of the screen and take up 16:9 of the 18:9 screen. \n\nIt’s a lazy update. Simple as that.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id434958840"
+                    },
+                    "name": {
+                        "label": "Hnhjhfhxnxnxnx"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4893739338"
+                },
+                "title": {
+                    "label": "This is my favorite game, but rn it’s broken"
+                },
+                "content": {
+                    "label": "When ios 13 came out it broke this game, It’s a absolutely great game, but the new update makes it unplayable, it loads infinitely after the first few minutes. If it gets uodated it’s worth it until then buyer beware.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37474230"
+                    },
+                    "name": {
+                        "label": "KingOfIllinois"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4802098483"
+                },
+                "title": {
+                    "label": "NOT COMPATIBLE WITH IOS 13"
+                },
+                "content": {
+                    "label": "This is a great game! I would rate it higher except the developers have not updated it in over a year and show no signs of updating for iOS 13 compatibility, or even just updating the game’s listing to let potential buyers know it will not work on their device. Be warned!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id554186243"
+                    },
+                    "name": {
+                        "label": "Atem925"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4757616743"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "It's a great game, but there's an annoying bug: it won't save the wallpapers I earned by completing the slide puzzles. The app just crashes whenever I try to save one of the wallpapers on my 4th gen iPad. It worked just fine on an iPhone 5s though.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id166710877"
+                    },
+                    "name": {
+                        "label": "Bramnet"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4755053255"
+                },
+                "title": {
+                    "label": "A highly underrepresented masterpiece"
+                },
+                "content": {
+                    "label": "From the studio that brought Phoenix Wright (confirm before you believe me, that’s second hand knowledge) comes an amazing real-time puzzle game that has a breathtaking story from drama to romance and a whole lot of death. Originally released on the DS, the only thing I have to complain is the slight pause due to how touch screens work (which I’m not faulting them for). I’d recommend this game to anyone and everyone who says they enjoy good story driven games with puzzles!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id272214318"
+                    },
+                    "name": {
+                        "label": "Dhjinyjbytv"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4744510114"
+                },
+                "title": {
+                    "label": "Blah blah blah and poor save function"
+                },
+                "content": {
+                    "label": "Fun game but the amount of dialog makes it a chore to get through it. The puzzle solving scenes are fun, but it takes forever to get to them. What makes it worse is that it is not clear when the game saved last. There have been several times I've stopped in the middle of a scene only to have to slog through the huge chunks of the same dialogue i went through the last time. Super frustrating.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id103672854"
+                    },
+                    "name": {
+                        "label": "Benh1764369"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4613831105"
+                },
+                "title": {
+                    "label": "Ghost Trick: Phantom Detective"
+                },
+                "content": {
+                    "label": "This was originally on DS, and it is completely worth the $10 for the entire game! It is intriguing, amazing, and incredible, I have nothing else to say!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id363236241"
+                    },
+                    "name": {
+                        "label": "Stefanaras"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4250013069"
+                },
+                "title": {
+                    "label": "An underrated gem"
+                },
+                "content": {
+                    "label": "This game is enjoyable to the very end. With some really good writing and intuitive gameplay, it manages to be very impactful and memorable. You won't regret buying this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id183546037"
+                    },
+                    "name": {
+                        "label": "CornRipper"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4169904285"
+                },
+                "title": {
+                    "label": "Tears"
+                },
+                "content": {
+                    "label": "The game’s story got me so good just now that I couldn’t stop crying through the darn thing. And the game also has super fun gameplay to boot with interesting character design and visual style to round it out. I only wish I had gotten to play the original DS version when it first came out years ago because the game is to amazing to have wait this long. Hands down, don’t wait to buy the full chapters, it’s worth it, I promise!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id230762482"
+                    },
+                    "name": {
+                        "label": "DarthVitrial"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4145399149"
+                },
+                "title": {
+                    "label": "Great game, but needs an update to work on iPhone XR"
+                },
+                "content": {
+                    "label": "Best story in any game I’ve ever played, great visuals, clever mechanics, amazing music. Sadly it doesn’t work properly on the iPhone XR, with the “ghost” and “trick” buttons often failing to function when pressed unless you press BELOW them. \nIn levels where split second timing is key, this turns the game into a frustrating mess.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id314361618"
+                    },
+                    "name": {
+                        "label": "Ashly Strain"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4092090635"
+                },
+                "title": {
+                    "label": "Re download problems"
+                },
+                "content": {
+                    "label": "I bought all of the chapters to this game a few years ago and it quickly became one of my favorite app games.  However, when I am not able to re download the game (same issue other users have expressed).   It’s been about 5 years, if any of the devs see this please fix the issue.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id420691465"
+                    },
+                    "name": {
+                        "label": "PeevedGirl"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4046562563"
+                },
+                "title": {
+                    "label": "Where’s the sequel???"
+                },
+                "content": {
+                    "label": "I love this gave so much and ever since I played it the first time when I was around 10, I’ve been hoping for a game in the same style. Seriously this is one of my favorite IOS games (maybe of all games) and I want another game like this! Congrats and thank you to the makers, it’s a great game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id865182625"
+                    },
+                    "name": {
+                        "label": "nobody wants this crap"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3927217665"
+                },
+                "title": {
+                    "label": "So dumb"
+                },
+                "content": {
+                    "label": "I like the game but it’s so dumb Bc you have to buy the other chapters 🙄",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id234465691"
+                    },
+                    "name": {
+                        "label": "Ncadmin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3805986634"
+                },
+                "title": {
+                    "label": "When do I get to play?"
+                },
+                "content": {
+                    "label": "This is so well done that it gets in the way of itself. I would give it 5 stars but I feel like there is so much to the story and less play time for me. All I want to do is the tricks but there is constant reading and more reading and even more reading. I’m constantly tapping the screen to read more. Get the idea? The dialog is quite good and I realize that they have to show you what to do and the game is quite genius but I need a game I can just play. I want to eliminate the story and just do the puzzles. I want to discover and uncover the story as I go and let it unfold naturally. I feel like I’m reading a well written novel instead of actually doing anything. I don’t like timed games either. It deserves 5 stars just for the complexity and depth and the programming involved. For me though, I’m going to put it on the back burner as I was getting frustrated waiting for my turn to “roll the dice.” I do like the game but after 45 minutes, the actual play time was 5 minutes each scene and I manipulated two scenes. It needs to move along.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "9"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41401223"
+                    },
+                    "name": {
+                        "label": "raist3001"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3770105606"
+                },
+                "title": {
+                    "label": "DO NOT BELIEVE THE HYPE"
+                },
+                "content": {
+                    "label": "Tried to give this game another go and NOPE!  My original review stands. If you want to read a novel and fall asleep, download this game. 5 star reviews are all BS.  \n\nOriginal: \nGood grief, after 20 minutes of playing I deleted this game straight away. 20 minutes of nothing but text and reading. No gameplay at all except for a few possession of objects. I want to play a game not read a novel.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33961317"
+                    },
+                    "name": {
+                        "label": "BluebellTells"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3741179602"
+                },
+                "title": {
+                    "label": "Amazing but cost..."
+                },
+                "content": {
+                    "label": "I love this game SO MUCH!\nIt’s definitely my favorite game up to date AND retro!\nThe only thing I would change would be the cost. I know that you developers need money for making these games and stuff, but if you could ever make a free version, like a different story and different scenes, but the same game, essentially. Like... a shorter version of this game, but a different storyline. I hope you get it.\nOther than the cost, this is my favorite game and it completely got me hooked the second I started playing it. Developers, even if you don’t take my above suggestion, please at least make a sequel to this game, or with the same controls.\nAmazing!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id9350784"
+                    },
+                    "name": {
+                        "label": "Davegins"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3675618009"
+                },
+                "title": {
+                    "label": "Does not save your game, very frustrating!"
+                },
+                "content": {
+                    "label": "I love the animation, concept and puzzles. But you can’t stop midway through the chapter! You can save your place but I always start over at the beginning of the chapter. Very frustrating because the gameplay is slow even if you know exactly what to do. Not acceptable for a mobile game where phone interruptions are constant.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id212149705"
+                    },
+                    "name": {
+                        "label": "Juan14444"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3601859821"
+                },
+                "title": {
+                    "label": "A real classic"
+                },
+                "content": {
+                    "label": "I honestly wish there were more games like this on IOS. Great story and the way it’s told, just fenomenal. The gameplay is fun and unique and full of interesting characters with many eccentricities. This is what I call a full fledge well developed game. Fully recommend it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id934734731"
+                    },
+                    "name": {
+                        "label": "12siena"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3569497493"
+                },
+                "title": {
+                    "label": "Best game ever!"
+                },
+                "content": {
+                    "label": "This game is worth every penny you pay, it is fun, challenging, and has an unusual plot I have never seen before which is awesome because that is what makes it different from any other game. I recommend this to everyone who wants a game to love. AMAZING!!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id347407052"
+                    },
+                    "name": {
+                        "label": "Summerhills$"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3534968412"
+                },
+                "title": {
+                    "label": "Retro style"
+                },
+                "content": {
+                    "label": "Game flow, sound/music, & dialogue has a Super Nintendo game vibe—almost RPG in nature in how you can examine lots of objects & talk to lots of characters—-a game style I really enjoy. If you don’t like lots of plot, character development & detail, then you will not like this game. The puzzles are delightful, wether easy or hard, they are pretty intuitive if you’re right brained & creatively minded. I had no real major difficulty with any; it was just hard enough to be fun.  Very clever game structure, plot, unique non-cookie cutter characters—good enough to be made into a comic or cute show.  They just don’t make unique games like this like they used to—really worth every penny. Hope they make more!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id7723199"
+                    },
+                    "name": {
+                        "label": "ThePhwner"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3464627715"
+                },
+                "title": {
+                    "label": "Not sure if game or ebook"
+                },
+                "content": {
+                    "label": "The balance between reading and gameplay is way off for my tastes. I’m not sure if its just a painfully long intro or the whole game is like a book but it’s beyond frustrating and boring for an alleged puzzle game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id497231235"
+                    },
+                    "name": {
+                        "label": "jookiegirl"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3461113254"
+                },
+                "title": {
+                    "label": "Review"
+                },
+                "content": {
+                    "label": "It’s crazy fun",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id151769797"
+                    },
+                    "name": {
+                        "label": "misski0529"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3395807967"
+                },
+                "title": {
+                    "label": "My favorite game among all."
+                },
+                "content": {
+                    "label": "It’s been many years and I still want to play the 3rd time!\n\nPlease have new season or new game like this!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id774662769"
+                    },
+                    "name": {
+                        "label": "Lou in Louisville"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3331380970"
+                },
+                "title": {
+                    "label": "Not my cup of tea..."
+                },
+                "content": {
+                    "label": "The game is well written, has good graphics and a fun storyline but I just couldn’t get into it. I usually love games of “this type” but in all actuality, this game is in a category of its own. It has a weird concept that just didn’t pique my curiosity and give me that wonder and intrigue to wanna keep playing. But all because it’s not my kind of game doesn’t mean it deserves a bad rating. Maybe I’ll give it another try one day... but if you are looking for an odd adventure game with a good storyline, give it a whirl.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id897197481"
+                    },
+                    "name": {
+                        "label": "leonheart_cc"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3290004014"
+                },
+                "title": {
+                    "label": "Short And to The Point"
+                },
+                "content": {
+                    "label": "The dialogue is way too long\nThe tutorial is also too long\nThere’s no skip button to skip the dialogue and tutorial\nOther than that it’s all right",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id127481270"
+                    },
+                    "name": {
+                        "label": "iDan iKnight"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3241244751"
+                },
+                "title": {
+                    "label": "Could be good, but insufferably bloated"
+                },
+                "content": {
+                    "label": "I was intrigued, but every time you actually get to take some action, you then have to go through five minutes of the lamp telling you what you should do next, and explaining the situation in an extremely verbose manner. Then, when you finally get to make your next move, it is all over again five more minutes of incessant dialogue, tapping continue continue continue dozens of times. \n\nThis game could be beautiful, if only it weren’t 90% being told what you need to do and how to do it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id223839088"
+                    },
+                    "name": {
+                        "label": "Phrophetsam"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3231410369"
+                },
+                "title": {
+                    "label": "Still my favourite puzzle thriller on IOS"
+                },
+                "content": {
+                    "label": "I’d never felt urgency, empathy, and actual investment because of an Iphone game before this one. The characters are greatly well-written and he mystery actually surprises you in ways you didn’t expect. The touch controls are intuitive and ultimately makes the game a great one.\n\nPerhaps the best moment in the game is one where you’re rushing to complete the puzzle or to move your character faster. The reason you rush is because you know a character you like is going to die or fall into a trap or something of the sort. I’ve never felt that way about characters in an Iphone game before.\n\nBut of course this was originally released on DS.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "4"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id414350150"
+                    },
+                    "name": {
+                        "label": "Megaboyjdd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2999341194"
+                },
+                "title": {
+                    "label": "Very Good Game"
+                },
+                "content": {
+                    "label": "Hands down this is one of the best games I’ve played in a while. Although it has minor setbacks, and the beginning isn’t as good as the end, it is still a very good game that I would recommend to anyone who likes puzzles games or games involving a rich storyline. While I wish a sequel was made, I don’t think that will happen anytime soon.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id295385355"
+                    },
+                    "name": {
+                        "label": "Super slayin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2984350088"
+                },
+                "title": {
+                    "label": "Chapter Re-Purchase"
+                },
+                "content": {
+                    "label": "I played through the entirety of Ghost Trick a few years ago, and I must say it’s a wonderful game; unfortunately there is no sequel to continue the series, which is disappointing. After having an urge to Re-play the game, I downloaded it again only to find that the chapters I had bought were not available. In essence, if I want to replay the game again, I will have to re-purchase the episodes. Even so, the game is wonderful enough that I can easily justify a second purchase of the game. However, I hope that the bug is fixed for those who are in the same situation as me, but cannot afford a second purchase.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id446121392"
+                    },
+                    "name": {
+                        "label": "Capt.mal"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2970196013"
+                },
+                "title": {
+                    "label": "It is worth it"
+                },
+                "content": {
+                    "label": "One of the best games I have ever played on my phone. It is completely worth it to pay and play through the entire game. Absolutely amazing!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id116791675"
+                    },
+                    "name": {
+                        "label": "Patrickl27"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2926873396"
+                },
+                "title": {
+                    "label": "Fantastic story!"
+                },
+                "content": {
+                    "label": "This game has an incredibly engaging story, which is the main draw of the game. The gameplay mechanics are unique, but it’s the story that really sells it! I strongly recommend this game to anyone wanting to enjoy an immersive, exciting story. The user interface isn’t perfect, it looks like it’s a letterboxed form of a game ported from some other game system, but that doesn’t detract much from the enjoyment of the story for long. Definitely worth a try, especially with the 2 free chapters, even though it doesn’t look great at first. Just try it, you’ll be glad you did!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35941516"
+                    },
+                    "name": {
+                        "label": "Joeviwufhgkjhgre"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "2926598794"
+                },
+                "title": {
+                    "label": "Dealing with losing saved state"
+                },
+                "content": {
+                    "label": "When I’d save and come back, it started me in some random earlier chapter of the game. I “fixed” this by going to the main menu and using Continue or Chapter Select. This at least started me in the right chapter. As far as I could tell, it always started me in the beginning of the chapter, never at my actual save points, so I gave up on saving the game (apart from when the game would ask me if I wanted to save) and would pause my game play only as a new chapter started.\n\nIf it weren’t for this pretty bad bug, it’d be a 4-5 star game. It has a cool premise and interesting story line, although I do find the characterizations kinda sexist.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id554280197"
+                    },
+                    "name": {
+                        "label": "EMM_05"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2920540264"
+                },
+                "title": {
+                    "label": "Great game, unique characters, nice story"
+                },
+                "content": {
+                    "label": "First off\nThis game isn’t really free if you want to play ALL of it.\nIt’s actually 9.99.\nHowever, the first free chapter of it is pretty long for a demo.\nTook me an hour or so to complete\nI say the game is totally worth the money\nIf you weren’t broke like me :))\n5/5 !",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id210177159"
+                    },
+                    "name": {
+                        "label": "euclidfireflies"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2918999083"
+                },
+                "title": {
+                    "label": "Stellar!"
+                },
+                "content": {
+                    "label": "This is a great game that feels like you’re reading a good book and doing a puzzle at the same time. I really enjoyed this—I play a lot of games like Escape and the Room, but I really liked the drive of the plot in this game. 100% worth buying the whole game. My only complaint is that there need to be better save options/more “checkpoints” because I finished the very final puzzle and was about halfway through the ending dialogue when my phone died. When I reopened the app, I had to start all over again at the beginning of the final puzzle.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id674856947"
+                    },
+                    "name": {
+                        "label": "revrav1"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2910226943"
+                },
+                "title": {
+                    "label": "Definitely worth my money!"
+                },
+                "content": {
+                    "label": "The story was amazing and the puzzles were fun and interesting. The app also worked pretty well for me and it never really crashed. The story line was so good that I couldn’t put it down! I totally recommend!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id199823712"
+                    },
+                    "name": {
+                        "label": "NJShaw"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "2903096342"
+                },
+                "title": {
+                    "label": "Capcom’s take on Super Mario Run XP!!!!!"
+                },
+                "content": {
+                    "label": "This is a DEMO!!! You can clear a tutorial and two more scenes, then you have to either buy ‘chapters’ 3-7 then 8-13 then 14-end for $4.99 Each or all of the chapters at once for $9.99. This Is The Same Trick Nintendo Used For Super Mario Run And It Still REEKS!!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id678651895"
+                    },
+                    "name": {
+                        "label": "the anger my fortnite player"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2900425582"
+                },
+                "title": {
+                    "label": "Dont bother bying"
+                },
+                "content": {
+                    "label": "You can just emulate tge ds",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id141782650"
+                    },
+                    "name": {
+                        "label": "Socalclinton"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2900365167"
+                },
+                "title": {
+                    "label": "Sounds fun but..."
+                },
+                "content": {
+                    "label": "When I can’t tap or somehow move things along a little quicker and must wait for a slow moving introduction I delete. And this is slooooooow. 2 sentences at a time should only take a moment to read not 15 seconds.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id804387133"
+                    },
+                    "name": {
+                        "label": "Nunu Wassing"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06.00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2888768189"
+                },
+                "title": {
+                    "label": "Rad"
+                },
+                "content": {
+                    "label": "Definitely gonna buy the rest of the chapters in the future. The whole time I was playing I whispered to myself, “Ohhhhh, that’s so cool.” You can solve puzzles quickly IF you pay attention to the clues (which I didn’t realize at first). I also love the designs and personalities of each character.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=489113377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:38:28-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=489113377/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=489113377/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=489113377/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=489113377/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=489113377/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=489113377/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=489113377/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=489113377/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=489113377/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=489113377/sortBy=mostRecent/json"
+        }
+    }
+}

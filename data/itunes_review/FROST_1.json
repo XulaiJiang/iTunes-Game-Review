@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id263612573"
+                    },
+                    "name": {
+                        "label": "clarautis"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.14"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6686666847"
+                },
+                "title": {
+                    "label": "Frost alerts"
+                },
+                "content": {
+                    "label": "Not receiving frost alerts on my iPhone",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id434763010"
+                    },
+                    "name": {
+                        "label": "Rooster Tim"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.14"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6679597698"
+                },
+                "title": {
+                    "label": "Good, Needs 2FA"
+                },
+                "content": {
+                    "label": "I've used this app forever, it's very convenient. I could be wrong, but I don't see any options whatsoever to add two-factor authentication of any kind and I would really like that to be some kind of option. Just a recommendation",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id142868559"
+                    },
+                    "name": {
+                        "label": "CRPuser"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.13"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6652083202"
+                },
+                "title": {
+                    "label": "Landscape on iPad"
+                },
+                "content": {
+                    "label": "I really like the app on my phone but on my iPad it doesn’t support landscape mode and thats really bad for me because i use keyboard with my iPad so not really usable. I will give 5 stars when landscape mode works.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40240988"
+                    },
+                    "name": {
+                        "label": "Mikegreen_34"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.13"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6637659077"
+                },
+                "title": {
+                    "label": "Dark Mode"
+                },
+                "content": {
+                    "label": "The dark mode is visually and functionally great. I do wish I could toggle it on/off for the Frost App only, rather than having to make the iPhone software use dark mode.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id452647928"
+                    },
+                    "name": {
+                        "label": "DanielD14205"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.13"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6584105612"
+                },
+                "title": {
+                    "label": "Dark theme"
+                },
+                "content": {
+                    "label": "Looks great in the new color theme also I like the skyline image of Dallas very neat addition.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id910740084"
+                    },
+                    "name": {
+                        "label": "cbuddy843"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.9.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6485749657"
+                },
+                "title": {
+                    "label": "Just one thing missing"
+                },
+                "content": {
+                    "label": "Love the alerts but would rather it come from the app than a text on my phone... every swipe should be a app notification not a text message. Can be quite annoying, other than that I love it , just switched from Chime",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id129844128"
+                    },
+                    "name": {
+                        "label": "NorthTexasRedHead"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.9.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6344957920"
+                },
+                "title": {
+                    "label": "Can no longer access account"
+                },
+                "content": {
+                    "label": "Updated and now I can’t access my account. Just says whoops something went wrong.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id528388648"
+                    },
+                    "name": {
+                        "label": "182672$;!82,2@3)37;/"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6280475282"
+                },
+                "title": {
+                    "label": "I CANT OPEN UP MY APP"
+                },
+                "content": {
+                    "label": "It keep crashing & I just updated it🧐",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1044058757"
+                    },
+                    "name": {
+                        "label": "Frustrated-Patron"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6222570654"
+                },
+                "title": {
+                    "label": "Hate the home screen pictures"
+                },
+                "content": {
+                    "label": "I have a severe phobia of lizards and amphibians. Why does this app need to have pictures of these on home screen? Not everyone views it the same. Beauty from one perspective could be cause of death for another. I almost fell off a flight of stairs in fright while attempting to view my balance. Please this isn’t the first time I’m dealing with this almost always you’ll have a lizard on the home screen of the app causing me to go into panic attack and I have to ask someone to remove the app from my phone because I’m too frightened to look. Is there a way to disable this I don’t want to see a lizard on my screen again while launching the app!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id128912351"
+                    },
+                    "name": {
+                        "label": "ksandefer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.8"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6135275018"
+                },
+                "title": {
+                    "label": "Lacking!"
+                },
+                "content": {
+                    "label": "This app used to have more features, such as changing account settings, updating courtesy overdraft options, etc. Now, all you can do now is very basic banking within the app. If you need to do anything other than transfer or send mo way, you may as well try to find a computer because the app is useless.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id137782172"
+                    },
+                    "name": {
+                        "label": "READ ME):"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.7"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5996787950"
+                },
+                "title": {
+                    "label": "Can’t log in"
+                },
+                "content": {
+                    "label": "Trying to login, keeps telling me something is wrong and makes me call this 800 number. I like the new UX for this app though.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1112830972"
+                    },
+                    "name": {
+                        "label": "Blue Dragon's Chainmaille"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.7"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5851223185"
+                },
+                "title": {
+                    "label": "..."
+                },
+                "content": {
+                    "label": "...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id268412046"
+                    },
+                    "name": {
+                        "label": "JJ💋"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.6"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5638344684"
+                },
+                "title": {
+                    "label": "More Privacy"
+                },
+                "content": {
+                    "label": "I don’t really have much concerns with the app; however, I am not happy with the white background. I feel when I pull up my bank accounts with the app, it’s so bright where everyone would be able to see. I normally have to deem the light on my phone, before I pull up the app. I believe before it wasn’t as bright as it is now. Overall, I can’t help but love Frost Bank.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id107253298"
+                    },
+                    "name": {
+                        "label": "Leeppy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.6"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5582619839"
+                },
+                "title": {
+                    "label": "Redesign isnt as appealing, needs dark mode"
+                },
+                "content": {
+                    "label": "I understand the decisions behind why the redesign looks the way it does, but an all white app just isn’t appealing. At the very least, there should be a dark mode to save my eyes and phone battery.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id209588324"
+                    },
+                    "name": {
+                        "label": "BClassy135"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.6"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5554744083"
+                },
+                "title": {
+                    "label": "Revised App"
+                },
+                "content": {
+                    "label": "When Frost Bank revised the app last year, it lost my support, as it did not work on the latest IPAD. In the past I had been able to juggle by many business accounts on the iPad, and now I have to use the laptop. Sounds a little backwards, as most everything is migrating now to tablets and phones, and yet this app went backwards. Many calls to technical support, but no changes to date. Otherwise, I love Frost Bank and their personal service. Technology is definitely behind!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24474431"
+                    },
+                    "name": {
+                        "label": "Jeaniebop"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.5"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5499944213"
+                },
+                "title": {
+                    "label": "iPhone 11 Pro"
+                },
+                "content": {
+                    "label": "Won’t open with Face ID and won’t give me the option to even log in with password. Just won’t open. And it JUST updated minutes ago.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33558621"
+                    },
+                    "name": {
+                        "label": "caninekip"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5439412499"
+                },
+                "title": {
+                    "label": "Clunky at best"
+                },
+                "content": {
+                    "label": "With the \"new\" update Frost's app is clunky. Previously, you were able to select and copy routing and account numbers. This version removed that ability. What's more, as with all version of Frost's app, the user has to click for FaceId to load. I guess Frost wants its customers to view the photo of the day. \n\nTake cues from the USAA app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id14428889"
+                    },
+                    "name": {
+                        "label": "fj999"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5429599673"
+                },
+                "title": {
+                    "label": "Worst Update Ever"
+                },
+                "content": {
+                    "label": "This app is now a complete disaster since the major “update” a couple of months ago.  Nothing gets fixed and it remains glitchy and difficult as ever.  Web site is just as bad.  Everyone in the IT department should be thoroughly embarrassed by this terrible design, and why management can’t get this fixed is amazing.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id237821958"
+                    },
+                    "name": {
+                        "label": "Lydia Palacios"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5408818608"
+                },
+                "title": {
+                    "label": "Love & Frustration"
+                },
+                "content": {
+                    "label": "Love the Frost App but frustrated that I am unable to add an iCloud email account to receive money from Zelle. Have tried all things possible without success! Both Frost and Zelle were unable to help me.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42002070"
+                    },
+                    "name": {
+                        "label": "wavetracer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5399137728"
+                },
+                "title": {
+                    "label": "Zero stars if I could"
+                },
+                "content": {
+                    "label": "Arbitrarily lowered the mobile deposit limit from $25,000 to $2,500. Tried calling to clear this up and was put on hold AN HOUR AND A HALF and still never got through. I’ve been a Frost Bank customer for over twenty years, never had an issue but over the past few months customer service and this app have taken a nosedive. Am closing my account tomorrow.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id161883658"
+                    },
+                    "name": {
+                        "label": "Noonen"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "5.6"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5395663864"
+                },
+                "title": {
+                    "label": "Why not designed for use with older versions of iOS?"
+                },
+                "content": {
+                    "label": "It is irritating that some app updates, including this one, may require a person to update their iOS, which consumes more space and may in effect render a phone inoperable. \nFurther, if you continue to do updates make sure they really are that much better than what existed. Constant updates with marginal improvements and also annoying. \n\niOS updates is a sneaky way apple makes people's phones become obsolete or inoperable thus requiring a new phone. Your app requiring newer iOS is further supporting the apple greed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id85213740"
+                    },
+                    "name": {
+                        "label": "GRIM1234"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5394744104"
+                },
+                "title": {
+                    "label": "Can not login"
+                },
+                "content": {
+                    "label": "Attempting to login but unable keeps crashing fix asap",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id412735215"
+                    },
+                    "name": {
+                        "label": "MsTareesa"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5390285201"
+                },
+                "title": {
+                    "label": "Now it crashes"
+                },
+                "content": {
+                    "label": "The most recent update causes the app to crash right after signing in with pin.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id438277920"
+                    },
+                    "name": {
+                        "label": "oxoxxox"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5341425055"
+                },
+                "title": {
+                    "label": "Fix it"
+                },
+                "content": {
+                    "label": "I’ll never understand why you change something when it works beautifully. I loved the old format but the new one is horrible.\nWhy fix something when it’s not broke. I’ll never understand.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id111056859"
+                    },
+                    "name": {
+                        "label": "whensealance"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5310440549"
+                },
+                "title": {
+                    "label": "new app update causes Frost app to crash after entering security code"
+                },
+                "content": {
+                    "label": "I using an iPadAir at its most recent iOS update and the old Frost app version worked extremely well.  The current version crashes upon signing in... I see an erroneous checking & savings amount and then screen goes dark and app has closed.  Please fix ASAP and I update my rating back to 5 stars.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id279226724"
+                    },
+                    "name": {
+                        "label": "kakrhd sn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5302694180"
+                },
+                "title": {
+                    "label": "Needs a widget"
+                },
+                "content": {
+                    "label": "App is great so far but would be great if it had a widget or a watch app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id902853054"
+                    },
+                    "name": {
+                        "label": "lalo956"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5288848403"
+                },
+                "title": {
+                    "label": "Takes time to get use too, but it is better."
+                },
+                "content": {
+                    "label": "I was super use to the older app and was not liking the new one. Once I got use to it I love it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id105800684"
+                    },
+                    "name": {
+                        "label": "Stdcms56"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5273153838"
+                },
+                "title": {
+                    "label": "Always “Temporarily Unavailable”"
+                },
+                "content": {
+                    "label": "So often I try to log in and get a message stating “it looks like something unexpected happened. Please try again later.” This is extremely frustrating, considering my money is involved.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id425912469"
+                    },
+                    "name": {
+                        "label": "danSatisfiedListener"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5240457231"
+                },
+                "title": {
+                    "label": "Recently refreshed"
+                },
+                "content": {
+                    "label": "Their new app is much cleaner and has more functionality. Pretty sure their star rating will be getting better with recent versions of the app. Glad they’re improving the app experience and website for that matter which is much improved as well.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id104614552"
+                    },
+                    "name": {
+                        "label": "Dee44713"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5240413728"
+                },
+                "title": {
+                    "label": "Temporary Unavailable"
+                },
+                "content": {
+                    "label": "The app is always having issues on iOS. I log in with Face ID and the circle spins for a few seconds and then a message pops up saying, “Sorry, the Frost app is temporarily unavailable.” Then it will give me the option to call Frost. This has been going on for a few weeks now on and off. I will probably be taking my business to another bank just because this app is so poor.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id502340990"
+                    },
+                    "name": {
+                        "label": "summit cruiser"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5237873111"
+                },
+                "title": {
+                    "label": "Slight improvement"
+                },
+                "content": {
+                    "label": "Slight improvement with today’s new update. Can at least see all four of my accounts on the same screen. Still the account transaction view has way too much white space between transactions requiring excessive scrolling. Location functionality is still very bad. My location isn’t even centered on the map! Please provide an option for list of branches by distance rather than the inadequate mapping. Finally, please fix Mobile Check Deposit. In previous versions the app automatically moved to step 2 for endorsement image after accepting step 1’s front of check capture. Now we have to press another button to move to step 2. Fix these three things and you’ll be back to 4 stars.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id144900805"
+                    },
+                    "name": {
+                        "label": "Agxkvkosfhqooqp"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5237616444"
+                },
+                "title": {
+                    "label": "Rarely works"
+                },
+                "content": {
+                    "label": "This app is down far more often than it actually functions, whether because “we’ve experienced something unexpected” or just maintenance at random points ALL the time",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id206111431"
+                    },
+                    "name": {
+                        "label": "Lester 84"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5233785125"
+                },
+                "title": {
+                    "label": "New Version is terrible"
+                },
+                "content": {
+                    "label": "This app was much better before they “improved” it a few weeks ago. \nIt’s new but definitely not improved. Frost is a great company but they missed the mark on this update.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id458216409"
+                    },
+                    "name": {
+                        "label": "really annoyed %#¥*%€>@&$"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5172872051"
+                },
+                "title": {
+                    "label": "No good!!"
+                },
+                "content": {
+                    "label": "Can’t open the new app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id502700574"
+                    },
+                    "name": {
+                        "label": "michaelbubbleinfrance"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5169058435"
+                },
+                "title": {
+                    "label": "Clean design."
+                },
+                "content": {
+                    "label": "Love the new design. Clean. Fresh.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25595905"
+                    },
+                    "name": {
+                        "label": "froglover125"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5168464856"
+                },
+                "title": {
+                    "label": "Needs improvement"
+                },
+                "content": {
+                    "label": "Update 11/19. Developer contacted me apologizing and claiming they have done updates . Of course they didn’t address the ones on this review. Was not expecting to have them done so soon, but should’ve acknowledged them. The response seems like a “canned message”.\n\nDowngraded to 1 star. \n\nThe looks are OK, but the functionality leaves a lot to be desired. On the Chase app I am able to use face ID as a single login to both personal and business accounts,  here I cannot. Not understanding why. Also, why can’t I use face ID for a single account even when selecting the account I want to access?  Obviously it has been proven that FaceID is very safe. Not sure why spend money to “modernize “ a look vs provide better features. Thanks",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22624991"
+                    },
+                    "name": {
+                        "label": "BB8ismychild"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5146665905"
+                },
+                "title": {
+                    "label": "UNEXPECTED ERROR"
+                },
+                "content": {
+                    "label": "a girl is just trying to deposit her paycheck after a long day and it keeps telling me to try again later LIKE IS THIS A BANKING APP OR MAGIC 8 BALL C'MON",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42467924"
+                    },
+                    "name": {
+                        "label": "mld2443"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.1"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5143497529"
+                },
+                "title": {
+                    "label": "Slower and worse than the old app"
+                },
+                "content": {
+                    "label": "Swipe to go back is broken with a new side menu, in order to go to the previous page, I have to press the button in the upper left. This breaks one handed usage for me.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id917141524"
+                    },
+                    "name": {
+                        "label": "BorgHumanDrone"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5142897952"
+                },
+                "title": {
+                    "label": "New update"
+                },
+                "content": {
+                    "label": "The newest update that completely changed everything looks awful, it was way better before.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37255562"
+                    },
+                    "name": {
+                        "label": "Jedimeo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5139546892"
+                },
+                "title": {
+                    "label": "Stay away from Frost they will cut off your own funds!"
+                },
+                "content": {
+                    "label": "Do not use Frost they are horrible about leaving you stranded when your money is available. They left me without funds in Russia when I did let them know I was there. When getting a lyft tonight it was declined. Do not use frost they will cut you off even when you follow there actions for your account. It takes forever to talk to a representative I’m almost at 10 minutes now. Do not use frost and will make sure that I let all 8000 of our employees not to use them.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id13664060"
+                    },
+                    "name": {
+                        "label": "rubdom"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5137725149"
+                },
+                "title": {
+                    "label": "New version is broken"
+                },
+                "content": {
+                    "label": "The new version of the app won’t let me deposit checks. I keep getting an error. It’s also very slow compared to the old version. It looks like the new version is just cosmetic and it’s not very intuitive. I have to hunt to find things. The worst part is it’s broken and I can’t conduct business now. Can we please get the old app back until the bugs are worked out?  I don’t have time to go to the bank to deposit checks and fill out deposit forms etc.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30738116"
+                    },
+                    "name": {
+                        "label": "Tinadoodles"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5137543464"
+                },
+                "title": {
+                    "label": "Bad update"
+                },
+                "content": {
+                    "label": "Things look neat on this update but deposit feature takes way longer to use and most of the time o get a “something went wrong” message. It’s a bummer. I’ve used Frost for over 15 years and loved this because there aren’t a lot of locations by where I live. Please fix!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id111060816"
+                    },
+                    "name": {
+                        "label": "Tomjung09"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5134263487"
+                },
+                "title": {
+                    "label": "Can’t deposit on new app"
+                },
+                "content": {
+                    "label": "I get an error every time I try to make a deposit. Very frustrating",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id269386958"
+                    },
+                    "name": {
+                        "label": "Jaly26"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5132330818"
+                },
+                "title": {
+                    "label": "New version extremely slow"
+                },
+                "content": {
+                    "label": "Nothing was wrong with the old app. Worked fine. “New and improved” is awful. If lucky, it will take four minutes to deposit a check. If unlucky, you will waste that four minutes for the app to then crash and tell you to try later as can’t access accounts. Woeful.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37521946"
+                    },
+                    "name": {
+                        "label": "MostSuperYay"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5129807507"
+                },
+                "title": {
+                    "label": "Love the new design"
+                },
+                "content": {
+                    "label": "Super clean and intuitive. Thank you Frost!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id157456507"
+                    },
+                    "name": {
+                        "label": "Jay797989545342435568"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5108045055"
+                },
+                "title": {
+                    "label": "Horrible useless update"
+                },
+                "content": {
+                    "label": "I am a Lifelong Frost customer with multiple accounts.  Whoever came up with this update needs to be transferred to another department. Horrible interface with much harder to read information.  I have stopped using the app.   Please go back to previous version until a real, better update is ready.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id162623577"
+                    },
+                    "name": {
+                        "label": "won'tletmeuseanyf*ingname"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5107371346"
+                },
+                "title": {
+                    "label": "11/8/19 DON’T DOWNLOAD THIS UPDATED APP"
+                },
+                "content": {
+                    "label": "The prior version was fabulous.  Downloaded this monstrosity 2 days ago and haven’t been able to do a mobile deposit since.  Aaaaaack!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id168590575"
+                    },
+                    "name": {
+                        "label": "Gilly. J"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5104946606"
+                },
+                "title": {
+                    "label": "Looks very generic compared to previous version."
+                },
+                "content": {
+                    "label": "I had to wonder if this was the real sight or if my phone was hacked.  The whole set up/lay out looks generic as opposed to the previous version.  It also seems to move slower than the previous one.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id606413900"
+                    },
+                    "name": {
+                        "label": "Ormal777"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5104811075"
+                },
+                "title": {
+                    "label": "Dark Mode"
+                },
+                "content": {
+                    "label": "Love the new update!! Did you please add the Dark Mode! TIA!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id316278149"
+                    },
+                    "name": {
+                        "label": "AliceDallas29"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "6.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5104566551"
+                },
+                "title": {
+                    "label": "Bad Design"
+                },
+                "content": {
+                    "label": "The new “modern” look they talk about was not well thought through nor implemented- the inflows and outflows are nearly the same color and so you cannot easily distinguish between your debits and credits. This is an easy fix. Come on guys!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=605494138&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:27:21-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=605494138/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=605494138/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=605494138/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=9/id=605494138/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=605494138/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=605494138/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=605494138/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=605494138/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=605494138/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=605494138/sortBy=mostRecent/json"
+        }
+    }
+}

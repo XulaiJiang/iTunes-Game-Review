@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33228300"
+                    },
+                    "name": {
+                        "label": "JT in Oakland"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6688804571"
+                },
+                "title": {
+                    "label": "Brain-teaser puzzles, beautiful design"
+                },
+                "content": {
+                    "label": "I like puzzles, so it was a no-brainer (ha) to buy this. I loved the sometimes challenging puzzles, and the lack of explanation. Even when I felt stuck, I didn’t feel frustrated. It was a beautiful world to hang out in.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33463913"
+                    },
+                    "name": {
+                        "label": "Candaleesa"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6671035430"
+                },
+                "title": {
+                    "label": "Love the Artwork but game has No sound :("
+                },
+                "content": {
+                    "label": "I sent an email to App Support but haven’t heard back.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id150977667"
+                    },
+                    "name": {
+                        "label": "Laura L Pierce"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6665941209"
+                },
+                "title": {
+                    "label": "Doesn’t work, no response from support"
+                },
+                "content": {
+                    "label": "I downloaded this after seeing NY Times recommendation. When I try to open, I get a blank grey screen. I emailed their help desk, no response. I guess I will try for refund, but not happy. Would prefer help.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id122358621"
+                    },
+                    "name": {
+                        "label": "lessagrrrl"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6649617008"
+                },
+                "title": {
+                    "label": "NYTimes was right"
+                },
+                "content": {
+                    "label": "I read about this in yesterday’s NYTimes article about video games taking the edge off. What a satisfying way to spend a Sunday morning- beautiful, clever puzzles and interactions. Like many reviewers, I happily await more.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id491405137"
+                    },
+                    "name": {
+                        "label": "only two?!"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6637619211"
+                },
+                "title": {
+                    "label": "Ok"
+                },
+                "content": {
+                    "label": "I like it but it’s very tricky I think you should make it easier and I got stuck with pictures",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id712179555"
+                    },
+                    "name": {
+                        "label": "Midlife Reckoning"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6623057678"
+                },
+                "title": {
+                    "label": "Best $5 I ever spent!!!!!"
+                },
+                "content": {
+                    "label": "Loved this game! The artwork, creativity, and layered storyline were remarkable. My 11 year old son and I loved participating in this adventure together! Get it! Captivating!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id939177065"
+                    },
+                    "name": {
+                        "label": "chromakee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6609703096"
+                },
+                "title": {
+                    "label": "I bought this game on accident but it was a fun play"
+                },
+                "content": {
+                    "label": "I bought this game on accident thinking it was a demo or free and just noticed as I authorized it that it was a paid app. Due to that, I decided to actually play it through since I spent the money, and while it was what I spent my time on instead of what I was supposed to do that afternoon, I found the game to be thoroughly entertaining and very well drawn. The art is part of the perks in this game. Puzzles were fun, I was very confused at first as I had no idea what it was apart from it is a puzzle game but eventually I got the hang of it and the puzzles became more addicting and was a satisfying play-through. \nI would have liked it to be even longer or have more chapters, because it is good. For the time and entertainment it was a decent return. \nI will likely look for more by this creator because of that. Accidental buy in this case is now a fan of this enterprise so it’s nice to discover something like that when I wasn’t expecting to. \nI don’t typically do reviews but given this circumstance I thought I’d put this out there.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32364363"
+                    },
+                    "name": {
+                        "label": "JasonC71"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6573780441"
+                },
+                "title": {
+                    "label": "Beautiful, clever and artistic!"
+                },
+                "content": {
+                    "label": "This game transports you to a world of make believe. What is hiding behind here? What does this do? At the heart of it though, it makes you think outside the boxes of normal physics and reality. I finished in a few hours, just wish there was more!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id111282387"
+                    },
+                    "name": {
+                        "label": "Smashbag"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6557093385"
+                },
+                "title": {
+                    "label": "What is the point of this game?"
+                },
+                "content": {
+                    "label": "There is none. It’s Pointless. Don’t waste your money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id368780762"
+                    },
+                    "name": {
+                        "label": "Arachnophobic2"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6522561088"
+                },
+                "title": {
+                    "label": "Was enjoying it but...."
+                },
+                "content": {
+                    "label": "It’s been crashing like mad over the past 2-3 weeks.  I uninstalled other software in case I was running low on memory but it didn’t seem to help.   Any advice would be great. Thank you in advance.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id31528744"
+                    },
+                    "name": {
+                        "label": "gstaadin98"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6501432546"
+                },
+                "title": {
+                    "label": "Fascinating game!"
+                },
+                "content": {
+                    "label": "This game receiving the 2018 game of the year was certainly well desevered. I hope there is more to come from Jason Roberts and his development team. You will not regret buying this game but play it on iPad and not an iPhone. The game is considerably more enjoyable and you will understand how the pieces all go together on a larger screen.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id19175549"
+                    },
+                    "name": {
+                        "label": "Adulteress"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6473583613"
+                },
+                "title": {
+                    "label": "Most Beautiful and Intelligent Game Ever"
+                },
+                "content": {
+                    "label": "I am so glad the developer updated the game for iOS systems newer than 12. \nThis is quite a difficult game that makes you think in new ways, much different from the usual games. \nLovely graphics and an intelligent story make this a pleasure to play.\nI wish the developer made more games like this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id218376984"
+                    },
+                    "name": {
+                        "label": "Sanqofa"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6462037063"
+                },
+                "title": {
+                    "label": "It’s a Puzzler"
+                },
+                "content": {
+                    "label": "I love it!  Once you get that nothing within the puzzle is as it appears. The quest is live and compelling. \n\nWhen I completed it... I was mad... because I wanted more!\n\nWhen I went back to the App Store this was it!\n\nSay it’s not soooooo\n\nPlease create more riveting puzzles!\n\nMannn I’m sad it’s over \n\nAnd nothing else compares to this!\n\nThanks Developers!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id172253917"
+                    },
+                    "name": {
+                        "label": "Mickwine"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6441660822"
+                },
+                "title": {
+                    "label": "Amazing game. Too short."
+                },
+                "content": {
+                    "label": "This is an amazing, beautiful, creative, relaxing, superb, innovative game. Somewhat reminiscent of Monument Valley in that it is a multidimensional puzzle game but very different as well and so well worth the price and play time. This isn’t a challenging puzzle game. It is more of a relaxing interactive short story. \n\nMy only complaint is that it is too short. I finished it in barely 3 sittings. It was so compelling I raced through it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id104597207"
+                    },
+                    "name": {
+                        "label": "loveloveca dy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6372653119"
+                },
+                "title": {
+                    "label": "Frustrating"
+                },
+                "content": {
+                    "label": "Doesn’t save progress if you take a break from it for longer than an hour.  Had to retrace my steps twice and finally gave up when I was through Chapter Five and lost most of the five chapters.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1094934134"
+                    },
+                    "name": {
+                        "label": "Dumas pere"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6353064206"
+                },
+                "title": {
+                    "label": "Unfortunately unstable"
+                },
+                "content": {
+                    "label": "It’s unique and enjoyable. But it started to crash randomly, and sometimes forced me to start over from the beginning.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id131583484"
+                    },
+                    "name": {
+                        "label": "Slivvy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6303962991"
+                },
+                "title": {
+                    "label": "Fantastic"
+                },
+                "content": {
+                    "label": "Do yourself a favor and get this one.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26899340"
+                    },
+                    "name": {
+                        "label": "bprokee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6295070290"
+                },
+                "title": {
+                    "label": "Small Play Area- wasting the big screen."
+                },
+                "content": {
+                    "label": "I wish the play areas were larger.  The actual game only uses a small portion of the screen. \n\nThis game would be better if the box in which the game play happed were bigger.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1122048684"
+                    },
+                    "name": {
+                        "label": "scyphozoarose"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6289555758"
+                },
+                "title": {
+                    "label": "Most unique and intriguing game EVER."
+                },
+                "content": {
+                    "label": "Worth every penny, I wish there was a second one! The people who designed this game are true artists. Thank you for such a fascinating gaming experience!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1197701513"
+                    },
+                    "name": {
+                        "label": "mindgames10187"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6287911129"
+                },
+                "title": {
+                    "label": "Amazing!!"
+                },
+                "content": {
+                    "label": "I absolutely loved this game. The only thing I would want to change is the length, it was way to short. Other than that I loved it. I think it calls for a series for sure!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16935677"
+                    },
+                    "name": {
+                        "label": "Shiny0bjekt"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6277509479"
+                },
+                "title": {
+                    "label": "Short but worth the price of a beer"
+                },
+                "content": {
+                    "label": "Kept me entertained for an hour or so. Beat it, enjoyed it, and deleted it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id290045955"
+                    },
+                    "name": {
+                        "label": "PMWom"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6253219862"
+                },
+                "title": {
+                    "label": "Unforgettable"
+                },
+                "content": {
+                    "label": "This game is a pleasure to play and a joy to see. If you love gorgeous design, puzzles, and an amazing storyline then you must try this one. Definitely binge worthy and warm chocolate for the soul.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id659325127"
+                    },
+                    "name": {
+                        "label": "atmaomega"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6231527173"
+                },
+                "title": {
+                    "label": "5⭐️‘s ✔️💯"
+                },
+                "content": {
+                    "label": "Hands down a great and beautiful game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id508651733"
+                    },
+                    "name": {
+                        "label": "Letsgodiving"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6214634419"
+                },
+                "title": {
+                    "label": "Wow"
+                },
+                "content": {
+                    "label": "Very unique and engaging,...for me , this was a very emotional journey ,...and I’m a man’s man,...I don’t cry, and I don’t get emotional. Dependable and solid as a rock,...hope my review gives you an idea how incredible this game is.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42994248"
+                    },
+                    "name": {
+                        "label": "Clams Maloney"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6154859726"
+                },
+                "title": {
+                    "label": "Short but challenging"
+                },
+                "content": {
+                    "label": "This puzzle hurt my brain. In a good way. Definitely shorter than I anticipated, but still a fun little adventure.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id126205667"
+                    },
+                    "name": {
+                        "label": "Trazko"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6098075747"
+                },
+                "title": {
+                    "label": "One of the best how about some more?"
+                },
+                "content": {
+                    "label": "One of the best how about some more?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id501964379"
+                    },
+                    "name": {
+                        "label": "lolman1234567271"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6069403112"
+                },
+                "title": {
+                    "label": "Won’t stop crashing"
+                },
+                "content": {
+                    "label": "Please stop crashing",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id202294374"
+                    },
+                    "name": {
+                        "label": "ughhhhhhh "
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6044046553"
+                },
+                "title": {
+                    "label": "Absolutely love this game"
+                },
+                "content": {
+                    "label": "This app is beautifully made and can be challenging yet calming.  I hope you add more to this game in the future, I could play this forever.  Love it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id460149835"
+                    },
+                    "name": {
+                        "label": "alderaanmoves"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6031988207"
+                },
+                "title": {
+                    "label": "Really beautiful..."
+                },
+                "content": {
+                    "label": "but I wish it was longer.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id661583988"
+                    },
+                    "name": {
+                        "label": "Sher1K"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5998976803"
+                },
+                "title": {
+                    "label": "Tragedy, fun, epic, story all in this masterpiece"
+                },
+                "content": {
+                    "label": "Don’t miss this game if you want to be experienced something nice before you die. Well done project!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1122776619"
+                    },
+                    "name": {
+                        "label": "Livid Viv"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5993322012"
+                },
+                "title": {
+                    "label": "Uniquely different and refreshingly so"
+                },
+                "content": {
+                    "label": "I really love this game, both for it’s artistry and it’s story.  I played the game many times just to better understand the story and I found it complex and interesting.  I see a lot of comparison to this and the Room series, which I really don’t see the similarities other than the fact they are puzzle games. As an Escape Room owner I kind of find the comparisons between the two games irrelevant unless you are thinking these puzzle games are the same or similar, because they are not.  There are different ideologies of what defines a puzzle between the two games.  It’s perhaps these very differences are what make me enjoy this game so much.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id120366894"
+                    },
+                    "name": {
+                        "label": "xamcatt70"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5989489732"
+                },
+                "title": {
+                    "label": "$5 !!!!!! Crazy!!! Too expensive"
+                },
+                "content": {
+                    "label": "I was amazed by the graphics and designed. Didn’t imagine that it would have last less than 24hrs for my 9yr old complete. Very upsetting.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27059478"
+                    },
+                    "name": {
+                        "label": "DrowsyKitten"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5982603232"
+                },
+                "title": {
+                    "label": "Feels like 1 level of a larger game"
+                },
+                "content": {
+                    "label": "This game is for sure beautiful.  That’s basically what you’re paying for, a stroll through someone’s art. Like an interactive museum. \n\nThe puzzles are mostly intuitive and the gameplay is super creative. But it’s $5 and over so quickly you don’t actually get much satisfaction out of it. Just when you start to grasp the gameplay elements, it’s over.\n\nFor me, this felt like a tutorial chapter of a much larger game. Only there is no larger game, that’s all you get. I’m not gonna lie, I felt ripped off. I love the concept and the art, but this is a dollar to a buck fifty of my time at best. To charge me $5 for an hour long game with zero replayability is ridiculous.  \n\nMy advice? Buy it if it ever goes on sale for a buck (can you believe this bite sized game is $14.99 on Steam???  What the literal turds, I don’t pay $14.99 for most high budget games why I’m gonna pay $14.99 for a nibble?).",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id85693040"
+                    },
+                    "name": {
+                        "label": "Ninababy8"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5947880057"
+                },
+                "title": {
+                    "label": "Not intuitive for me"
+                },
+                "content": {
+                    "label": "Very beautiful and I love this concept.  But it just frustrates me.  Even looking at a walkthrough does not help.  I can’t get into it because it does not make sense to me.   Want my 5 bucks back!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id140726054"
+                    },
+                    "name": {
+                        "label": "bdnshade"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5940770923"
+                },
+                "title": {
+                    "label": "Too confusing"
+                },
+                "content": {
+                    "label": "I agree with another review, ‘bored confusion’. It is beautiful but most games are these days. I was just not a fan and these days don’t need any more grief and confusion especially in a silly game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id552348596"
+                    },
+                    "name": {
+                        "label": "specialspicy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5934315600"
+                },
+                "title": {
+                    "label": "confusing,, but i want to learn"
+                },
+                "content": {
+                    "label": "i’m stuck?? there are no hints? i have an iphone xs so it could just be glitching?? i want to play this game but nothing is intuitive and i feel like i’m at a dead end. i’ve been playing for ten minutes and i have no idea what’s going on. i’m stuck on a page with a crow?? :( i had high hopes. i’m just super frustrated bc the game is beautiful but i can’t progress. :/",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33881428"
+                    },
+                    "name": {
+                        "label": "Taapl"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5917612679"
+                },
+                "title": {
+                    "label": "A brilliant experience when it works"
+                },
+                "content": {
+                    "label": "There are a number of bugs with the chapter state. I’ve been really enjoying this game but this last bug is making me quit.\n\nIt crashed and lost all my game progress. Four chapters in, just wiped out, back to the beginning.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id117023888"
+                    },
+                    "name": {
+                        "label": "NG3693"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5799913860"
+                },
+                "title": {
+                    "label": "I want more!"
+                },
+                "content": {
+                    "label": "SUCH a beautiful and clever storyline! The artwork and puzzles are beautifuly done. Draws you right in. I am at the edge of my seat for another.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id146072073"
+                    },
+                    "name": {
+                        "label": "Seridari"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5787434781"
+                },
+                "title": {
+                    "label": "Nice but shorter than expected"
+                },
+                "content": {
+                    "label": "This is a truly different experience than regular puzzle games. I am a fan of escape games. I found Gorogoa very different than most other games. Gorgeous artwork with nice puzzles. But I was expecting at least 2-3 times longer experience with its cost. Overall I enjoyed it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id194369494"
+                    },
+                    "name": {
+                        "label": "Mr Tapsnapp"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5761988029"
+                },
+                "title": {
+                    "label": "Mindending Thought Puzzle"
+                },
+                "content": {
+                    "label": "What a great game that takes you into a unexpected world that removes any notion of what you thought a game *should* be to a game that *can* be. Amazing puzzles that almost asks you to let go of preconceived ideas and let the game take take you a part of your brain that combines spirit and mind. Enjoyed it to the fullest but mind you your expectations of puzzle games will rise.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id138207624"
+                    },
+                    "name": {
+                        "label": "SaraIGuess"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5728565385"
+                },
+                "title": {
+                    "label": "A puzzle game unlike any other!"
+                },
+                "content": {
+                    "label": "This game seamlessly weaves together puzzle, art, and story in ways that I’ve never seen before in a game. I was constantly surprised and delighted!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16862557"
+                    },
+                    "name": {
+                        "label": "Enolafay"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5657933078"
+                },
+                "title": {
+                    "label": "Wonderful and beautiful"
+                },
+                "content": {
+                    "label": "Although it might not be as deep in plot or have as wide a variety of game mechanics, compared to other puzzle games, Gorogoa’s art is absolutely stunning and the puzzle mechanics unique enough to keep you entertained the whole time.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22783492"
+                    },
+                    "name": {
+                        "label": "BexBru"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5598799249"
+                },
+                "title": {
+                    "label": "Gorgeous adventure"
+                },
+                "content": {
+                    "label": "Such a unique and engaging experience. It’s incredibly hard to describe—just play and relish in the feeling of childlike wonder and mystery that it brings. Lovely artwork and underlying story, too.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1107329437"
+                    },
+                    "name": {
+                        "label": "lanka_lee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5534980980"
+                },
+                "title": {
+                    "label": "bravo"
+                },
+                "content": {
+                    "label": "难以置信的是2012年就有这么优秀的游戏而我今天才知道。",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id595118444"
+                    },
+                    "name": {
+                        "label": "puzzle.lover1845"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5508870268"
+                },
+                "title": {
+                    "label": "Great game but..."
+                },
+                "content": {
+                    "label": "This game has great graphics and animation, I wish there was more content and I wish I would have know that it was only about an 1:30 worth of content before I spent $5 for the game. I appreciate the graphics but the price is way too high for the amount of content there actually is.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16987585"
+                    },
+                    "name": {
+                        "label": "Gamer314314"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5496589455"
+                },
+                "title": {
+                    "label": "Fantastic game"
+                },
+                "content": {
+                    "label": "I wish the developer would make more like this. There’s nothing quite like it. The graphics, the music, the story, it all works well.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id15160646"
+                    },
+                    "name": {
+                        "label": "hanarchy11"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5489094151"
+                },
+                "title": {
+                    "label": "Beautiful and tricky"
+                },
+                "content": {
+                    "label": "LOVED THIS GAME. The artwork is great. The puzzles are challenging but not impossible. I love the way the mechanics work. I would 100% play another. Highly recommended.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id453255219"
+                    },
+                    "name": {
+                        "label": "Kmlowe723"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5460735442"
+                },
+                "title": {
+                    "label": "Beautiful game!"
+                },
+                "content": {
+                    "label": "This is the best game I have ever downloaded! It was challenging but not so bad that I got frustrated. Visually beautiful to play. I’m sorry it ended, I could play this one everyday!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id144149982"
+                    },
+                    "name": {
+                        "label": "Karmacita"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5453326998"
+                },
+                "title": {
+                    "label": "Overall Great Game"
+                },
+                "content": {
+                    "label": "Would be nice if it lasted longer for the price.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id5053338"
+                    },
+                    "name": {
+                        "label": "Tomalaya"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5403150400"
+                },
+                "title": {
+                    "label": "This game is a mess"
+                },
+                "content": {
+                    "label": "It’s pretty, I’ll give it that, and in theory a new and unique type of puzzle: but play wise, this game is a mess. It is really unclear what you’re trying to accomplish, or if you have accomplished something, or if you’re undoing anything that may have been going right. Most of the time you’re just randomly tapping and dragging, and don’t even know if you’re progressing. To get an idea of this, go look up a walkthrough about this game - even those are messes because it is so hard to describe what this game is doing. Maybe there’ll be a sequel where they’ve figured out how to make it playable and pretty, but for this freshman offering I’d pass.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1269225754&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:19:28-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1269225754/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1269225754/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1269225754/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=1269225754/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1269225754/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1269225754/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1269225754/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1269225754/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1269225754/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1269225754/sortBy=mostRecent/json"
+        }
+    }
+}

@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id261283206"
+                    },
+                    "name": {
+                        "label": ",!,!,!,!,!,!,"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6692229900"
+                },
+                "title": {
+                    "label": "Keeps crashing"
+                },
+                "content": {
+                    "label": "My game won’t stop crashing",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id290949070"
+                    },
+                    "name": {
+                        "label": "Locohwn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6654230812"
+                },
+                "title": {
+                    "label": "Horrible!!!"
+                },
+                "content": {
+                    "label": "The game shuts down instead of opening!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id685354022"
+                    },
+                    "name": {
+                        "label": "Darrinap"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6649272003"
+                },
+                "title": {
+                    "label": "Can’t even play it"
+                },
+                "content": {
+                    "label": "Game keeps crashing on the first level. What a shame",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1073937642"
+                    },
+                    "name": {
+                        "label": "seara16853"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6612884632"
+                },
+                "title": {
+                    "label": "So"
+                },
+                "content": {
+                    "label": "The game is ok the adds are afull and it keeps on glitching so the gam is kinda bad",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1173100502"
+                    },
+                    "name": {
+                        "label": "poojmin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6573513848"
+                },
+                "title": {
+                    "label": "Why do u need to pay 9.99 a month for the 3rd level and up"
+                },
+                "content": {
+                    "label": "So after i got past the trailer I got in the first level and it kicked me out (three times) then after the second level I had to pay 9.99 a month for the rest of the game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id852568080"
+                    },
+                    "name": {
+                        "label": "aj25cat"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6563686888"
+                },
+                "title": {
+                    "label": "FunM"
+                },
+                "content": {
+                    "label": "It is cool Ian’s it is spooooooo fun when you win butt whey you loos it saddens cuz umm it he doe ent get candy and he souped sad 🥺🥺🥺🥺🥺🥺🥺🥺😭😭😭😭",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1101081479"
+                    },
+                    "name": {
+                        "label": "Myles480"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15.1"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6558927398"
+                },
+                "title": {
+                    "label": "Game crashes A LOT"
+                },
+                "content": {
+                    "label": "I have an IPhone 11 yet the game is super unstable and crashes every other level, if they fixed this it would be 5 stars for sure",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id31280529"
+                    },
+                    "name": {
+                        "label": "Kaidoz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.15.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6531185257"
+                },
+                "title": {
+                    "label": "Garbage"
+                },
+                "content": {
+                    "label": "I have played a lot of “pay to play” apps but waiting 20-30 seconds after each level is plain evil. \n\nJust garbage!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1196621703"
+                    },
+                    "name": {
+                        "label": "reeeeeeee100"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6490153652"
+                },
+                "title": {
+                    "label": "Awesome game"
+                },
+                "content": {
+                    "label": "If I could pick any I’m Nom game it would be this one",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id453992483"
+                    },
+                    "name": {
+                        "label": "smileyxuan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.14.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6378250741"
+                },
+                "title": {
+                    "label": "Start to have forced termination problem"
+                },
+                "content": {
+                    "label": "I opened the app today, but it started to have forced termination problem/, and I couldn’t play it anymore.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1202889608"
+                    },
+                    "name": {
+                        "label": "jsbsbfi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.13.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6348785348"
+                },
+                "title": {
+                    "label": "Sooooo much ads"
+                },
+                "content": {
+                    "label": "Why",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id525472145"
+                    },
+                    "name": {
+                        "label": "Where's om nom"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.13.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6272245547"
+                },
+                "title": {
+                    "label": "GET INFINITE ENERGY"
+                },
+                "content": {
+                    "label": "Zeptolab, this game is great but.....\n\nWHAT THE HECK IS WITH THE APPETITE SYSTEM? When the bar gets full, I have to wait for 20 minutes? And I have to pay 3 bucks to get infinite energy? Please fix this spam.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id954593603"
+                    },
+                    "name": {
+                        "label": "StarWarsFan#1#LoveBb-8"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.13.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6251364423"
+                },
+                "title": {
+                    "label": "Glitches"
+                },
+                "content": {
+                    "label": "I really love this game and I think it’s spectacular, but it glitches so much and it kills me. All I want to do is play, but it doesn’t let me on. Please fix the glitches!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1103499749"
+                    },
+                    "name": {
+                        "label": "lilypup345"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6116667428"
+                },
+                "title": {
+                    "label": "Why"
+                },
+                "content": {
+                    "label": "I love this game so much and the monster is adorable",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39347777"
+                    },
+                    "name": {
+                        "label": "More levels?!?!?!?!"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6101597751"
+                },
+                "title": {
+                    "label": "More levels?"
+                },
+                "content": {
+                    "label": "I really like the game, but I’ve finished all the levels. The game is really fun, but WHEN ARE THE ADDITIONAL LEVELS COMING?!?!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id606173235"
+                    },
+                    "name": {
+                        "label": "ghkqcsdbjkddv"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6088584361"
+                },
+                "title": {
+                    "label": "Fun but ends too soon"
+                },
+                "content": {
+                    "label": "Very fun well it lasts but it’s over too soon and I don’t really want to spend money to unlock the next level. \nOnce you get to the fish mode, it costs like 500 crystals but you don’t earn crystals easily and when you do earn it, you don’t earn a lot. \nSo there are two ways you can play this game :\n- You can download it for free and just play until you finish the shrink mode and the fly mode then delete it (like me)\n- Or, you can download it, prepared to pay money to complete all the modes",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39265912"
+                    },
+                    "name": {
+                        "label": "Superior Nana"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6061785745"
+                },
+                "title": {
+                    "label": "Amazing idea"
+                },
+                "content": {
+                    "label": "Honestly a great game and idea and execution. Cut the rope magic is a great addition to cut the rope bringing a new feel to the game and still keeping the over all premise of the game in mind. One of my favorite games of all time!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id106182382"
+                    },
+                    "name": {
+                        "label": "LIFE SCIENCE"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6039721082"
+                },
+                "title": {
+                    "label": "❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️:)"
+                },
+                "content": {
+                    "label": "I just want you to be a better game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id895909223"
+                    },
+                    "name": {
+                        "label": "aakjxkkksksksk"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6019055208"
+                },
+                "title": {
+                    "label": "ADD"
+                },
+                "content": {
+                    "label": "To much adds",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1115610324"
+                    },
+                    "name": {
+                        "label": "moham136"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5941910414"
+                },
+                "title": {
+                    "label": "AMAZING"
+                },
+                "content": {
+                    "label": "AMAZING",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1146512800"
+                    },
+                    "name": {
+                        "label": "thefwhydidihavetomakeanickname"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5863623842"
+                },
+                "title": {
+                    "label": "Ads by the many"
+                },
+                "content": {
+                    "label": "Amazing gameplay, good mechanics, too many ads",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id976248199"
+                    },
+                    "name": {
+                        "label": "TTV.BrAtZaR_48"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5844191673"
+                },
+                "title": {
+                    "label": "Good"
+                },
+                "content": {
+                    "label": "Good",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id801477505"
+                    },
+                    "name": {
+                        "label": "jdjfjcjf"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5829187421"
+                },
+                "title": {
+                    "label": "Fun"
+                },
+                "content": {
+                    "label": "Fun",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id523319673"
+                    },
+                    "name": {
+                        "label": "emarppm"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.12.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5817860842"
+                },
+                "title": {
+                    "label": "too many ads"
+                },
+                "content": {
+                    "label": "great game i love it but there are way too many ads!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32281847"
+                    },
+                    "name": {
+                        "label": "Lbergs7"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5741330714"
+                },
+                "title": {
+                    "label": "Ads even though I paid for it. HORRIBLE GAME"
+                },
+                "content": {
+                    "label": "LONG ads after every level even though I paid for it. No more games from ZeptoLab. And the game itself is like every other cut the rope, so not even worth it if free.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id308195227"
+                    },
+                    "name": {
+                        "label": "Jrpack907"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5703221734"
+                },
+                "title": {
+                    "label": "Ton of ads. Not enough energy"
+                },
+                "content": {
+                    "label": "There are tons of ads every other turn and you can only play a few times before energy runs out and you have to wait to refil it. I usually close the app and reopen in order to skip ads. Its much faster than watching",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1140436233"
+                    },
+                    "name": {
+                        "label": "Little jay lj"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5617189980"
+                },
+                "title": {
+                    "label": "WARNING FOR THE YOUNGER GENERATION/AUDIENCES"
+                },
+                "content": {
+                    "label": "This game is fun but every now and then once the ads show up this game turns out from fun and simple to the simple and GROSS I mean this game is more than a puzzle game it’s a smack stab and shooting puzzle game I mean first off there are girls playing with magic spells just to make they’re “pom poms” look larger, there is also a sniper shooting games showing headshots aka kill shots spoilers it all the people shot showing blood spills, spirting blood and even more blood. Not really recommended for those children Younger than 13 or above or 12 and younger. Do install paid version and NOT the lite version (lite marking free in 2010 - 2013)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id213205206"
+                    },
+                    "name": {
+                        "label": "happy kiwi pinapple dinut"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5522951601"
+                },
+                "title": {
+                    "label": "Soooooo COOL"
+                },
+                "content": {
+                    "label": "The graphics are amazing! If you like the original then you will definitely LOVE this🥰",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id473848015"
+                    },
+                    "name": {
+                        "label": "mznzkanqais"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5509324359"
+                },
+                "title": {
+                    "label": "."
+                },
+                "content": {
+                    "label": "СЛИШКОМ МНОГО РЕКЛАМЫ!!!\nПрям ООООЧЕНЬ\nхотя сама игра норм",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43822179"
+                    },
+                    "name": {
+                        "label": "amlaeix"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5461526316"
+                },
+                "title": {
+                    "label": "WILL WE EVER GET NEW LEVELS??"
+                },
+                "content": {
+                    "label": "I have all the cut the rope games. It’s fun, but so annoying how they just stop releasing new content, so once you complete all the levels that’s it. Most of the games don’t even get any new levers with the updates. Stop making different versions of the game and just make more levels for what you currently have please!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id708266793"
+                    },
+                    "name": {
+                        "label": "gdsdgr"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5402528014"
+                },
+                "title": {
+                    "label": "Giggle"
+                },
+                "content": {
+                    "label": "Edsyg",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id894125881"
+                    },
+                    "name": {
+                        "label": "Jak bek"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5383311233"
+                },
+                "title": {
+                    "label": "Great games with just the right amount of ads!"
+                },
+                "content": {
+                    "label": "I think that cut the rope is a fantastic game and is worth a try. I love Cut the Rope games because of the cute characters and not having to many ads. One improvement that could be made in the games is adding more elements like spider webs, land mines, and other things like that. Other than that, this game is super fun!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1119743926"
+                    },
+                    "name": {
+                        "label": "hfig1"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5374652835"
+                },
+                "title": {
+                    "label": "Ads"
+                },
+                "content": {
+                    "label": "Awesome game....but sooo many ads :(",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id836040962"
+                    },
+                    "name": {
+                        "label": "xjkape"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5371906509"
+                },
+                "title": {
+                    "label": "Not bad"
+                },
+                "content": {
+                    "label": "Would have gotten five stars if not for the adds",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id793361955"
+                    },
+                    "name": {
+                        "label": "rex legrande"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5364064929"
+                },
+                "title": {
+                    "label": "Ads are highly inappropriate!"
+                },
+                "content": {
+                    "label": "Ad was highly inappropriate. Like a Sims family game ad went like this:\n“My husband is cheating on me while I’m pregnant. What should I do?”\nButtons pop up-\n “Have an abortion or have the baby”",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1111758093"
+                    },
+                    "name": {
+                        "label": "NeoGreener"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5285785320"
+                },
+                "title": {
+                    "label": "Fun and Unique, but too Limited"
+                },
+                "content": {
+                    "label": "Cut the Rope: Magic is an overall good game. There are many unique mechanics such as turning Om-Nom small, the antagonist (Wizard Spider), and the modernized graphics compared to older Cut the Rope games. \n\nI would have rated it a 4 out of 5 or even a 5 out of 5 stars, but the reason why it is held back at a 3 out of 5 is because of how limited the gameplay is. Om-Nom tends to get full too quickly and it takes a while for him to completely regain his appetite. \n\nOm-Nom’s appetite system doesn’t mean that the game is absolutely terrible though; I still enjoy playing it whenever Om-Nom is hungry due to the previously mentioned factors it has. It is diverse, it is formatted similarly to Cut the Rope 2, and I also enjoy upsetting the Wizard Spider when I succeed to give the candy to Om-Nom.\n\nThis game is overall fun and unique and I feel like the rating I gave it is well-deserved.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id303232546"
+                    },
+                    "name": {
+                        "label": "nicknamenaty"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5222994287"
+                },
+                "title": {
+                    "label": "Love"
+                },
+                "content": {
+                    "label": "I love this game it’s been around for so long but it’s so fun and 2 cute",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1012663849"
+                    },
+                    "name": {
+                        "label": "Lukián"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5217724052"
+                },
+                "title": {
+                    "label": "Purchase restrore"
+                },
+                "content": {
+                    "label": "I purchased this game once, when I updated my iPad and made a factory reset, I could not restore my purchase. Please somehow fix this option.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id14959789"
+                    },
+                    "name": {
+                        "label": "Valpini"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5055719592"
+                },
+                "title": {
+                    "label": "Crashing Issues"
+                },
+                "content": {
+                    "label": "I thoroughly enjoy the game. I have played the other games in this series and have loved them all! The only problem with this game is it crashes. Frequently. I try to play a level, and when I’m in the middle of it, it crashes. Super fun game, just needs better iPhone X and 11 adaptations.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id809360200"
+                    },
+                    "name": {
+                        "label": "fojbfgrsfgdntdnttjyriyfyj"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4998644463"
+                },
+                "title": {
+                    "label": "Muy buen juego"
+                },
+                "content": {
+                    "label": "Ame este juego interesante y chevre vale mucho la pena",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1013468198"
+                    },
+                    "name": {
+                        "label": "TheChill55555"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4895332525"
+                },
+                "title": {
+                    "label": "Glitchy and Stupid"
+                },
+                "content": {
+                    "label": "Kicks me out a lot and it is the worst cut the rope game yet",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1081390267"
+                    },
+                    "name": {
+                        "label": "NickFiveEightFive"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4878432003"
+                },
+                "title": {
+                    "label": "Way too ad heavy."
+                },
+                "content": {
+                    "label": "That’ll be a nope.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id861874369"
+                    },
+                    "name": {
+                        "label": "shjsjebdnsnshfjx dndn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4727819598"
+                },
+                "title": {
+                    "label": "👍🏾👎🏾👍🏾"
+                },
+                "content": {
+                    "label": "It’s a good game but👍🏾 but I’d rather too play all the time instead of playing 5 or 6 times then having to wait a long time",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id935824927"
+                    },
+                    "name": {
+                        "label": "9sale7"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4665570490"
+                },
+                "title": {
+                    "label": "Ss"
+                },
+                "content": {
+                    "label": "Good think",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id555893096"
+                    },
+                    "name": {
+                        "label": "Darbsoph is the best"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4583951055"
+                },
+                "title": {
+                    "label": "One problem"
+                },
+                "content": {
+                    "label": "I keep getting kicked out. Please fix it. Then maybe I can give a fair review",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id400556750"
+                    },
+                    "name": {
+                        "label": "MKRASTY1"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "4557891232"
+                },
+                "title": {
+                    "label": "Rip"
+                },
+                "content": {
+                    "label": "So, I have been playing cut the rope for years. I have played every version there is. I love this game, except, this time, i redowloaded the game and ended up paying the 2.99 for it. Fine. But problem is, I can’t get to the third page of the book because no matter how many levels I go back and collect all 3 starts for, it continues to tell me that I have to collect 86 more stars to continue on. At this point, I am only missing about 5 starts to have full 3 stars on every level. I am not sure if the game is glitched or what the issue is but I’m not paying 20 dollars to be able to play the rest of the game. Hopefully developers you can help me with a solution to this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35082645"
+                    },
+                    "name": {
+                        "label": "crookedXreaction"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4431893951"
+                },
+                "title": {
+                    "label": "Crashes"
+                },
+                "content": {
+                    "label": "Have not been able to play this game at all because it crashes every time I start to play the first tutorial level. Uninstalled the app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1005594529"
+                    },
+                    "name": {
+                        "label": "please fix Or elss I am sad"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4416085722"
+                },
+                "title": {
+                    "label": "Cut the rope time travel"
+                },
+                "content": {
+                    "label": "Love the game but it could have less bugs and It takes all My storage so I can not download it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id972293929"
+                    },
+                    "name": {
+                        "label": "nunya 06"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4402066151"
+                },
+                "title": {
+                    "label": "Yasssss❤️❤️❤️"
+                },
+                "content": {
+                    "label": "I looove this game! I CANT WAIT for new levels!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id205577449"
+                    },
+                    "name": {
+                        "label": "Landyn is awesome"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4295613306"
+                },
+                "title": {
+                    "label": "Death Pacito"
+                },
+                "content": {
+                    "label": "I played dis on May 5th then the ads are super creepy. Even though this is for kids, I’m a kid. Use kids ads instead",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1053475918&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:41:49-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1053475918/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1053475918/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1053475918/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1053475918/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1053475918/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1053475918/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1053475918/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1053475918/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1053475918/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1053475918/sortBy=mostRecent/json"
+        }
+    }
+}

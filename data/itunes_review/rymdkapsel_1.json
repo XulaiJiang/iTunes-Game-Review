@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id117803730"
+                    },
+                    "name": {
+                        "label": "Papercows"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.0.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6595256163"
+                },
+                "title": {
+                    "label": "My favorite game"
+                },
+                "content": {
+                    "label": "Of all time",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11322996"
+                    },
+                    "name": {
+                        "label": "Ben73737834"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.0.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6571328706"
+                },
+                "title": {
+                    "label": "One of the best"
+                },
+                "content": {
+                    "label": "Probably the best RTS on mobile. Thank you for the update",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id342906039"
+                    },
+                    "name": {
+                        "label": "Mvhls"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6226084854"
+                },
+                "title": {
+                    "label": "Unplayable on iPhone X"
+                },
+                "content": {
+                    "label": "The game relies on the controls at the edge of the screen, where the swiping action for the iPhone X is located, and you literally cannot play the game on any new iPhone. Seems like it would be a fun game though",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33135908"
+                    },
+                    "name": {
+                        "label": "knodi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6206909190"
+                },
+                "title": {
+                    "label": "Does not work on iPhones"
+                },
+                "content": {
+                    "label": "Game is awesome, but literally unplayable on an iPhone.  The user interface buttons ALL involve swiping around on the top and bottom edges of the screen.   So it’s EXTREMELY difficult to use most of the controls, since everything you do either opens the system notification tray, or activates the app switcher. \n\nIf the developer had put the controls on the sides, all this would be moot. But top and bottom simply make the game unplayable. Maybe it works differently on iPad or something. I dunno. Just not on a phone.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id484426397"
+                    },
+                    "name": {
+                        "label": "CommanderElk"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6084678545"
+                },
+                "title": {
+                    "label": "Played this game for years but needs iPhone 11 tweaks"
+                },
+                "content": {
+                    "label": "Can’t play the game on iPhone 11 because trying to make rooms always opens the drop down tab, game is unplayable as it is",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id504080285"
+                    },
+                    "name": {
+                        "label": "TomCap0618"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6015661138"
+                },
+                "title": {
+                    "label": "Unplayable on IPhone 11"
+                },
+                "content": {
+                    "label": "This app uses the swiping from the top and bottom as controls which triggers the command center and app changes, making the game unplayable.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id506373803"
+                    },
+                    "name": {
+                        "label": "MAG597"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5859710836"
+                },
+                "title": {
+                    "label": "Unplayable"
+                },
+                "content": {
+                    "label": "The game is currently unplayable with the play down menu",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26774047"
+                    },
+                    "name": {
+                        "label": "ScottTuckTuck"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5806895631"
+                },
+                "title": {
+                    "label": "Excellent game with fatal flaw"
+                },
+                "content": {
+                    "label": "Home bar on iPhone screen prohibits play. This is/was one of my favorite games to play through again and again but it is rendered unplayable by home bar.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id162312465"
+                    },
+                    "name": {
+                        "label": "nah i dont want a nickname"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5604558468"
+                },
+                "title": {
+                    "label": "Sad af"
+                },
+                "content": {
+                    "label": "Does not work for iPhone 11 Pro Max the home slider is in the way",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41155723"
+                    },
+                    "name": {
+                        "label": "SolidStar"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5210783939"
+                },
+                "title": {
+                    "label": "Play this to waste your time"
+                },
+                "content": {
+                    "label": "I stopped playing this and picked it back up and remembered why I left it. Deeply unsatisfying gameplay where you LOSE no matter what.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id47713995"
+                    },
+                    "name": {
+                        "label": "RoarrrrOfALion"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5031416961"
+                },
+                "title": {
+                    "label": "Very hard to play on iPhone 11"
+                },
+                "content": {
+                    "label": "The bottom bar is just too fiddly, so hard to smoothly direct minions. Please, please, please fix it!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id229523322"
+                    },
+                    "name": {
+                        "label": "Lullaby child"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4867557201"
+                },
+                "title": {
+                    "label": "Beautiful and promising, but doesn’t work on newer iPhones"
+                },
+                "content": {
+                    "label": "Alas! It seems I discovered this game a few years too late. I wish the App Store would alert you when an app hasn’t been updated in a while. Such optimism, such promise. Alas! This game is beautiful and fun. Wish it would work on my darn phone, but essential controls are outside the playable space (namely, the main people instructions are in the part of the screen that causes me to quit the game and I can’t even figure out how to start again after dying).",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1063438767"
+                    },
+                    "name": {
+                        "label": "Reed K. Andrews"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4655853822"
+                },
+                "title": {
+                    "label": "Home Bar!!!!"
+                },
+                "content": {
+                    "label": "This game is so fun and I could get very addicted to it but the white home bar on iPhone X is in the way of the worker job manager and so every time I try to change a workers job it thinks I am trying to close the app or switch apps and it gets very frustrating.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id611665059"
+                    },
+                    "name": {
+                        "label": "Chimmychurrysaucd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "4448901999"
+                },
+                "title": {
+                    "label": "Crippled iPhone X support"
+                },
+                "content": {
+                    "label": "One of my favorite games, got to wave 37 on my old phone. But I got a new phone and now it’s unplayable because whenever I try to move my minions to another job it closes my app or switches to another app. Please update the game to find a way to fix this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id19883628"
+                    },
+                    "name": {
+                        "label": "DrAttnyMD"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4280362782"
+                },
+                "title": {
+                    "label": "Please update"
+                },
+                "content": {
+                    "label": "This was such a fun game. One star because it’s impossible to play with the way app switching works now.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id215271913"
+                    },
+                    "name": {
+                        "label": "FourwaysShopper"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3844806571"
+                },
+                "title": {
+                    "label": "Awesome game... but not on iPhone X"
+                },
+                "content": {
+                    "label": "This is a great game that I’ve had a lot of fun with over the years. The UI is extremely frustrating on iPhone X as it overlaps the home swipe up gesture. I would love it if you could refresh the UI to solve this issue.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49608840"
+                    },
+                    "name": {
+                        "label": "JohnDeHope3"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3822642961"
+                },
+                "title": {
+                    "label": "A lot of fun"
+                },
+                "content": {
+                    "label": "I admit this sort of game isn’t for everyone. It’s a bit like a rogue-like. You die a lot as you learn. But every time I lost, I was thinking of new strategies to try to survive a bit longer next time. If you think you might like it, I bet you will.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38414252"
+                    },
+                    "name": {
+                        "label": "bzbz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3642184686"
+                },
+                "title": {
+                    "label": "Needs update for new IOS"
+                },
+                "content": {
+                    "label": "When playing on new iOS, it is impossible to switch tasks of minions without clicking on virtual home screen. Game is unplayable without a simple fix.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id958095012"
+                    },
+                    "name": {
+                        "label": "Cool beans420"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3600907969"
+                },
+                "title": {
+                    "label": "Piece of garbage, don’t buy!"
+                },
+                "content": {
+                    "label": "I can’t pass the tutorial because every time I try to drag anything from the top of the screen to build my base, the iOS notification thing comes down! Waste of money, don’t buy!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id517479393"
+                    },
+                    "name": {
+                        "label": "Shfgsiuc"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3516657947"
+                },
+                "title": {
+                    "label": "To those complaining about the pathfinding"
+                },
+                "content": {
+                    "label": "The minions don't automatically go to the closest room, they select rooms such that all are filled in the shortest time",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id85477228"
+                    },
+                    "name": {
+                        "label": "foxypapy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3283436619"
+                },
+                "title": {
+                    "label": "Needs optimized for iPhone X"
+                },
+                "content": {
+                    "label": "The commands at the bottom of the screen are near impossible to use without minimizing or changing apps",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id85595083"
+                    },
+                    "name": {
+                        "label": "Not happy, but thinner anyway"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3172603658"
+                },
+                "title": {
+                    "label": "Nice concept bad execution"
+                },
+                "content": {
+                    "label": "Concept of game is good. First level is easy for learning. But 2nd level exposes many flaws in game programming and makes game play pointless. Not worth the money",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id146803647"
+                    },
+                    "name": {
+                        "label": "magic00"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2540512620"
+                },
+                "title": {
+                    "label": "Neat game with 2 major issues."
+                },
+                "content": {
+                    "label": "Having to drag and drop rooms and corridors from the top of the screen forces the IPhone Notification Center to open which truly ruins the RTS aspect of the game. A way around may be a long press to *bring up a pop up in the middle of your screen that says “yes or no”* then it places the shape on the “field”.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28511127"
+                    },
+                    "name": {
+                        "label": "Betazero"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2319925003"
+                },
+                "title": {
+                    "label": "Good game but needs a fix for iPhone X"
+                },
+                "content": {
+                    "label": "It’s almost unplayable on iPhone X. The bottom apple bar needs to be disabled or the bottom row of worker placement locations need to shifted up a little. Every time I try to move people to a new job it swipes to a new app. Or closes the game. Everything else is great. I wish there were more game modes too. Maybe a new turret block which assists the workers in defending. The workers would fill the turret block with 3 turrets using engineering materials.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id31060366"
+                    },
+                    "name": {
+                        "label": "Nategogger"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "2237299937"
+                },
+                "title": {
+                    "label": "Fun but too short"
+                },
+                "content": {
+                    "label": "Play through in 1.5hrs. Done. No replay variation at all. Not worth the money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33853076"
+                    },
+                    "name": {
+                        "label": "PopAstronaut"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "2100411772"
+                },
+                "title": {
+                    "label": "Awesome but broken on 11.2.2"
+                },
+                "content": {
+                    "label": "Maybe my favorite ios strategy game ever, but after updating to ios 11.2.2 mostly unplayable. Apple must have increased the hit area for dragging down from the top of the screen and now I trigger notifications whenever I try to place a tile.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39659255"
+                    },
+                    "name": {
+                        "label": "Bethanywhaley"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "2098731514"
+                },
+                "title": {
+                    "label": "New update is not helpful..."
+                },
+                "content": {
+                    "label": "I love this game, it’s one of my go to games when I’m looking for a focused past time. However, with this new update I am having serious problems. The font and all the buttons is much smaller, which is nice for game play, however, because the font is so small, when I go to drag down a new room or corridor, every time, I pull the notification screen on my iPhone. Every time. Which pretty much renders the game unplayable for me. I’ve tried to turn off the setting in my iPhone and I’ve tried to adjust the way I drag down corridors to no avail. This is the first update in 2 years, so I’m not sure my review will make much difference since maybe there aren’t many players anymore, but hopefully something can be done about this. Thanks!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id202714137"
+                    },
+                    "name": {
+                        "label": "Hghghgfffff"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2059299712"
+                },
+                "title": {
+                    "label": "Major bug"
+                },
+                "content": {
+                    "label": "This game could be great, but as soon as I complete the first mission by researching the monolith, the game crashes. Every single time. Do not buy this game until they fix this bug. There is a lot of potential here, but unfortunately it is unplayable.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id15295724"
+                    },
+                    "name": {
+                        "label": "GamerGirl26"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1953105024"
+                },
+                "title": {
+                    "label": "Not iOS 11 compatible"
+                },
+                "content": {
+                    "label": "Unable to complete monoliths on iOS 11.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id20313036"
+                    },
+                    "name": {
+                        "label": "I love Hillsong"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1837706110"
+                },
+                "title": {
+                    "label": "App crashes repeatedly"
+                },
+                "content": {
+                    "label": "The app crashes every time I research and complete a monolith. Very poor experience.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id4164921"
+                    },
+                    "name": {
+                        "label": "Jake J $$$"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1826982223"
+                },
+                "title": {
+                    "label": "Difficult without a strategy guide"
+                },
+                "content": {
+                    "label": "This is a fun game. I finally made it through the ‘research all monoliths’ level. The order you research the monoliths makes a huge difference in your success/level of frustration. \n\n1. Research the monolith at 12 o’clock (minion speed) first, then the one at 6 o’clock (slow enemies), then the monolith at 3 o’clock (weapons range) and finally the 9 o’clock monolith (extractor efficiency).\n\n2. You will only need one reactor. Periodically station a minion if the production rate is too slow for construction. \n\n3. You will only need two gardens and two kitchens. Locate them centrally and with their doors close together. Build quarters near the kitchen. \n\n4. Build weapons stations centrally (near your gardens-kitchen-quarters. Build one or two weapons near the monolith you are currently researching. \n\n5. Recycle empty extractors. Recycle unneeded weapons near fully researched monoliths.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id498211285"
+                    },
+                    "name": {
+                        "label": "Andy5751"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1813895580"
+                },
+                "title": {
+                    "label": "Very fun!  I recommend this game!"
+                },
+                "content": {
+                    "label": "I bought this game yesterday and it is very fun to play!  A lot of freedom to do things the way the user would like, but yet refreshingly simple. Great game!\n\nThere are a few things I would like to point out though. The workers are not very efficient. They waste a lot of time carrying two resources for a building that may only need 1. So when one resource is delivered, the second worker instantly stops and his resource disappears because the specific building he was carrying it for has been completed. Even though there may be other buildings that could use the block. The workers seem to be in their own world trying to complete their task, without any communication with the other workers. Which isn't very good when trying to get things done quickly. The efficiency of the workers could be much better!  \n\nThe play area/map is rather small. It doesn't take long to fill it up, so then there's nothing else to do. It would also be great if we could choose what kind of blocks to place, instead of it being random in zen mode. I think it's part of the challenge in normal mode, but zen mode shouldn't be challenging, just fun!\n\nThe purple or pink resource fields run out too quickly!  They seem to run out rather quickly, and there is no way to replenish them. If they had a bit more in them, and if there was a way to replenish them, that would be great!  \nThat leads me into my last comment. The game gets very tedious quickly. Mostly due to the fact that there isn't many things to do long term. Not to mention the resource fields deplete quickly, with no no way to replenish them as I mentioned above. Very fun to play, just not for very long. \n\nThis is a great game and I'm happy with my purchase!  I just wanted to give you my input and honest opinion!\n Best wishes! 🙂",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id102344166"
+                    },
+                    "name": {
+                        "label": "beziemer33"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1807925027"
+                },
+                "title": {
+                    "label": "IOS 11 update its causing it to crash for me"
+                },
+                "content": {
+                    "label": "The game worked great and was fun before I updated to ios11. Now it consistently crashes in normal gameplay after I research the first monolith.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id561619860"
+                    },
+                    "name": {
+                        "label": "TØP sah"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1804441637"
+                },
+                "title": {
+                    "label": "Not worth it"
+                },
+                "content": {
+                    "label": "The game is very fun but only for like an hour. Once you’ve figured out how to beat the game it loses all its fun and you can figure out how to win very fast. It lasts about an hour of game time and not much more.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39059098"
+                    },
+                    "name": {
+                        "label": "methegrate"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1722635973"
+                },
+                "title": {
+                    "label": "Fun for five minutes"
+                },
+                "content": {
+                    "label": "I appreciate the goal of this dev, to make a game super streamlined, but he overdid it. Once you're done with the tutorial, you just do the same thing over and over again. Needed more complexity.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id298516975"
+                    },
+                    "name": {
+                        "label": "Jonneysmooth"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1566528099"
+                },
+                "title": {
+                    "label": "Really?"
+                },
+                "content": {
+                    "label": "I hated every second of the ten minutes I played it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30349118"
+                    },
+                    "name": {
+                        "label": "lofidelityrockr"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1565860195"
+                },
+                "title": {
+                    "label": "Amazing!"
+                },
+                "content": {
+                    "label": "I still love this game. It takes getting used to but there is a rhythm to it and getting to the artifacts and defense.\n\nOnce you have all of the mechanics down, it is just a matter of obtaining the goals and survival.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id284831716"
+                    },
+                    "name": {
+                        "label": "H Burchfield"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1558785961"
+                },
+                "title": {
+                    "label": "Mind boggling and addicting!"
+                },
+                "content": {
+                    "label": "It took me a little while to gain experience and a bit of patience was needed. I play all the building and crafting games out there like Minecraft, Don't starve, Terraria…I was unsure about this one in the beginning because the style looks almost too basic, but that's actually where everything changes once you get in deeper. Once you get the hang of it it's quite brilliant and I have yet to get to the end but it is immersive enough to stay on the journey. A game that you'll always go back to.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id17162911"
+                    },
+                    "name": {
+                        "label": "Pjl1281"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1556654390"
+                },
+                "title": {
+                    "label": "Good but short"
+                },
+                "content": {
+                    "label": "Needs different levels/layouts after you've mastered the one & only.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id216338802"
+                    },
+                    "name": {
+                        "label": "Nizzle Batizzle"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1537790925"
+                },
+                "title": {
+                    "label": "Good, but can be better"
+                },
+                "content": {
+                    "label": "All the other reviews are pretty spot on.  It's a fun game with great visuals, but the AI of the minions is horrible.  My big complaint is that once you beat the few missions it has to offer, then there isn't much more to do.  If there was some way to play against other players or a computer, then I could see this being my favorite game.  In all, it's worth the purchase and hopefully in the updates the developers build upon this pretty solid game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id160443631"
+                    },
+                    "name": {
+                        "label": "Octet33"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1533843028"
+                },
+                "title": {
+                    "label": "Easily worth the money, but has a few major AI issues"
+                },
+                "content": {
+                    "label": "The good: it's as advertised, a minimalistic real-time strategy game, with geometric puzzle elements.  It's challenging but rewarding.  It offers a great deal of depth and thus replay value.  It won't crash on you or anything.\nThe bad: the AI is the worst I have ever used.  It will regularly do things the long way, multiple AI will attempt the same task despite it only needing to be done once (E.G. three ai will attempt to move one item each when only two need to be moved, leading to seconds wasted.). This disrupts priorities and wastes time, which places the player at a severe disadvantage. And if you change the information the minions are working with, they pause for a moment before choosing the worst possible action that still fits within your instructions. Fortunately it at least tries to function, and you can still control it enough to enjoy the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id31930813"
+                    },
+                    "name": {
+                        "label": "FZ_IT"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1496057208"
+                },
+                "title": {
+                    "label": "Crashes every time"
+                },
+                "content": {
+                    "label": "Crashes every time I complete the first level on my iPhone 7 plus. Tried restarting level, game, phone, etc. stay away until patched.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id535756814"
+                    },
+                    "name": {
+                        "label": "Cutthoat801"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1488587875"
+                },
+                "title": {
+                    "label": "Not worth the money"
+                },
+                "content": {
+                    "label": "Fun and strategic but honestly it's not worth $4 I was expecting something to happen when I got the monoliths but no it just says \"the end\" then you can play 2 new game modes 1 removes the only real reason it's challenging the other takes away some material but the map is smaller but it's a good game just not worth the money",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id298974708"
+                    },
+                    "name": {
+                        "label": "ShawnRS4"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1479489301"
+                },
+                "title": {
+                    "label": "A lot of potential, but..."
+                },
+                "content": {
+                    "label": "It's a good start, but not worth the price. It's fun and addictive, but there's only one level, one map, few strategies to be found and few goals to meet. I only got a solid 4 nights (or about 5-6 total hours) out of the whole game. There have been very few updates since the game came out.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101914736"
+                    },
+                    "name": {
+                        "label": "somecatchyname"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1467854259"
+                },
+                "title": {
+                    "label": "replayability"
+                },
+                "content": {
+                    "label": "Others seem to praise this game for its replayability but I found this game quite boring to play again. I got further than a lot of the reviews claimed to get on only my second game, then I played the other game modes and then I was just done. It wasn't fun to play again because it was exact same thing again. Nothing really changes from game to game besides the order of the block shapes that you're able to put down, which affects the game very minimally. \n\nSome things that I would enjoy adding to this game:\n-fast forward button\nI seem to spend a majority of the game waiting for the minions to go and do it's tasks\n-bigger\nI would love to play a game longer just to see how many waves of aliens I can fight off but unfortunately i'm crippled by the fact you're only allotted a certain amount of resources.\nI'd like a seemingly infinite map so I can play a game longer\n-AI efficiencies button\npeople complain about the AI being dumb but it makes the game harder and I enjoy that. So I would enjoy being given the option of choosing the \"smartness\" of the ai",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id19940038"
+                    },
+                    "name": {
+                        "label": "wonilsuh"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1455845062"
+                },
+                "title": {
+                    "label": "Beautiful, well thought. But with the dumbest minion logic ever."
+                },
+                "content": {
+                    "label": "Beautifully design visuals and soundtrack. Interesting challenges too. But the minion logic is just so dumb - and its just not convincing that you would be using minions this dumb in space.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id208997134"
+                    },
+                    "name": {
+                        "label": "Snowgumby"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1421113193"
+                },
+                "title": {
+                    "label": "Great game but..."
+                },
+                "content": {
+                    "label": "It REALLY needs a fast forward button and maybe some variety in the enemies.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40274856"
+                    },
+                    "name": {
+                        "label": "QuizoidZ"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1405417058"
+                },
+                "title": {
+                    "label": "About that AI"
+                },
+                "content": {
+                    "label": "I can't say much more than what's already been said by other reviewers, so I'll add some value by responding to the critiques of the AI. \n\nThe \"poor\" AI is a part of the game. Complaining about it is like complaining that all of your chess pieces aren't just queens. \n\nTo elaborate, when you first get into the game, I'd just ignore the AI. After playing for a bit, though, watching where the little tykes are going becomes a part of your decision making. If several are about to waste their time on construction, look at what they're holding. Can you just switch them to Food Service? Can they be used elsewhere? Adapting to the given \"controls\" is a part of any game. These little not-so-smart minions are no exception.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id227988563"
+                    },
+                    "name": {
+                        "label": "Glue Stew"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1401302551"
+                },
+                "title": {
+                    "label": "Easily the BEST game on my iPhone!"
+                },
+                "content": {
+                    "label": "I have some good games on my phone, but this is the best. The Ai around minions and weapons rooms may be a little weird, but by building the amount of defenses as you have minions. Zen mode is great. There is one problem I've had. After researching a monolith, it will show what the monolith did and then the game will freeze. This does not happen all the time though.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id300323690"
+                    },
+                    "name": {
+                        "label": "5lim47"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1400423283"
+                },
+                "title": {
+                    "label": "New update pls!!"
+                },
+                "content": {
+                    "label": "Come with one more update guys !! Cool game nice strategy",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=663547503&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:49:37-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=663547503/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=663547503/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=663547503/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=663547503/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=663547503/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=663547503/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=663547503/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=663547503/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=663547503/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=663547503/sortBy=mostRecent/json"
+        }
+    }
+}

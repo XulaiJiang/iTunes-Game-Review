@@ -1,0 +1,397 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id322237783"
+                    },
+                    "name": {
+                        "label": "abc183625"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.7"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1390793488"
+                },
+                "title": {
+                    "label": "Good start."
+                },
+                "content": {
+                    "label": "As far as companion apps go you can't really ask for much more. Except when i collect runner bags and unlock new backgrounds and symbols they don't always transfer. Because of this i'm giving it three stars but it's been cool to read the history and see my rankings. All in all a pretty good job!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1113049377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id368051488"
+                    },
+                    "name": {
+                        "label": "QuietInThisHouse"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.7"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1390738493"
+                },
+                "title": {
+                    "label": "Is it just me or...?"
+                },
+                "content": {
+                    "label": "The main reason I got the app was to be able to change my tag from my phone. It worked fine the first time, but as I collected more emblems, frames, and backgrounds, none of the new stuff will show up. I restarted both my phone and the game and still nothing new pops up when I try to edit my tag. Is it just me... Or is it a bug?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1113049377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id388560264"
+                    },
+                    "name": {
+                        "label": "AManThatPlaysStuffs"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.7"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1390595851"
+                },
+                "title": {
+                    "label": "EA doesn't own the game?"
+                },
+                "content": {
+                    "label": "I can't use the companion due to the fact that if I make an attempt to login it tells me that EA does not own the game so the app is useless",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1113049377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id399018280"
+                    },
+                    "name": {
+                        "label": "MaxLukeness"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.7"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1390422408"
+                },
+                "title": {
+                    "label": "It's okay"
+                },
+                "content": {
+                    "label": "The companion app for Mirrors Edge Catalyst works okay, but the map they give you is a 2D render of the one in the game and on the website. If they would give us a 3D map, I think this app would be much better. Another problem I find is the map. The icons don't always stay in the right place. Which means when you zoom in and out, the icons will not always stay in there designed location. After a second they will fix themselves, but it's still noticeable.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1113049377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id233524719"
+                    },
+                    "name": {
+                        "label": "Aferrisimon34"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.7"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1390273509"
+                },
+                "title": {
+                    "label": "BUEN JUEEGOOOO Perooo....."
+                },
+                "content": {
+                    "label": "Hay error de carga en las texturas.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1113049377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id292202743"
+                    },
+                    "name": {
+                        "label": "That slayin player1815"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.7"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1390241287"
+                },
+                "title": {
+                    "label": "All's well"
+                },
+                "content": {
+                    "label": "For a companion app, this does what it needs to do just not always at peak performance. As for the game itself I personally believe that critics are doing it no justice. I loved what I saw in the beta and am loving what I'm seeing in the actual game. 8/10",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1113049377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id508031318"
+                    },
+                    "name": {
+                        "label": "MicroFaith"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1390194980"
+                },
+                "title": {
+                    "label": "Great Companion App"
+                },
+                "content": {
+                    "label": "The Mirror's Edge companion app is perfect for the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1113049377&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:24:02-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1113049377/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1113049377/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1113049377/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1113049377/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1113049377/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1113049377/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1113049377/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1113049377/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1113049377/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1113049377/sortBy=mostRecent/json"
+        }
+    }
+}

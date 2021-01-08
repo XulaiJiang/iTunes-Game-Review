@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id129932386"
+                    },
+                    "name": {
+                        "label": "Billy Joe c"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6615657441"
+                },
+                "title": {
+                    "label": "Can you make a new AD that is comparable with the new IOS?"
+                },
+                "content": {
+                    "label": "Can you make a new AD that is comparable with the new IOS?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id375453403"
+                    },
+                    "name": {
+                        "label": "Lego army 500"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5678280647"
+                },
+                "title": {
+                    "label": "Love the game, sad it’s over"
+                },
+                "content": {
+                    "label": "This is the best mobile rts game I have ever played. I hope that one day I can play it again. Thanks for making such an amazing game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id429872175"
+                    },
+                    "name": {
+                        "label": "indianajames99"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5580977181"
+                },
+                "title": {
+                    "label": "No longer supported"
+                },
+                "content": {
+                    "label": "A real shame that this game was abandoned. I cant even play it anymore because the devs haven’t updated it to work with modern iOS.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id255716359"
+                    },
+                    "name": {
+                        "label": "Strategaddict"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5277935249"
+                },
+                "title": {
+                    "label": "Refund me if you won’t update your app"
+                },
+                "content": {
+                    "label": "This was the best mobile RTS game that I’ve played and a great sequel to the original Autumn dynasty. Why can’t the devs keep it updated?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id294337174"
+                    },
+                    "name": {
+                        "label": "direwolf555"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4834171052"
+                },
+                "title": {
+                    "label": "Please update"
+                },
+                "content": {
+                    "label": "I love the game but can’t play because it’s out of date it needs an update please",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37542888"
+                    },
+                    "name": {
+                        "label": "CBUS Xpress"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3949783409"
+                },
+                "title": {
+                    "label": "Best Grand Strategy On The App Store, Will Be Missed"
+                },
+                "content": {
+                    "label": "While there is a certain playstyle the game loves, it still gives you an huge array of ways to play your way. There are different ways to interact with most everything, and you can't become dependent on one factor alone to win, unless you're willing to accept a near endless chaotic campaign. Deep, fun, kind feeling as you interact with various organizations, endless character and the best art style and strategy, this game is the best on the App Store.\n\nStill, its long and not worth a buy if you plan to update, definitely amazing. As close to beyond perfect as any GS on here.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id376419822"
+                    },
+                    "name": {
+                        "label": "_insert_nickname_here_"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3850549895"
+                },
+                "title": {
+                    "label": "Update Plzzz??"
+                },
+                "content": {
+                    "label": "Love this game! Perfect strategy game for iOS. Also fun with the real time battle stuff. If you like Civs on computer, this is a perfect, mobile, dumbed-down version. Can we get it updated tho??? I can’t play and I’m sad.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id283589362"
+                    },
+                    "name": {
+                        "label": "Seth10222"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3803205353"
+                },
+                "title": {
+                    "label": "Very fun and engaging"
+                },
+                "content": {
+                    "label": "Probably the best strategy game I've played on the phone. Reminiscent of the total war games for PC but with its differences. Game hasn't crashed and I haven't run into any bugs. Super fun and I definitely recommend.\n\nWill raise back to 5 stars when it is updated for new iOS",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id333638494"
+                    },
+                    "name": {
+                        "label": "Traygon97"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3541165640"
+                },
+                "title": {
+                    "label": "Great game- hope it is updated"
+                },
+                "content": {
+                    "label": "This was a great game, very fun to play. Please update it for IOS 11 so we can continue to enjoy it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id170364719"
+                    },
+                    "name": {
+                        "label": "darkstaar4"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3205266034"
+                },
+                "title": {
+                    "label": "How long do we have to wait to get ios11 update?"
+                },
+                "content": {
+                    "label": "I bought it and can’t play anymore because I upgraded my iPad. This game and warlords is awesome. Please updtae it to work with ios11",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id247846276"
+                    },
+                    "name": {
+                        "label": "Equestrian Infantrt"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3197131135"
+                },
+                "title": {
+                    "label": "Fantastic game, one of my favorites for iOS!"
+                },
+                "content": {
+                    "label": "It’s a bit reminiscent of Koei tecmo’s RotK. Definitely worth a buy if you’re pre iOS 11",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id477928544"
+                    },
+                    "name": {
+                        "label": "Blagnoneedforname"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3084015473"
+                },
+                "title": {
+                    "label": "Shame it’s not supported :("
+                },
+                "content": {
+                    "label": "Really decent game. Gets grindy towards the end but it’s decent. Meh diplomacy and combat wasn’t even that great but for an mobile game it was impressive",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id298367207"
+                    },
+                    "name": {
+                        "label": "Bilbobagginslord"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2685441339"
+                },
+                "title": {
+                    "label": "Update please"
+                },
+                "content": {
+                    "label": "Update to work with current IOS version",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id620276862"
+                    },
+                    "name": {
+                        "label": "justhow757"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2604617994"
+                },
+                "title": {
+                    "label": "Please fix to work on current iOS"
+                },
+                "content": {
+                    "label": "!!!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id292850560"
+                    },
+                    "name": {
+                        "label": "CFMorpheus"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2575017684"
+                },
+                "title": {
+                    "label": "Fun and free"
+                },
+                "content": {
+                    "label": "Pretty awesome game, especially its free",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id188958886"
+                    },
+                    "name": {
+                        "label": "Danie523894"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2406462633"
+                },
+                "title": {
+                    "label": "Please Update for IOS 11!!!"
+                },
+                "content": {
+                    "label": "I love this game so much, but now I can’t play it on IOS 11 please update!!!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id470651980"
+                    },
+                    "name": {
+                        "label": "Kneegrowdonnis"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2329298485"
+                },
+                "title": {
+                    "label": "Developers need to update."
+                },
+                "content": {
+                    "label": "I love this game and now i can’t play it because it’s not updated ;_;",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id122444128"
+                    },
+                    "name": {
+                        "label": "Cooks10000000000000"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2271342745"
+                },
+                "title": {
+                    "label": "Warlords"
+                },
+                "content": {
+                    "label": "Love the game plz make it so we can play again",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id288593142"
+                    },
+                    "name": {
+                        "label": "( () )"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "2264664899"
+                },
+                "title": {
+                    "label": "Great game but you can’t play it on iOS 11"
+                },
+                "content": {
+                    "label": "I urge the creators to make an update for this as I payed good money for it and would be willing to spend more to continue playing it on iOS 11. Please update",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41991383"
+                    },
+                    "name": {
+                        "label": "Yoisjay"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2127813510"
+                },
+                "title": {
+                    "label": "Update please"
+                },
+                "content": {
+                    "label": "Can't believe that this works like this on my phone !! Awesome game !!\n\nJust wish I could play it online or with other people !",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id270116027"
+                    },
+                    "name": {
+                        "label": "sorrycheese"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2096468359"
+                },
+                "title": {
+                    "label": "Please update"
+                },
+                "content": {
+                    "label": "Honestly one of the best strategy games to play in the app store. Maybe add navy functions etc... but it really doesn't need it its an amazing game. Sadly tho, we can not play anymore since stupid ios 11. When I updated my Ipad, idk I would be loosing the best game on the market. I don’t know if the developers will see this, this may all be in vein. But I am begging you, please update so I may play again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id593883987"
+                    },
+                    "name": {
+                        "label": "Fistofdeath007"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2078626598"
+                },
+                "title": {
+                    "label": "Please update!!!!"
+                },
+                "content": {
+                    "label": "I really loved this game it had lots of fun strategy and I loved the game play, please try to find a way to update this it is one of my favorite games!!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id523722641"
+                    },
+                    "name": {
+                        "label": "Johnnysisisi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2002304267"
+                },
+                "title": {
+                    "label": "I want a refund"
+                },
+                "content": {
+                    "label": "They’re refusing to update the game to be compatible with iOS 11 so now I can’t play it... this is completely ridiculous",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id509344691"
+                    },
+                    "name": {
+                        "label": "AngryClownFish"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1960863563"
+                },
+                "title": {
+                    "label": "Highly upset"
+                },
+                "content": {
+                    "label": "I spent money hoping to be able to play one of the top strategy games i have ever found and now they tell me I can’t play it?!? Its total bull.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id116803667"
+                    },
+                    "name": {
+                        "label": "jeh719"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1905904239"
+                },
+                "title": {
+                    "label": "Why can't it be updated?"
+                },
+                "content": {
+                    "label": "Easily one of my favorite games of all time on any platform. Why can't it be updated to continue play with the next IOS release? Please update!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id257583840"
+                    },
+                    "name": {
+                        "label": "Goatman64"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1900578279"
+                },
+                "title": {
+                    "label": "iOS 11 update"
+                },
+                "content": {
+                    "label": "Can you update this amazing game to iOS 11 please",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id560602029"
+                    },
+                    "name": {
+                        "label": "Deathsealer B2"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1896949025"
+                },
+                "title": {
+                    "label": "Good game"
+                },
+                "content": {
+                    "label": "This is a really good game, with the graphics and very strategical gameplay, but I haven’t been able to play it after IOS 11. My request is that you make this game available on IOS 11. This game really deserves a 5 star, but the fact that this game is being discontinued is outrageous!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25907675"
+                    },
+                    "name": {
+                        "label": "Thalinor"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1892457990"
+                },
+                "title": {
+                    "label": "It CAN be updated they choose not to update."
+                },
+                "content": {
+                    "label": "Almost every other paid app I own has been updated to 64bit and yet this dev claims it can't be done with their two apps.  I own both and paid for both at full price.  I never got around to playing this one and am half way through the other game Autumn.  Still haven't updated to ISO 11 as I want to finish up Autumn however there is no way I will get around to finishing this game as it's big and replay is great.  Wish devs would stop being lazy and support their games.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id345528423"
+                    },
+                    "name": {
+                        "label": "Flameroran77"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1882794320"
+                },
+                "title": {
+                    "label": "Dang IOS 11"
+                },
+                "content": {
+                    "label": "I would not have updated to IOS 11 if I had realized it would kill off this game for me. I love it to death, and I’m really hoping to see it updated to 64 bit so I can play it again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id574710747"
+                    },
+                    "name": {
+                        "label": "MGF凌"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1872849978"
+                },
+                "title": {
+                    "label": "update"
+                },
+                "content": {
+                    "label": "why is it not working in ios 11.0.3？",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id160810860"
+                    },
+                    "name": {
+                        "label": "Ian592001"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1831739347"
+                },
+                "title": {
+                    "label": "Please update to ios11"
+                },
+                "content": {
+                    "label": "I miss playing this great game ever since I’ve updated. Would be nice if it was made compatible, or even a whole new game was made.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id324444279"
+                    },
+                    "name": {
+                        "label": "CodeElegance"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1829683697"
+                },
+                "title": {
+                    "label": "Best game. Period."
+                },
+                "content": {
+                    "label": "From the beautiful artwork to the engaging gameplay, this stands out.\n\nWell DONE, my friends.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id616958994"
+                    },
+                    "name": {
+                        "label": "therealaubrey"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1815313417"
+                },
+                "title": {
+                    "label": "No update?!"
+                },
+                "content": {
+                    "label": "I love this game so much, but why can’t you guys update it?! I wanna play the AD games so bad but after iOS11 I can’t!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id136608998"
+                    },
+                    "name": {
+                        "label": "~gum+"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1802958805"
+                },
+                "title": {
+                    "label": "Please update this games"
+                },
+                "content": {
+                    "label": "Please update this games for iOS 11. Thanks",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id149710636"
+                    },
+                    "name": {
+                        "label": "chr(88)"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1712778076"
+                },
+                "title": {
+                    "label": "best RTS on iphone so far"
+                },
+                "content": {
+                    "label": "I'm a really big fan of the RTS genre and a bigger fan of how to do it on a mobile interface. This is hands down the best rts user experience on an iphone i've played to date.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28267647"
+                    },
+                    "name": {
+                        "label": "Tony & Mandy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1674878515"
+                },
+                "title": {
+                    "label": "Really fun"
+                },
+                "content": {
+                    "label": "Finally a fun strategy game on the iPad",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id427602131"
+                    },
+                    "name": {
+                        "label": "Be28g"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1666457982"
+                },
+                "title": {
+                    "label": "Awesome"
+                },
+                "content": {
+                    "label": "Worth every penny. Had officer development, city development, troop development. Espionage is ver useful, which is nice since in most games it is useless. Strategy and diplomacy are necessary, quest are very useful and there are a vast choice. Best strategy game on iOS I've found so far",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id263520814"
+                    },
+                    "name": {
+                        "label": "Big boomer201"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1655423169"
+                },
+                "title": {
+                    "label": "Stellar"
+                },
+                "content": {
+                    "label": "Just downloaded the game a couple hours ago but I am very impressed so far. It reminds me, like many have said, of Total War, a PC game series. It says a lot for an iOS game to be compared to that. I enjoy the battle aspect of the game, but I like even more the campaign side of things, where you're managing your empire, spying on enemies, and building your cities. It's a great experience and I know I'll put many hours into this one. Thanks developers!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id126072324"
+                    },
+                    "name": {
+                        "label": "sultanthesultan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1648881396"
+                },
+                "title": {
+                    "label": "Love the game but"
+                },
+                "content": {
+                    "label": "I loved the game but there was a bug. Game we ant off before I saved it . I still played because game was adjective.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id260007939"
+                    },
+                    "name": {
+                        "label": "BubbaBooBean"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1635091294"
+                },
+                "title": {
+                    "label": "Needs Play Testing"
+                },
+                "content": {
+                    "label": "First off, top marks for theme & art.  But this feels like a game that was never play tested.  Lots and lots of problems.  Many mentioned in other review.  Your troops. An get placed in the middle of a mountain, immobilized, or in the center of the enemy camp for instant destruction.  Could be great with some polish, but not there yet.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id142885354"
+                    },
+                    "name": {
+                        "label": "Dave 781"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1591332826"
+                },
+                "title": {
+                    "label": "Great Game."
+                },
+                "content": {
+                    "label": "Really liked the combat units.  Resource management was interesting and challenging.  Great game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id114039132"
+                    },
+                    "name": {
+                        "label": "Arabstar"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1556807687"
+                },
+                "title": {
+                    "label": "Great game but first 1 was better"
+                },
+                "content": {
+                    "label": "Great game but I wish it focused more on the RTS factor and the battles instead of managing the kingdom and growing",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id273604818"
+                    },
+                    "name": {
+                        "label": "Greatest game on the iPad"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1546634537"
+                },
+                "title": {
+                    "label": "Enjoyed this game"
+                },
+                "content": {
+                    "label": "If you like strategy games, you will like this one.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id390129028"
+                    },
+                    "name": {
+                        "label": "Messiah_low"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1542334429"
+                },
+                "title": {
+                    "label": "AWESOME"
+                },
+                "content": {
+                    "label": "GREAT",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id21490024"
+                    },
+                    "name": {
+                        "label": "ChrisTheGamerGuy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1533168389"
+                },
+                "title": {
+                    "label": "Best RTS on iOS!"
+                },
+                "content": {
+                    "label": "Great game, I would highly recommend!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id494681490"
+                    },
+                    "name": {
+                        "label": "Jgjngvcbxbv bb"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1525223856"
+                },
+                "title": {
+                    "label": "War"
+                },
+                "content": {
+                    "label": "It's good",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id421034066"
+                    },
+                    "name": {
+                        "label": "Kadiusthegreat"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1522260666"
+                },
+                "title": {
+                    "label": "Just like total war"
+                },
+                "content": {
+                    "label": "A very fun LONG game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40307355"
+                    },
+                    "name": {
+                        "label": "Bevo123"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1521438001"
+                },
+                "title": {
+                    "label": "Excellent strategy game"
+                },
+                "content": {
+                    "label": "Excellent strategy game, like Risk on steroids with governance policies and offensive tactics.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30047773"
+                    },
+                    "name": {
+                        "label": "Wvsteeler"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1519310813"
+                },
+                "title": {
+                    "label": "Fantastic"
+                },
+                "content": {
+                    "label": "I hesitated due to the price tag, but after one play through I'm sold! Awesome balance and good story line. Better or more in depth tutorial, maybe outside the game would be awesome. Buy it!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id243307719"
+                    },
+                    "name": {
+                        "label": "Akotel"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "2.11"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1518976922"
+                },
+                "title": {
+                    "label": "Very fun"
+                },
+                "content": {
+                    "label": "The game is great! The only issue I have is I want more maps to play on!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=813330182&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:50:45-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=813330182/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=813330182/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=813330182/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=7/id=813330182/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=813330182/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=813330182/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=813330182/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=813330182/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=813330182/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=813330182/sortBy=mostRecent/json"
+        }
+    }
+}

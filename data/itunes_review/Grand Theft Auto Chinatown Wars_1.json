@@ -1,0 +1,113 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": {
+            "author": {
+                "uri": {
+                    "label": "https://itunes.apple.com/us/reviews/id649024536"
+                },
+                "name": {
+                    "label": "A hate this app"
+                },
+                "label": ""
+            },
+            "im:version": {
+                "label": "1.0"
+            },
+            "im:rating": {
+                "label": "1"
+            },
+            "id": {
+                "label": "3637766683"
+            },
+            "title": {
+                "label": "Bad"
+            },
+            "content": {
+                "label": "It didn’t even load. And every time you press a button in the main menu it plays a 30 second ad. Don’t get. You will be wasting your time",
+                "attributes": {
+                    "type": "text"
+                }
+            },
+            "link": {
+                "attributes": {
+                    "rel": "related",
+                    "href": "https://itunes.apple.com/us/review?id=1236744160&type=Purple%20Software"
+                }
+            },
+            "im:voteSum": {
+                "label": "1"
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "Application"
+                }
+            },
+            "im:voteCount": {
+                "label": "1"
+            }
+        },
+        "updated": {
+            "label": "2020-11-29T17:47:01-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1236744160/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1236744160/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1236744160/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1236744160/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1236744160/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1236744160/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1236744160/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1236744160/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1236744160/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1236744160/sortBy=mostRecent/json"
+        }
+    }
+}

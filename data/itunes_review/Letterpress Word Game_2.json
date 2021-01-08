@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id866514859"
+                    },
+                    "name": {
+                        "label": "oof1333"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4547635948"
+                },
+                "title": {
+                    "label": "Wow!"
+                },
+                "content": {
+                    "label": "This is so addicting!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id900136878"
+                    },
+                    "name": {
+                        "label": "l. megan-leary"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4546064693"
+                },
+                "title": {
+                    "label": "Dear developers"
+                },
+                "content": {
+                    "label": "This was a favorite app when used on iPhone. Have just re-downloaded to iPad Pro. Bots taking two days (really) to take their turns. Help please?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id18644667"
+                    },
+                    "name": {
+                        "label": "Chech1234"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4510655583"
+                },
+                "title": {
+                    "label": "Great Game!"
+                },
+                "content": {
+                    "label": "I am soooo addicted to this game!!! I play every day!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33919345"
+                    },
+                    "name": {
+                        "label": "Rgfcpq"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4397858306"
+                },
+                "title": {
+                    "label": "Great game, great support"
+                },
+                "content": {
+                    "label": "Had an issue with ads on new iPad and they told me how to fix it. Love the game again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43690912"
+                    },
+                    "name": {
+                        "label": "MoonSmiles"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4258891736"
+                },
+                "title": {
+                    "label": "Two things please"
+                },
+                "content": {
+                    "label": "This would be so much better if it used a real word-game list, such as CSW15. Currently the game allows a lot of fake words, and disallows a lot of valid words.\nAlso, I think creativity and game play would be improved if the center tile was a wild card. And I’m sure many current players would agree AND disagree with that, so maybe it could be a variation? Please!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id247533395"
+                    },
+                    "name": {
+                        "label": "do you want this review or not"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3984007162"
+                },
+                "title": {
+                    "label": "Love Letterpress"
+                },
+                "content": {
+                    "label": "I've been playing this wonderful game for a couple of years.  It's fun and it's good my mind. \nI also love at times playing with the Bots.\nEach game is fresh and new, and if you really don't like the board you have, you can exchange it.\nMy daughter told me about it and now we play regularly.  \nI really do love it.  Thanks to the creators.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id403103338"
+                    },
+                    "name": {
+                        "label": "CynMinn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3977372497"
+                },
+                "title": {
+                    "label": "Great levels of challenge"
+                },
+                "content": {
+                    "label": "I really enjoy this game!  I love that the bots are ready to play anytime, and as soon as I start feeling smart in my bot-beating skills I can play a tougher bot and start over again. \n   It is also fun to set up some favorite players and wait for their responses.\n   Having limited letters really makes you have to work for some of these words.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id156218945"
+                    },
+                    "name": {
+                        "label": "samsarik"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3909611525"
+                },
+                "title": {
+                    "label": "Love this game."
+                },
+                "content": {
+                    "label": "Been playing for years. Thank god it’s also on Android so I can play across devices. Love the colors too.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id209747613"
+                    },
+                    "name": {
+                        "label": "trishasgames"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3908713643"
+                },
+                "title": {
+                    "label": "Letter pass"
+                },
+                "content": {
+                    "label": "Rules are not clear. I thought when letters are left colored that they can not be used again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101557790"
+                    },
+                    "name": {
+                        "label": "jazzypollyme"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3886814740"
+                },
+                "title": {
+                    "label": "Clean elegant interface is a winner"
+                },
+                "content": {
+                    "label": "Super game- and responsive business, I love their gig - plus it's the best user interface in games today- both beautiful and intuitive - a fun break, 3 minute challenge and a way to 'connect' with a friend in just one word! Great fun, optional color schemes and chat options and upgrades so reasonable!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id209766367"
+                    },
+                    "name": {
+                        "label": "Tolysa"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3874425458"
+                },
+                "title": {
+                    "label": "Letterpress"
+                },
+                "content": {
+                    "label": "Love this game. It is creative, brain strengthening, word wiser. My favorite word game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id264743237"
+                    },
+                    "name": {
+                        "label": "i am thebarbarita"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3871283792"
+                },
+                "title": {
+                    "label": "A clever game that will hook you in"
+                },
+                "content": {
+                    "label": "Don’t start playing unless you have some free time. On the other hand, you need never fear being alone, or forgotten at the doctor’s office. When you’re tired it refreshes you. True, some people are better at it than I am. But there’s nothing like the little squirt of dopamine when I come from behind and use up those last 6 free letters.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24646523"
+                    },
+                    "name": {
+                        "label": "stretch2K9"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3857432903"
+                },
+                "title": {
+                    "label": "Removing a game doesn’t work anymore"
+                },
+                "content": {
+                    "label": "The latest update hosed it. Now when you try to remove a game it starts a new game with them same player and leaves the completed game in the list. This needs to go away immediately.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36342402"
+                    },
+                    "name": {
+                        "label": "Areviewer007"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3855258669"
+                },
+                "title": {
+                    "label": "Two issues"
+                },
+                "content": {
+                    "label": "Bot Games are not auto refreshing \n\nWhen you remove a finished game it automatically starts a new game with the same player\n\nPlease fix these",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id13135284"
+                    },
+                    "name": {
+                        "label": "SanDiegoDriver"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.8.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3854849584"
+                },
+                "title": {
+                    "label": "Hateful new feature"
+                },
+                "content": {
+                    "label": "I hate how suddenly when you remove a game it automatically starts a new one with the same player. I want to choose if I wish to continue or not. Now I’m forced to have to resign a game and it’s a time waster and definitely cuts into my enjoyment. Wish they would cut it out.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id431864972"
+                    },
+                    "name": {
+                        "label": "TerryH8391"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3769535189"
+                },
+                "title": {
+                    "label": "Letterpress"
+                },
+                "content": {
+                    "label": "Love word games that are challenging and this one & this Is one of them: I don’t win very often but it’s still fun,",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37038719"
+                    },
+                    "name": {
+                        "label": "MullinsRS"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3679219758"
+                },
+                "title": {
+                    "label": "Exceptionally annoying ads"
+                },
+                "content": {
+                    "label": "I’ve loved this game for a long time. The new bots are great (though quite challenging). I just wish the ads weren’t so ridiculously invasive.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37885751"
+                    },
+                    "name": {
+                        "label": "Golf&gardenguy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3657415470"
+                },
+                "title": {
+                    "label": "Letterpress"
+                },
+                "content": {
+                    "label": "I love word games and this game is unique. I'm amazed at the volume of words I can find. The ads are obnoxious. I'd like an option to pay to play without them.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id303457440"
+                    },
+                    "name": {
+                        "label": "Punkyz.Mom"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "3584645206"
+                },
+                "title": {
+                    "label": "Help!"
+                },
+                "content": {
+                    "label": "Where is the chat option?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id111933735"
+                    },
+                    "name": {
+                        "label": "SuperShoeDiva"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3498991515"
+                },
+                "title": {
+                    "label": "poor performance"
+                },
+                "content": {
+                    "label": "app often hangs after submitting a word",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id249941099"
+                    },
+                    "name": {
+                        "label": "ILuvTN"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3460683750"
+                },
+                "title": {
+                    "label": "Not fair"
+                },
+                "content": {
+                    "label": "If I open with a strong word and am auto matched to someone who decides to resign rather than play, why do I lose the opportunity to play with that starter word? Why not let that person choose to leave but let someone else join to play against me and my strong opening word? It isn’t fair that I lose the opportunity to play the game I started.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27766692"
+                    },
+                    "name": {
+                        "label": "Doctor Fedora"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3417152591"
+                },
+                "title": {
+                    "label": "Great game!"
+                },
+                "content": {
+                    "label": "This game is lots of fun. However, we play to see how many words we can find, not to be the first to go out. At some point, the “words played” list goes black. I need this corrected so I can see how many words we’ve played. Please work on making this happen.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id632451772"
+                    },
+                    "name": {
+                        "label": "mnelsonmfa"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3377807603"
+                },
+                "title": {
+                    "label": "Good game, too many ads"
+                },
+                "content": {
+                    "label": "Way too many ads.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16847381"
+                    },
+                    "name": {
+                        "label": "Moongazer32"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "3366236137"
+                },
+                "title": {
+                    "label": "Lost my favorite players when I updated :("
+                },
+                "content": {
+                    "label": "I know this person’s game name & it won’t show up. We’ve played so many games together, I hate losing her. If stilljonsgirl sees this, pls reply.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id6182119"
+                    },
+                    "name": {
+                        "label": "jaxswild"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3362656975"
+                },
+                "title": {
+                    "label": "Good game"
+                },
+                "content": {
+                    "label": "I enjoy the game. It would be nice if I could communicate with other player.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id344583893"
+                    },
+                    "name": {
+                        "label": "olanmills"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3359013783"
+                },
+                "title": {
+                    "label": "Good gameplay"
+                },
+                "content": {
+                    "label": "Interesting gameplay. It's not just about making the longest words, like most people think at first. I also really like that a purchase/upgrade unlocks the full game outright, unlike other games that still have stupid currencies, cool down timers, and whatnot *cough cough ALPHABEAR cough cough*",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id146703500"
+                    },
+                    "name": {
+                        "label": "Funfem"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3347787056"
+                },
+                "title": {
+                    "label": "Addictive!"
+                },
+                "content": {
+                    "label": "Love this game, can play alone or with friends. Very challenging and fun! Favorite app!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id560067120"
+                    },
+                    "name": {
+                        "label": "Ejbleen"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3332850161"
+                },
+                "title": {
+                    "label": "Not just another word game"
+                },
+                "content": {
+                    "label": "This is a genuine original, not merely another lookalike. Real creative thought went into the mechanics and design of this game - very impressive.\n\nSo far I’ve played only against the bots. Bot 1 is pretty dumb, but Bot 2 requires thought, Bot 3 is hard for me to beat, and Bot 4 is probably unbeatable. I’ve had one game against a friend, but the bots are more challenging.\n\nOne star off for the horribly intrusive ads, which sometimes can be dismissed only with difficulty, and the rather high price of getting rid of them completely, which is $5. \n\nI like to think I’m pretty good at word games. Of course I may be deluding myself, but I suspect that bot-based play will be too difficult for most people.\n\nExcellent app overall. I’m tempted to check out the creators’ other efforts.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id293160770"
+                    },
+                    "name": {
+                        "label": "Crazy Jack the Rabbit"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3328884420"
+                },
+                "title": {
+                    "label": "Needs a Fix"
+                },
+                "content": {
+                    "label": "I can’t connect to my game center name or account after re-downloading the app. The game says I can go into manage account to do so but it won’t let me change my name to my Game Center name or connect to that account. Fix this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32176920"
+                    },
+                    "name": {
+                        "label": "d18991"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3303101209"
+                },
+                "title": {
+                    "label": "Mostly great."
+                },
+                "content": {
+                    "label": "Setup and finding friends is harder than it should be. Game play is very fun!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id274850543"
+                    },
+                    "name": {
+                        "label": "dude4lyfe"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3232709628"
+                },
+                "title": {
+                    "label": "Button to accept words"
+                },
+                "content": {
+                    "label": "This is a great game. What would make it better is allowing players to accept words played by their opponents that are not in the letterpress dictionary.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39535965"
+                    },
+                    "name": {
+                        "label": "Knitty Kitty Girl"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3231800120"
+                },
+                "title": {
+                    "label": "Play This Fun Word Game Daily"
+                },
+                "content": {
+                    "label": "I love Letterpress! It is a fun, challenging word game and can be fast paced. I get frustrated when people start playing then quit mid game when they are losing. I have had up to 25 games going at one time but maybe only 9 active games. I like the feature that makes a player forfeit after 5 non-playing days.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id453440316"
+                    },
+                    "name": {
+                        "label": "E*D*I"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3138226750"
+                },
+                "title": {
+                    "label": "Strategic Word Game"
+                },
+                "content": {
+                    "label": "Fun word game that also combines strategy!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id106410140"
+                    },
+                    "name": {
+                        "label": "MegaTeach"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3095441081"
+                },
+                "title": {
+                    "label": "Highly highly addictive and FUN! BEST WORD APP!"
+                },
+                "content": {
+                    "label": "Once I got the hang of it, which took me awhile, this became my most addictive game. I Love the language aspect as well spatial component of trying to capture letters. Love playing it!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id890485538"
+                    },
+                    "name": {
+                        "label": "Jane&Lucy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "3091769206"
+                },
+                "title": {
+                    "label": "Not easy"
+                },
+                "content": {
+                    "label": "This game is a bit difficult to pick up until the light goes on! I play WWF and have it down, but this is more technique than spelling prowess. My humble opinion lol.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43241259"
+                    },
+                    "name": {
+                        "label": "StrykrSeven"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2996989559"
+                },
+                "title": {
+                    "label": "The greatest game ever"
+                },
+                "content": {
+                    "label": "I love this game, and played it all the time with my wife while we were both at work. She has since determined I’m too difficult an opponent and lost interest in playing against me, so the (presumably recent) addition of bot opponents has given the game infinite replay value, even among the antisocial types like me who would rather not play at all than be forced to play against random human opponents. Letterpress was always great, but the bot opponents now move it firmly into the realm of “my favorite mobile game of all time”. Keep being awesome, Letterpress (and maybe continue to introduce more bot archetypes over time)!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id117821707"
+                    },
+                    "name": {
+                        "label": "kinsel"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2905505210"
+                },
+                "title": {
+                    "label": "Fixed!"
+                },
+                "content": {
+                    "label": "No more identity problems so regular play has resumed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id121864467"
+                    },
+                    "name": {
+                        "label": "Janey97225"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2866882969"
+                },
+                "title": {
+                    "label": "Fun, challenging but need new dictionary"
+                },
+                "content": {
+                    "label": "I just tried playing the word “prebilling” which wasn’t allowed (???) but in my last game the bot played “\nHakenkreuz” which is a German word meaning swaztika. How is that allowed?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24405109"
+                    },
+                    "name": {
+                        "label": "hobbes8calvn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2847167660"
+                },
+                "title": {
+                    "label": "Pandering for reviews = 1 star"
+                },
+                "content": {
+                    "label": "Sorry, I love the game, but begging for reviews is bad form.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42507467"
+                    },
+                    "name": {
+                        "label": "drfu"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2814525696"
+                },
+                "title": {
+                    "label": "Best game I have ever paid for"
+                },
+                "content": {
+                    "label": "👍🏻 love this ♥️",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id839347948"
+                    },
+                    "name": {
+                        "label": "THIS IS A SUCKY GUI"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2805357896"
+                },
+                "title": {
+                    "label": "Recommend"
+                },
+                "content": {
+                    "label": "Very fun, auto matches match skill pretty well and there are not very many glitches, and a lot is customizable. Ads do not affect much as they are not every 10 seconds unlike SOME GAMES.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id305738959"
+                    },
+                    "name": {
+                        "label": "Pepper Jack King"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "2795628587"
+                },
+                "title": {
+                    "label": "Ads are horrible... HORRIBLE!"
+                },
+                "content": {
+                    "label": "The game itself is entertaining but after virtually every turn you must endure an ad. Recently, there is a 2 to 3 second lapse after you take your turn where the screen freezes and you can’t do anything until the ad plays. A few times I’ve unknowingly tapped the x to exit during this lapse and it automatically whisks me off to the App Store. Annoying, to say the least. I contacted their tech support who claimed they’ve made no changes to the ad format. Not sure I believe that. I feel this is a money making ploy, and I’ll be honest - I hate it.\n\nUPDATE: Today, May 14, I encountered a 30-second ad after one of my turns. It was a FRANKENSTEIN RISING HOUSE OF FUN SLOTS ad. Is this what’s coming now, 30-second ads? And of course there’s no way to click out of it, so we must endure it. Horrible.\nUPDATE: And I got it again 10 minutes later.\nUPDATE: you keep claiming the ad setup hasn’t changed but I beg to differ. Instead of continually claiming that, maybe more importance and attention should be placed on what players are saying. The ad placement and/or functionality HAS changed, regardless of claims to the contrary. Ads now have a timer on 5 second them, and occasionally longer than 5. They didn’t have a timer in them until recently. The fact that you don’t understand what I mean escapes me because I tried to detail exactly what I’m experiencing.\nUPDATE: I keep getting this scripted “not sure what you are talking about” response from the developer.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22823596"
+                    },
+                    "name": {
+                        "label": "Unbroken Jane"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2749285884"
+                },
+                "title": {
+                    "label": "Fast and challenging"
+                },
+                "content": {
+                    "label": "I play against the bots - it’s building my vocabulary. Slightly addictive, too.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id106778059"
+                    },
+                    "name": {
+                        "label": "BlurrW"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2733919067"
+                },
+                "title": {
+                    "label": "Turns music off"
+                },
+                "content": {
+                    "label": "The game is fine, it’s pretty fun and the app seems to work well. I’m giving this one star because the app turns my music off when I open it and frankly that’s stupid.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id462045622"
+                    },
+                    "name": {
+                        "label": "hensterz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.7"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "2718408820"
+                },
+                "title": {
+                    "label": "Hensterz"
+                },
+                "content": {
+                    "label": "Enjoy the game but some words which are allowed for the robots are over the top and I was denied “waylay!”",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id553435376"
+                    },
+                    "name": {
+                        "label": "Jackie❤️ Is❤️ Cool❤️"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.6.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "2656155722"
+                },
+                "title": {
+                    "label": "BOOOOO"
+                },
+                "content": {
+                    "label": "Good job but sorta boring I mean u can’t even win these days...😒 time waster 🕟",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id184962362"
+                    },
+                    "name": {
+                        "label": "dixiewordnerd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.6.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2643306226"
+                },
+                "title": {
+                    "label": "Enjoying it!"
+                },
+                "content": {
+                    "label": "One suggestion: some of the words the “bad word filter” catches are truly not bad words.  You might cause a young person to want to know why he can’t write “fairy” and other such innocent words.  I’d rather not needlessly  plant seeds in kids’ heads.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id85789368"
+                    },
+                    "name": {
+                        "label": "Dojogirl"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.6.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2641898466"
+                },
+                "title": {
+                    "label": "👍👍👍"
+                },
+                "content": {
+                    "label": "I am a regular. I play speed rounds to wake up my brain.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id133561508"
+                    },
+                    "name": {
+                        "label": "Music maker 3"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.6.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2631810476"
+                },
+                "title": {
+                    "label": "Letterpress fun but..."
+                },
+                "content": {
+                    "label": "Fun game, great for connecting every day with a son who is far away! We both wish the notifications worked more reliably for our iPhones.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id204666084"
+                    },
+                    "name": {
+                        "label": "JB 96753"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "4.6.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2619760319"
+                },
+                "title": {
+                    "label": "GREAT game"
+                },
+                "content": {
+                    "label": "I just love this game. And glad it is not timed!!!  Very challenging and I enjoy playing with the bots. The easy bot is too easy but the medium bot is so hard!!  Thanks!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=526619424&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:27:19-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=526619424/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=526619424/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=526619424/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=526619424/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=526619424/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=526619424/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=526619424/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=526619424/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=526619424/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=526619424/sortBy=mostRecent/json"
+        }
+    }
+}

@@ -1,0 +1,1807 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id121549966"
+                    },
+                    "name": {
+                        "label": "syntheticvoid"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5662316663"
+                },
+                "title": {
+                    "label": "Operation Dracula"
+                },
+                "content": {
+                    "label": "I've had the free version of this on my phone for so long, and it took me so long to actually get into playing it seriously, that I forgot it was the free version - and really just figured it was a free game with ads. \nThen, while scrolling through the store looking for a new SHMUP to snag, I saw that Operation Dracula didn't say 'OPEN', and instead - showed that $2.99 price tag. \nWell.... I fired up the free version again, and about 2 days later, I picked up this paid build. \nI have no clue what took me so long to get into it, or why I kept just glancing over this version while scrolling through the AppStore, but I'm kicking myself for it now. \nThis is a GREAT shoot-em-up, with FANTASTIC visuals, sounds, scoring and a hardcore difficulty that should keep even the most seasoned bullet-hell gamers wildly entertained - and this is coming from someone that is VERY picky about their SHMUPS. This fits right in with the 10 or so other top notch titles that are not offloaded in my SHMUP folder right now (4 of which are Cave offerings). So, if that tells you anything.... .... I'd be surprised to hear of any serious fan of the genre bad mouth  this one. \nOh, and THANK YOU for keeping this title active all these years (especially after the 'OS update that shall never be mentioned'). You guys rock!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id119291235"
+                    },
+                    "name": {
+                        "label": "7-String"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "2073958329"
+                },
+                "title": {
+                    "label": "Come for the bullet hell, stay for the music"
+                },
+                "content": {
+                    "label": "I learned very quickly that I am probably the worst at this game, but the masterfully crafted tracks have me coming back.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id367583082"
+                    },
+                    "name": {
+                        "label": "Rudux 1989"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1627658899"
+                },
+                "title": {
+                    "label": "Normal is nearly impossible and easy is enough to drive you mad"
+                },
+                "content": {
+                    "label": "Why label it as normal and easy when it's clearly legendary mode and veteran mode.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101602359"
+                    },
+                    "name": {
+                        "label": "Demonskunk"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1484768919"
+                },
+                "title": {
+                    "label": "Terribly designed, too much clutter"
+                },
+                "content": {
+                    "label": "This is a terribly designed shmup. Unlike other, better made bullet hell games, this game FPGAs way too much going on at once. Thimgs constantly pop onto the screen and shoot an insane amount of bullets at once.\n\nThe first boss has a laser attack that gives no warning, and will almost always hit you because you need to be right in front of it to actually hit it with your weapon.\n\nAvoid this one. Go buy dodonpachi or something instead.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id29579992"
+                    },
+                    "name": {
+                        "label": "XMusic_m"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1380310005"
+                },
+                "title": {
+                    "label": "Great Shmup!"
+                },
+                "content": {
+                    "label": "Great shmup with high octane action right from the start. Seems impossible at first, but as you learn to do small, precise dodges and use your specials and bombs often and wisely it gets really fun. I have a few specific gripes about individual moments (boss 4's \"fake\" bullets come to mind) but overall this game is a blast. The soundtrack is awesome too, and the game includes a music player with unlockable tracks.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id288776913"
+                    },
+                    "name": {
+                        "label": "Boyiartist"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1369866162"
+                },
+                "title": {
+                    "label": "Finally beat all bosses on normal tips"
+                },
+                "content": {
+                    "label": "Watch out for bullets and throw your electronic at the window.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id300687544"
+                    },
+                    "name": {
+                        "label": "Citizen.kane."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1352316981"
+                },
+                "title": {
+                    "label": "Finally beat it on normal (tips)"
+                },
+                "content": {
+                    "label": "Took an in-app purchase of 3 extra credits and a lot of practice, but that was a satisfying win. Be patient and have fun.  Then when you think you can win with extra credits, buy em.  It was worth the .99 cents. Great experience.\n\nBoss one is easy once you know his routine.  I keep to the left when things get crazy.  Easier to dodge.  \n\nIf you don't care about points, boss 2 can easily be beat by running the clock and looming behind him until he shoots missles.\n\nBoss 3 all I can say is baby steps all around.  Resist jumping all over the place.\n\nBoss 4 his first move is aimed at you so time it so you move far away just as he launches those missles.  That will ease the pain. I go to the upper left corner when he launches bombs. \n\nLast guy is pretty easy. Stay left when he uses bats. You can dodge easy from there. The rest is just gently dodging bullets.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id115988680"
+                    },
+                    "name": {
+                        "label": "HumphreyBogarden"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1351519112"
+                },
+                "title": {
+                    "label": "Never says credits are one use"
+                },
+                "content": {
+                    "label": "So I paid to max out credits. Because u need more credits in all modes. But nowhere does it say that the iap for credits is one use only.   They should regenerate for the extra two dollars we paid.  Shameful money grab.   Like I'm going yo pay two dollars each time I want to play. Thx for the greed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id298782518"
+                    },
+                    "name": {
+                        "label": "Anodyn3"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1323890536"
+                },
+                "title": {
+                    "label": "1 of the better Shmups"
+                },
+                "content": {
+                    "label": "It's definitely a tough game. But w such fast load times, frustration has no time to sink in... \n\nWould've been a quarter muncher back in the day for sure!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id430916209"
+                    },
+                    "name": {
+                        "label": "Montgomery York"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1318126893"
+                },
+                "title": {
+                    "label": "Fun - BUT HARD!!!"
+                },
+                "content": {
+                    "label": "If you don't take this game seriously it is pretty enjoyable.. but if you let it get under your skin you might end up needing a new iphone after you threw the one you're on at a wall!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id154230784"
+                    },
+                    "name": {
+                        "label": "Ofasu"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1306326407"
+                },
+                "title": {
+                    "label": "Game should probably come with a disclaimer"
+                },
+                "content": {
+                    "label": "I don't normally leave reviews, but after looking at some of the piss poor reviews people left about garbage controls to wah wah its to hard and , don't waste your money I want a refund. I decided that this game probably should have a disclaimer that looks something like this\n\nIf you can't beat contra without having to enter the up up Down down code. Don't buy this game.   If the first thing you do after you beat a level is run to the closest save crystal. Don't play this game. If you have to reach for your wallet or moms wallet cause you need the best equipment or the first level is to hard. Don't bother downloading this game. If most of your achievements,unlocks, and hidden crap  you got were the result of selecting yes after being asked if you really wanted to purchase this from Apple. Skip this title and Go on to the next game. \n\n   This game doesn't mess around.  There's no holding your hand helping you through the first few levels. It tells you to pick a pilot and goes good luck now go save the world. \n  The devs should be commended for making a tough game like this. Where you have to sit down and play knowing that you don't have unlimited lives and countless of continues to fall back on. The game doesn't  care that one more shot would of killed the last boss. Remember what you learned from that encounter now go back to stage one.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id414529604"
+                    },
+                    "name": {
+                        "label": "Twirling fern"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1298613395"
+                },
+                "title": {
+                    "label": "Unfair gameplay bad controls and ui"
+                },
+                "content": {
+                    "label": "Easy mode plays like expert mode. You have to look at the top to see when special move is charged. Your ship should change color. Instead of 2 finger tap for bomb you need to tap in lower right. First boss shoots super speed laser without warning which insta kills you. Boss 4 shoots very dense bullets at super speed. Poorly implemented shooter.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id38291997"
+                    },
+                    "name": {
+                        "label": "Eijh"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1293158102"
+                },
+                "title": {
+                    "label": "Could be fun"
+                },
+                "content": {
+                    "label": "Too hardcore for casual gaming.  Too bad since I was looking forward to a good arcade style scrolling shooter.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id173935211"
+                    },
+                    "name": {
+                        "label": "MarinasideSteve"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1291097489"
+                },
+                "title": {
+                    "label": "Great but too hardcore"
+                },
+                "content": {
+                    "label": "This is an incredible bullet shooter, but \"Easy\" mode seems anything but to me and \"Normal\" modes means near insta-death.  This plays wonderfully on my iPad; if only I could see past the first two bosses.  Please developers, make a wimp mode for the rest of us.\n\nMy recommendation is only buy if you want extreme challenge.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35176788"
+                    },
+                    "name": {
+                        "label": "kleerkoat"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1264578344"
+                },
+                "title": {
+                    "label": "could be....."
+                },
+                "content": {
+                    "label": "one of the best SCHMUP's on the AppStore if it wasn't absurdly difficult. \n\nsurprises me that the majority of reviews here and elsewhere share the same sentiment but the dev seems to not care or they would have tweaked the difficulty. \n\nif you think you are a god at these games or you like playing for 30 seconds and quitting out of frustration this game is for you.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id197604459"
+                    },
+                    "name": {
+                        "label": "Bill Fletcher"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1259695559"
+                },
+                "title": {
+                    "label": "Finally made it to stage 5 on normal #~40 on Game Center lol"
+                },
+                "content": {
+                    "label": "It's a good game. You kinda gotta memorize tricks for each boss and for parts of levels.  There's no reason to die on level one or really even get his by the first boss for example if you memorize his 4 or so attacks. You don't really have to leave like an inch big section on the bottom of the screen even. I have no idea how to beat the stage 4 boss without dying a bunch but the cylinders (not diamonds) he shoots at you don't hurt so don't bother trying to dodge them.  I'm sure it's beatable but itseriously crazy hard. 99% of the players probably don't make it through half the game.  I've been looking for a game like this for awhile and this is great. Seems like something that woulda sucked quarters outta kids pockets 20 years ago.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id20891167"
+                    },
+                    "name": {
+                        "label": "newlygrownappendage"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1256690540"
+                },
+                "title": {
+                    "label": "No analog stick functionality with MFI controller support for a SHMUP?"
+                },
+                "content": {
+                    "label": "It's cool they implemented MFI controller support but it's practically unplayable being limited to a D-Pad without analog stick support for this bullet he'll shoot me up. Maybe it's my controller; Mad cats ctrli game pad but I don't think so. Besides that it reminds of some of my favorite arcade shmups like Armed Police Batrider and Batsugun. There are so many good shmups on this platform it would be awesome if somebody would make an iPad compatible Bluetooth 4 way seimitsu joystick gamepad for this purpose.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id219610267"
+                    },
+                    "name": {
+                        "label": "Pomadour74"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1250942044"
+                },
+                "title": {
+                    "label": "Close"
+                },
+                "content": {
+                    "label": "Ok, second review here. Just fix the game please. I'd hate to delete it from my device...\n\nOn easy it's fine I guess but on normal it's just too tough. There's too much going on in the screen that are not bullets. That's an awkward sentence...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id207157308"
+                    },
+                    "name": {
+                        "label": "chretienn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1250353101"
+                },
+                "title": {
+                    "label": "Great game but very difficult"
+                },
+                "content": {
+                    "label": "I love the graphics but the game is just so tough to get through. Even at the easiest level I can barely get past the first two levels of the game. Not very happy with my purchase.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42562156"
+                    },
+                    "name": {
+                        "label": "ImHowardMoon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1247495658"
+                },
+                "title": {
+                    "label": ":("
+                },
+                "content": {
+                    "label": "Beautiful looking game...terrible gameplay. Frustrating to play. Way out of balance. Don't waste your money. :<",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id119139378"
+                    },
+                    "name": {
+                        "label": "cta_x"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1247199463"
+                },
+                "title": {
+                    "label": "Beautiful, but fun?"
+                },
+                "content": {
+                    "label": "The graphics and soundtrack are awesome, obviously. But the gameplay? Not so much...\n\nLosing power ups upon being hit is a horrible idea. Basically punishes people by leaving them underpowered most of the time as this game gets pretty hard. Bosses wouldn't be so bad if it weren't for the lasers and homing missiles. Hate those things! There is too much going on sometimes that can make bullets hard to distinguish. Finally, why are there not alternate control options? Double tap and bomb bar tapping interrupts me dodging bullets and moving the ship. Add a two tap option or buttons at least... \n\nOverall, great presentation but lacking in polish compared to CAVE, Danmaku Unlimited, and Decluster. It's just not that fun to play. More frustrating.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43275970"
+                    },
+                    "name": {
+                        "label": "Home grown"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1244793341"
+                },
+                "title": {
+                    "label": "Rediculous"
+                },
+                "content": {
+                    "label": "Impossible to see what's on the screen with the touch controls.\n\nGame balance is way off.\n\nWaste of money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id176303407"
+                    },
+                    "name": {
+                        "label": "Neomedia74"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1242120498"
+                },
+                "title": {
+                    "label": "Missing Sound Effects Since Latest Patch!"
+                },
+                "content": {
+                    "label": "As the title states: since the latest patch, most of the sound effects are missing during the game. Using an iPhone 6 Plus. Operation Dracula would recieve a 5-star rating if the sound effects work!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41800784"
+                    },
+                    "name": {
+                        "label": "TDDragon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1241928486"
+                },
+                "title": {
+                    "label": "Great game but frustrating issues"
+                },
+                "content": {
+                    "label": "Graphics, game play and music all are awesome. Biggest complaint is that you need to earn a high enough score first before getting more \"credits\" which you need to be able to play longer. And even on \"easy\" the game is insanely hard. Anytime all credits are used up you need to start from the beginning - so no ability to just keep replaying the level where you died.  That made me stop playing after reaching end of 3rd level",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id120251984"
+                    },
+                    "name": {
+                        "label": "SloobieSloob"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1240118244"
+                },
+                "title": {
+                    "label": "Love & Hate"
+                },
+                "content": {
+                    "label": "Love the graphics, controls, and pretty much everything about this game, except how hard and ridiculously fast paced it is. I'm old and can'mt react this fast anymore, even on easy mode. If this came out on Super Nintendo back in the day, we'd be cool. Please make an update and include an Old People Mode. I would even pay for that feature.Otherwise, love it, good job.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id34302864"
+                    },
+                    "name": {
+                        "label": "Zackie mick kraky"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1239739959"
+                },
+                "title": {
+                    "label": "Very unbalanced"
+                },
+                "content": {
+                    "label": "Although the graphics are wonderful, music is kickass, and stages are great....THE BOSS BATTLES ARE ABSURD!!\n\nI have all of Cave games and have played black label mushihimesama on god mode with 1CC and almost beat it. \n\nThis game has to be tuned up to be as good as it was made. The bosses take forever to kill with to little life drain. Bullets are way to fast for not having a hitbox. Using your finger also makes it hard to see aircraft from behind. I got to stage 4 after beating the flying demon boss and it was ridiculously fast and hard even on easy mode. \n\nLots of love went into this game but comes out as average based on such unbalanced mechanics.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id177159722"
+                    },
+                    "name": {
+                        "label": "Deegster77"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1238368959"
+                },
+                "title": {
+                    "label": "Fun game but...."
+                },
+                "content": {
+                    "label": "How have they not been sued? \"Stole\" graphics/sprites from Batrider & DoDonPachi. Probably other games also!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id116940672"
+                    },
+                    "name": {
+                        "label": "Jasper45-70"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1238173898"
+                },
+                "title": {
+                    "label": "Insanely Difficult"
+                },
+                "content": {
+                    "label": "Other than the difficultly, this game has it all.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16876729"
+                    },
+                    "name": {
+                        "label": "notknwn_"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1237054030"
+                },
+                "title": {
+                    "label": "6+ (iOS 8.3)"
+                },
+                "content": {
+                    "label": "Nice homage to arcade shoot 'em ups of times past. There are a few issues: (1) punishing difficulty even on the lowest setting, (2) lack of multitouch control, and (3) amount of time spent underpowered (especially during boss battles), as your ship loses power ups each time it is hit. It would be helpful if the next ship could continue with the same level of firepower.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id176325611"
+                    },
+                    "name": {
+                        "label": "Ryanator2011"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1236859241"
+                },
+                "title": {
+                    "label": "Too hard and repetitive"
+                },
+                "content": {
+                    "label": "There are just things flying all over the place at such a frenetic pace. This wouldn't be such a big deal if there was room to maneuver. While i consider myself above average at shooting games, this seems impossible and quickly lost patience. It's too bad as the graphics and sound are excellent. Just not fun to me and waste of money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id116317655"
+                    },
+                    "name": {
+                        "label": "Coldcoff33"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1236742870"
+                },
+                "title": {
+                    "label": "Great game. True homage. Minor issues"
+                },
+                "content": {
+                    "label": "One of the best bullet hell shmups of recent times. Love the art and music.\n\nOnly minor issue for me was the lack of multitouch control capabilities. It forced me to lose control of the ship so that i could double tap to use the special power because it wouldn't recognize double taps from my other finger while i had one finger on screen to control the ship. This is a big issue for a game like this considering the fact that it requires you to move your ship at all times to avoid dying. Although the precision of the touch controls to move the ship around are spot on.\n\nWould have been a must buy for any shmup fan had it not been for the minor annoyance in the controls. I hope they fix it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id87171755"
+                    },
+                    "name": {
+                        "label": "FreddZeppelin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1236609651"
+                },
+                "title": {
+                    "label": "Epic"
+                },
+                "content": {
+                    "label": "Have a feeling this will become a classic. \nIt's that good.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39212266"
+                    },
+                    "name": {
+                        "label": "GoGadgetGo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1236236396"
+                },
+                "title": {
+                    "label": "Awesome retro shooter"
+                },
+                "content": {
+                    "label": "This is a very high quality fun shooter.  It's got beautiful retro graphics and style, intense and fun shooting and bullet dodging action, great soundtrack, lightning fast load times, perfect touch controls. This feels like it could be a console or arcade game as far as its level of polish. Well worth the price.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id70013543"
+                    },
+                    "name": {
+                        "label": "Another Former Player"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1236141750"
+                },
+                "title": {
+                    "label": "Love it"
+                },
+                "content": {
+                    "label": "Great old school styled shooter.  Love the retro music and cheesy storyline.  Extra star for no IAP.  Would like an option for unlimited credits, doubt my old thumbs have what it takes to get me past the 3rd stage anymore.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id270738815"
+                    },
+                    "name": {
+                        "label": "N in HOLLYWOOD"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1236065351"
+                },
+                "title": {
+                    "label": "FANTASTIC!"
+                },
+                "content": {
+                    "label": "Hold onto your hats.  This thing jumps right into the fray IMMEDIATELY.   These devs really know what they are doing with this kind of in-your-face action.  Wild music, insanity, this has it all. It is great!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id41738987"
+                    },
+                    "name": {
+                        "label": "MickG25"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1235992823"
+                },
+                "title": {
+                    "label": "Difficult - Expensive - Awesome"
+                },
+                "content": {
+                    "label": "I am fairly experienced in these types of games and it's simply too hard for me. I think the easy setting is even hard. I think it should be made a little bit easier AT LEAST in the EASY setting. When paying this much money for a game, I'd hope that I could enjoy it's full value for the money paid. With a level of difficulty so high, I am not able to enjoy the purchase to its fullest. I just ask that you go easy on some of us, at least the ones that like this style but want a more relaxing experience. I will easily rate five stars if you guys can do that. Great job, great game, ALMOST worth the money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id131348305"
+                    },
+                    "name": {
+                        "label": "Psxtreme"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1235681431"
+                },
+                "title": {
+                    "label": "Great shmup"
+                },
+                "content": {
+                    "label": "This little gem of a game totally surprised me when I saw it show up today. I did not have high expectations but the level design, gameplay and music are great.\n\nThe only disappointing thing is the controller movement doesn't feel natural. I'm using a horipad controller and adding analog joystick support would make it work much better.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=980540474&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:21:43-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=980540474/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=980540474/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=980540474/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=980540474/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=980540474/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=980540474/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=980540474/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=980540474/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=980540474/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=980540474/sortBy=mostRecent/json"
+        }
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40605250"
+                    },
+                    "name": {
+                        "label": "olorcain"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.21"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6646271220"
+                },
+                "title": {
+                    "label": "It’s an advertisement, not a game"
+                },
+                "content": {
+                    "label": "They let you play one match than you’re locked out until you subscribe, but you can watch ads for their game club until your eyes bleed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1490825293&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1072617726"
+                    },
+                    "name": {
+                        "label": "kingicv"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.15"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6435851441"
+                },
+                "title": {
+                    "label": "Great"
+                },
+                "content": {
+                    "label": "Never seen a game like this pretty good inventive",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1490825293&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id406175831"
+                    },
+                    "name": {
+                        "label": "Your Horrible Neighbour"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.10"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5964591983"
+                },
+                "title": {
+                    "label": "Pay to Play, in its Penultimate Form"
+                },
+                "content": {
+                    "label": "Super cool game, I love the mechanics. Very much like Tetris and word search had a baby. And since I’m inclined toward both, this was a gift. I played the tutorial game and it was great, I almost got a score of one million and I wanted to play more! But then, all the ads started popping up about getting a premium account to play and that just completely blew it. You might as well just put this up on the App Store for $4 instead of baiting players like this. Can’t play any game modes, on any sort of difficulty. My love for this game immediately turned into spite. Get this fixed, fellas. Otherwise, you’re going to lose many, many customers.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1490825293&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id501130906"
+                    },
+                    "name": {
+                        "label": "Arterron44"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.6"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5559876946"
+                },
+                "title": {
+                    "label": "Pay to play"
+                },
+                "content": {
+                    "label": "You only get one attempt before you can play. Super lame",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1490825293&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39815530"
+                    },
+                    "name": {
+                        "label": "wordcowboy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5381538411"
+                },
+                "title": {
+                    "label": "It’s back!!!"
+                },
+                "content": {
+                    "label": "This was such an awesome game I played it to pieces",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1490825293&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:44:05-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1490825293/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1490825293/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1490825293/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1490825293/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1490825293/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1490825293/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1490825293/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1490825293/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1490825293/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1490825293/sortBy=mostRecent/json"
+        }
+    }
+}

@@ -1,0 +1,961 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id263206545"
+                    },
+                    "name": {
+                        "label": "Goedeke"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1280514730"
+                },
+                "title": {
+                    "label": "Good ideas, but one breaking bug"
+                },
+                "content": {
+                    "label": "The idea of a shared deck for all characters is interesting and the interrupt and block skills keep you thinking. \n\nHowever, once the Assassin character appeared as an opponent, about a third of combats ended with no opponents in the battle, but a full health bar in one of the enemy lanes. Had to force terminate the game and hope to conclude combat next time without the bug.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id31316464"
+                    },
+                    "name": {
+                        "label": "InfiniteAwesome"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1280348789"
+                },
+                "title": {
+                    "label": "So close to perfect"
+                },
+                "content": {
+                    "label": "With a little more polish this is absolutely a five star game, and am personally loving it so far.\nGorgeous art\nStrategic gameplay\nVery replayable and just all around fantastic\nI did run into an issue where some enemies were stuck in the same position for a few turns, when in reality they had already attacked and gone back to a regular stance\nAlso, after i used one of the potions, there were permanently green numbers above my heroes (would like to know what those were for in the first place)\nIn the temple, the captive dodo is the same color as the carpet, which makes it seem like just some floating limbs\nFor the better part of the temple, no numbers showed up when anyone was attacked\nWhen you play a card that allows you to discard, or when a character is stunned, you arent able to read the effects of the card, which is a little annoying\nLastly, a tutorial would be lovely(: \nI think you just need to let the player know exactly whats going on in every move, like i have no idea what some of the enemy effects are- other than that, i truly love this game and would love to see more cards added. Turn based RPG's are my favorite and i hope you do make more!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id131414504"
+                    },
+                    "name": {
+                        "label": "President John Henry Eden"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1280296744"
+                },
+                "title": {
+                    "label": "Bug fixed"
+                },
+                "content": {
+                    "label": "The following bug seems to be fixed.\n\n--\n\nWhen your enemy employs a vanish move, you can no longer attack him. Sometimes he just doesn't show up again and you can't finish the battle.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id170407873"
+                    },
+                    "name": {
+                        "label": "Tom Mayflower"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1280064284"
+                },
+                "title": {
+                    "label": "Love Rocketcat"
+                },
+                "content": {
+                    "label": "Very different from their other titles.  Great game, but a little lacking in depth at first release.  Also using Phoenix feather freezes the app",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id231603642"
+                    },
+                    "name": {
+                        "label": "Kdndnjxujfnndkdkfnf"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1280057978"
+                },
+                "title": {
+                    "label": "So"
+                },
+                "content": {
+                    "label": "gaayyyyy",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id163257245"
+                    },
+                    "name": {
+                        "label": "Jclbrs@hotmail"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1280031733"
+                },
+                "title": {
+                    "label": "Fun and Nice Concept"
+                },
+                "content": {
+                    "label": "I am enjoying this game.  It is fun to view the available cards to pick the best action.  Since you can stop at most points, it is good for making progress when you only have a few minutes available. I Recommend this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id39649667"
+                    },
+                    "name": {
+                        "label": "Glecko"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1279965456"
+                },
+                "title": {
+                    "label": "Who knew"
+                },
+                "content": {
+                    "label": "Great puzzler with a bit of strategy mixed in. Or is it vice versa? At any rate it's been a fun game to stumble on and spend time playing. \n\nI like the casual nature of it where I can pop in and pop out. \n\nThe art and sounds are cool too. Art reminds me of another game I can't recall ... but love the flat, stylistic characters. \n\nWell done team.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id17252136"
+                    },
+                    "name": {
+                        "label": "putermcgee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1279906923"
+                },
+                "title": {
+                    "label": "Very fun"
+                },
+                "content": {
+                    "label": "I'm not very good at lane-based strategy games, or card games even, but I'm having a lot of fun with this one. I love the art style, and the music is fantastic to boot. Looking forward to getting better and finally beating the game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id167337300"
+                    },
+                    "name": {
+                        "label": "formar42"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1279768825"
+                },
+                "title": {
+                    "label": "Needs more work"
+                },
+                "content": {
+                    "label": "Game has potential, but in its current state it is rather boring and quite frankly ugly.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27296557"
+                    },
+                    "name": {
+                        "label": "misfitskater6"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1279728918"
+                },
+                "title": {
+                    "label": "Great!"
+                },
+                "content": {
+                    "label": "It's from Rocketcat Games, everything they make is awesome. Just buy it along with everything else they've made.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id29278663"
+                    },
+                    "name": {
+                        "label": "ben.wilber"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1279615485"
+                },
+                "title": {
+                    "label": "so much fun"
+                },
+                "content": {
+                    "label": "uguuuuuu",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id119877427"
+                    },
+                    "name": {
+                        "label": "Jake el Snake"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1279566302"
+                },
+                "title": {
+                    "label": "Can't use Phoenix feather?"
+                },
+                "content": {
+                    "label": "Tried to use Phoenix feather in combat but game seems to be in locked state. Can't select anything but characters are still moving so game has not frozen",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37490083"
+                    },
+                    "name": {
+                        "label": "neverender348"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1279521886"
+                },
+                "title": {
+                    "label": "Good w/ Potential for Greatness"
+                },
+                "content": {
+                    "label": "This game is really fun. Yes it can use some more work - mainly some clarification in wording (attack across vs attack forward) - but it's very possible I'm missing something. Plus, given the developer's history, I'd say this game will reach its potential.\n\nThe game is relies on the basic MOBA lanes: top, mid, and bottom. Your party attacks opposing monsters using cards. However, you can only play one card per turn and each monster gets to move every turn. The graphics are artsy (not in a bad way) and the monsters go through different numbers of animations before attacking - ex. one mob may move forward, then he'll crouch, then he'll raise his sword, then the attack hits. The strategy comes in playing your cards to block, interrupt, or kill attackers. Outside of individual battles, the party progresses through a dungeon. Simply tap a room and its connected rooms are revealed. There are symbols for different room types: skulls for battles, coins for merchants, and various other symbols for power ups and healing. The game's overall strategy is health balancing. Your party can only heal at health fountain rooms (or with items). So during battles, sometimes you have to decide who takes a hit.\n\nAs far as shortcomings, really all this game needs is a tutorial page. I'd hate to see game this well designed be ruined by a clunky hand-holding tutorial, but a page just defining what common phrases mean would be great. Or even just like a library that shows a quick graphical representation of what each card does - like the character on one side with arrows to the lanes that the card attacks.\n\nAgain, given rocketcat's history, I'm pretty sure we'll see major changes. Is this game worth $4 right now? Hard to say. For me, it's right on the edge - even without considering rocketcat's history. So if you're not sure then I'd say wait a bit. But if you like party- and turn-based RPGs and/or rogue likes, then it's probably worth it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id166646991"
+                    },
+                    "name": {
+                        "label": "Gunzt"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1279303278"
+                },
+                "title": {
+                    "label": "Great art BUT."
+                },
+                "content": {
+                    "label": "Wow i like graphic style looklike this and buy it like never think. but alway clash in iPhone5s+ios 9.1 . hope your guy fix this soon",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id86709732"
+                    },
+                    "name": {
+                        "label": "Awesomesauce135"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1279224056"
+                },
+                "title": {
+                    "label": "Sound concept, poor execution"
+                },
+                "content": {
+                    "label": "The idea is good, but ends up slow and with little depth.  Perhaps wait a patch or two, in the meantime buy their other games instead.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id219610267"
+                    },
+                    "name": {
+                        "label": "Pomadour74"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1279196151"
+                },
+                "title": {
+                    "label": "Good stuff"
+                },
+                "content": {
+                    "label": "A tiny bit confusing at first but then it starts to make sense; good amount of subtle strategy involved. Throw in a tutorial or make a YouTube tutorial or something. It's got really neat mechanics. Expand on it I like it. :) $ well spent.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id196635718"
+                    },
+                    "name": {
+                        "label": "JRockz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1279134829"
+                },
+                "title": {
+                    "label": "Tactics!"
+                },
+                "content": {
+                    "label": "I love this game.  I'm all about turn-based tactical games and he fact that the game just drops you into it, without any tutorial was at first, disorienting, but once I got going, it was pretty cool.  You learn how best to play as you go along.  The visuals are beautiful and the different attacks of each class are unique.  Eye say they want to make more of these, I say please do!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id34486248"
+                    },
+                    "name": {
+                        "label": "hawkster59"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1279074405"
+                },
+                "title": {
+                    "label": "Dive in."
+                },
+                "content": {
+                    "label": "Very different from this studio's other games. But  watching videos and reading about the game on a couple forums convinced me to try it. And, I'm glad I did. Satisfyingly deep and challenging gameplay, fascinating vector art style akin to the great Nightmare Cooperative, and beautiful soundtrack. Takes a few battles to wrap your head around. But I'm captivated by it now. Well done Rocketcat.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25986592"
+                    },
+                    "name": {
+                        "label": "fftq"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1278774988"
+                },
+                "title": {
+                    "label": "It's a new game from Rocketcat."
+                },
+                "content": {
+                    "label": "Need I say more?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1045164931&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:25:04-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1045164931/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1045164931/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1045164931/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1045164931/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1045164931/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1045164931/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1045164931/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1045164931/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1045164931/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1045164931/sortBy=mostRecent/json"
+        }
+    }
+}

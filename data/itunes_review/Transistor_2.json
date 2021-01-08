@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1216664547"
+                    },
+                    "name": {
+                        "label": "mi cabo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6650061383"
+                },
+                "title": {
+                    "label": "Muy buena la recomiendo"
+                },
+                "content": {
+                    "label": "Genial muy buena",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id344554763"
+                    },
+                    "name": {
+                        "label": "<\\3 concerned consumer <\\3"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6642870446"
+                },
+                "title": {
+                    "label": "Trash"
+                },
+                "content": {
+                    "label": "It doesn’t translate images/text at all",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id112930242"
+                    },
+                    "name": {
+                        "label": "AJS-FLL"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6642584702"
+                },
+                "title": {
+                    "label": "Best translation app ever"
+                },
+                "content": {
+                    "label": "My wife and I traveled to many foreign countries both as volunteers and as visitors. We have worked with multiple translation apps and guides and have found iTranslate to be superior in every way. The accuracy is amazing and the audio it’s almost always understood by the resident of the country. Thank you for the quality of your app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id534359434"
+                    },
+                    "name": {
+                        "label": "humpback🐋fan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6642343053"
+                },
+                "title": {
+                    "label": "Problem with voices"
+                },
+                "content": {
+                    "label": "I can’t get the male voice for Mexican Spanish; or the Spain one.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id261204659"
+                    },
+                    "name": {
+                        "label": "Hadiafrelke"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6641032077"
+                },
+                "title": {
+                    "label": "Love"
+                },
+                "content": {
+                    "label": "This is how I communicate with my German in-laws via WhatsApp, or else we wouldn’t be able to exchange words haha",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id890590118"
+                    },
+                    "name": {
+                        "label": "millerae123"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6640231960"
+                },
+                "title": {
+                    "label": "Who do you contact?"
+                },
+                "content": {
+                    "label": "I was charged $50 for this and I don’t use it. I’ve tried to cancel it. There should be a warning before you get charged. Also have been looking for a way to contact the people who make this app to get a refund and have not found any way to contact them. Horrible business practices and I will not be recommending this. Now I’m charged $50 for an app that I won’t use. Would like a refund.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1178409097"
+                    },
+                    "name": {
+                        "label": "koolkatfrrzh"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6639067731"
+                },
+                "title": {
+                    "label": "Comment"
+                },
+                "content": {
+                    "label": "Easy and fast. Helpful too",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id18764509"
+                    },
+                    "name": {
+                        "label": "Gaelob"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6638144511"
+                },
+                "title": {
+                    "label": "Quick and easy!"
+                },
+                "content": {
+                    "label": "Easy to use and pretty accurate.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1081875354"
+                    },
+                    "name": {
+                        "label": "benji woodson"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6638124105"
+                },
+                "title": {
+                    "label": "Translate"
+                },
+                "content": {
+                    "label": "This is 100% better than Google translate and it’s pretty on point",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1142387192"
+                    },
+                    "name": {
+                        "label": "robloxgirl7161"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6636750496"
+                },
+                "title": {
+                    "label": "THIS APP IS THE BEST!!!"
+                },
+                "content": {
+                    "label": "I have a friend named Lila and she is Spanish so I use this app to talk to her :D",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1192280099"
+                    },
+                    "name": {
+                        "label": "jfasbdsguy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6634568095"
+                },
+                "title": {
+                    "label": "Kinda buggy"
+                },
+                "content": {
+                    "label": "Everytime i go to type my key board is delayed and my words start bunching together and mixing so I have to type at like 2 wpm just to get a sentence in",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id557687107"
+                    },
+                    "name": {
+                        "label": "Ayden Newton"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6633893755"
+                },
+                "title": {
+                    "label": "Great App"
+                },
+                "content": {
+                    "label": "This app is very responsive and is easy to navigate overall I would suggest this to anyone.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1038647517"
+                    },
+                    "name": {
+                        "label": "Butter bread Garlic"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6633497594"
+                },
+                "title": {
+                    "label": "Perfect"
+                },
+                "content": {
+                    "label": "Very nice it helps with any language",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id823354013"
+                    },
+                    "name": {
+                        "label": "k 1515"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6633484853"
+                },
+                "title": {
+                    "label": "kc1515"
+                },
+                "content": {
+                    "label": "Great App",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1129141640"
+                    },
+                    "name": {
+                        "label": "SoryaRJs"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6632970005"
+                },
+                "title": {
+                    "label": "SoryaRJs"
+                },
+                "content": {
+                    "label": "Good",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id984289386"
+                    },
+                    "name": {
+                        "label": "Smillies80"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6631420052"
+                },
+                "title": {
+                    "label": "It needs improvement"
+                },
+                "content": {
+                    "label": "It is a really good app. It gets most Spanish right. But not all. That is the only language that I use other than English.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id608609815"
+                    },
+                    "name": {
+                        "label": "yazdan safari"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6629750834"
+                },
+                "title": {
+                    "label": "Very good"
+                },
+                "content": {
+                    "label": "Really great",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1226261414"
+                    },
+                    "name": {
+                        "label": "alberto servin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6628409757"
+                },
+                "title": {
+                    "label": "I love this translation app"
+                },
+                "content": {
+                    "label": "More better translator than google",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1227324933"
+                    },
+                    "name": {
+                        "label": "Labonbound"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6627780348"
+                },
+                "title": {
+                    "label": "Great tool for perfecting my Portuguese"
+                },
+                "content": {
+                    "label": "Easy to use and very practical. The verbs used are also outlined in detail which is a great learning tool.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id198349988"
+                    },
+                    "name": {
+                        "label": "BurnaNate"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6627327650"
+                },
+                "title": {
+                    "label": "Great app for work"
+                },
+                "content": {
+                    "label": "I work at a paint store and communication can be hard with language barriers. This app helps me!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id260050440"
+                    },
+                    "name": {
+                        "label": "Simwo88"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6626949916"
+                },
+                "title": {
+                    "label": "bad :/"
+                },
+                "content": {
+                    "label": "u need to pay to use the lens feature and i got the app so i could use it. u can translate though but google translate is a thing. 👎 disappointing.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id893370497"
+                    },
+                    "name": {
+                        "label": "ErikaZeUncool"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6625569883"
+                },
+                "title": {
+                    "label": "$$$"
+                },
+                "content": {
+                    "label": "A lot of the features you have to pay to have. The actual translator is absolutely amazing though. Just be prepared for it to ask you to buy the other features.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1074490772"
+                    },
+                    "name": {
+                        "label": "caseyf0911"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6624820914"
+                },
+                "title": {
+                    "label": "Extremely helpful"
+                },
+                "content": {
+                    "label": "Awesome app! So useful",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id251841278"
+                    },
+                    "name": {
+                        "label": "NickJaSol"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6624498272"
+                },
+                "title": {
+                    "label": "Widget is handy."
+                },
+                "content": {
+                    "label": "Quick access when I need a word on the go.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id884848054"
+                    },
+                    "name": {
+                        "label": "TheSlayer925"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6624070659"
+                },
+                "title": {
+                    "label": "Great!"
+                },
+                "content": {
+                    "label": "The app is amazing and now I can talk to my friend from Guatemala! I think you shouldn’t  have to have the VIP to do most of the things.But the app is amazing",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id149812998"
+                    },
+                    "name": {
+                        "label": "AMDELVL"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6624058246"
+                },
+                "title": {
+                    "label": "Great app"
+                },
+                "content": {
+                    "label": "Great APP!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id212072600"
+                    },
+                    "name": {
+                        "label": "Stevex505"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6623459342"
+                },
+                "title": {
+                    "label": "So much better than Google Translate!"
+                },
+                "content": {
+                    "label": "Translating between English and Korean is a difficult task! After trying out several other apps, I found iTranslate to be the best option. \nI am attempting to improve this app's performance in regard to Korean/English translation by purchasing their in-app services.\nI have high hopes!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id927223115"
+                    },
+                    "name": {
+                        "label": "royferro"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6623263776"
+                },
+                "title": {
+                    "label": "Lo mejor"
+                },
+                "content": {
+                    "label": "Es una gran ayuda",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id116158804"
+                    },
+                    "name": {
+                        "label": "Wheelerart"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6619345455"
+                },
+                "title": {
+                    "label": "Great app"
+                },
+                "content": {
+                    "label": "Thank you for making this helpful app",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id496527947"
+                    },
+                    "name": {
+                        "label": "PUMYCORNFLAKES"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6619009467"
+                },
+                "title": {
+                    "label": "Great app I use it all the time lol"
+                },
+                "content": {
+                    "label": "THERES premium features that I wish i could have but it’s understandable oof, translates really good like very accurate I love it and will continue using it more than the the new iOS 14 Apple translate app. \n\nThank you for the app!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id213362693"
+                    },
+                    "name": {
+                        "label": "Sandra @evomarketing_"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6619003994"
+                },
+                "title": {
+                    "label": "Don’t like new update"
+                },
+                "content": {
+                    "label": "I looooved this app before the update. After they updated it makes it harder to swap between languages or select from and to language. Please fix this 🙏🏽",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id910333721"
+                    },
+                    "name": {
+                        "label": "zhfffdhrgvzg"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6617504052"
+                },
+                "title": {
+                    "label": "Love it"
+                },
+                "content": {
+                    "label": "Love it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1057432202"
+                    },
+                    "name": {
+                        "label": "Mago Mar"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6616485618"
+                },
+                "title": {
+                    "label": "Gran avance"
+                },
+                "content": {
+                    "label": "Gracias por esta gran ayuda, y al mismo tiempo practico el Idioma Inglés para así mejorarlo!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id458907210"
+                    },
+                    "name": {
+                        "label": "Bionic Sun"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6614999492"
+                },
+                "title": {
+                    "label": "Great app with small issues"
+                },
+                "content": {
+                    "label": "Ok so I really like this app but I have only one concern. When using the talking to text translation the app crashes. I’ve tried reinstalling and that didn’t work. Feel like I’ve tried everything. Maybe the app needs a new update with bug fixes and general maintenance. Not really sure but I hope this reaches the devs!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id563956968"
+                    },
+                    "name": {
+                        "label": "buttstock101"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6614520832"
+                },
+                "title": {
+                    "label": "A new start"
+                },
+                "content": {
+                    "label": "Already working in business",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1199364946"
+                    },
+                    "name": {
+                        "label": "naeagi"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6613777484"
+                },
+                "title": {
+                    "label": "Big help"
+                },
+                "content": {
+                    "label": "This helps out with school",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43168496"
+                    },
+                    "name": {
+                        "label": "daddys_girl1837495"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6612971212"
+                },
+                "title": {
+                    "label": "Best free translator app"
+                },
+                "content": {
+                    "label": "I have used this for years and it never fails. I love all the functions you get for free and how easy it is to use!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id199786021"
+                    },
+                    "name": {
+                        "label": "CB BBC"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6612629851"
+                },
+                "title": {
+                    "label": "SO helpful!"
+                },
+                "content": {
+                    "label": "Great for translating foreign documents",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id135752566"
+                    },
+                    "name": {
+                        "label": "bordyafromthestern"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6612598488"
+                },
+                "title": {
+                    "label": "Not free, planned obsolescence"
+                },
+                "content": {
+                    "label": "You cannot use the app unless you subscribe, and get 7 days before you get charged.  After reading the reviews & more importantly the responses from the developer, it is obvious that there is not much in the way of quality control, as in every response I read, the developer blames the user or device for the problem.  This is no doubt possible, it is highly unlikely that it is every cause, not to mention the bait & switch of being a free download, but not a free app, I suspect a lot of the reviews are fake, & the app is crap because the problems people have are the same issues, & the developer always blames the user.  That is seems to sink of planned obsolescence.\n\nDevelopers respond with a cut & paste of, “The free version is free & the pro version is paid”...this is completely true.  So I will revise, there are no available translation features in the free version, you have to pay for that.  In the free version, the only feature is seeing what you may be able to translate if you pay, just hope it is correct/works.  DO NOT BOTHER",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1209253266"
+                    },
+                    "name": {
+                        "label": "KingKiddace19992"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6610483451"
+                },
+                "title": {
+                    "label": "Great"
+                },
+                "content": {
+                    "label": "Great app",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id838440591"
+                    },
+                    "name": {
+                        "label": "nazerethschool"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6610342701"
+                },
+                "title": {
+                    "label": "This is good"
+                },
+                "content": {
+                    "label": "This is good for talking and looking for answers",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25642348"
+                    },
+                    "name": {
+                        "label": "Bia Peters"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6609426500"
+                },
+                "title": {
+                    "label": "II can’t recommend it; False advertisement"
+                },
+                "content": {
+                    "label": "I it’s advertised as a free app. However, you don’t get to use it unless you subscribe to their program. False advertisement",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1106289802"
+                    },
+                    "name": {
+                        "label": "Jac G Okurr"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6609151727"
+                },
+                "title": {
+                    "label": "Best translator app highkey"
+                },
+                "content": {
+                    "label": "Nice overall!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id153894607"
+                    },
+                    "name": {
+                        "label": "cec fan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6609084054"
+                },
+                "title": {
+                    "label": "So good app"
+                },
+                "content": {
+                    "label": "It is very good",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id319112017"
+                    },
+                    "name": {
+                        "label": "SweetWm."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6608324009"
+                },
+                "title": {
+                    "label": "I translate"
+                },
+                "content": {
+                    "label": "I needed to translate.three languages. This works well. I like that I can switch the direction of translation.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id434991344"
+                    },
+                    "name": {
+                        "label": "Toskiii09"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6607229189"
+                },
+                "title": {
+                    "label": "The best"
+                },
+                "content": {
+                    "label": "Superb helps",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id992571893"
+                    },
+                    "name": {
+                        "label": "محمدفضل العريمي"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6607023134"
+                },
+                "title": {
+                    "label": "جيد جداً"
+                },
+                "content": {
+                    "label": "رائع للغاية",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id478425691"
+                    },
+                    "name": {
+                        "label": "nastpany"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6606279763"
+                },
+                "title": {
+                    "label": "First time user"
+                },
+                "content": {
+                    "label": "Very easy",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id575867029"
+                    },
+                    "name": {
+                        "label": "ALF N FLA"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6604809062"
+                },
+                "title": {
+                    "label": "Communication"
+                },
+                "content": {
+                    "label": "It has helped out greatly with the communication between myself and my Spanish speaking crew leaders",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1225437541"
+                    },
+                    "name": {
+                        "label": "Gavacha Cali"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "13.0.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6604742443"
+                },
+                "title": {
+                    "label": "Quality translation service"
+                },
+                "content": {
+                    "label": "This is a really good translation service. I like that I can choose country of dialect as well as a male or female voice and even adjust the rate of speech. I am using this to help me translate for my job.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=288113403&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T17:41:29-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=288113403/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=288113403/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=288113403/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=288113403/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=288113403/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=288113403/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=288113403/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=288113403/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=288113403/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=288113403/sortBy=mostRecent/json"
+        }
+    }
+}

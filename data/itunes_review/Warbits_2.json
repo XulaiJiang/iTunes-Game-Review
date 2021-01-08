@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id156993101"
+                    },
+                    "name": {
+                        "label": "Zaveth"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1831708832"
+                },
+                "title": {
+                    "label": "Awesome game!!"
+                },
+                "content": {
+                    "label": "If you’re looking for a game like Advance Wars or just any strategy game, this game is awesome!\nThe only reason I give it 4 stars is because there’s no create a map feature. That would be awesome",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id140428309"
+                    },
+                    "name": {
+                        "label": "Lukejdhdjdjd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1827191382"
+                },
+                "title": {
+                    "label": "Amazing"
+                },
+                "content": {
+                    "label": "Can't be happier after deciding whether it was worth $5.. very similar to advanced wars but the powers are way more balanced. Great multiplayer too! Just wish I could have invited and random players in custom games. Also, the jokes and humor is pretty weird.. but I skip over it most of the time anyways! Get it and play me :)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id239439711"
+                    },
+                    "name": {
+                        "label": "adj64927282638227"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1815991234"
+                },
+                "title": {
+                    "label": "A beautiful game"
+                },
+                "content": {
+                    "label": "Reminiscent of advance wars the creators have made it their own. The art style is adorable and the dialogue is hilariously nerdy. \n\nThe powers certainly add a different element to the game. However, I do miss the naval units from advance wars and the idea of stealth units. \n\nThe map design is very well done. I really enjoyed the variety. \n\nIn all it was a very enjoyable game with a spin on nostalgia. \n------\nCritiques:\n\nI think the healing from apc's is a overpowered. If you have 2-3 apc's you can heal an absurd amount of units. That's also self sustaining since APC's can heal themselves.\n\nThe game play is quite fun however, I think the super powers and AI could use some tweaking. It doesn't seem to be that balanced.\n\n*If you want I'd be interested in helping with the AI part. I'm a data scientist by day and would have fun working on it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36156477"
+                    },
+                    "name": {
+                        "label": "mathudson"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1806347166"
+                },
+                "title": {
+                    "label": "Advance Wars done right!!"
+                },
+                "content": {
+                    "label": "Fantastic game. Great personality and perfectly matches the feel of Advance Wars!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id375413569"
+                    },
+                    "name": {
+                        "label": "Nicktoons55"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1805995123"
+                },
+                "title": {
+                    "label": "Nostalgia"
+                },
+                "content": {
+                    "label": "I know a lot of reviews say this, but this game is just like advanced wars. However this game does have the unique mechanic of charges instead of the CO powers which makes the matches a lot more even since every team can do the same things. You can use the charges to suit your play style and since there are so many charge abilities theres always one that works best no matter what situation you are in. It also is very smooth and I have yet to run into any glitches at all. The only thing that I really would want added to this is a map maker which would add endless amounts of extra content. Overall its very good and relies entirely on good strategy and getting the best use out of your charges.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "4"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id273392364"
+                    },
+                    "name": {
+                        "label": "Roy Otis2012"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1794946148"
+                },
+                "title": {
+                    "label": "Can't play keeps crashing"
+                },
+                "content": {
+                    "label": "Would love to try it but can't get it to load first mission.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id140768446"
+                    },
+                    "name": {
+                        "label": "Damondrummer7"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1794607632"
+                },
+                "title": {
+                    "label": "It's basically Advanced Wars"
+                },
+                "content": {
+                    "label": "Fantastic game. Plays super smooth, has multiplayer, good soundtrack, nice graphics, and it's effectively an AW game. IS would even have a hard time making a game this good for the phone. 5/5 for sure",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26456242"
+                    },
+                    "name": {
+                        "label": "Frankothetanko"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1792482322"
+                },
+                "title": {
+                    "label": "Like Advance Wars"
+                },
+                "content": {
+                    "label": "Storyline a little silly but good gameplay.  Well worth the money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30179756"
+                    },
+                    "name": {
+                        "label": "transresistor"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1789578879"
+                },
+                "title": {
+                    "label": "Fun for fans of Advance Wars"
+                },
+                "content": {
+                    "label": "There are a few quirks, but it hits a lot of the same marks. Well worth a purchase.\n\nI found the difficulty a bit up-and-down at times, but overall it does a good job of creating satisfying scenarios, and executes them with a sense of humor that reminded me at times of Dual Strike's lighter moments.\n\nThe UI is well done, in spite of a few flaws that aren't game-breaking, but can be annoying in the moment.\n\nThe challenges give you some of that single-player re-playability that's ideal for portable games, especially if you have a long commute.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id463426839"
+                    },
+                    "name": {
+                        "label": "Teammatesasz"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1788934552"
+                },
+                "title": {
+                    "label": "Worth $5"
+                },
+                "content": {
+                    "label": "Fans of Advanced Wars will find this a suitable upgrade.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35953341"
+                    },
+                    "name": {
+                        "label": "StickyNoodle16"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1784601885"
+                },
+                "title": {
+                    "label": "Amazing game with a few flaws"
+                },
+                "content": {
+                    "label": "Don't know if this is a AI mechanic, but it cheats... a lot. Builds Heavy Tank with only 13,000 in the bank and somehow has 1,000 to spare ?!? 0.o Mainly noticed this in the \"Veteran\" section.\n\nHaven't played the multiplayer yet so don't know about those issues.\n\nOtherwise so glad i picked this up to kill some time. Loved advanced wars and this helps fill that gap.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100859336"
+                    },
+                    "name": {
+                        "label": "anechoe"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1764099500"
+                },
+                "title": {
+                    "label": "Oh wow!"
+                },
+                "content": {
+                    "label": "Captures the Advance Wars vibe better than any other game I've played on the App Store! The units don't look at distinct from the terrain as they do in AW, making it sometimes hard to see your units ... and the story is sort of silly - I will defend people putting ketchup on their eggs TO THE DEATH! ... well, not that death ... but the mechanics feel very good generally and everything just gives off a polished vibe. I'm excited to play more :)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id570942873"
+                    },
+                    "name": {
+                        "label": "Beeboobip123"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1736207046"
+                },
+                "title": {
+                    "label": "Get it"
+                },
+                "content": {
+                    "label": "Just get it. You'll be happy!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43549028"
+                    },
+                    "name": {
+                        "label": "Sewerpipe J."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1727715666"
+                },
+                "title": {
+                    "label": "Amazing."
+                },
+                "content": {
+                    "label": "A great take on Advanced Wars. I love it. Beautiful graphics.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id12019263"
+                    },
+                    "name": {
+                        "label": "Yipperdoodle"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1719050517"
+                },
+                "title": {
+                    "label": "Awesome break from chess!"
+                },
+                "content": {
+                    "label": "Besides a chess puzzles game I have, this is definitely the best strategy game I've played. And alongside an action/platformer app called Mushroom 11 this is one of my favorites. I loved advance wars on the GameBoy advance, definitely provided a change of scenery from chess, so this is an excellently designed copycat. I have beat the first two territories so far and I have not yet scene warships such as diving submarines though but hopes r still fairly high",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id215835264"
+                    },
+                    "name": {
+                        "label": "Fhshtn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1715778501"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "A more intelligent game than the \"clash of (insert war-like noun)\" pay-to-play garbage pumped out by the major mobile gaming studios.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id596022686"
+                    },
+                    "name": {
+                        "label": "Tummywubs"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1702517683"
+                },
+                "title": {
+                    "label": "Advanced in the right way"
+                },
+                "content": {
+                    "label": "This is the game we all loved in a new quirky wrapping. Touch controls port over seamlessly. Until Andy rises from the grave, I'll be happily playing this surprising gem!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id167793086"
+                    },
+                    "name": {
+                        "label": "Eraywrah"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1675935400"
+                },
+                "title": {
+                    "label": "100% amazing (unit suggestions included)"
+                },
+                "content": {
+                    "label": "Tactically and strategically superior to Advance Wars. No issues to report.\n\nHere are some unit suggestions:\nAssault scout unit that can either move twice or attack and move. Low armor, medium attack\n\nArea of effect mech transport unit that deals damage to all adjacent enemy units when it arrives at a location. Deals more damage when \"loaded\" with an infantry unit who is manning the guns.\n\nElite ranger unit, which goes into stealth mode when in the mountains. More expensive than the regular ranger.\n\nA ballista-type unit that automatically fires a shot on the first unit that enters its firing radius, cannot actively fire if it has already shot during the opponents turn.\n\n Mine-deployment mech. Three land mines thAt can be \"unloaded\" on the ground and triggers when an enemy ground unit rolls over it. Great for laying traps in the brush.\n\nA ballista unit that fires a weaker shot than the standard, but strikes a radius of 2x2 damaging all, ground units within the 4 tiles.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id281206980"
+                    },
+                    "name": {
+                        "label": "Zackman777"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1675812565"
+                },
+                "title": {
+                    "label": "High Quality! Awesome! (Suggestions)"
+                },
+                "content": {
+                    "label": "The single player is awesome, the multiplayer is awesome, and I haven't tried the challenges out yet, but I'm guessing it's going to be awesome too. I love the art style and how neat everything is. They even created a full manual for this! Look it up online and see for yourself!\n\nOnly reason why I didn't give 5 stars/suggestions for game:\n\n*Make it so we can invite our friends AND have them on the same team when auto-matching with random players.\n\n*Make it so we can invite our friends to be on the same team AND play against 2 other AI opponents.\n\n*The manual says that we're supposed to be able to create our own tags in tag matches, but I can't on the phone version. You need to maybe change this? But not as important as the other two\n\n(Big Advance Wars fan, you guys did an amazing job)\n\n5/9/17\n*bug:\nIn one of my games, destroying the last reactor causes the game to crash. It's happened 4 times in a row, and using a different unit to destroy it makes no difference. I hope this helps.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22680454"
+                    },
+                    "name": {
+                        "label": "Salsita77"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1669038569"
+                },
+                "title": {
+                    "label": "Simple And Fun"
+                },
+                "content": {
+                    "label": "Quick but fun TBS game. Good sense of humor and solid mechanics. Not a ton of strategic diversity in the missions, but always enough to be entertaining.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43198995"
+                    },
+                    "name": {
+                        "label": "CandaceSoVan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1666870897"
+                },
+                "title": {
+                    "label": "Great game, great fun -- addictive?"
+                },
+                "content": {
+                    "label": "I love, love, love this game even more than ever with recent addition of single-player challenges. It's quickly become my favorite. Challenges me, gives me room to get better. I love it, and it's so nice to see a good game that is not weighed down with ads or the need for \"gems,\" etc. Long live Warbits!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id489330230"
+                    },
+                    "name": {
+                        "label": "1098447"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1665414107"
+                },
+                "title": {
+                    "label": "Surprisingly good writing!"
+                },
+                "content": {
+                    "label": "Not only is the turn based combat very well done, I was genuinely entertained by the characters and writing for the single player campaign. Definitely worth the buy.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id284975107"
+                    },
+                    "name": {
+                        "label": "Bshpknght"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1662461788"
+                },
+                "title": {
+                    "label": "Excellent"
+                },
+                "content": {
+                    "label": "Well worth the $5",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id514262082"
+                    },
+                    "name": {
+                        "label": "1234677839574"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1658658743"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "This game is so good but it needs warships",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id27867159"
+                    },
+                    "name": {
+                        "label": "Kjhx"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1646816259"
+                },
+                "title": {
+                    "label": "Good"
+                },
+                "content": {
+                    "label": "They should add water units but I like this game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43564828"
+                    },
+                    "name": {
+                        "label": "DeepCover"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1636855421"
+                },
+                "title": {
+                    "label": "A blast"
+                },
+                "content": {
+                    "label": "Reminds me of Advanced Wars, which is great.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22824819"
+                    },
+                    "name": {
+                        "label": "EnquireWithin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1634717908"
+                },
+                "title": {
+                    "label": "Fun and funny"
+                },
+                "content": {
+                    "label": "Great Adv Wars replacement. Funny too!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100785586"
+                    },
+                    "name": {
+                        "label": "durtysoufcraka"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1632827361"
+                },
+                "title": {
+                    "label": "Very happy so far"
+                },
+                "content": {
+                    "label": "This is exactly what I was looking for. I loved Advance Wars and wanted an iOS version. The game play is very similar and the characters are fun and quirky.\n\nMy only concerns are the campaign being over too soon. \n\nI haven't played multi-player yet.\n\nA little expensive, but very well done. Worth the $5 I paid. Please keep adding content.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36974643"
+                    },
+                    "name": {
+                        "label": "Lavabear"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1632680455"
+                },
+                "title": {
+                    "label": "Buy this if you love AdvanceWars"
+                },
+                "content": {
+                    "label": "Excellent update to advanced wars concept. Plays great on iPad. Versus mode is cool though it can take a while to finish a battle. \n\nTo the developers- the only reason I rated 4 is because of a crucial mistake in the movement mechanics. I am unable to specify the exact path a unit takes. Causes some annoying strategic issues that was not an issue in the original. Perhaps you could update it so that if a user individually taps on all the desired movement squares the unit will follow that path and if user just taps on the destination square then it will take the default route. \n\nAlso, more levels in single player PLEASE! Story mode was a bit short",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33897297"
+                    },
+                    "name": {
+                        "label": "Sornon"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1617014095"
+                },
+                "title": {
+                    "label": "Perfect"
+                },
+                "content": {
+                    "label": "Anticipated this game for over a year  and it completely lives up to my hopes and dreams. Amazing depth and great game play. The latest update with great new levels and the new iMessage invites is icing on the cake.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32642273"
+                    },
+                    "name": {
+                        "label": "LeonardMow"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1615758652"
+                },
+                "title": {
+                    "label": "Advance Wars for iOS"
+                },
+                "content": {
+                    "label": "If you like Advance Wars, you'll like this.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id33923207"
+                    },
+                    "name": {
+                        "label": "BigDaddyCrunch"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1615406302"
+                },
+                "title": {
+                    "label": "We need more games like this!"
+                },
+                "content": {
+                    "label": "I would love to see more premium titles with this level of quality gameplay. Honestly, I would even like another game like this with a different theme to it with the exact same gameplay mechanics. How about world war 2 or old west with same quality gameplay? Love it!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id115966174"
+                    },
+                    "name": {
+                        "label": "HelperMonkey"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1611314159"
+                },
+                "title": {
+                    "label": "It's what I wanted"
+                },
+                "content": {
+                    "label": "If you're a fan of the Advance Wars series like I am, and you've wanted the same gameplay on your iOS device, this game will make you happy.\nI'm in it for the single-player mode.  I haven't really gone into multiplayer.  But for what I've played I'm very pleased.  Fun and challenging.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id485634159"
+                    },
+                    "name": {
+                        "label": "wannaBCBA"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1611186348"
+                },
+                "title": {
+                    "label": "Totally Worth It"
+                },
+                "content": {
+                    "label": "If you're like me and are \"patiently\" waiting for the next Advanced Wars game or WarGroove, this will definitely help take the edge off. It's a great game and totally worth the price!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id15585012"
+                    },
+                    "name": {
+                        "label": "Bootshoe27"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1610657114"
+                },
+                "title": {
+                    "label": "Awesome multiplayer, just like advanced wars"
+                },
+                "content": {
+                    "label": "This game is super fun. A great multiplayer game with turns like words with friends so you don't all have to play at the same time. Game play just like the original advanced wars but without water ships. Smooth and fun.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id259183363"
+                    },
+                    "name": {
+                        "label": "Xarnageone"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1609176853"
+                },
+                "title": {
+                    "label": "Great game, needs naval units!"
+                },
+                "content": {
+                    "label": "So much potential for a port, and related naval units. Submarine for water to water combat, destroyer for land and water combat, carrier for transportation, battleship with extend range, etc. would love to see this addition.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id355502238"
+                    },
+                    "name": {
+                        "label": "Christopher Doryan"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1606368952"
+                },
+                "title": {
+                    "label": "Great TBS genre!"
+                },
+                "content": {
+                    "label": "I really like this game. They recently updated it, so it made it easier to match against other real players. Overall, an excellent strategy game, I just wish there was more players.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id107534891"
+                    },
+                    "name": {
+                        "label": "Yikesx3"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1606121389"
+                },
+                "title": {
+                    "label": "Nice iOS turn-based strategy game"
+                },
+                "content": {
+                    "label": "Great TBS on iOS. I've only played single player, not really interested in multiplayer, and it's got a good amount of thinking involved.\n\nI do wish the units were more distinct; it is tough to visually distinguish the air units from each other, for example. I also wish there was a little more info provided, like indicating what type (e.g. Mech) a unit is.\n\nThis game is totally worth your one-time-purchase dollars.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id7297968"
+                    },
+                    "name": {
+                        "label": "hazmat1999"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1603137280"
+                },
+                "title": {
+                    "label": "Perfect strategy game"
+                },
+                "content": {
+                    "label": "Better than advance wars, warbits is an amazingly fun strategy game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id49349610"
+                    },
+                    "name": {
+                        "label": "Nick LaPalomento"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1600896119"
+                },
+                "title": {
+                    "label": "Excellent Advanced wars style game"
+                },
+                "content": {
+                    "label": "Great game! Well made!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id14023984"
+                    },
+                    "name": {
+                        "label": "tag009"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1599352199"
+                },
+                "title": {
+                    "label": "Multiplayer issues"
+                },
+                "content": {
+                    "label": "I am unable to play with a friend vs 2 players online. It does not let me invite a friend to a specific team, or drag the \"invited player\" and \"versus\" bars on the custom match screen. I bought this for a friend thinking we could play against other players, but it does not work.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42299224"
+                    },
+                    "name": {
+                        "label": "Gorshin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1598504129"
+                },
+                "title": {
+                    "label": "Flawless"
+                },
+                "content": {
+                    "label": "The best AW clone out there. Tons of style, humor, long term play value. I bought this full price and worth every penny. I play this daily.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id10582641"
+                    },
+                    "name": {
+                        "label": "Kilbs8008"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1598443657"
+                },
+                "title": {
+                    "label": "Great game"
+                },
+                "content": {
+                    "label": "Great turn based game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22737974"
+                    },
+                    "name": {
+                        "label": "gabriensymons"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1598400241"
+                },
+                "title": {
+                    "label": "Great tactics, in the spirit of Advance Wars"
+                },
+                "content": {
+                    "label": "Humorous dialogue, great artwork, fun single player campaign!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id168470667"
+                    },
+                    "name": {
+                        "label": "Match353"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1596116854"
+                },
+                "title": {
+                    "label": "3 player map needed"
+                },
+                "content": {
+                    "label": "The game is Great just like Advance wars. Except they're not naval units, all players have the same powers & no 3 player maps. Because some time you just don't have a 4 player but would still like to play a free for all.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id22727214"
+                    },
+                    "name": {
+                        "label": "MateSoric"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1595980481"
+                },
+                "title": {
+                    "label": "So much fun!"
+                },
+                "content": {
+                    "label": "Advanced Wars has arrived for iOS!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id420111022"
+                    },
+                    "name": {
+                        "label": "Stealthlink"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1595599953"
+                },
+                "title": {
+                    "label": "Chess with Cyber Soliders"
+                },
+                "content": {
+                    "label": "If you love tactical or turn based strategy games, then you should like this.  There is a decent sized campaign to get started with and multiplayer vs humans and, or cpus up to 2 to 4 players with many maps. They also just updated the game with a new 30 map challenge mode a year after release. So it really feels complete now.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id282167881"
+                    },
+                    "name": {
+                        "label": "rhinofinger"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1593883353"
+                },
+                "title": {
+                    "label": "Great game, great update!"
+                },
+                "content": {
+                    "label": "Love this game - it's basically Advance Wars but for iOS - and this new update just brought 30 new levels!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id252292714"
+                    },
+                    "name": {
+                        "label": "Sckusie27"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1593840793"
+                },
+                "title": {
+                    "label": "If you love Advance Wars you'll love this!"
+                },
+                "content": {
+                    "label": "Well designed. Excellent UI. Good sense of humor throughout the campaign. You get a lot for an extremely reasonable price!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id241566730"
+                    },
+                    "name": {
+                        "label": "Tinfoil a"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1593679878"
+                },
+                "title": {
+                    "label": "Been playing everyday against friends since it came out awhile back"
+                },
+                "content": {
+                    "label": "This game and vainglory are the only games that have stayed on my phones",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=584927317&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T17:44:46-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=584927317/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=584927317/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=584927317/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=584927317/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=584927317/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=584927317/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=584927317/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=584927317/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=584927317/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=584927317/sortBy=mostRecent/json"
+        }
+    }
+}

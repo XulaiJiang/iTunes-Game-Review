@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id534022581"
+                    },
+                    "name": {
+                        "label": "bnswift55"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6686790482"
+                },
+                "title": {
+                    "label": "Exactly what it needs to be"
+                },
+                "content": {
+                    "label": "Works flawlessly",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id532186160"
+                    },
+                    "name": {
+                        "label": "MaxiB27"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6606990415"
+                },
+                "title": {
+                    "label": "Amazing, most thorough and free guide! 10/10"
+                },
+                "content": {
+                    "label": "Developers obviously put effort into this! Well thought out and explains every. singe. part. of. the. game!! And it’s all free!!! Amazing work devs. Much love",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id233098453"
+                    },
+                    "name": {
+                        "label": "PvsZking"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6599664370"
+                },
+                "title": {
+                    "label": "Amazing! Perfect!"
+                },
+                "content": {
+                    "label": "This is the *best* app for finding items, and learning the names of monsters, and easily unlocking challenges and even MORE items! I have my fingers crossed the app gets a swift update for Repentance coming out soon.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id581763806"
+                    },
+                    "name": {
+                        "label": "benwcramer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6574526288"
+                },
+                "title": {
+                    "label": "Awesome app!"
+                },
+                "content": {
+                    "label": "Always has exactly what I’m looking for at the tip of my fingers!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id340886454"
+                    },
+                    "name": {
+                        "label": "4thepoings"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6540083379"
+                },
+                "title": {
+                    "label": "Remove ads for 5 stars"
+                },
+                "content": {
+                    "label": "Ads are kind of annoying but this guide is useful.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1198358125"
+                    },
+                    "name": {
+                        "label": "Duderschmutzen"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6476006880"
+                },
+                "title": {
+                    "label": "The only."
+                },
+                "content": {
+                    "label": "It is everything.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id509550983"
+                    },
+                    "name": {
+                        "label": "fjxtjvdtikvblp"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6463887450"
+                },
+                "title": {
+                    "label": "great app"
+                },
+                "content": {
+                    "label": "i love this app! i play isaac all the time and this app makes it easy to keep track of progress and look at items that i don’t remember",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id565074066"
+                    },
+                    "name": {
+                        "label": "ComplexComrade"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6313423728"
+                },
+                "title": {
+                    "label": "This one is great too!!"
+                },
+                "content": {
+                    "label": "I use another one of his apps for enter the Gungeon and it’s just as good for Isaac",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1123365213"
+                    },
+                    "name": {
+                        "label": "lexopuff"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6312008022"
+                },
+                "title": {
+                    "label": "Awesome and well worth the $2"
+                },
+                "content": {
+                    "label": "Love this app!! Super helpful. Only thing I wish you could do is sort “All Achievements” by locked and unlocked.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id403691471"
+                    },
+                    "name": {
+                        "label": "TomFrosty"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6261967944"
+                },
+                "title": {
+                    "label": "My favorite tool!"
+                },
+                "content": {
+                    "label": "I love this app! Crazy great! Must have for Isaac! I can’t remember all the items this helps to keep from bad ones!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id631951256"
+                    },
+                    "name": {
+                        "label": "luving rates"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6260334878"
+                },
+                "title": {
+                    "label": "Thanks for preparing me"
+                },
+                "content": {
+                    "label": "I can now be prepared for the game itself",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id488212008"
+                    },
+                    "name": {
+                        "label": "ryan4563"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6193760720"
+                },
+                "title": {
+                    "label": "Guide with little room for improvement"
+                },
+                "content": {
+                    "label": "This guide is near perfect With small thing that are quality of life improvements everywhere, but there is a few things that would put the cherry on top, save files, champion guides, and antibirth curses and collection\n\nthere are save files in the game so you should make it in the app, for example I play on switch and I’m thinking of getting the game on ps4 so it would be nice if I could just switch to a different save file just quality of life thing but it would help a lot.\n\nAfter over 200 hours in gameplay I know the champions but it would of been a lot easier to know them from the start. (Including the champion that heals other enemy’s)\n\nAntibirth curses don’t show up on the curses page however they are a new thing only in antibirth. It would also be nice to have antibirth on the  collection page to collect if people play antibirth this should be a setting though because people might just want to see what’s in the mid and what will probably be in repentance.\n\nOne extra thing when repentance get released how soon do you plan on updating the app, because I don’t have a debug console in my possession so I can’t test out ideas for synergies or just plain old items on there own and Edmund says this will be the biggest Isaac dlc so I’m kinda relying on this guide to help me out.\n\nThanks for reading this review thanks for the amazing app and guide.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id85505895"
+                    },
+                    "name": {
+                        "label": "psymon0528"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6163184530"
+                },
+                "title": {
+                    "label": "A great app to find out the perks of the item."
+                },
+                "content": {
+                    "label": "Highly helpful with the items and resources.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101646613"
+                    },
+                    "name": {
+                        "label": "Heartspunn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6157078328"
+                },
+                "title": {
+                    "label": "Perfect. Must have. Seriously. Get it."
+                },
+                "content": {
+                    "label": "Read title. Say it aloud in front of the mirror. Then do it. M",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id867110648"
+                    },
+                    "name": {
+                        "label": "ko-money"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6141228547"
+                },
+                "title": {
+                    "label": "Cleaner wiki with wayyyy too many ads"
+                },
+                "content": {
+                    "label": "Close and reopen app to avoid the super common and annoying ads. Banner ads and constant 30 second full screen ads is just greedy",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id943541101"
+                    },
+                    "name": {
+                        "label": "i loved it but make it bigger"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6138180319"
+                },
+                "title": {
+                    "label": "Great!"
+                },
+                "content": {
+                    "label": "This app is my best friend. I play a LOT of Isaac and I love it. Only downside is that it doesn’t include items unlocked by the forgotten. Are they included in the Guide+ for this game? And if not, could you please update it to have those items. Regardless, it is a great app and it deserves five stars!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id406420410"
+                    },
+                    "name": {
+                        "label": "GA-fan-from-Tennessee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6136408645"
+                },
+                "title": {
+                    "label": "Amazing app but..."
+                },
+                "content": {
+                    "label": "This is an amazing app. However, the forgotten acts really strange with certain item. With brimstone he launches a huge brimstone ball. I hope they add a list of synergies with the forgotten.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id402435594"
+                    },
+                    "name": {
+                        "label": "Bruh_Chungus"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6115917822"
+                },
+                "title": {
+                    "label": "Amazing app but im having a problem"
+                },
+                "content": {
+                    "label": "This app is extremely helpful in finding out whats what. I used this app until i learned the ab+ items.But here’s  the problem I’m having, i re-downloaded the app but every time i open it it crashes. If not for that this app would have 5 stars.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id133817827"
+                    },
+                    "name": {
+                        "label": "Me1545"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6108439615"
+                },
+                "title": {
+                    "label": "Paid to remove ads but it took my money"
+                },
+                "content": {
+                    "label": "Love the app but the ads can be annoying so I paid the 2$ to remove them and all it did was take my money",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id457609707"
+                    },
+                    "name": {
+                        "label": "Although great game"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6092281043"
+                },
+                "title": {
+                    "label": "Almost Perfect"
+                },
+                "content": {
+                    "label": "Much easier to browse than the wiki, however includes ads which aren’t so bad even then. Descriptive searching saves my butt, and the fact that it includes all items and all enemies along with strategies and boss tactics is my favorite part. The only thing I would change is that it does not include champion color abilities along with some other minor preferences but all in all it’s almost perfect.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1048590010"
+                    },
+                    "name": {
+                        "label": "User Dosn’t Exist"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6084901459"
+                },
+                "title": {
+                    "label": "Amazing but not Perfect (Still deserves 5 Stars)"
+                },
+                "content": {
+                    "label": "I've been using this app to track my progress on the Nintendo Switch version of Isaac and it is amazing it has almost everything I could ever want, but just almost I have some problems with the app that kind of double as suggestions.\n\n(Champions)\n\nI think it would be nice to have a guide to the champion forms of enemies and what each color does.\n\n(Antibirth)\n\nWhen the settings for Antibirth are enabled your ”Collection” section doesn't include Antibirth Achievements, Items, Witness completion marks, or Characters. I'm thinking that it would be reasonable to add this content for when someone is playing Antibirth.\n\n(Current Game Switching)\n\nIf you wanted to add the original BoI and BoI:WotL I feel it would make a more comprehensive guide. I don't know if it is possible, however, my idea is: Three sections one for ”Classic Isaac”, ”Repentance”, and ”Antibirth”\n\nClassic | Repentance | Antibirth\n\nIsaac    | Rebirth  (Branches off) -> Antibirth\nWotL    | Afterbirth                  |         (Seperate\n(Seperate)| AB+                      |                Data)\n  Data)       | BP1\n             | BP2\n             | BP3\n             | BP4\n             | BP5\n             | Repentance",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id365887776"
+                    },
+                    "name": {
+                        "label": "bowenh406"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6080618377"
+                },
+                "title": {
+                    "label": "An truely amazing app"
+                },
+                "content": {
+                    "label": "As someone who's just getting into Isaac now this is the perfect app for me. Im still learning the items and since I don't know names, the color sort feature works miracles. Haven’t seen a single ad so far, props to you guys for making this miracle-working app. :)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36164023"
+                    },
+                    "name": {
+                        "label": "hdtzndjd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6043754601"
+                },
+                "title": {
+                    "label": "Best TBOI Guide Out There"
+                },
+                "content": {
+                    "label": "This guide helps with everything from how to unlock secret characters to how items will work together. 10/10 I highly recommend",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id678664390"
+                    },
+                    "name": {
+                        "label": "Cre28"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "6028465008"
+                },
+                "title": {
+                    "label": "Good app but one problem"
+                },
+                "content": {
+                    "label": "Great app very useful, only problem is the ads they get annoying. But if you don’t want them just y thee Ed premium version",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id687234432"
+                    },
+                    "name": {
+                        "label": "???!!!???!!!???!?!"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5994012477"
+                },
+                "title": {
+                    "label": "DO NOT DOWNLOAD"
+                },
+                "content": {
+                    "label": "DO NOT DOWNLOAD I WASTED SO MANY DAYS OF MY LIFE FOR THIS ITS SO STUPID WHEN EVER I SEE A ITEM THAT IS COOL I SEE WHAT IT DOES AND ITS NOT THERE LIKE TECH X AND RAZOR APPLE",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id499931010"
+                    },
+                    "name": {
+                        "label": "Emipotron"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5989799474"
+                },
+                "title": {
+                    "label": "Useful ash"
+                },
+                "content": {
+                    "label": "This made it easy to search things up in seconds. Helpful to know what to pick up",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1171728411"
+                    },
+                    "name": {
+                        "label": "Heisenberg846204721"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5981452882"
+                },
+                "title": {
+                    "label": "Essential"
+                },
+                "content": {
+                    "label": "Without a doubt an essential necessary part for big binding of isaac fans really nice for beginners and pros alike if you want to have fun or win just use this app I’m surprised it’s even free",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id576065129"
+                    },
+                    "name": {
+                        "label": "Xinthose"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5980453344"
+                },
+                "title": {
+                    "label": "Amazing but not perfect"
+                },
+                "content": {
+                    "label": "I would love to have a tab that lets me select all the items I have gotten in a run to show me my exact stats. Also selecting a character to help precise the stats would be very helpful too! Would give it 5 stars if those two where added!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id339018386"
+                    },
+                    "name": {
+                        "label": "Nkespin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5965835913"
+                },
+                "title": {
+                    "label": "Too many ads"
+                },
+                "content": {
+                    "label": "The app is great and could save you some time, but it has TOO MANY ADS. After clicking in 1/2 items you get an ad and that is just ridiculous. Because of that I simply prefer looking on the internet...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1108962514"
+                    },
+                    "name": {
+                        "label": "SierraTheSmall"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5963253056"
+                },
+                "title": {
+                    "label": "Must have for avid players"
+                },
+                "content": {
+                    "label": "If you play the game a lot you need this app!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id251360788"
+                    },
+                    "name": {
+                        "label": "knockturnallie"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5951888379"
+                },
+                "title": {
+                    "label": "This app is amazing!"
+                },
+                "content": {
+                    "label": "I love that you can search by color. Makes finding new items very easy. Rated 4 stars because of the ads.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id283570076"
+                    },
+                    "name": {
+                        "label": "blox25"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5950258065"
+                },
+                "title": {
+                    "label": "Very Helpful When Playing."
+                },
+                "content": {
+                    "label": "When I play, I always have my phone beside me so I can open this app and see. It is very useful.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id546027774"
+                    },
+                    "name": {
+                        "label": "memeboi:3"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5944887342"
+                },
+                "title": {
+                    "label": "Amazing and reliable!"
+                },
+                "content": {
+                    "label": "It has all I need to know and is detailed in general.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1167589158"
+                    },
+                    "name": {
+                        "label": "FortniteLTaker"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5933078399"
+                },
+                "title": {
+                    "label": "Guiding Of Isaac"
+                },
+                "content": {
+                    "label": "This app is great also you should rename the app to The Guiding Of Isaac",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id516012928"
+                    },
+                    "name": {
+                        "label": "MasterChi101"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5922280934"
+                },
+                "title": {
+                    "label": "Isaac's Dictionary"
+                },
+                "content": {
+                    "label": "This is the ultimate guide to all things Isaac!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id690577217"
+                    },
+                    "name": {
+                        "label": "st3amb0y"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.3"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5836783570"
+                },
+                "title": {
+                    "label": "Great Great Great"
+                },
+                "content": {
+                    "label": "Been a long time Isaac player, this is a great resource player. 2 Thumbs Up",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id223656253"
+                    },
+                    "name": {
+                        "label": "KodyLenzer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5835922731"
+                },
+                "title": {
+                    "label": "Freezes"
+                },
+                "content": {
+                    "label": "Just downloaded for first time so it’s fully updated, but it freezes every single time I search something. I have to continuously force close it just to look up one thing",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id914136220"
+                    },
+                    "name": {
+                        "label": "jreiaoekwkfnvkekwlorkfkwkw"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.1"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5821613915"
+                },
+                "title": {
+                    "label": "Freezes every 4 clicks"
+                },
+                "content": {
+                    "label": "App freezes about every four clicks or so. Lots of content but unusable in its current condition.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id961887463"
+                    },
+                    "name": {
+                        "label": "orthospy"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5817876611"
+                },
+                "title": {
+                    "label": "Love this app"
+                },
+                "content": {
+                    "label": "The title is all the info y’all need for my opinion, great alternative to pulling up the wiki on a web browser and having to to deal with browser issues. I also have a request for the developers, could you please add info for the revelations mod (;\nThanky",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id333463619"
+                    },
+                    "name": {
+                        "label": "108769"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5812045038"
+                },
+                "title": {
+                    "label": "Great App, Fix the feedback/mailing service"
+                },
+                "content": {
+                    "label": "The mail service to report errors/improvements hasn’t worked for the month I’ve had the app so far.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id182607319"
+                    },
+                    "name": {
+                        "label": "Sgt.Spinks"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5801313687"
+                },
+                "title": {
+                    "label": "*Starts to clap*"
+                },
+                "content": {
+                    "label": "I say this seriously when I say thank you for being the only source (I could find) that tells me how to get Apollyon. Not to mention the fact you have every little detail about the game here. I would have never know about The Keeper if it had not been for this app. I really thank you the people that made this app because it really does help!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1104187916"
+                    },
+                    "name": {
+                        "label": "Gaber The Gamer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5749332217"
+                },
+                "title": {
+                    "label": "Is there going to be Repentance"
+                },
+                "content": {
+                    "label": "I love this app so much but I can’t help but wonder if your going to add repentance because I’m planning on getting it as soon as it comes out",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id495444847"
+                    },
+                    "name": {
+                        "label": "GameNinja169"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5748858318"
+                },
+                "title": {
+                    "label": "Amazing"
+                },
+                "content": {
+                    "label": "This one is worth it. Thank god it’s free but I decided to pay for the no ads. But with this it has helped me so much with understanding that the items did and it’s was fast and easy. Instead of going to google and going to the wiki and then looking it up. You open this app and boom it’s there 10000000/10 highly recommend to anyone trying to learn the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id493806283"
+                    },
+                    "name": {
+                        "label": "Packless"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.2"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5743361530"
+                },
+                "title": {
+                    "label": "Toxic"
+                },
+                "content": {
+                    "label": "Way too many ads. Seems like every other thing I look up causes a 15 second ad. Avoid this app",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id460412241"
+                    },
+                    "name": {
+                        "label": "Jhorse8"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5633779830"
+                },
+                "title": {
+                    "label": "cheese"
+                },
+                "content": {
+                    "label": "gruyere swiss cheddar pepperjack colbyjack bleu brie quesoblanco feta gouda monterayjack mascarpone manchego provolone gorgonzola camembert asiago mozzerella emmental roquefort riccotta parmesean taleggio havarti",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id983104080"
+                    },
+                    "name": {
+                        "label": "DannyMung"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5617019285"
+                },
+                "title": {
+                    "label": "Great app!!"
+                },
+                "content": {
+                    "label": "I love the BOI and this app is the perfect guide if you ever need to remember that ONE item or trinket you JUST cant remember exactly what the effect is",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id728886286"
+                    },
+                    "name": {
+                        "label": "NOGOODNAMELEFT(SorryAboutCaps)"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.2"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5604609538"
+                },
+                "title": {
+                    "label": "Great guide but"
+                },
+                "content": {
+                    "label": "I feel like the ads are litttle too common",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id24142188"
+                    },
+                    "name": {
+                        "label": "kolbyqueso"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5590909710"
+                },
+                "title": {
+                    "label": "Cool and stuff"
+                },
+                "content": {
+                    "label": "I like the color coding I guess",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id383523415"
+                    },
+                    "name": {
+                        "label": "Flying bathtub"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5585822955"
+                },
+                "title": {
+                    "label": "Perfect!!"
+                },
+                "content": {
+                    "label": "I recently started playing Afterbirth+ and there is A LOT of stuff, at first I used a mod to see what items did but that won't count to donation machine or streak so this easy access item list and guide has been super useful!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id817143864"
+                    },
+                    "name": {
+                        "label": "OGbaggett"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "3.1.2"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5550552245"
+                },
+                "title": {
+                    "label": "Great utility!"
+                },
+                "content": {
+                    "label": "This app offers everything you could need In references to binding of Isaac. I highly recommend as a personal daily player.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=945680681&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T17:28:55-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=945680681/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=945680681/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=945680681/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=945680681/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=945680681/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=945680681/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=945680681/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=945680681/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=945680681/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=945680681/sortBy=mostRecent/json"
+        }
+    }
+}

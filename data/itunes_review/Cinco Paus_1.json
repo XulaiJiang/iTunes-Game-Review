@@ -1,0 +1,679 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id106173219"
+                    },
+                    "name": {
+                        "label": "kaenm"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.07"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5962850105"
+                },
+                "title": {
+                    "label": "Ridiculously difficult"
+                },
+                "content": {
+                    "label": "Difficulty is so high as to make this inaccessible except for the most gifted or dedicated few. That’s a shame. Otherwise it would be his best yet.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id196878672"
+                    },
+                    "name": {
+                        "label": "dude magee"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.07"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4377807332"
+                },
+                "title": {
+                    "label": "Great game!"
+                },
+                "content": {
+                    "label": "Impossible to put down once you get going!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id87487197"
+                    },
+                    "name": {
+                        "label": "AggroM"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.07"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4060773892"
+                },
+                "title": {
+                    "label": "Roguelike Legend"
+                },
+                "content": {
+                    "label": "To put it simply, this is my most played IOS game over the last few years. It can be frustrating at times but it's an incredibly fun ride. Truly genius design.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37823322"
+                    },
+                    "name": {
+                        "label": "TonyRobots"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.07"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3797588700"
+                },
+                "title": {
+                    "label": "Absolutely brilliant Rogue-like deconstructed"
+                },
+                "content": {
+                    "label": "Believe it or not, figuring out the Portuguese is part of the game. Trust me, it’s awesome. Buy his immediately and get his equally brilliant Imbroglio as well.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id152318249"
+                    },
+                    "name": {
+                        "label": "Drsteve1002"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.07"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3609520475"
+                },
+                "title": {
+                    "label": "A perfect game."
+                },
+                "content": {
+                    "label": "Cinco Paus is a game that deserves everyone’s attention, but wants no one’s. Its the most frustrating, rewarding, secretive, thoughtful, incredible roguelike that I’ve played in ages. I can’t recommend it enough.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43537656"
+                    },
+                    "name": {
+                        "label": "G u i s e"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.07"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3332433991"
+                },
+                "title": {
+                    "label": "Brilliant Game"
+                },
+                "content": {
+                    "label": "by a brilliant game designer.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id416141572"
+                    },
+                    "name": {
+                        "label": "Yateslough"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.06"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3200375033"
+                },
+                "title": {
+                    "label": "Micheal Bough is Incredible"
+                },
+                "content": {
+                    "label": "There is simply no comparison to his creativity in his games. By far my favorite developer of all time.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id316885361"
+                    },
+                    "name": {
+                        "label": "Sam Barlow"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.01"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2099796304"
+                },
+                "title": {
+                    "label": "Very, very, very fun"
+                },
+                "content": {
+                    "label": "If Michael Brough didn't exist then the God of Apps would have to invent him. A while game about unidentified magic wands. One more go factor is strong with this one.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42359317"
+                    },
+                    "name": {
+                        "label": "_arp"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2076440854"
+                },
+                "title": {
+                    "label": "Segredos"
+                },
+                "content": {
+                    "label": "Cinco Paus is full of secrets.\nCinco Paus makes you learn.\n\nI learned from Cinco Paus.\nI understood Cinco Paus.\n\nThen a new thing happened.\n\nCinco Paus is full of secrets.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28225232"
+                    },
+                    "name": {
+                        "label": "lookmark"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2053307262"
+                },
+                "title": {
+                    "label": "Great."
+                },
+                "content": {
+                    "label": "This one has an almost comic level of initial unfriendliness but if you have the patience and curiosity to paw past the mischievous befuddlement - very smart, fun, addictive game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id323425107"
+                    },
+                    "name": {
+                        "label": "John Thyer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2042719431"
+                },
+                "title": {
+                    "label": "Gorgeous and perfect"
+                },
+                "content": {
+                    "label": "I've loved all of Brough's iOS games, and this one's already enthralled me for hours a day since its Christmas release. 868-Hack and Imbroglio are still delighting me years after their release, and I'm fairly certain this one will too.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id111608705"
+                    },
+                    "name": {
+                        "label": "Eskariot"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2033673423"
+                },
+                "title": {
+                    "label": "Brilliant"
+                },
+                "content": {
+                    "label": "This was a great buy. I’ll be playing this obsessively for months.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37624187"
+                    },
+                    "name": {
+                        "label": "LE M"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2029139384"
+                },
+                "title": {
+                    "label": "He does it again"
+                },
+                "content": {
+                    "label": "And this time he does it in Portuguese. Amazing. I have never been so glad to be messed with.\n\nI am not sure if I should learn Portuguese or just embrace the experience of learning something I do not understand through experimentation.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1249999336&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:18:26-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1249999336/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1249999336/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1249999336/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1249999336/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1249999336/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1249999336/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1249999336/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1249999336/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1249999336/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1249999336/sortBy=mostRecent/json"
+        }
+    }
+}

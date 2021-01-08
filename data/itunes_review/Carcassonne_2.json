@@ -1,0 +1,397 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id3123968"
+                    },
+                    "name": {
+                        "label": "Binturong24"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5772134633"
+                },
+                "title": {
+                    "label": "Has potential but too cartoony graphics"
+                },
+                "content": {
+                    "label": "Likes: \nIpad version app icon with the ”C”  looks nice\nLike that you can switch to the 3D or 2D flat mode\n\nNeed work on:\nGraphics. They look too cartoony and cheap for some reason. Not sure what it is, maybe there needs to be better retinal display like on the older IOS app version; they made it look elegant somehow. Maybe have a way to switch from cartoony to a more realistic platform.\n\nOnline: Please have the option to add bots to play along with your friend(s) when online. Having bots make the game more interesting and extends the replay-ability of it. Also need an option to choose color, if there is a way, it’s not obvious. \n\nPlay: I like dragging and dropping my tiles (more therapeutic) like on the old version instead of double tapping on the map. I realize it may because of cross platforms, but I do feel like there is less control on this version, very clunky.\n\nThanks for listening.\n\nUpdate: Actual gameplay has become better the more I play it, but still would like the option to add AI bots to the online mode when playing against a friend. Would add tremendous replay ability.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1199912736&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "4"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id383933931"
+                    },
+                    "name": {
+                        "label": "swburk"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5772128444"
+                },
+                "title": {
+                    "label": "Poor substitute for the previous official app"
+                },
+                "content": {
+                    "label": "This app does not perform well. If I leave the app or lock my phone for even a moment, and open the app back up, I see a series of loading screens before being able to resume my session. The app has also crashed multiple times within the few days I’ve used it.\n\nI played the previous Carcassonne app by TheCodingMonkeys for years, totaling thousands of games locally and online.\n\nThis new app looks worse, has worse performance, less polish, and is less enjoyable to use overall.\n\nI will continue to use the old app as long as it functions.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1199912736&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "5"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "5"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1153458930"
+                    },
+                    "name": {
+                        "label": "B0Bear"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5762895594"
+                },
+                "title": {
+                    "label": "Having fun! A bug to fix..."
+                },
+                "content": {
+                    "label": "I’m new to Carcassonne and highly recommend learning the game. It took me a handful of games to get the basics and rules down, but once you do it really starts to take off. One game in particular ended up with a really cool combination of patterns and scoring opportunities. I immediately fell in love with the game once realizing it’s potential for interesting strategies and beautiful map design. \n\nI’m having a really fun time with this app so far. Online match making is quick and the gameplay experience has been smooth. The animation and sound effects make for a pleasant/relaxing experience. Playing and talking with others in the community has been enjoyable as well. \n\nOne bug I noticed so far:\n  I am pretty new to the game so taking a bit longer on time. One game I ran out of time and got booted from the game. I’m not sure if this is the intended result or if I should just not be able to put anymore tiles down. \n  A separate time the game was over and the score was being tallied. I got a notification that I ran out of time and was booted again. While I was low on time in the game (less than a minute when the game ended) I don’t think the clock should keep running. \n  In both instances I’m pretty sure I would have won, but the games no longer show up in my history. While not a huge deal, I thought it would be fun to try to get on the leaderboard someday. \n\n All in all a very enjoyable game at launch on iOS. I would love to see continued support to make it bug free and keep the community growing.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1199912736&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36177738"
+                    },
+                    "name": {
+                        "label": "Rockette3r"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "5759058145"
+                },
+                "title": {
+                    "label": "Shiny but missing polish"
+                },
+                "content": {
+                    "label": "Carcassonne functions, but it missing some features that hold it back from being truly great. \n\n1) There really isn’t a simple way to play with your friends. Currently without a turn based option/notification system you’d all have to be available at the same to play a game together. \nWhich isn’t ideal since people are busy. \n\n2) The interface isn’t as intuitive as it should be. I had to stumble around all sorts of menus to try and find out how to change my color. \n\n3) When waiting for your turn, you can’t plan ahead, since the interface is showing the AI’s tile. I suppose that’s the way the rules are written, but it’s a shame that you sometimes think it’s your turn and you have a great tile, only for you to realize that it was just showing you the computers instead. \n\nFinishing with some positives:\nThe game plays smoothly and the placement options for where to put a tile are made to be obvious which I appreciate. \n\nI like the graphics and the animations. \n\nOptions for playing with and without farmers is appreciated as are the toggle switches for being able to glance and see how the fields are currently owned/shaped. \n\nCarcassonne is a great game with nice new look that is lacking some features that keep it from giving you more value for your purchase.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1199912736&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "16"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "28"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1066038672"
+                    },
+                    "name": {
+                        "label": "Purple Skates 88"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5743706683"
+                },
+                "title": {
+                    "label": "Worse than the old version.  Sorry but true"
+                },
+                "content": {
+                    "label": "I love this game in person, and I liked the old Carcassonne app, made by.., idk, game monkeys or something.  The graphics were more pleasing. In this version I hate how the tiles are at a 45 degree angle, and the slightly 3D effects are angular and awkward.  It is hard to see what features are on your square until you actually place it.  I wish I could return it for a refund.  I played half of a game.  Oh, also the old version by the other company had. A cool single player challenge.  It was difficult and fun.  This seems... playable.... maybe.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1199912736&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "7"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "7"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40590375"
+                    },
+                    "name": {
+                        "label": "Zaryn A."
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5741842670"
+                },
+                "title": {
+                    "label": "Needs some improvements"
+                },
+                "content": {
+                    "label": "Finding friends via chat is clumsy, you can’t invite them via SMS or by link, and they didn’t show up searching by name most times I tried.\n\nWhen my online match was over it just ended the game and showed me the main menu, no match summary or anything. The timer had run out but still should have shown the summary so we all knew how we did.\n\nThe turn mechanics need to be more flexible. I couldn’t leave the app and come back to take my turn without it saying “internet disconnected”. I do need to do other things on my device like chat and browse, so this is a deal breaker. I want the option to play timed matches OR a turn based match with friends as we are able and maybe with notifications when it’s my turn.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1199912736&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "4"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "4"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id104282662"
+                    },
+                    "name": {
+                        "label": "NG12321"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5741739513"
+                },
+                "title": {
+                    "label": "Online play is painfully slow"
+                },
+                "content": {
+                    "label": "Switching to this game because the other company lost their licensing.  I was excited for the cross platform version so we could add more friends.  However, Load of game and switching games always goes to load page that takes a long time.  The game chooser doesn’t tell you which game you have a move in.  If you’re in a game and want to go to main menu it says you are opting out of the game.  We have a group that is multiple continent and the game takes weeks due to time zones.  And we regularly have 3-4 games going at one time.   It would be good for Asmodee to look at what their iOS predecessor did right and copy it.   I don’t think fancy 3D graphics is the most important thing when trying to play with friends.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1199912736&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "6"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "6"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T17:41:27-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1199912736/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1199912736/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1199912736/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1199912736/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1199912736/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1199912736/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1199912736/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=1199912736/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=1199912736/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1199912736/sortBy=mostRecent/json"
+        }
+    }
+}

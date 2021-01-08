@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id416528103"
+                    },
+                    "name": {
+                        "label": "Angry123456780"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1079498131"
+                },
+                "title": {
+                    "label": "C'mon"
+                },
+                "content": {
+                    "label": "When ever I open it it crashes",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id15781802"
+                    },
+                    "name": {
+                        "label": "Tiamat"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1079406288"
+                },
+                "title": {
+                    "label": "Advertisements; iCloud failure"
+                },
+                "content": {
+                    "label": "To be fair, I got this game when it was the free app of the week. At first, I loved it! It was very addictive and I enjoyed the in-game achievements. The OCD part of me likes completing every little thing.\n\nBut then the advertisements came. In droves. I couldn't replay a level, much less go to another level, without a pop up. I understand Nitrome needs to make money, but this is borderline asinine. And there are some adverts you can't close immediately because there's a video that has to load first. I eventually just get frustrated and stop playing.\n\nThen there's iCloud, which I use to back up game progress. I had to reinstall iOS 8.0.2 to (hopefully) eliminate blue screens on my mini2. I checked to make sure Icebreaker was backed up before proceeding. Reinstalled everything and every other game restored from iCloud just fine, except this one. Sorry, but I shouldn't have to 100% complete Troll Marsh again because their app won't restore properly.\n\nIn all, the game itself is terrific fun, but the barrage of advertisements and iCloud failure means I won't be playing it again anytime soon.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "3"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "3"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id251732165"
+                    },
+                    "name": {
+                        "label": "Rigbysface"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1079019448"
+                },
+                "title": {
+                    "label": "This is not how to make a game in iOS"
+                },
+                "content": {
+                    "label": "So this puzzler was pretty cool once. Then the dunderhead developers decided it would be totally cool to throw crappy ads that basically ruin the game into it. Good luck with that, a-holes!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26376797"
+                    },
+                    "name": {
+                        "label": "Thinkoplex"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1077849231"
+                },
+                "title": {
+                    "label": "Constant Ads Break Game"
+                },
+                "content": {
+                    "label": "UPDATE: According to their Twitter feed, Nitrome added (constant, obtrusive) ads only for people who downloaded Icebreaker during the App of the Week promotion. It was Nitrome’s decision to allow their game to be offered for free, so they should not be punishing people who took advantage of THEIR choice! This is not how to build fans, Nitrome, and your action comes across as vindictive. I’ll make sure to avoid your games in the future!\n\nI was having fun with this game, but now ads pop up between levels and even inside levels when restarting. While playing three levels, I saw at least six ads. These make the game effectively unplayable. Until the developers decide to make a game instead of a platform for advertising, I recommend steering clear of this game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id143672710"
+                    },
+                    "name": {
+                        "label": "kalihigirl"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1076549356"
+                },
+                "title": {
+                    "label": "Did not update ... so still 5 stars."
+                },
+                "content": {
+                    "label": "If you haven't updated, DON'T!  I'm still playing a five-star game, but it looks like the update kills some of the joy.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id207523974"
+                    },
+                    "name": {
+                        "label": "i_Am_The_Mountain"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1075516718"
+                },
+                "title": {
+                    "label": "Ads ads and more ADs"
+                },
+                "content": {
+                    "label": "This was a five star game before the full screen ads took over the entire game. Expect full screen ads, that force a count down before you can close them, BEFORE EVERY LEVEL. EVEEERY LEEEVEL!!!! Just because you can do full size ads does not mean you should take it to such an extreme.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id143471356"
+                    },
+                    "name": {
+                        "label": "Dinosa22"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1075084061"
+                },
+                "title": {
+                    "label": "Not as good as it used to be."
+                },
+                "content": {
+                    "label": "From 5 stars I down rated it to 2 stars. Ever since their \"daily power\" special update, they've bombarded the players with advertisements so bad, that it personally makes me turn off the game immediately. They aren't just pop up advertisements, but video advertisements! And there's a timer until you can skip it. Good going Nitrome.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id9802959"
+                    },
+                    "name": {
+                        "label": "thinayr"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1074607905"
+                },
+                "title": {
+                    "label": "Heart Breaker"
+                },
+                "content": {
+                    "label": "This was my son's favorite iPad game. Now with the unbelievably shameless advertising it's a lesson about how greedy people ruin otherwise wonderful things. Shame on Nitrome. Hero to zero. App deleted.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id16060638"
+                    },
+                    "name": {
+                        "label": "Namerwang"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1073948119"
+                },
+                "title": {
+                    "label": "Unplayable after greed update"
+                },
+                "content": {
+                    "label": "Like everyone else here I agree this game was, WAS so fun to play that is until nitro put in the pop up ads for every screen change so like me if you were used to playing it where if you made a mistake you just started over right away.  well not anymore now you leave the game load the App Store and have to go back all because you hit a pop up ad by mistake \nThey need to put in the work and fix their in-app purchases instead they ruined their game thus far I for one won't be playing til I see an update.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id11614388"
+                    },
+                    "name": {
+                        "label": "Ldavenpo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1073938126"
+                },
+                "title": {
+                    "label": "Advertisement Insanity"
+                },
+                "content": {
+                    "label": "This game was great until the last update.  Now there are pop-up adds every other screen; its out of control!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id237978286"
+                    },
+                    "name": {
+                        "label": "Kanjui"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1073574307"
+                },
+                "title": {
+                    "label": "Great puzzler, but those ads..."
+                },
+                "content": {
+                    "label": "Loved this game, even got my 4 year old playing a bit to critically think his cuts. Some levels leave you scratching your head then you come back and it's so simple. \n\nLike most people have stated the ads are terrible. I could do without the free God powers or whatever. Just let me play for fun. \n\nI did get the game free, yes, but I would never recommend this to my friends now due to the ads. I'd feel bad if they paid for it and then got those too. Update this please!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id106005942"
+                    },
+                    "name": {
+                        "label": "A Hugh"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1073223190"
+                },
+                "title": {
+                    "label": "好玩耐玩"
+                },
+                "content": {
+                    "label": "難度適中、不會一直卡關的益智遊戲",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id273539527"
+                    },
+                    "name": {
+                        "label": "HJHY600"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1073041863"
+                },
+                "title": {
+                    "label": "Absurd amount of pop-up ads"
+                },
+                "content": {
+                    "label": "The amount of advertising added in the latest update is ridiculous",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id372978764"
+                    },
+                    "name": {
+                        "label": "IronTailDB"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1073018241"
+                },
+                "title": {
+                    "label": "Problem with the new update"
+                },
+                "content": {
+                    "label": "For some reason i cant play the game on my ipod 5 because it always crashes...",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id314430574"
+                    },
+                    "name": {
+                        "label": "kfhaggerty"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1073007443"
+                },
+                "title": {
+                    "label": "Advertisements"
+                },
+                "content": {
+                    "label": "I probably would have given this game a 5 star rating. However, the type and scope of the advertising is way, WAY out of hand. It's too much to handle. If you don't mind annoying pop-up ads, and video ads, then get the game, 'cause it's a fun puzzler. But, had I been warned, I would not have chosen this app.\n\nUpdate: it's really a shame such an entertaining game like this had to be ruined by ads. It's so bad I can't play anymore, and have decided delete the app without finishing gameplay. It's really that encumbering. I would have to say don't bother.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43030464"
+                    },
+                    "name": {
+                        "label": "hisham.albeik"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1072989169"
+                },
+                "title": {
+                    "label": "The goo ol' switcheroo"
+                },
+                "content": {
+                    "label": "Got this game as an app f the week. Too sad to see they took advantage of us and all of a sudden ads are popping up every round!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id40723258"
+                    },
+                    "name": {
+                        "label": "Remyar"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1072939941"
+                },
+                "title": {
+                    "label": "Ads have ruined this game"
+                },
+                "content": {
+                    "label": "Loved playing this on my PC and was happy to see it ported to IOS.  Was enjoying playing it, but the latest update took all the fun out of playing by the unrelenting stream of ads.  Deleting this and moving on, making a note not to download Nitrome games in the future.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id287399640"
+                    },
+                    "name": {
+                        "label": "Wami88"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1072403796"
+                },
+                "title": {
+                    "label": "Pop-up ads"
+                },
+                "content": {
+                    "label": "Ruin the game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id129493615"
+                    },
+                    "name": {
+                        "label": "aginor8"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1072372328"
+                },
+                "title": {
+                    "label": "Great game poor update"
+                },
+                "content": {
+                    "label": "An otherwise awesome game is now ruined by consistent and annoying ads.  Many even have a timer keeping you from clicking out of them.  Take them off or add an in app purchase to remove.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id48925861"
+                    },
+                    "name": {
+                        "label": "Designerico"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1072067173"
+                },
+                "title": {
+                    "label": "Greed & Popup Ads"
+                },
+                "content": {
+                    "label": "Like other users, I'm disappointed that the latest update includes popup ads every time I refresh the level. Seems greedy when this was featured as a Free App of the Week and was originally supported by in-app purchases. I've stopped playing to avoid the obtrusive ads.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id144123629"
+                    },
+                    "name": {
+                        "label": "Mister Meddle"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1071910037"
+                },
+                "title": {
+                    "label": "Nose dive"
+                },
+                "content": {
+                    "label": "Unbelievable. Ice breaker was great fun, until the 9/25 update. What was a paid app with no b.s. pop ups, became a paid app with b.s. pop ups. Non-stop between every level. Makes me sick. It was a fun ride until now. Typing this comment, then deleting the app.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id29572670"
+                    },
+                    "name": {
+                        "label": "DCRunner36"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1071780067"
+                },
+                "title": {
+                    "label": "Sneaky practices"
+                },
+                "content": {
+                    "label": "I downloaded this game and enjoyed it until the latest update. Now there are pop up ads far too often that really take away from the game. Will be deleting the game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id26166615"
+                    },
+                    "name": {
+                        "label": "Irf1983"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1071675742"
+                },
+                "title": {
+                    "label": "Ads are infuriating"
+                },
+                "content": {
+                    "label": "No mention in update that you will now be inundated with ads.  Very backhanded move.  Nitrome blatantly lied to all its supporters.  Made a good game unbearable.  Deleting game and never purchasing nitrome again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id353669602"
+                    },
+                    "name": {
+                        "label": "need_my_wiki"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1071438048"
+                },
+                "title": {
+                    "label": "Too many ads"
+                },
+                "content": {
+                    "label": "This game was great until the update. There are way too many ads now. Pop ups are one thing, but now I have to sit through a video to play a level!?! This is garbage!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id239678507"
+                    },
+                    "name": {
+                        "label": "Stabila711"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1071348580"
+                },
+                "title": {
+                    "label": "Wow..."
+                },
+                "content": {
+                    "label": "So you promise free God powers but don't give them to us and instead insert annoying ads that popup rather frequently. Excellent job. You have ruined a great game in one enormous mistake of an \"update.\"\n\nUpdated to 2 stars since you actually added the free God powers. However the ads still make me very upset.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id32307024"
+                    },
+                    "name": {
+                        "label": "billypuntove"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1071324158"
+                },
+                "title": {
+                    "label": "new ads and no in-app purchase to remove them"
+                },
+                "content": {
+                    "label": "new update has ads, which not only disturb but flip the game 180 degrees when closed. I don't see an option to remove the apps even by paying. Used to be my fave game. I don't even want to play it anymore.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id23588190"
+                    },
+                    "name": {
+                        "label": "Llkoijn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1071308218"
+                },
+                "title": {
+                    "label": "Update is disappointing"
+                },
+                "content": {
+                    "label": "Updated the version and like everyone says it is full of ads and there are no daily powers. One star.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id282552511"
+                    },
+                    "name": {
+                        "label": "Rearay85"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1071197301"
+                },
+                "title": {
+                    "label": "Crashes every time"
+                },
+                "content": {
+                    "label": "With the new update the game crashes every time I try to open it. From reading other reviews, it sounds like it's doing me a favor in not being subjected to a barrage of ads!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id43146181"
+                    },
+                    "name": {
+                        "label": "GabrieleBiondo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1071131875"
+                },
+                "title": {
+                    "label": "Terrible after update! 📵"
+                },
+                "content": {
+                    "label": "This game used to be a 5 star game. However, the latest update of the game brings so many ads it no longer brings entertainment.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id47685452"
+                    },
+                    "name": {
+                        "label": "Ktrippel"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1071077836"
+                },
+                "title": {
+                    "label": "Questionable ethics"
+                },
+                "content": {
+                    "label": "I got this app through the free app of the week promotion Apple runs. With the last update there are now pop up adds in the app. This app was clearly intended to be supported with in-app purchases but the in app purchases are not very well defined and my guess is not selling well, so the developer has added ads to make some money. That would be fine if the update said I am going to change this to an ad supported game and give you nothing in return, but the description said it would add daily God powers(the in-app purchases)",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id35243468"
+                    },
+                    "name": {
+                        "label": "metal2gold"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1070888722"
+                },
+                "title": {
+                    "label": "Beware of ads"
+                },
+                "content": {
+                    "label": "Before this last update, it was a pretty fun game. Ignore the annoying and poorly written story and the game itself is fun and can be challenging.  But wow... So many ads!  Contemplating deleting this app.  Very disappointed.  Bad move, Nitrome.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id411710922"
+                    },
+                    "name": {
+                        "label": "Maazi motto"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1070733098"
+                },
+                "title": {
+                    "label": "👏😄"
+                },
+                "content": {
+                    "label": "All I can say is this game is amazing. It's challenging but at the same time very entertaining. Keep up the good work Nitrome, but release more games! 😊",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id245674010"
+                    },
+                    "name": {
+                        "label": "Homieg33"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1070729828"
+                },
+                "title": {
+                    "label": "Too many ads"
+                },
+                "content": {
+                    "label": "With this new update, full screen ads pop up unendingly after each selection! Was a decent game, but monetizing my time ended up being the main goal.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id283924737"
+                    },
+                    "name": {
+                        "label": "TR1269"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1070712036"
+                },
+                "title": {
+                    "label": "Feel bamboozled by update"
+                },
+                "content": {
+                    "label": "I've had this game a while, and enjoyed it. Recently, they posted an update describing daily God mode addition. I updated, and there seemed to be no difference, no daily God mode. Instead, there is now popup ads. Seems sneaky and dishonest, they should have described the addition of ads in the update description.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id100478478"
+                    },
+                    "name": {
+                        "label": "Awfki"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1070704906"
+                },
+                "title": {
+                    "label": "Another good game ruined by ads"
+                },
+                "content": {
+                    "label": "Was a pretty cool game until it started throwing up ads all the time.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id105415550"
+                    },
+                    "name": {
+                        "label": "CaspeR11589"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1070643327"
+                },
+                "title": {
+                    "label": "Crashes on start up"
+                },
+                "content": {
+                    "label": "I had issues with this game crashing on the last version but now it won't start up at all! Please fix",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id85767919"
+                    },
+                    "name": {
+                        "label": "Broseidon, Brocean King"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1070614443"
+                },
+                "title": {
+                    "label": "Good until they added all these annoying ads"
+                },
+                "content": {
+                    "label": "I really liked the game and now it has ads everywhere and feels cheap and annoying.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id333783869"
+                    },
+                    "name": {
+                        "label": "Mineshort"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1070614094"
+                },
+                "title": {
+                    "label": "Crashing"
+                },
+                "content": {
+                    "label": "Crashes every time  I try to play after update.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id274859981"
+                    },
+                    "name": {
+                        "label": "seanferd"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1070590801"
+                },
+                "title": {
+                    "label": "Fun and challenging but.."
+                },
+                "content": {
+                    "label": "Super annoying ads. Graphics are nice and the story is fun, but the ads are just so annoying.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id373362142"
+                    },
+                    "name": {
+                        "label": "Nick02020202"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "1070548347"
+                },
+                "title": {
+                    "label": "Talk about ads!"
+                },
+                "content": {
+                    "label": "This would be 5 stars. But there's an incredibly loud and annoying video ad after every single attempt on any level! This update is horrible.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id293824458"
+                    },
+                    "name": {
+                        "label": "naeem bhatti nemo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1070390129"
+                },
+                "title": {
+                    "label": "good"
+                },
+                "content": {
+                    "label": "i love this game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id395623560"
+                    },
+                    "name": {
+                        "label": "TheHertfullGamer"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1070386794"
+                },
+                "title": {
+                    "label": "amazing app"
+                },
+                "content": {
+                    "label": "always played it on computer! this is just amazing app",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id29141409"
+                    },
+                    "name": {
+                        "label": "HaqueU"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1070379375"
+                },
+                "title": {
+                    "label": "Love this game... Except"
+                },
+                "content": {
+                    "label": "Had this game on the iPhone 5. Was my favorite game. Just got the iPhone 6 and the game progress didn't move over! What's up?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id408345263"
+                    },
+                    "name": {
+                        "label": "Ninjaman2001"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "1070289375"
+                },
+                "title": {
+                    "label": "New update not very good"
+                },
+                "content": {
+                    "label": "Well I updated the app thinking I would finally be able to beat the level I was stuck on with the free daily God powers, BUT there was no free God powers!!! So on this update color me disappointed other wise pretty good",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id160339171"
+                    },
+                    "name": {
+                        "label": "Aurora12345678987654321"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "1070274545"
+                },
+                "title": {
+                    "label": "Does not have Daily God powers for some reason 😞😞😞😞"
+                },
+                "content": {
+                    "label": "😨😨😨😨😨😥😥😰😰😰😰😰😰😰😰😰😰😰😰😰😰",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25181502"
+                    },
+                    "name": {
+                        "label": "puzzlefrance"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1070271937"
+                },
+                "title": {
+                    "label": "Really fun"
+                },
+                "content": {
+                    "label": "A little difficult sometimes but so much fun to think about the solution .. love it please continue",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id30634200"
+                    },
+                    "name": {
+                        "label": "Intohavingfun"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1068845220"
+                },
+                "title": {
+                    "label": "I love this game."
+                },
+                "content": {
+                    "label": "Great game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id240500573"
+                    },
+                    "name": {
+                        "label": "Mike0748"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1067283410"
+                },
+                "title": {
+                    "label": "More levels more games!!!"
+                },
+                "content": {
+                    "label": "I love ice breaker so much I'm so glad it came to the Apple Store I hope more level packs come out soon I'm so addicted to this game and I hope you make many more specifically rubble trouble (another one of my favorite) keep up the good work guys!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id25007508"
+                    },
+                    "name": {
+                        "label": "ChrispyCritter"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1066016912"
+                },
+                "title": {
+                    "label": "Way too much fun"
+                },
+                "content": {
+                    "label": "I really enjoyed playing this game!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id101840070"
+                    },
+                    "name": {
+                        "label": "Devanair321"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.2.1"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "1065660361"
+                },
+                "title": {
+                    "label": "AWESOME"
+                },
+                "content": {
+                    "label": "WHY ARE YOU STILL READING THIS!!!!!    JUST DOWNLOAD THE APP!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=656637359&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:39:34-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=656637359/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=656637359/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=656637359/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=8/id=656637359/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=656637359/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=656637359/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=656637359/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=3/id=656637359/sortby=mostrecent/xml?urlDesc=/customerreviews/page=2/id=656637359/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=656637359/sortBy=mostRecent/json"
+        }
+    }
+}

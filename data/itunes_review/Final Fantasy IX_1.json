@@ -1,0 +1,2418 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id525265585"
+                    },
+                    "name": {
+                        "label": "monkey@9"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6657583878"
+                },
+                "title": {
+                    "label": "Crash with iOS update iPhone 11"
+                },
+                "content": {
+                    "label": "Can’t even open the game with new iOS update please fix",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id603545494"
+                    },
+                    "name": {
+                        "label": "Stebo38"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6645120692"
+                },
+                "title": {
+                    "label": "Game crashes at title screen"
+                },
+                "content": {
+                    "label": "I can’t get past the title screen. Something pops up from “Game Center” and then the app quits.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id85989682"
+                    },
+                    "name": {
+                        "label": "Boonevillian"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6613138187"
+                },
+                "title": {
+                    "label": "Needs update"
+                },
+                "content": {
+                    "label": "Can we get an update?  I have a new iPad and there are letter box style cuts off the top, bottom, and both sides of the screen. It makes no sense to have a ratio that could fill the screen better, but to have it cut off.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1213053802"
+                    },
+                    "name": {
+                        "label": "_godspeed29_"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "6462466087"
+                },
+                "title": {
+                    "label": "Must play"
+                },
+                "content": {
+                    "label": "The game was well worth my money and I had a blast playing it no problems at all with a memorable and rich story.👍🏻👍🏻👍🏻👍🏻",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id913428729"
+                    },
+                    "name": {
+                        "label": "WJCK5"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6384010415"
+                },
+                "title": {
+                    "label": "Get rid of clock and battery indicator."
+                },
+                "content": {
+                    "label": "There is no option to get rid of the clock and battery meter that is on the screen at ALL TIMES. It’s horribly ugly and distracting. Who thought this was a good idea? Totally immersion breaking, looks like crap.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1203916317"
+                    },
+                    "name": {
+                        "label": "ness1230"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "6360490757"
+                },
+                "title": {
+                    "label": "Everything’s great! But no sound"
+                },
+                "content": {
+                    "label": "So I played it for a good minute and realized it don’t have any sound at all even my volume is max? Anyone knows how to fixed it??",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id42338485"
+                    },
+                    "name": {
+                        "label": "Sir Kanther Gorius"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "6323913615"
+                },
+                "title": {
+                    "label": "Graphics are inconsistent and there are minor gameplay bugs"
+                },
+                "content": {
+                    "label": "The character sprites look great in there modern iterations, but they stand out against the low resolution pre rendered backdrops in a way that I don’t like. It looks like they were sort of pasted in by an amateur developer. Also, if you go into certain menus like the control config or character status, you’ll get random windows that pop up any time you click anything in the menu. Seems like there are still a couple things that need to be ironed out.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id693993722"
+                    },
+                    "name": {
+                        "label": "lishamisha22"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6229528080"
+                },
+                "title": {
+                    "label": "Lost save file"
+                },
+                "content": {
+                    "label": "I had to redownload the game due to storage space issues. All my saved data from the first disc is deleted. \nI thought that the data would be saved when I went back to playing after paying for the app in the first place. \nWaste of money on a game I was excited to finish",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id376397740"
+                    },
+                    "name": {
+                        "label": "Game isn't working"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "6204229903"
+                },
+                "title": {
+                    "label": "Update"
+                },
+                "content": {
+                    "label": "When you will make new update",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id576326416"
+                    },
+                    "name": {
+                        "label": "Grimsly Michaels"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5803329833"
+                },
+                "title": {
+                    "label": "I would give 5 stars but it has frame drops constantly"
+                },
+                "content": {
+                    "label": "I love this game and played the PS1 port endlessly. The controls work perfect and the updates visuals are stunning. But it has frame drops so often that it makes the game skippy when I’m playing and can become quit slow and annoying. I’m playing on my iPhone 11 on iOS 13.4 I believe. You would think it would run as flawless as all the other final fantasy ports but not so much.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id297786328"
+                    },
+                    "name": {
+                        "label": "Dcgamer19"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5763910009"
+                },
+                "title": {
+                    "label": "Cloud Data not loading"
+                },
+                "content": {
+                    "label": "I absolutely love this game, almost beat it but I redownloaded it to play and when I try to download my cloud save, it just keeps saying the connection timed out and will not let me get my iCloud data back. I would rate it 5 stars any day if I could get my data back. I hope this issue gets fixed soon.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id276620844"
+                    },
+                    "name": {
+                        "label": "Gredipus Rex"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5738954379"
+                },
+                "title": {
+                    "label": "Game Center bug."
+                },
+                "content": {
+                    "label": "The app keeps crashing and doesn’t get past the main menu. Keeps trying to sign me into Game Center but crashes immediately afterwards.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id312228290"
+                    },
+                    "name": {
+                        "label": "Emilitus123456"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5722865493"
+                },
+                "title": {
+                    "label": "Great classic game"
+                },
+                "content": {
+                    "label": "Loved this game for many years. The app keeps shutting off when I go to load my game. Please fix.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id429361796"
+                    },
+                    "name": {
+                        "label": "Gaymer93"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5694331539"
+                },
+                "title": {
+                    "label": "Game crashed during Maliris boss fight"
+                },
+                "content": {
+                    "label": "Title says it all. Not the least bit happy right now. Whatever issue caused that, needs to be fixed, like, yesterday.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id36699311"
+                    },
+                    "name": {
+                        "label": "Aaron Sievers"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5638212339"
+                },
+                "title": {
+                    "label": "Outdated for years"
+                },
+                "content": {
+                    "label": "Love this game, but can we please get an update that works properly on iPhone X and later?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id259656534"
+                    },
+                    "name": {
+                        "label": "JonathanMC"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5630057693"
+                },
+                "title": {
+                    "label": "Disappointing"
+                },
+                "content": {
+                    "label": "I loved the game as a kid but this app won't run on my iPad mini, it gets to 25% and then crashes every time.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1139890442"
+                    },
+                    "name": {
+                        "label": "Legalstoner"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5604543838"
+                },
+                "title": {
+                    "label": "Absolutely terrible on an iPhone."
+                },
+                "content": {
+                    "label": "DO NOT WASTE YOUR MONEY! Wish I could rate it 0 stars.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id202351891"
+                    },
+                    "name": {
+                        "label": "682815163"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5554906798"
+                },
+                "title": {
+                    "label": "Not updated to function"
+                },
+                "content": {
+                    "label": "This needs some serious updating. I can live without the full screen optimization, however it runs so slow and delayed it’s fairly unplayable",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id495827961"
+                    },
+                    "name": {
+                        "label": "HighFiveHall"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5512811800"
+                },
+                "title": {
+                    "label": "Xbox controller comparability"
+                },
+                "content": {
+                    "label": "Is it to much to ask for a update to help fix this crashing or making characters in movable in both 7 and 9 \n\nBesides that I always play both these ports on Xbox one and was an original player when these games were released, would love to see final fantasy 8 ported",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id345791838"
+                    },
+                    "name": {
+                        "label": "Rachael Meek"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5459454955"
+                },
+                "title": {
+                    "label": "Best game ever"
+                },
+                "content": {
+                    "label": "This is my favorite game ever!!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id434746112"
+                    },
+                    "name": {
+                        "label": "@blue_eyed_pete"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "5412916404"
+                },
+                "title": {
+                    "label": "Please update."
+                },
+                "content": {
+                    "label": "Please consider updating the game to accommodate all screen sizes and a no time out feature so I dont have to swith to “never” in display settings each time I play. Other than that I have not experienced any glitches with the game and am having a blast revisiting this beloved treasure.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id189346033"
+                    },
+                    "name": {
+                        "label": "Raz087"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "5373734495"
+                },
+                "title": {
+                    "label": "Amazing"
+                },
+                "content": {
+                    "label": "Always big a huge fan of this series and this game. I think it’d be awesome to get a Tetra Master mobile app where we just collect cards and play the card game! I’d pay good money for that!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id28894074"
+                    },
+                    "name": {
+                        "label": "dubstar82"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5314452634"
+                },
+                "title": {
+                    "label": "iPhone X screen optimization"
+                },
+                "content": {
+                    "label": "Please update this app to support iPhone X and newer screen sizes. Other wise it’s a great game.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1053078795"
+                    },
+                    "name": {
+                        "label": "NYGJMAP"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "5261617164"
+                },
+                "title": {
+                    "label": "Very disappointed"
+                },
+                "content": {
+                    "label": "Loved this game as a kid but it doesn’t work on iPhone X or XR, no sound and screen size is not optimized.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id352080593"
+                    },
+                    "name": {
+                        "label": "apohec86"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "5218342903"
+                },
+                "title": {
+                    "label": "Game crashes"
+                },
+                "content": {
+                    "label": "As soon as the screen loads up to click on new game or load game. The Game Center screen pops up and closes the game app. How can I fix this?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id768858172"
+                    },
+                    "name": {
+                        "label": "dripperton"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4905452035"
+                },
+                "title": {
+                    "label": "I've been scammed"
+                },
+                "content": {
+                    "label": "Paid over 20$ for a game that literally crashes on the start screen i want my money back,it crashes every single time it prompts me to sign in",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id1037280950"
+                    },
+                    "name": {
+                        "label": "jwheeler7135"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4775465627"
+                },
+                "title": {
+                    "label": "Simply amazing and as close to perfect as one could hope for"
+                },
+                "content": {
+                    "label": "This is beyond the most amazing port of this game I’ve ever seen! It looks fantastic and the character models look sharper than ever. The font is improved and more clear. I’d forgotten how awesome this game is and this copy is the definitive one...that’s for sure. It has boosters like max Gil so no issues at the shops. Worth every dollar!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id623799034"
+                    },
+                    "name": {
+                        "label": "FCB Runner"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "4656133275"
+                },
+                "title": {
+                    "label": "Four stars because of some changes"
+                },
+                "content": {
+                    "label": "There’s a lot of differences between this version and the original. They shortened and cut out a lot of battle animations. The encounter rate has been lowered a lot. You can run through entire areas without getting into a fight. You’re going to have to grand dragon grind to make up for it. The battle timing feels off too. The speed up option is cool for the chocograph quest tho’. I got a robe of lords quick! Overall I liked this version. Oh yeah the directional controls are a little off. And you can’t run as soon as the screen changes. This made me miss a lot of battles in the Hunt.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "3"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id290477771"
+                    },
+                    "name": {
+                        "label": "Cole 1234"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4620356879"
+                },
+                "title": {
+                    "label": "Most Well-Ported and best 2D Final Fantasy"
+                },
+                "content": {
+                    "label": "Out of all of the iOS Final Fantasy ports, Final Fantasy IX runs the best, uses the least amount of battery power, and has the best controls and that fact alone impressed me. The game itself presents a beautiful, imaginative world filled with really likable characters that further engage you. The only downside is that the combat moves a tad slower than other Final Fantasies and there is a really long camera pan animation at the beginning of battles that gets annoying. This is made up for by the good battle animations and the slightly lower frequencies of battles compared to other 2D FFs.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id275597070"
+                    },
+                    "name": {
+                        "label": "GrimFox"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4493645445"
+                },
+                "title": {
+                    "label": "One of the best!"
+                },
+                "content": {
+                    "label": "Definitely one of my all time favorites of the final fantasy titles. Even though I love replaying these games it’s becoming quite irritating that every time there is an update my game data gets wiped... this has happened 2-3 times now with this title and as well with my FF5. I’m uncertain as to why this happens but it is disappointing for the fact I had a near perfect complete save.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id196648870"
+                    },
+                    "name": {
+                        "label": "Johndiaz512"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "4321773066"
+                },
+                "title": {
+                    "label": "I love this game so much"
+                },
+                "content": {
+                    "label": "I’m so happy to play this game on my phone. Now, I’m waiting for Final Fantasy VIII. I played it when I was a child. I would like FFVIII came out for iPhones because I really want to play it. I will pay anything for play it in my phone. Please I want it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id233342020"
+                    },
+                    "name": {
+                        "label": "dandandanjojo"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4299594777"
+                },
+                "title": {
+                    "label": "No Sound except from Earphone"
+                },
+                "content": {
+                    "label": "No sound or audio unless you plug in an earphone.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id297006904"
+                    },
+                    "name": {
+                        "label": "Pappy117"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "4043744621"
+                },
+                "title": {
+                    "label": "FF9"
+                },
+                "content": {
+                    "label": "Good port but needs a update.no sound on iPhone XR and needs screen size change.should have some regular updates for this price last update was 2 yrs ago. Square Enix fan but their lack of updates for there pricey ports makes it hard. Don’t mind paying for a working game but when the game doesn’t work as intended....",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id840968061"
+                    },
+                    "name": {
+                        "label": "Buddy Blaze YT"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3936548609"
+                },
+                "title": {
+                    "label": "Better than ever"
+                },
+                "content": {
+                    "label": "I loved the original ff9 and then I looked at this and I fell in love with it.  The graphics and sound are better and also this game works with new gamers with the new cheats. Good Job Square Enix!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id393975027"
+                    },
+                    "name": {
+                        "label": "Fggonzal"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3787843511"
+                },
+                "title": {
+                    "label": "All around good"
+                },
+                "content": {
+                    "label": "This game has good art, good music, a good story line, and overall good game play. It’s not hard once you figure things out. Learn abilities on your equipment to negate unnecessary difficulties with monsters and bosses. For example, if you know a boss will cast flare star, then you might want to equip the ability body temperature so you don’t over heat. Similarly if you know you’re about to fight a beast, equip beast killer to do more damage. \n\nThe only complaint I have is flying the airship. The controls are kinda weird for that and I had to re adjust to go the direction I wanted to go.\n\nI feel this game like most other jRPG games use a lot of Shinto religious themes. Memories are connected, no one is separate from themselves but are connected to the whole. Good experience overall.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "2"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id321168189"
+                    },
+                    "name": {
+                        "label": "::;;;;do ugo for ever"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3780640298"
+                },
+                "title": {
+                    "label": "Need to expand the screen!!"
+                },
+                "content": {
+                    "label": "This app runs perfectly they just need to expand the screen for the iPhone 10.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id427332174"
+                    },
+                    "name": {
+                        "label": "Thunderblow88"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3760770512"
+                },
+                "title": {
+                    "label": "Thunderblow88"
+                },
+                "content": {
+                    "label": "The first time I played final fantasy 9 I just absolutely the story line the characters and the turn base camera feature too. When I got it for the iOS I-phone the graphics when a character castes a spell I blew my mind effetely. I recommend people who luv role playing games like I do this is a must have one to buy!!! It’s worth the money to purchase!! \n\n                                                     Thunderblow88",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id859290560"
+                    },
+                    "name": {
+                        "label": "LionOfJacob"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3682880206"
+                },
+                "title": {
+                    "label": "Look I love it but the cloud deleted my save data"
+                },
+                "content": {
+                    "label": "The cloud data function needs to be fixed it deleted my saves after all I played through how can this be fixed please pay attention to this this is a really important feature and issue that I’ve seen multiple people have other than that games is beautiful IPhone SE",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id164651934"
+                    },
+                    "name": {
+                        "label": "pickledillmoreje"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3669519400"
+                },
+                "title": {
+                    "label": "Final fantasy IX is one of the best"
+                },
+                "content": {
+                    "label": "After the fifteenth, I’d choose the ninth. It has a good story, no annoying voices like in FFX, (yet the tenth ff was pretty good, second one was crap though) they need to make a nice remake, or a sequel. I dunno much, but I do know this game is a great final fantasy and good on every port.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id289150759"
+                    },
+                    "name": {
+                        "label": "iampinksam"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3628873126"
+                },
+                "title": {
+                    "label": "ff9 hd remaster"
+                },
+                "content": {
+                    "label": "excellent everything, graphics, gameplay, controls, sounds. two thumbs up",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id144500951"
+                    },
+                    "name": {
+                        "label": "iisbab00n"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3600470451"
+                },
+                "title": {
+                    "label": "Blast from the Past"
+                },
+                "content": {
+                    "label": "I love how they have translated this game into an app. I just finished the game and no doubt this will be a game to revisit at least every year. It has all the features as the original game and it´s nice not having to change disks :). I love this story and I love every single character! \nI am very excited to start VII, it would be fantastic to see VIII and X as an app as well. Big fan here. Thank you for making this available.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id262434106"
+                    },
+                    "name": {
+                        "label": "k0178n"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "3577403710"
+                },
+                "title": {
+                    "label": "Not optimized for X, Xs, Xr"
+                },
+                "content": {
+                    "label": "The game doesn’t make use of the whole screen on X, Xr, Xs and during long cutscene it goes to sleep when no input is made.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id350847747"
+                    },
+                    "name": {
+                        "label": "Keshean"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3404182293"
+                },
+                "title": {
+                    "label": "Optimize for xs max"
+                },
+                "content": {
+                    "label": "Great app, great game but it would look better if it fit the screen",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id20420613"
+                    },
+                    "name": {
+                        "label": "pathtologos"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3396536363"
+                },
+                "title": {
+                    "label": "Are you EVER going to update this?"
+                },
+                "content": {
+                    "label": "We paid a PREMIUM price for this game and it hasn't been updated in over a year. No iPhone X, XS, XR support. Ridiculous.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id410255422"
+                    },
+                    "name": {
+                        "label": "David_Pumpkin"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3286836507"
+                },
+                "title": {
+                    "label": "A beautiful work of art"
+                },
+                "content": {
+                    "label": "I grew up with final fantasy and honestly, IX was my least favorite at the time (although being an FF game I thought was still incredibly good).   I’m so glad I downloaded this port, which make no mistake, this is a high quality port and I experienced no crash issues at all, controls were very intuitive, and graphically the game looks like it was made for an iPhone.  This rekindled my love for IX and I now feel like I can appreciate it the way I should have all those years ago.  An absolute masterpiece.  Please if you are an rpg fan in the slightest, download and play this game. I feel square enix can be gimmicky lately with what feels to be cash grabs, but this one is worth the price tag.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id583122372"
+                    },
+                    "name": {
+                        "label": "0RKO0"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3280062402"
+                },
+                "title": {
+                    "label": "The best"
+                },
+                "content": {
+                    "label": "Man this game have the best graphics and music. The story line was amazing",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id31823855"
+                    },
+                    "name": {
+                        "label": "MoeHonor"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3241214236"
+                },
+                "title": {
+                    "label": "Still the best entry in the series!!"
+                },
+                "content": {
+                    "label": "This was the first Final Fantasy I played, and I immediately fell in love with both the franchise and genre. This is an almost perfect port of the game. One thing that I wish for is that they had updated the back drop resolution. I’m playing on iPad and the characters look great but the backdrops look dated. It not a deal breaker but you definitely see the contrast between the two when playing. I’m still gonna give it 9 stars though.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id870209481"
+                    },
+                    "name": {
+                        "label": "Endarvyn"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3235019698"
+                },
+                "title": {
+                    "label": "Just 1 thing..."
+                },
+                "content": {
+                    "label": "Please add in a “delete save” button please",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id306251564"
+                    },
+                    "name": {
+                        "label": "Bolasian"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "3230747115"
+                },
+                "title": {
+                    "label": "So much excitement!!"
+                },
+                "content": {
+                    "label": "This game has been one of my favorite RPGs for many many years. I continue to love the game so much. When I found out it was available for my phone and iPad I was super excited but waited because my phone was awful. Besides the point. I felt like this was the best time playing it. So much fun and it truly felt natural. The controls were great and it seemed to run better on my phone. Will continue to buy more!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id323861633"
+                    },
+                    "name": {
+                        "label": "Kirklin1210"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.4.9"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2907351071"
+                },
+                "title": {
+                    "label": "Honestly the best way to play it"
+                },
+                "content": {
+                    "label": "I first fell in love with this game as a kid, but didn’t have the gaming chops to completely finish it at the time. Since then, I’ve picked it up and put it down on many occasions over the years on different platforms, but still haven’t beaten it completely, due to lack of time or interest etc. I’ve happened across this version in the store once or twice in the past, but priced at $20, it didn’t seem very appetizing,  considering I’ve already tried it so many times before. Now that I finally took the leap, I’m happy to say it’s hands down the best $20 I’ve spent on the App Store. \n     All of FFIX’s original features are here, and can be played as it was originally designed. Like it’s PS4/PC versions, the mobile port also comes with two types of modifiers: permanent mods such as max level/abilities/Gil that cannot be removed once activated in the config menu, and “boosters” which can be switched on/off freely at any time in the pause menu. These boosters include a gameplay speed multiplier, instant full trance gauge, 9999 auto attacks, and random battle deactivation. This dramatically improves the quality of life offered in the original, and makes the game an endlessly customizable experience. I personally enjoy using boosters only when grinding levels just to save time, and turn them off otherwise to keep the game interesting. It also has a very handy auto save system, which has done a fantastic job of putting me right where I left off, even in the middle of dialogue scenes. \n     While FFIX has been remastered on more powerful platforms, it doesn’t downgrade whatsoever on mobile. It controls exceptionally well with a touch screen, and boasts the same updated graphical fidelity while running effortlessly on my iPhone 7. With all of this in mind, being able to play this game entirely on the go adds an enormous layer of appeal over it’s other ports. \n     Whether you’re a Final Fantasy veteran or an RPG fan who just never got around to picking it up, Final Fantasy IX is one of the greatest in the series. Whimsical art styles and music scores set it far apart from the earlier entries of its generation, while still maintaining deep character development and story themes ranging from heartwarming to soul-crushing that we’ve come to expect from the franchise. As someone who has gone back and forth dozens of times with this game, I can safely say that the mobile version is hands down my favorite experience with it. The price looks steep, but I guarantee it is well worth it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1041260001&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:35:05-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1041260001/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1041260001/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1041260001/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=1041260001/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1041260001/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1041260001/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1041260001/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1041260001/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1041260001/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1041260001/sortBy=mostRecent/json"
+        }
+    }
+}

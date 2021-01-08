@@ -1,0 +1,303 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id489201452"
+                    },
+                    "name": {
+                        "label": "WildCard7"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.6"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "3535109801"
+                },
+                "title": {
+                    "label": "It doesn’t work"
+                },
+                "content": {
+                    "label": "Yeet",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=744260197&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id136778077"
+                    },
+                    "name": {
+                        "label": "Thirst4glory"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.6"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "id": {
+                    "label": "900932332"
+                },
+                "title": {
+                    "label": "Seriously"
+                },
+                "content": {
+                    "label": "Who can rate this as a good and fun game when ads pop up the whole time you can't even play the dumb thing. We didn't even play it a minute without being annoyed by the constant ads",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=744260197&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id351994341"
+                    },
+                    "name": {
+                        "label": "DewispelaereDewispelaerLee7517"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.6"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "900689017"
+                },
+                "title": {
+                    "label": "This game is awesome"
+                },
+                "content": {
+                    "label": "Most addicting game I've ever played!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=744260197&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id347281849"
+                    },
+                    "name": {
+                        "label": "Tommy_Shaeffer52"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.6"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "id": {
+                    "label": "900057260"
+                },
+                "title": {
+                    "label": "loves it."
+                },
+                "content": {
+                    "label": "I was love bitten!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=744260197&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id316159904"
+                    },
+                    "name": {
+                        "label": "Mills Mitch"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.3.6"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "id": {
+                    "label": "899187669"
+                },
+                "title": {
+                    "label": "Too much adds"
+                },
+                "content": {
+                    "label": "When I'm playing the game the advertisements come in the middle of the game",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=744260197&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:30:38-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=744260197/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=744260197/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=744260197/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=744260197/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=744260197/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=744260197/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=744260197/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=744260197/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=744260197/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=744260197/sortBy=mostRecent/json"
+        }
+    }
+}

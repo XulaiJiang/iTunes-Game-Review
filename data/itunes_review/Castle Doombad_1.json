@@ -1,0 +1,113 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": {
+            "author": {
+                "uri": {
+                    "label": "https://itunes.apple.com/us/reviews/id39256543"
+                },
+                "name": {
+                    "label": "Charles Purvis"
+                },
+                "label": ""
+            },
+            "im:version": {
+                "label": "1.0.2"
+            },
+            "im:rating": {
+                "label": "3"
+            },
+            "id": {
+                "label": "1036549880"
+            },
+            "title": {
+                "label": "Fun game, but buggy"
+            },
+            "content": {
+                "label": "<<I'm bumping this review from the last version, since this particular bug has not been addressed yet. I'm also changing my review from 3 stars to 2 as a result.>> \n\nI really like the gameplay, but I'm experiencing a bug with the in-game power ups. I have only been able to add ONE additional Preview, when I should be able to add two more. \n\nEach Preview requires 1000 in-game points, and I have well more than that, yet tapping on the button doesn't work for Preview. I can still purchase all the other options at the stated point level, but not for Preview. \n\nSince this feature is critical for getting deeper in the game, it's very frustrating. If this feature is fixed, my review would be 5 stars.",
+                "attributes": {
+                    "type": "text"
+                }
+            },
+            "link": {
+                "attributes": {
+                    "rel": "related",
+                    "href": "https://itunes.apple.com/us/review?id=888212909&type=Purple%20Software"
+                }
+            },
+            "im:voteSum": {
+                "label": "0"
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "Application"
+                }
+            },
+            "im:voteCount": {
+                "label": "0"
+            }
+        },
+        "updated": {
+            "label": "2020-11-29T18:32:57-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=888212909/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=888212909/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=888212909/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=888212909/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=888212909/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=888212909/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=888212909/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=888212909/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=888212909/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=888212909/sortBy=mostRecent/json"
+        }
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id823603213"
+                    },
+                    "name": {
+                        "label": "phd studio"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "id": {
+                    "label": "2668458058"
+                },
+                "title": {
+                    "label": "Good"
+                },
+                "content": {
+                    "label": "Very useful if you know what you are doing. Like it.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=866758987&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id268775108"
+                    },
+                    "name": {
+                        "label": "tech-eval"
+                    },
+                    "label": ""
+                },
+                "im:version": {
+                    "label": "1.1.8"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "id": {
+                    "label": "1679594775"
+                },
+                "title": {
+                    "label": "Nice Try, for sure, but found this very difficult to use"
+                },
+                "content": {
+                    "label": "This seemed almost impossible to practically use.  I'm a bit of an armature photographer, so this might be intended for a deeper background.  I have been an avid photographer for ~45yrs (so I'm not new to this), and am an engineer by training.  So I'm also not daunted by the concepts, math, or technologies.  I also found the app a bit buggy - would periodically hang up.  I also found it very difficult to use on an iPhone due to size (for which I was forewarned), but have also installed it onto an iPad with no better results.  Great try, for sure, but in a practical sense I didn't find it was going to be useful.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=866758987&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2020-11-29T18:41:51-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=866758987/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=866758987/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=866758987/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=866758987/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=866758987/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=866758987/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=866758987/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=866758987/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=866758987/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=866758987/sortBy=mostRecent/json"
+        }
+    }
+}
