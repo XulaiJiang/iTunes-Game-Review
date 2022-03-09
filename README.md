@@ -2,4 +2,4 @@
 
 This is an end-to-end research of implementing data scraper, managing relational database storage, and NLP pipeline for sentimental analysis. 
 
-Demo is presented in [notebook](https://github.com/XulaiJiang/iTunes-Game-Review/blob/main/final_project.ipynb). Video presentation expected in May 2021.
+Demo is presented in [notebook](https://github.com/XulaiJiang/iTunes-Game-Review/blob/main/final_project.ipynb). 
